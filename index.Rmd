@@ -18,35 +18,39 @@ github-repo: manybabies/mb5-manual
 
 # About
 
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
+Thank you for contributing to [ManyBabies 5](https://manybabies.org/MB5/) (MB5), a project of [ManyBabies](https://manybabies.org/), a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs. novelty preference through a collaboratively-designed “best test” of Hunter and Ames’ (1988) model of infants’ visual preference for familiar and novel stimuli. More details about the background, design and hypotheses can be found in the [Registered Report](https://osf.io/preprints/psyarxiv/ck3vd). Below we provide instructions on how to implement the experiment in your lab and report data back to the project as a whole.
 
-## Usage 
+Project website: [manybabies.org/MB5](manybabies.org/MB5)
+ManyBabies General Manual: [link](https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit?usp=sharing)
+MB5 Collaboration Agreement: [link](https://docs.google.com/document/d/1vbTDmH6euda5pJN4uyds3zsnQ1DXrW9wpHogwC-5TSk/edit?usp=sharing)
+MB5 contact: [mb5@manybabies.org](mb5@manybabies.org) 
 
-Each **bookdown** chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter *must* start with a first-level heading: `# A good chapter`, and can contain one (and only one) first-level heading.
+## To Do Summary
 
-Use second-level and higher headings within chapters like: `## A short section` or `### An even shorter section`.
+1. If you are new to MB5, complete the [Initial Sign-Up Form](https://docs.google.com/forms/d/e/1FAIpQLSdJnP3KO_dCmj-jNPHs0XP2j3q66g1RI6L31dwhCzhwhoJeoA/viewform).
+2. Read this manual start to finish.
 
-The `index.Rmd` file is required, and is also your first book chapter. It will be the homepage when you render the book.
+**BEFORE you begin data collection:**
 
-## Render book
+3. Please ensure that you have carefully read the [MB5 Collaboration Agreement](https://docs.google.com/document/d/1vbTDmH6euda5pJN4uyds3zsnQ1DXrW9wpHogwC-5TSk/edit?usp=sharing) and all of the documentation from the [ManyBabies General Manual](https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit?usp=sharing) regarding [ethical research](https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.22i70rxou3ha), [authorship](https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.9ty2g48mpe0t), [data sharing](https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.aunbjkpwxhf3), and [data use](https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.6h67zsyeiveg). 
+4. Set up your study in consultation with this document. Carefully record any needed deviations from the protocol. Decide on your planned sample size/stopping rule.
+5. Complete the Laboratory Questionnaire [insert link], submit Ethics approval and other documentation/materials. 
+6. Create and submit your walkthrough video.
+7. Run pilot sample through [data validator](https://manybabies.org/validator/).
+8. Send email to [mb5@manybabies.org](mb5@manybabies.org) to let the leadership team know that you are ready for ‘greenlighting’. 
+9. Wait for your official “greenlight” from the leadership team to begin data collection.
 
-You can render the HTML version of this example book without changing anything:
+**Data collection:**
 
-1. Find the **Build** pane in the RStudio IDE, and
+10. Collect your data! 
 
-1. Click on **Build Book**, then select your output format, or select "All formats" if you'd like to use multiple formats from the same book source files.
+**AFTER you finish data collection:**
 
-Or build the book from the R console:
+11. Complete your participant and trial data files in consultation with the data reporting instructions [insert link].
+12. Submit your data using the [MB5 data upload form](https://docs.google.com/forms/d/e/1FAIpQLSdFYk-gb4yjRYLjSTP1_BVaW-3vLkpJClLoY2BOGDGfIVE5ww/viewform?usp=sf_link).
 
-```{r, eval=FALSE}
-bookdown::render_book()
-```
+**IMPORTANT: DO NOT begin data collection (other than piloting) until you have been explicitly (and individually) “greenlighted” to do so.**
 
-To render this example to PDF as a `bookdown::pdf_book`, you'll need to install XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.org/tinytex/>.
-
-## Preview book
-
-As you work, you may start a local server to live preview this HTML book. This preview will update as you edit the book when you save individual .Rmd files. You can start the server in a work session by using the RStudio add-in "Preview book", or from the R console:
 
 ```{r eval=FALSE}
 bookdown::serve_book()

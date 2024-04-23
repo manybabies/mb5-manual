@@ -108,19 +108,19 @@
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
 \usepackage[]{natbib}
-\bibliographystyle{plainnat}
+\bibliographystyle{apalike}
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
 \urlstyle{same}
 \hypersetup{
-  pdftitle={A Minimal Book Example},
-  pdfauthor={John Doe},
+  pdftitle={ManyBabies 5 Lab Manual - DRAFT - DO NOT USE},
+  pdfauthor={ManyBabies 5 Leads},
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 
-\title{A Minimal Book Example}
-\author{John Doe}
-\date{2024-04-19}
+\title{ManyBabies 5 Lab Manual - DRAFT - DO NOT USE}
+\author{ManyBabies 5 Leads}
+\date{Updated: 2024-04-23}
 
 \usepackage{amsthm}
 \newtheorem{theorem}{Theorem}[chapter]
@@ -149,44 +149,70 @@
 \hypertarget{about}{%
 \chapter{About}\label{about}}
 
-This is a \emph{sample} book written in \textbf{Markdown}. You can use anything that Pandoc's Markdown supports; for example, a math equation \(a^2 + b^2 = c^2\).
+Thank you for contributing to \href{https://manybabies.org/MB5/}{ManyBabies 5} (MB5), a project of \href{https://manybabies.org/}{ManyBabies}, a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants' familiarity vs.~novelty preference through a collaboratively-designed ``best test'' of Hunter and Ames' (1988) model of infants' visual preference for familiar and novel stimuli. More details about the background, design and hypotheses can be found in the \href{https://osf.io/preprints/psyarxiv/ck3vd}{Registered Report}. Below we provide instructions on how to implement the experiment in your lab and report data back to the project as a whole.
 
-\hypertarget{usage}{%
-\section{Usage}\label{usage}}
+Project website: \url{manybabies.org/MB5}
+ManyBabies General Manual: \href{https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit?usp=sharing}{link}
+MB5 Collaboration Agreement: \href{https://docs.google.com/document/d/1vbTDmH6euda5pJN4uyds3zsnQ1DXrW9wpHogwC-5TSk/edit?usp=sharing}{link}
+MB5 contact: \url{mb5@manybabies.org}
 
-Each \textbf{bookdown} chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter \emph{must} start with a first-level heading: \texttt{\#\ A\ good\ chapter}, and can contain one (and only one) first-level heading.
-
-Use second-level and higher headings within chapters like: \texttt{\#\#\ A\ short\ section} or \texttt{\#\#\#\ An\ even\ shorter\ section}.
-
-The \texttt{index.Rmd} file is required, and is also your first book chapter. It will be the homepage when you render the book.
-
-\hypertarget{render-book}{%
-\section{Render book}\label{render-book}}
-
-You can render the HTML version of this example book without changing anything:
+\hypertarget{to-do-summary}{%
+\section{To Do Summary}\label{to-do-summary}}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
+\tightlist
 \item
-  Find the \textbf{Build} pane in the RStudio IDE, and
+  If you are new to MB5, complete the \href{https://docs.google.com/forms/d/e/1FAIpQLSdJnP3KO_dCmj-jNPHs0XP2j3q66g1RI6L31dwhCzhwhoJeoA/viewform}{Initial Sign-Up Form}.
 \item
-  Click on \textbf{Build Book}, then select your output format, or select ``All formats'' if you'd like to use multiple formats from the same book source files.
+  Read this manual start to finish.
 \end{enumerate}
 
-Or build the book from the R console:
+\textbf{BEFORE you begin data collection:}
 
-\begin{Shaded}
-\begin{Highlighting}[]
-\NormalTok{bookdown}\SpecialCharTok{::}\FunctionTok{render\_book}\NormalTok{()}
-\end{Highlighting}
-\end{Shaded}
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{2}
+\tightlist
+\item
+  Please ensure that you have carefully read the \href{https://docs.google.com/document/d/1vbTDmH6euda5pJN4uyds3zsnQ1DXrW9wpHogwC-5TSk/edit?usp=sharing}{MB5 Collaboration Agreement} and all of the documentation from the \href{https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit?usp=sharing}{ManyBabies General Manual} regarding \href{https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit\#heading=h.22i70rxou3ha}{ethical research}, \href{https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit\#heading=h.9ty2g48mpe0t}{authorship}, \href{https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit\#heading=h.aunbjkpwxhf3}{data sharing}, and \href{https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit\#heading=h.6h67zsyeiveg}{data use}.
+\item
+  Set up your study in consultation with this document. Carefully record any needed deviations from the protocol. Decide on your planned sample size/stopping rule.
+\item
+  Complete the Laboratory Questionnaire {[}insert link{]}, submit Ethics approval and other documentation/materials.
+\item
+  Create and submit your walkthrough video.
+\item
+  Run pilot sample through \href{https://manybabies.org/validator/}{data validator}.
+\item
+  Send email to \url{mb5@manybabies.org} to let the leadership team know that you are ready for `greenlighting'.
+\item
+  Wait for your official ``greenlight'' from the leadership team to begin data collection.
+\end{enumerate}
 
-To render this example to PDF as a \texttt{bookdown::pdf\_book}, you'll need to install XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): \url{https://yihui.org/tinytex/}.
+\textbf{Data collection:}
 
-\hypertarget{preview-book}{%
-\section{Preview book}\label{preview-book}}
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{9}
+\tightlist
+\item
+  Collect your data!
+\end{enumerate}
 
-As you work, you may start a local server to live preview this HTML book. This preview will update as you edit the book when you save individual .Rmd files. You can start the server in a work session by using the RStudio add-in ``Preview book'', or from the R console:
+\textbf{AFTER you finish data collection:}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{10}
+\tightlist
+\item
+  Complete your participant and trial data files in consultation with the data reporting instructions {[}insert link{]}.
+\item
+  Submit your data using the \href{https://docs.google.com/forms/d/e/1FAIpQLSdFYk-gb4yjRYLjSTP1_BVaW-3vLkpJClLoY2BOGDGfIVE5ww/viewform?usp=sf_link}{MB5 data upload form}.
+\end{enumerate}
+
+\textbf{IMPORTANT: DO NOT begin data collection (other than piloting) until you have been explicitly (and individually) ``greenlighted'' to do so.}
 
 \begin{Shaded}
 \begin{Highlighting}[]
@@ -194,8 +220,8 @@ As you work, you may start a local server to live preview this HTML book. This p
 \end{Highlighting}
 \end{Shaded}
 
-\hypertarget{hello-bookdown}{%
-\chapter{Hello bookdown}\label{hello-bookdown}}
+\hypertarget{getting-started}{%
+\chapter{Getting Started}\label{getting-started}}
 
 All chapters start with a first-level heading followed by your chapter title, like the line above. There should be only one first-level heading (\texttt{\#}) per .Rmd file.
 
@@ -210,8 +236,8 @@ All chapter sections start with a second-level (\texttt{\#\#}) or higher heading
 
 Chapters and sections are numbered by default. To un-number a heading, add a \texttt{\{.unnumbered\}} or the shorter \texttt{\{-\}} at the end of the heading, like in this section.
 
-\hypertarget{cross}{%
-\chapter{Cross-references}\label{cross}}
+\hypertarget{setting-up-the-experiment}{%
+\chapter{Setting up the experiment}\label{setting-up-the-experiment}}
 
 Cross-references make it easier for your readers to find and link to elements in your book.
 
@@ -300,8 +326,10 @@ temperature & pressure\\
 \end{tabular}
 \end{table}
 
-\hypertarget{parts}{%
-\chapter{Parts}\label{parts}}
+\hypertarget{general-lab-practices}{%
+\chapter{General Lab Practices}\label{general-lab-practices}}
+
+{[}note: this could maybe be a more comprehensive section that includes info about offline coding{]}
 
 You can add parts to organize one or more book chapters together. Parts can be inserted at the top of an .Rmd file, before the first-level chapter heading in that same file.
 
@@ -311,8 +339,8 @@ Add an unnumbered part: \texttt{\#\ (PART\textbackslash{}*)\ Act\ one\ \{-\}} (f
 
 Add an appendix as a special kind of un-numbered part: \texttt{\#\ (APPENDIX)\ Other\ stuff\ \{-\}} (followed by \texttt{\#\ A\ chapter}). Chapters in an appendix are prepended with letters instead of numbers.
 
-\hypertarget{footnotes-and-citations}{%
-\chapter{Footnotes and citations}\label{footnotes-and-citations}}
+\hypertarget{prior-to-data-collection-checklist}{%
+\chapter{Prior to data collection checklist}\label{prior-to-data-collection-checklist}}
 
 \hypertarget{footnotes}{%
 \section{Footnotes}\label{footnotes}}
@@ -329,8 +357,8 @@ Note that the \texttt{.bib} files need to be listed in the index.Rmd with the YA
 
 The RStudio Visual Markdown Editor can also make it easier to insert citations: \url{https://rstudio.github.io/visual-markdown-editing/\#/citations}
 
-\hypertarget{blocks}{%
-\chapter{Blocks}\label{blocks}}
+\hypertarget{during-data-collection}{%
+\chapter{During data collection}\label{during-data-collection}}
 
 \hypertarget{equations}{%
 \section{Equations}\label{equations}}
@@ -362,8 +390,8 @@ Read more here \url{https://bookdown.org/yihui/bookdown/markdown-extensions-by-b
 
 The R Markdown Cookbook provides more help on how to use custom blocks to design your own callouts: \url{https://bookdown.org/yihui/rmarkdown-cookbook/custom-blocks.html}
 
-\hypertarget{sharing-your-book}{%
-\chapter{Sharing your book}\label{sharing-your-book}}
+\hypertarget{after-data-collection}{%
+\chapter{After data collection}\label{after-data-collection}}
 
 \hypertarget{publishing}{%
 \section{Publishing}\label{publishing}}

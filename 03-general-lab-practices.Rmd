@@ -1,4 +1,6 @@
-# Parts
+# General Lab Practices
+
+[note: this could maybe be a more comprehensive section that includes info about offline coding]
 
 You can add parts to organize one or more book chapters together. Parts can be inserted at the top of an .Rmd file, before the first-level chapter heading in that same file. 
 
