@@ -1,7 +1,7 @@
 fig:nice-fig
 tab:nice-tab
 eq:binom
-about
+manybabies-5
 to-do-summary
 getting-started
 a-section
@@ -22,3 +22,4 @@ pages
 metadata-for-sharing
 additional-chapter
 heres-the-next-chapter
+primary-manual-for-participating-laboratories

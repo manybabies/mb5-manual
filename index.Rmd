@@ -16,7 +16,13 @@ link-citations: yes
 github-repo: manybabies/mb5-manual
 ---
 
-# About
+# ManyBabies 5
+
+![](images/mb-logo.png){width=30%}   ![](images/mb5-logo.png){width=30%}
+
+**Primary Manual for Participating Laboratories**
+
+**ManyBabies5: The Hunter & Ames Model of Infant Looking Preference**
 
 Thank you for contributing to [ManyBabies 5](https://manybabies.org/MB5/) (MB5), a project of [ManyBabies](https://manybabies.org/), a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs. novelty preference through a collaboratively-designed “best test” of Hunter and Ames’ (1988) model of infants’ visual preference for familiar and novel stimuli. More details about the background, design and hypotheses can be found in the [Registered Report](https://osf.io/preprints/psyarxiv/ck3vd). Below we provide instructions on how to implement the experiment in your lab and report data back to the project as a whole.
 

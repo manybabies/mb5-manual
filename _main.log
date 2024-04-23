@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.10.19)  23 APR 2024 16:36
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.10.19)  23 APR 2024 16:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -743,11 +743,15 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 
 [4]
 Chapter 1.
+File: images/mb-logo.png Graphic file (type bmp)
+<images/mb-logo.png>
+File: images/mb5-logo.png Graphic file (type bmp)
+<images/mb5-logo.png>
 [5
 
 ]
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
-(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 219.
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 221.
 [6]
 Chapter 2.
 [7
@@ -757,15 +761,15 @@ Chapter 2.
 ]
 Chapter 3.
 
-Overfull \hbox (17.937pt too wide) in paragraph at lines 260--261
+Overfull \hbox (17.937pt too wide) in paragraph at lines 262--263
 []\TU/lmr/m/n/10 To label an un-numbered heading, use: \TU/lmtt/m/n/10 # Hello world {-#nice-label}
  []
 
 
-LaTeX Warning: Reference `cross' on page 9 undefined on input line 263.
+LaTeX Warning: Reference `cross' on page 9 undefined on input line 265.
 
 
-Underfull \hbox (badness 2512) in paragraph at lines 263--264
+Underfull \hbox (badness 2512) in paragraph at lines 265--266
 []\TU/lmr/m/n/10 Next, reference the labeled heading anywhere in the text using
  []
 
@@ -777,7 +781,7 @@ File: _main_files/figure-latex/nice-fig-1.pdf Graphic file (type pdf)
 ]
 Chapter 4.
 
-Underfull \hbox (badness 1859) in paragraph at lines 338--339
+Underfull \hbox (badness 1859) in paragraph at lines 340--341
 []\TU/lmr/m/n/10 Add an unnumbered part: \TU/lmtt/m/n/10 # (PART\*) Act one {-} \TU/lmr/m/n/10 (followed by \TU/lmtt/m/n/10 # A
  []
 
@@ -808,15 +812,15 @@ L3 programming layer <2023-10-10>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `_main.out' has not changed.
-(rerunfilecheck)             Checksum: 164036AC110D35D7A4330400A4393D41;2944.
+(rerunfilecheck)             Checksum: 4F67DC683CCDAE49EE5755714B35A9C7;2982.
  ) 
 Here is how much of TeX's memory you used:
- 17459 strings out of 477160
- 316058 string characters out of 5810765
+ 17479 strings out of 477160
+ 316491 string characters out of 5810765
  1921671 words of memory out of 5000000
- 38847 multiletter control sequences out of 15000+600000
+ 38863 multiletter control sequences out of 15000+600000
  564568 words of font info for 95 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 90i,8n,120p,926b,444s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,8n,120p,949b,444s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on _main.pdf (23 pages).
