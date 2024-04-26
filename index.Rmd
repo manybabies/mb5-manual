@@ -5,7 +5,7 @@ author: "ManyBabies 5 Leads"
 date: "Updated: `r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [book.bib, packages.bib]
+bibliography: [refs.bib, packages.bib]
 biblio-style: apa
 # url: your book url like https://bookdown.org/yihui/bookdown
 # cover-image: path to the social sharing image like images/cover.jpg
@@ -22,7 +22,7 @@ github-repo: manybabies/mb5-manual
 ![](images/mb-logo.png){width=30%}   ![](images/mb5-logo.png){width=30%}
 
 
-Thank you for contributing to [**ManyBabies 5**](https://manybabies.org/MB5/) (MB5), a project of [**ManyBabies**](https://manybabies.org/), a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs. novelty preference through a collaboratively-designed “best test” of Hunter and Ames’ (1988) model of infants’ visual preference for familiar and novel stimuli. More details about the background, design and hypotheses can be found in the [**Registered Report**](https://osf.io/preprints/psyarxiv/ck3vd). Below we provide instructions on how to implement the experiment in your lab and report data back to the project as a whole.
+Thank you for contributing to [**ManyBabies 5**](https://manybabies.org/MB5/) (MB5), a project of [**ManyBabies**](https://manybabies.org/), a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs. novelty preference through a collaboratively-designed “best test” of Hunter and Ames’ <a href="#ref-hunterames" role="doc-biblioref">1988</a> model of infants’ visual preference for familiar and novel stimuli. More details about the background, design and hypotheses can be found in the [**Registered Report**](https://osf.io/preprints/psyarxiv/ck3vd). Below we provide instructions on how to implement the experiment in your lab and report data back to the project as a whole.
 
 
 * **MB5 Project website:** [manybabies.org/MB5](manybabies.org/MB5)
