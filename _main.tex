@@ -119,6 +119,13 @@
   pdfcreator={LaTeX via pandoc}}
 
 \title{ManyBabies 5 Lab Manual - DRAFT - DO NOT USE}
+\usepackage{etoolbox}
+\makeatletter
+\providecommand{\subtitle}[1]{% add subtitle to \maketitle
+  \apptocmd{\@title}{\par {\large #1 \par}}{}{}
+}
+\makeatother
+\subtitle{Primary Manual for Participating Laboratories}
 \author{ManyBabies 5 Leads}
 \date{Updated: 2024-04-26}
 
@@ -146,28 +153,20 @@
 \setcounter{tocdepth}{1}
 \tableofcontents
 }
-\hypertarget{manybabies-5}{%
-\chapter{ManyBabies 5}\label{manybabies-5}}
-
 \includegraphics[width=0.3\textwidth,height=\textheight]{images/mb-logo.png} \includegraphics[width=0.3\textwidth,height=\textheight]{images/mb5-logo.png}
 
-\textbf{Primary Manual for Participating Laboratories}
+\hypertarget{overview}{%
+\chapter{Overview}\label{overview}}
 
-\textbf{ManyBabies5: The Hunter \& Ames Model of Infant Looking Preference}
+\hypertarget{primary-manual-for-mb5-participating-laboratories}{%
+\subsection{Primary Manual for MB5 Participating Laboratories}\label{primary-manual-for-mb5-participating-laboratories}}
 
 Thank you for contributing to \href{https://manybabies.org/MB5/}{ManyBabies 5} (MB5), a project of \href{https://manybabies.org/}{ManyBabies}, a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants' familiarity vs.~novelty preference through a collaboratively-designed ``best test'' of Hunter and Ames' (1988) model of infants' visual preference for familiar and novel stimuli. More details about the background, design and hypotheses can be found in the \href{https://osf.io/preprints/psyarxiv/ck3vd}{Registered Report}. Below we provide instructions on how to implement the experiment in your lab and report data back to the project as a whole.
 
-\begin{itemize}
-\tightlist
-\item
-  Project website: \url{manybabies.org/MB5}
-\item
-  ManyBabies General Manual: \href{https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit?usp=sharing}{link}
-\item
-  MB5 Collaboration Agreement: \href{https://docs.google.com/document/d/1vbTDmH6euda5pJN4uyds3zsnQ1DXrW9wpHogwC-5TSk/edit?usp=sharing}{link}
-\item
-  MB5 contact: \url{mb5@manybabies.org}
-\end{itemize}
+* Project website: \url{manybabies.org/MB5}
+* ManyBabies General Manual: \href{https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit?usp=sharing}{link}
+* MB5 Collaboration Agreement: \href{https://docs.google.com/document/d/1vbTDmH6euda5pJN4uyds3zsnQ1DXrW9wpHogwC-5TSk/edit?usp=sharing}{link}
+* MB5 contact: \url{mb5@manybabies.org}
 
 \hypertarget{to-do-summary}{%
 \section{To Do Summary}\label{to-do-summary}}

@@ -1,5 +1,6 @@
 --- 
 title: "ManyBabies 5 Lab Manual - DRAFT - DO NOT USE"
+subtitle: "Primary Manual for Participating Laboratories"
 author: "ManyBabies 5 Leads"
 date: "Updated: `r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -16,20 +17,21 @@ link-citations: yes
 github-repo: manybabies/mb5-manual
 ---
 
-# ManyBabies 5
+
 
 ![](images/mb-logo.png){width=30%}   ![](images/mb5-logo.png){width=30%}
 
-**Primary Manual for Participating Laboratories**
+# Overview
 
-**ManyBabies5: The Hunter & Ames Model of Infant Looking Preference**
+### Primary Manual for MB5 Participating Laboratories
 
 Thank you for contributing to [ManyBabies 5](https://manybabies.org/MB5/) (MB5), a project of [ManyBabies](https://manybabies.org/), a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs. novelty preference through a collaboratively-designed “best test” of Hunter and Ames’ (1988) model of infants’ visual preference for familiar and novel stimuli. More details about the background, design and hypotheses can be found in the [Registered Report](https://osf.io/preprints/psyarxiv/ck3vd). Below we provide instructions on how to implement the experiment in your lab and report data back to the project as a whole.
 
+<b>
 * Project website: [manybabies.org/MB5](manybabies.org/MB5)
 * ManyBabies General Manual: [link](https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit?usp=sharing)
 * MB5 Collaboration Agreement: [link](https://docs.google.com/document/d/1vbTDmH6euda5pJN4uyds3zsnQ1DXrW9wpHogwC-5TSk/edit?usp=sharing)
-* MB5 contact: [mb5@manybabies.org](mb5@manybabies.org) 
+* MB5 contact: [mb5@manybabies.org](mb5@manybabies.org) </b>
 
 ## To Do Summary
 
