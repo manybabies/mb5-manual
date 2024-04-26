@@ -14,7 +14,7 @@ MB5 and other ManyBabies projects ask labs to collect a number of [demographic b
 ### Video sharing 
 We strongly encourage labs (where possible) to store/share video recordings of their testing on [Databrary](https://nyu.databrary.org/), which is a secure site for this purpose. You will need to ensure that you have ethics approval in place to do this, and collect specific consent for this purpose from your participants. In addition, you will become a member of Databrary, which will require approval from your institution, so it’s helpful to start this process early. You can [begin the registration process for Databrary here](https://nyu.databrary.org/user/register?page=create). We are aware that many laboratories, particularly in the European Union, may not be allowed to use Databrary. In these circumstances we encourage labs to use alternative methods for sharing their videos where possible.
 
-### Upload a copy of your Ethics approval documentation 
+### Upload a copy of your ethics approval documentation 
 Ethics documentation (e.g., IRB approval forms) should be submitted prior to data collection. Ethics forms should be uploaded using the [MB5 Documentation Upload Form](https://docs.google.com/forms/d/e/1FAIpQLScTTmcQl1P1F4UWe95Jo7u5bken40AyAefXCYUJ9iYbnWaG8Q/viewform?usp=sf_link). **Please ensure that all materials uploaded for ethics are clearly labeled in the filename with your LabID (e.g. *babylabPrinceton_ethics.pdf*).** Check [here](https://manybabies.org/labids/) for a complete list of LabIDs to confirm yours before uploading. In some cases, labs will already have approval for MB5 under an “umbrella protocol” (i.e., a protocol that covers multiple studies in one lab). In these cases, the ethics form should still be uploaded as described here.
 
 
@@ -22,6 +22,7 @@ Ethics documentation (e.g., IRB approval forms) should be submitted prior to dat
 
 ### Age and numbers
 The minimum expected contribution is a full sample of 32 babies (preferred, if possible) or a half sample of 16 babies between 3 months, 0 days and 15 months, 0 days old.
+
 * Try to distribute participant ages across the full range of ages if possible
     * Please report the exact age in days. You can use an online tool such as: [https://www.calculator.net/age-calculator.html](https://www.calculator.net/age-calculator.html)
 * In situations where labs planned but were unable to collect the minimum contribution, laboratory members will still be eligible for authorship. Alternative contributions may be requested by the Leadership Team in these circumstances.
