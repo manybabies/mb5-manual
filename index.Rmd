@@ -48,9 +48,9 @@ Thank you for contributing to [**ManyBabies 5**](https://manybabies.org/MB5/) (M
 8. Send email to [mb5@manybabies.org](mb5@manybabies.org) to let the leadership team know that you are ready for ‘greenlighting’. 
 9. Wait for your official “greenlight” from the leadership team to begin data collection.
 
-##### IMPORTANT: DO NOT begin data collection (other than piloting) until you have been explicitly (and individually) “greenlighted” to do so. {-}
-
 #### Data collection: {-}
+
+##### IMPORTANT: DO NOT begin data collection (other than piloting) until you have been explicitly (and individually) “greenlighted” to do so. {-}
 
 10. Collect your data! 
 
