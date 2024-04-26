@@ -25,11 +25,11 @@ github-repo: manybabies/mb5-manual
 Thank you for contributing to [**ManyBabies 5**](https://manybabies.org/MB5/) (MB5), a project of [**ManyBabies**](https://manybabies.org/), a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs. novelty preference through a collaboratively-designed “best test” of a popular model of infants’ visual preference for familiar and novel stimuli [@hunterames]. More details about the background, design and hypotheses can be found in the [**Registered Report**](https://osf.io/preprints/psyarxiv/ck3vd). Below we provide instructions on how to implement the experiment in your lab and report data back to the project as a whole.
 
 
-#### **MB5 Project website:** [manybabies.org/MB5](manybabies.org/MB5) {-}
-#### **ManyBabies General Manual:** {-} [link](https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit?usp=sharing)
-#### **MB5 Collaboration Agreement:** {-} [link](https://docs.google.com/document/d/1vbTDmH6euda5pJN4uyds3zsnQ1DXrW9wpHogwC-5TSk/edit?usp=sharing)
-#### **MB5 Stage 1 Registered Report:** [@kosiezettersten2024] {-}
-#### **MB5 Contact:** [mb5@manybabies.org](mb5@manybabies.org) </b> {-}
+##### **MB5 Project website:** [manybabies.org/MB5](manybabies.org/MB5) {-}
+##### **ManyBabies General Manual:** [link](https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit?usp=sharing) {-}
+##### **MB5 Collaboration Agreement:**  [link](https://docs.google.com/document/d/1vbTDmH6euda5pJN4uyds3zsnQ1DXrW9wpHogwC-5TSk/edit?usp=sharing) {-}
+##### **MB5 Stage 1 Registered Report:** [@kosiezettersten2024] {-}
+##### **MB5 Contact:** [mb5@manybabies.org](mb5@manybabies.org) </b> {-}
 
 
 ***
