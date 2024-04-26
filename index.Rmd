@@ -17,7 +17,7 @@ link-citations: yes
 github-repo: manybabies/mb5-manual
 ---
 
-# Overview
+# Overview {-}
 
 ![](images/mb-logo.png){width=30%}   ![](images/mb5-logo.png){width=30%}
 
@@ -33,7 +33,7 @@ Thank you for contributing to [**ManyBabies 5**](https://manybabies.org/MB5/) (M
 
 
 ***
-## Project Checklist
+## Project Checklist {-}
 
 1. If you are new to MB5, complete the [Initial Sign-Up Form](https://docs.google.com/forms/d/e/1FAIpQLSdJnP3KO_dCmj-jNPHs0XP2j3q66g1RI6L31dwhCzhwhoJeoA/viewform).
 2. Read this manual start to finish.
