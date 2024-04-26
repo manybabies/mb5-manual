@@ -23,7 +23,7 @@ Ethics documentation (e.g., IRB approval forms) should be submitted prior to dat
 ### Age and numbers
 The minimum expected contribution is a full sample of 32 babies (preferred, if possible) or a half sample of 16 babies between 3 months, 0 days and 15 months, 0 days old.
 
-* Try to distribute participant ages across the full range of ages if possible
+* Try to distribute participant ages across the full range of ages if possible.
     * **Please report the exact age in days.** You can use an online tool such as: [https://www.calculator.net/age-calculator.html](https://www.calculator.net/age-calculator.html)
 * In situations where labs planned but were unable to collect the minimum contribution, laboratory members will still be eligible for authorship. Alternative contributions may be requested by the Leadership Team in these circumstances.
 * A lab’s sample size contribution **includes any infant who enters the laboratory**, even if they are eventually excluded (e.g., due to fussiness, experimenter error, etc).
