@@ -8,6 +8,7 @@ bookdown::gitbook:
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     edit: https://github.com/manybabies/mb5-manual/edit/main/%s
     download: ["pdf", "epub"]
+    sharing: null
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
