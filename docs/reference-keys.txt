@@ -2,7 +2,7 @@ getting-started
 start-and-end-date
 ethics-approval
 video-sharing
-upload-a-copy-of-your-ethics-approval-documentation
+ethics-upload
 participants-and-recruitment
 age-and-numbers
 eligibility-and-exclusions

@@ -20,14 +20,14 @@ github-repo: manybabies/mb5-manual
 ![](images/mb-logo.png){width=30%}   ![](images/mb5-logo.png){width=30%}
 
 
-Thank you for contributing to [**ManyBabies 5**](https://manybabies.org/MB5/) (MB5), a project of [**ManyBabies**](https://manybabies.org/), a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs. novelty preference through a collaboratively-designed “best test” of a popular model of infants’ visual preference for familiar and novel stimuli [@hunterames]. More details about the background, design and hypotheses can be found in the [**Registered Report**](https://osf.io/preprints/psyarxiv/ck3vd). Below we provide instructions on how to implement the experiment in your lab and report data back to the project as a whole.
+Thank you for contributing to [**ManyBabies 5**](https://manybabies.org/MB5/) (MB5), a project of [**ManyBabies**](https://manybabies.org/), a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs. novelty preference through a collaboratively-designed “best test” of a popular model of infants’ visual preference for familiar and novel stimuli^[@hunterames]. More details about the background, design and hypotheses can be found in the [**Registered Report**](https://osf.io/preprints/psyarxiv/ck3vd). Below we provide instructions on how to implement the experiment in your lab and report data back to the project as a whole.
 
 
-##### **MB5 Project website:** [manybabies.org/MB5](manybabies.org/MB5) {-}
-##### **ManyBabies General Manual:** [link](https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit?usp=sharing) {-}
-##### **MB5 Collaboration Agreement:**  [link](https://docs.google.com/document/d/1vbTDmH6euda5pJN4uyds3zsnQ1DXrW9wpHogwC-5TSk/edit?usp=sharing) {-}
-##### **MB5 Stage 1 Registered Report:** [@kosiezettersten2024] {-}
-##### **MB5 Contact:** [mb5@manybabies.org](mb5@manybabies.org) </b> {-}
+##### <a href="https://manybabies.org/MB5/" target="_blank">MB5 Project website</a> {-}
+##### <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit?usp=sharing" target="_blank">ManyBabies General Manual</a> {-}
+##### <a href="https://docs.google.com/document/d/1vbTDmH6euda5pJN4uyds3zsnQ1DXrW9wpHogwC-5TSk/edit?usp=sharing" target="_blank">MB5 Collaboration Agreement</a> {-}
+##### <a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">MB5 Stage 1 Registered Report</a> ^[@kosiezettersten2024] {-}
+##### MB5 Contact: [mb5@manybabies.org](mailto:mb5@manybabies.org) </b> {-}
 
 <br>
 
@@ -35,7 +35,7 @@ Thank you for contributing to [**ManyBabies 5**](https://manybabies.org/MB5/) (M
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
-
+***
 
 ```{r eval=FALSE, include=FALSE}
 bookdown::serve_book()

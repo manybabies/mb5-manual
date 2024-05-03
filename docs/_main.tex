@@ -102,31 +102,33 @@
 
 \includegraphics[width=0.3\textwidth,height=\textheight]{images/mb-logo.png} \includegraphics[width=0.3\textwidth,height=\textheight]{images/mb5-logo.png}
 
-Thank you for contributing to \href{https://manybabies.org/MB5/}{\textbf{ManyBabies 5}} (MB5), a project of \href{https://manybabies.org/}{\textbf{ManyBabies}}, a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants' familiarity vs.~novelty preference through a collaboratively-designed ``best test'' of a popular model of infants' visual preference for familiar and novel stimuli \citep{hunterames}. More details about the background, design and hypotheses can be found in the \href{https://osf.io/preprints/psyarxiv/ck3vd}{\textbf{Registered Report}}. Below we provide instructions on how to implement the experiment in your lab and report data back to the project as a whole.
+Thank you for contributing to \href{https://manybabies.org/MB5/}{\textbf{ManyBabies 5}} (MB5), a project of \href{https://manybabies.org/}{\textbf{ManyBabies}}, a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants' familiarity vs.~novelty preference through a collaboratively-designed ``best test'' of a popular model of infants' visual preference for familiar and novel stimuli\footnote{\citet{hunterames}}. More details about the background, design and hypotheses can be found in the \href{https://osf.io/preprints/psyarxiv/ck3vd}{\textbf{Registered Report}}. Below we provide instructions on how to implement the experiment in your lab and report data back to the project as a whole.
 
-\hypertarget{mb5-project-website-manybabies.orgmb5}{%
-\paragraph*{\texorpdfstring{\textbf{MB5 Project website:} \url{manybabies.org/MB5}}{MB5 Project website: manybabies.org/MB5}}\label{mb5-project-website-manybabies.orgmb5}}
-\addcontentsline{toc}{paragraph}{\textbf{MB5 Project website:} \url{manybabies.org/MB5}}
+\hypertarget{mb5-project-website}{%
+\paragraph*{MB5 Project website}\label{mb5-project-website}}
+\addcontentsline{toc}{paragraph}{MB5 Project website}
 
-\hypertarget{manybabies-general-manual-link}{%
-\paragraph*{\texorpdfstring{\textbf{ManyBabies General Manual:} \href{https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit?usp=sharing}{link}}{ManyBabies General Manual: link}}\label{manybabies-general-manual-link}}
-\addcontentsline{toc}{paragraph}{\textbf{ManyBabies General Manual:} \href{https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit?usp=sharing}{link}}
+\hypertarget{manybabies-general-manual}{%
+\paragraph*{ManyBabies General Manual}\label{manybabies-general-manual}}
+\addcontentsline{toc}{paragraph}{ManyBabies General Manual}
 
-\hypertarget{mb5-collaboration-agreement-link}{%
-\paragraph*{\texorpdfstring{\textbf{MB5 Collaboration Agreement:} \href{https://docs.google.com/document/d/1vbTDmH6euda5pJN4uyds3zsnQ1DXrW9wpHogwC-5TSk/edit?usp=sharing}{link}}{MB5 Collaboration Agreement: link}}\label{mb5-collaboration-agreement-link}}
-\addcontentsline{toc}{paragraph}{\textbf{MB5 Collaboration Agreement:} \href{https://docs.google.com/document/d/1vbTDmH6euda5pJN4uyds3zsnQ1DXrW9wpHogwC-5TSk/edit?usp=sharing}{link}}
+\hypertarget{mb5-collaboration-agreement}{%
+\paragraph*{MB5 Collaboration Agreement}\label{mb5-collaboration-agreement}}
+\addcontentsline{toc}{paragraph}{MB5 Collaboration Agreement}
 
-\hypertarget{mb5-stage-1-registered-report-kosiezettersten2024}{%
-\paragraph*{\texorpdfstring{\textbf{MB5 Stage 1 Registered Report:} \citep{kosiezettersten2024}}{MB5 Stage 1 Registered Report: {[}@kosiezettersten2024{]}}}\label{mb5-stage-1-registered-report-kosiezettersten2024}}
-\addcontentsline{toc}{paragraph}{\textbf{MB5 Stage 1 Registered Report:} \citep{kosiezettersten2024}}
+\hypertarget{mb5-stage-1-registered-report}{%
+\paragraph*{\texorpdfstring{MB5 Stage 1 Registered Report \footnote{\citet{kosiezettersten2024}}}{MB5 Stage 1 Registered Report }}\label{mb5-stage-1-registered-report}}
+\addcontentsline{toc}{paragraph}{MB5 Stage 1 Registered Report }
 
 \hypertarget{mb5-contact-mb5manybabies.org}{%
-\paragraph*{\texorpdfstring{\textbf{MB5 Contact:} \url{mb5@manybabies.org} }{MB5 Contact: mb5@manybabies.org }}\label{mb5-contact-mb5manybabies.org}}
-\addcontentsline{toc}{paragraph}{\textbf{MB5 Contact:} \url{mb5@manybabies.org} }
+\paragraph*{\texorpdfstring{MB5 Contact: \href{mailto:mb5@manybabies.org}{\nolinkurl{mb5@manybabies.org}} }{MB5 Contact: mb5@manybabies.org }}\label{mb5-contact-mb5manybabies.org}}
+\addcontentsline{toc}{paragraph}{MB5 Contact: \href{mailto:mb5@manybabies.org}{\nolinkurl{mb5@manybabies.org}} }
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \hypertarget{getting-started}{%
 \chapter{Getting Started}\label{getting-started}}
@@ -141,54 +143,46 @@ This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 Int
   If you are new to MB5, complete the \href{https://docs.google.com/forms/d/e/1FAIpQLSdJnP3KO_dCmj-jNPHs0XP2j3q66g1RI6L31dwhCzhwhoJeoA/viewform}{Initial Sign-Up Form}.
 \item
   Read this manual start to finish.
-\end{itemize}
+\item
+  \textbf{BEFORE you begin data collection:}
 
-\hypertarget{before-you-begin-data-collection}{%
-\subsubsection*{BEFORE you begin data collection:}\label{before-you-begin-data-collection}}
-\addcontentsline{toc}{subsubsection}{BEFORE you begin data collection:}
+  \begin{itemize}
+  \tightlist
+  \item
+    Please ensure that you have carefully read the \href{https://docs.google.com/document/d/1vbTDmH6euda5pJN4uyds3zsnQ1DXrW9wpHogwC-5TSk/edit?usp=sharing}{MB5 Collaboration Agreement} and all of the documentation from the \href{https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit?usp=sharing}{ManyBabies General Manual} regarding \href{https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit\#heading=h.22i70rxou3ha}{ethical research}, \href{https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit\#heading=h.9ty2g48mpe0t}{authorship}, \href{https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit\#heading=h.aunbjkpwxhf3}{data sharing}, and \href{https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit\#heading=h.6h67zsyeiveg}{data use}.
+  \item
+    Set up your study in consultation with this document. Carefully record any needed deviations from the protocol. Decide on your planned sample size/stopping rule.
+  \item
+    Complete the Laboratory Questionnaire {[}insert link{]}, submit Ethics approval and other documentation/materials.
+  \item
+    Create and submit your walkthrough video.
+  \item
+    Run pilot sample through \href{https://manybabies.org/validator/}{data validator}.
+  \item
+    Send email to \url{mb5@manybabies.org} to let the leadership team know that you are ready for `greenlighting'.
+  \item
+    Wait for your official ``greenlight'' from the leadership team to begin data collection.
+  \end{itemize}
+\item
+  \textbf{Data collection:}
 
-\begin{itemize}
-\tightlist
+  \begin{itemize}
+  \tightlist
+  \item
+    Collect your data!
+  \item
+    \emph{IMPORTANT: DO NOT begin data collection (other than piloting) until you have been explicitly (and individually) ``greenlighted'' to do so.}
+  \end{itemize}
 \item
-  Please ensure that you have carefully read the \href{https://docs.google.com/document/d/1vbTDmH6euda5pJN4uyds3zsnQ1DXrW9wpHogwC-5TSk/edit?usp=sharing}{MB5 Collaboration Agreement} and all of the documentation from the \href{https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit?usp=sharing}{ManyBabies General Manual} regarding \href{https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit\#heading=h.22i70rxou3ha}{ethical research}, \href{https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit\#heading=h.9ty2g48mpe0t}{authorship}, \href{https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit\#heading=h.aunbjkpwxhf3}{data sharing}, and \href{https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit\#heading=h.6h67zsyeiveg}{data use}.
-\item
-  Set up your study in consultation with this document. Carefully record any needed deviations from the protocol. Decide on your planned sample size/stopping rule.
-\item
-  Complete the Laboratory Questionnaire {[}insert link{]}, submit Ethics approval and other documentation/materials.
-\item
-  Create and submit your walkthrough video.
-\item
-  Run pilot sample through \href{https://manybabies.org/validator/}{data validator}.
-\item
-  Send email to \url{mb5@manybabies.org} to let the leadership team know that you are ready for `greenlighting'.
-\item
-  Wait for your official ``greenlight'' from the leadership team to begin data collection.
-\end{itemize}
+  \textbf{AFTER you finish data collection:}
 
-\hypertarget{data-collection}{%
-\subsubsection*{Data collection:}\label{data-collection}}
-\addcontentsline{toc}{subsubsection}{Data collection:}
-
-\hypertarget{important-do-not-begin-data-collection-other-than-piloting-until-you-have-been-explicitly-and-individually-greenlighted-to-do-so.}{%
-\paragraph*{IMPORTANT: DO NOT begin data collection (other than piloting) until you have been explicitly (and individually) ``greenlighted'' to do so.}\label{important-do-not-begin-data-collection-other-than-piloting-until-you-have-been-explicitly-and-individually-greenlighted-to-do-so.}}
-\addcontentsline{toc}{paragraph}{IMPORTANT: DO NOT begin data collection (other than piloting) until you have been explicitly (and individually) ``greenlighted'' to do so.}
-
-\begin{itemize}
-\tightlist
-\item
-  Collect your data!
-\end{itemize}
-
-\hypertarget{after-you-finish-data-collection}{%
-\subsubsection*{AFTER you finish data collection:}\label{after-you-finish-data-collection}}
-\addcontentsline{toc}{subsubsection}{AFTER you finish data collection:}
-
-\begin{itemize}
-\tightlist
-\item
-  Complete your participant and trial data files in consultation with the data reporting instructions {[}insert link{]}.
-\item
-  Submit your data using the \href{https://docs.google.com/forms/d/e/1FAIpQLSdFYk-gb4yjRYLjSTP1_BVaW-3vLkpJClLoY2BOGDGfIVE5ww/viewform?usp=sf_link}{MB5 data upload form}.
+  \begin{itemize}
+  \tightlist
+  \item
+    Complete your participant and trial data files in consultation with the data reporting instructions ``\protect\hyperlink{data-reporting-guidelines}{Data reporting guidelines}.''
+  \item
+    Submit your data using the \href{https://docs.google.com/forms/d/e/1FAIpQLSdFYk-gb4yjRYLjSTP1_BVaW-3vLkpJClLoY2BOGDGfIVE5ww/viewform?usp=sf_link}{MB5 data upload form}.
+  \end{itemize}
 \end{itemize}
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
@@ -196,12 +190,12 @@ This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 Int
 \hypertarget{start-and-end-date}{%
 \section{Start and End Date}\label{start-and-end-date}}
 
-MB5 ata collection is scheduled to run from 2024-MM-DD to 2025-MM-DD. Labs may join the MB5 project any time during the data collection period, provided that set-up and a formal ``green light'' is obtained, and data collection can be completed before the end date. However, we understand that there may be disruptions to data collection for various reasons. If you are having trouble meeting this timeframe, please alert the leadership team to discuss possibilities.
+MB5 data collection is scheduled to run from \textbf{2024-MM-DD} to \textbf{2025-MM-DD}. Labs may join the MB5 project any time during the data collection period, provided that set-up and a formal ``green light'' is obtained, and data collection can be completed before the end date. However, we understand that there may be disruptions to data collection for various reasons. If you are having trouble meeting this timeframe, please alert the leadership team to discuss possibilities.
 
 \hypertarget{ethics-approval}{%
 \section{Ethics approval}\label{ethics-approval}}
 
-It is a good idea to get started on your ethics approvals as soon as possible. Approvals must be in place and a copy submitted to the Drive folder (see below) before you can obtain a green light to collect data. Contact us \href{mailto:mb5@manybabies.org}{\nolinkurl{mb5@manybabies.org}} if you need advice on obtaining ethics approval.
+It is a good idea to get started on your ethics approvals as soon as possible. Approvals must be in place and a copy submitted to the Drive folder (see Section \ref{ethics-upload} ``\protect\hyperlink{ethics-upload}{Upload a copy of your ethics approval documentation}) before you can obtain a green light to collect data. Contact us \href{mailto:mb5@manybabies.org}{\nolinkurl{mb5@manybabies.org}} if you need advice on obtaining ethics approval.
 
 MB5 and other ManyBabies projects ask labs to collect a number of \href{ADD\%20LINK\%20TO\%20PARTICIPANTS\%20SECTION}{demographic background variables} to be made public along with the main data, e.g.~parental education, sex, etcetera. Not all of those variables are part of the main analysis. Even so, it is highly relevant to collect them for follow-up and secondary analyses, and for checking the representativeness of the sample. Please contact us \href{mailto:mb5@manybabies.org}{\nolinkurl{mb5@manybabies.org}} if your ethics board raises concerns about collecting these data.
 
@@ -214,8 +208,8 @@ MB5 and other ManyBabies projects ask labs to collect a number of \href{ADD\%20L
 
 We strongly encourage labs (where possible) to store/share video recordings of their testing on \href{https://nyu.databrary.org/}{Databrary}, which is a secure site for this purpose. You will need to ensure that you have ethics approval in place to do this, and collect specific consent for this purpose from your participants. In addition, you will become a member of Databrary, which will require approval from your institution, so it's helpful to start this process early. You can \href{https://nyu.databrary.org/user/register?page=create}{begin the registration process for Databrary here}. We are aware that many laboratories, particularly in the European Union, may not be allowed to use Databrary. In these circumstances we encourage labs to use alternative methods for sharing their videos where possible.
 
-\hypertarget{upload-a-copy-of-your-ethics-approval-documentation}{%
-\subsection{Upload a copy of your ethics approval documentation}\label{upload-a-copy-of-your-ethics-approval-documentation}}
+\hypertarget{ethics-upload}{%
+\subsection{Upload a copy of your ethics approval documentation}\label{ethics-upload}}
 
 Ethics documentation (e.g., IRB approval forms) should be submitted prior to data collection. Ethics forms should be uploaded using the \href{https://docs.google.com/forms/d/e/1FAIpQLScTTmcQl1P1F4UWe95Jo7u5bken40AyAefXCYUJ9iYbnWaG8Q/viewform?usp=sf_link}{MB5 Documentation Upload Form}. \textbf{Please ensure that all materials uploaded for ethics are clearly labeled in the filename with your LabID (e.g.~\emph{babylabPrinceton\_ethics.pdf}).} Check \href{https://manybabies.org/labids/}{here} for a complete list of LabIDs to confirm yours before uploading. In some cases, labs will already have approval for MB5 under an ``umbrella protocol'' (i.e., a protocol that covers multiple studies in one lab). In these cases, the ethics form should still be uploaded as described here.
 
