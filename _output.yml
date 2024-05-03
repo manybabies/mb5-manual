@@ -6,7 +6,7 @@ bookdown::gitbook:
         <li><a href="./">MB5 Lab Manual</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/USERNAME/REPO/edit/BRANCH/%s
+    edit: https://github.com/manybabies/mb5-manual
     download: ["pdf", "epub"]
 bookdown::pdf_book:
   includes:
