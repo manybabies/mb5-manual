@@ -212,9 +212,15 @@ div.csl-indent {
 <li class="chapter" data-level="4" data-path="prior-to-data-collection-checklist.html"><a href="prior-to-data-collection-checklist.html"><i class="fa fa-check"></i><b>4</b> Prior to data collection checklist</a></li>
 <li class="chapter" data-level="5" data-path="during-data-collection.html"><a href="during-data-collection.html"><i class="fa fa-check"></i><b>5</b> During data collection</a>
 <ul>
-<li class="chapter" data-level="5.1" data-path="during-data-collection.html"><a href="during-data-collection.html#equations"><i class="fa fa-check"></i><b>5.1</b> Equations</a></li>
-<li class="chapter" data-level="5.2" data-path="during-data-collection.html"><a href="during-data-collection.html#theorems-and-proofs"><i class="fa fa-check"></i><b>5.2</b> Theorems and proofs</a></li>
-<li class="chapter" data-level="5.3" data-path="during-data-collection.html"><a href="during-data-collection.html#callout-blocks"><i class="fa fa-check"></i><b>5.3</b> Callout blocks</a></li>
+<li class="chapter" data-level="5.1" data-path="during-data-collection.html"><a href="during-data-collection.html#running-the-experiment"><i class="fa fa-check"></i><b>5.1</b> Running the experiment</a>
+<ul>
+<li class="chapter" data-level="5.1.1" data-path="during-data-collection.html"><a href="during-data-collection.html#restarts-recalibration-eye-tracker-and-pauses"><i class="fa fa-check"></i><b>5.1.1</b> Restarts, recalibration (eye-tracker) and pauses</a></li>
+</ul></li>
+<li class="chapter" data-level="5.2" data-path="during-data-collection.html"><a href="during-data-collection.html#exclusions-and-reporting-errors-and-infant-fuss-outs"><i class="fa fa-check"></i><b>5.2</b> Exclusions and reporting errors and infant “fuss-outs”</a>
+<ul>
+<li class="chapter" data-level="5.2.1" data-path="during-data-collection.html"><a href="during-data-collection.html#session-level-and-trial-level-errors"><i class="fa fa-check"></i><b>5.2.1</b> Session-level and trial-level errors</a></li>
+</ul></li>
+<li class="chapter" data-level="5.3" data-path="during-data-collection.html"><a href="during-data-collection.html#peeking-and-stopping-rules"><i class="fa fa-check"></i><b>5.3</b> Peeking and stopping rules</a></li>
 </ul></li>
 <li class="chapter" data-level="6" data-path="after-data-collection.html"><a href="after-data-collection.html"><i class="fa fa-check"></i><b>6</b> After data collection</a>
 <ul>
@@ -249,28 +255,61 @@ div.csl-indent {
             <section class="normal" id="section-">
 <div id="during-data-collection" class="section level1 hasAnchor" number="5">
 <h1><span class="header-section-number">5</span> During data collection<a href="during-data-collection.html#during-data-collection" class="anchor-section" aria-label="Anchor link to header"></a></h1>
-<div id="equations" class="section level2 hasAnchor" number="5.1">
-<h2><span class="header-section-number">5.1</span> Equations<a href="during-data-collection.html#equations" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>Here is an equation.</p>
-<p><span class="math display" id="eq:binom">\[\begin{equation}
-  f\left(k\right) = \binom{n}{k} p^k\left(1-p\right)^{n-k}
-  \tag{5.1}
-\end{equation}\]</span></p>
-<p>You may refer to using <code>\@ref(eq:binom)</code>, like see Equation <a href="during-data-collection.html#eq:binom">(5.1)</a>.</p>
+<div id="running-the-experiment" class="section level2 hasAnchor" number="5.1">
+<h2><span class="header-section-number">5.1</span> Running the experiment<a href="during-data-collection.html#running-the-experiment" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div id="restarts-recalibration-eye-tracker-and-pauses" class="section level3 hasAnchor" number="5.1.1">
+<h3><span class="header-section-number">5.1.1</span> Restarts, recalibration (eye-tracker) and pauses<a href="during-data-collection.html#restarts-recalibration-eye-tracker-and-pauses" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Any pauses in the procedure can potentially lead to an erasure of the weak memory trace for the familiarization stimuli (Gerken, p.c. noticed a loss of effect if there is a 30+ second pause between familiarization and test phase). Therefore, we ask:
+NO RESTARTS. Do not restart any trials, regardless of short looking, fussiness, experimental error, etc. Very short trials will be excluded centrally during the analysis process, but should be fully reported and not repeated.
+DO NOT RECALIBRATE (eyetrackers) once the session has started.
+Pauses: If babies are fussy, it can be necessary to attempt to get them settled. You may use the natural pause of an attention getter to let the parent non-verbally resettle their baby for a very short time (a couple of seconds, according to your practices). However, longer pauses should result in the cessation of the study.
+Suggestion: if the baby is fussy and you would like to try to continue the experiment after the baby calms down just so that the parent gets the full experience, you are welcome to do so, but this data must be excluded. For these babies, you would report any data collected before the actual experiment terminated from fuss-out/inattention, not the repeat or continued demonstration.</p>
 </div>
-<div id="theorems-and-proofs" class="section level2 hasAnchor" number="5.2">
-<h2><span class="header-section-number">5.2</span> Theorems and proofs<a href="during-data-collection.html#theorems-and-proofs" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>Labeled theorems can be referenced in text using <code>\@ref(thm:tri)</code>, for example, check out this smart theorem <a href="during-data-collection.html#thm:tri">5.1</a>.</p>
-<div class="theorem">
-<p><span id="thm:tri" class="theorem"><strong>Theorem 5.1  </strong></span>For a right triangle, if <span class="math inline">\(c\)</span> denotes the <em>length</em> of the hypotenuse
-and <span class="math inline">\(a\)</span> and <span class="math inline">\(b\)</span> denote the lengths of the <strong>other</strong> two sides, we have
-<span class="math display">\[a^2 + b^2 = c^2\]</span></p>
 </div>
-<p>Read more here <a href="https://bookdown.org/yihui/bookdown/markdown-extensions-by-bookdown.html" class="uri">https://bookdown.org/yihui/bookdown/markdown-extensions-by-bookdown.html</a>.</p>
+<div id="exclusions-and-reporting-errors-and-infant-fuss-outs" class="section level2 hasAnchor" number="5.2">
+<h2><span class="header-section-number">5.2</span> Exclusions and reporting errors and infant “fuss-outs”<a href="during-data-collection.html#exclusions-and-reporting-errors-and-infant-fuss-outs" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Decisions regarding discards for experimental reasons will be made centrally and need to be reported consistently, hence it is important to retain all data from all infants that entered the testing room. Specifically, the data you send in for central analysis should use the “toe in the testing room” standard: if the infant made it so far as the testing room, the Pparticipant Data files dataset should include their data.
+In ManyBabies studies, we do not discard “partial data.” It is important for both reporting purposes and potential secondary analyses to have full information about both “usable” and “unusable” trials, even for infants who did not complete or provide usable data for all familiarization and test trials. Trial-level exclusions may not result in the exclusion of the participant from the dataset.
+These instructions are counter to many labs’ normal internal practices, so please ensure that RAs are fully trained on this element. There are specific columns in the data templates to report the reasons that some of this data should not be included in the main analysis; every lab is expected to report at least some ‘unusable’ data!</p>
+<div id="session-level-and-trial-level-errors" class="section level3 hasAnchor" number="5.2.1">
+<h3><span class="header-section-number">5.2.1</span> Session-level and trial-level errors<a href="during-data-collection.html#session-level-and-trial-level-errors" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>There are two possible kinds of exclusion: session-level (exclude all data from this participant from analysis) and trial-level (exclude just this trial, e.g. because there was interference or the baby had already fussed out). Session-level errors are reported in the Participant Data file and trial-level errors are reported in the Trial Data file. Most lab-reported errors will be “trial-level” errors.
+If the infant completed any trials, please do NOT report the infant as a session-level error EVEN IF YOU LATER REALIZE THE CHILD DOES NOT MEET ALL INCLUSION CRITERIA.
+Medical issues and developmental concerns. Please do not exclude based on medical issues / developmental concerns. Instead, provide sufficient detail in the ‘medical_issue’and/or ’developmental_concern’ fields for the analysis team to review and categorize centrally. As with all exclusions, it is important to include these in your data if the infant entered the testing room.</p>
+<p>For clear-cut judgements such as age, please just use the appropriate columns to report the values that would result in exclusion (e.g. “age = 3 years”).
+For subjective judgements such as whether the baby was too fussy, the central decision will be made based on the original coder/RA’s judgment, since it would be impractical to review comments/videos and make the decision centrally. Therefore, please be very clear (but succinct) in the ‘trial_error_info’ and ‘session_error_info’ fields about whether a given trial should be discarded and why. Please classify as one of the listed ‘Value example’ options in the Data Dictionary where possible. Use the “other” category sparingly and only if absolutely necessary. In the ‘notes’ column, please provide further succinct but sufficient information so that it is clear why a given trial or infant was excluded (e.g. “mom pointed at the screen”). Remember that this will be the only information that will be available to the analysis team as they compile and analyze the dataset; ambiguous entries will be problematic for data analysis!</p>
+<p>Session-level errors: Session level errors are those which result in discarding the data for a participant completely. Session level errors include:
+Fuss-out after entering the testing room but prior to starting the experiment
+Parental interference affecting ALL trials (e.g. caregiver refuses to wear the eye covering properly through all trials, or chronically failing to comply with experimenter instructions such that the validity of the entire session is in question).
+Experimenter error that makes the entire session unuseable (e.g. ran the wrong test session).
+Equipment failure that makes the entire session unuseable (e.g. video was not playing properly)
+Failure to calibrate (eyetrackers only)
+Infant was tested but was found to not meet the inclusion criteria (e.g. vision issues reported on the demographics questionnaire).
+Only in cases where infants did not start the experiment (i.e., did not see any stimuli) due to fuss-out or equipment/calibration failure, labs are welcome to reschedule the appointment to another occasion; please indicate this in the participant data form.
+With regards to session-level errors:
+Please make sure to include participants excluded for session-level errors in your Participant Data file. You do not need to report them in the Trial Data file (see below for details about the required formats of these files). Data from infants where session-level errors are reported do NOT count towards the minimum sample size.
+Please do NOT mark a participant as a “session-level” error if an infant entered the testing room and completed the first familiarization phase even if they provided no usable test trial data.
+Trial-level errors: Trial-level errors are those which result in discarding the data for a single trial. Each of the 12 test trials should be marked as either ‘no error’ (usable) or ‘error’ (to be discarded). Trials with no usable data should have ‘NA’ marked in their data columns. Your lab will make the decision and report whether a trial should be excluded, as well as the reason why. These can include temporary instances of issues such as:
+parental interference in the middle of the experiment (e.g. mother speaks to infant during a trial and gets their attention)
+experimenter error or equipment failure that affects one or more trials but not the entire session
+transitory infant fussiness involving only a very brief pause in testing (see below for further details on reporting), or fussiness where the infant “fusses out” after the initiation of one or more test trials
+With regards to trial-level errors note:
+For transitory fussiness, ONLY mark the trials on which the infant was actually fussy - further exclusions may be implemented centrally, but it is important that any potentially usable trials after a transitory fussiness period be included in the submitted data. For example, if the infant was fussy on trials 8 and 10 but not trials 1-7,9,11 and 12, only trials 8 and 10 should be marked as an exclusion.
+If the infant provides some usable trials and then “fusses out” so that the study is terminated prematurely, please make this clear by marking ‘NA’ on trials that were not given.</p>
+<p>Trial level errors resulting in further exclusion: In most cases, trial level exclusions should result in exclusion ONLY of the trial immediately impacted by the exclusion (e.g. transitory fussiness, parent distracting baby by scratching their nose). However, in some cases, it may be necessary to exclude all subsequent trials, because of concerns that the infant is no longer “on task”. If this is the case, please mark all subsequent trials as trial level errors and explain the reasoning in the notes. Some examples of this type of situation:
+Any time (due to fussiness or other reasons) there is a break between trials of more than a few seconds.
+Equipment failure that raises concerns about the validity of subsequent trials.
+Significant parental interference/engagement or external noise that diverts the infant’s attention to the extent that it raises concerns about the infant being distracted across all trials.
+Note that we have included a test in the robustness checking section of the manuscript about the effect of discarding trials after an initial excluded trial.</p>
 </div>
-<div id="callout-blocks" class="section level2 hasAnchor" number="5.3">
-<h2><span class="header-section-number">5.3</span> Callout blocks<a href="during-data-collection.html#callout-blocks" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>The R Markdown Cookbook provides more help on how to use custom blocks to design your own callouts: <a href="https://bookdown.org/yihui/rmarkdown-cookbook/custom-blocks.html" class="uri">https://bookdown.org/yihui/rmarkdown-cookbook/custom-blocks.html</a></p>
+</div>
+<div id="peeking-and-stopping-rules" class="section level2 hasAnchor" number="5.3">
+<h2><span class="header-section-number">5.3</span> Peeking and stopping rules<a href="during-data-collection.html#peeking-and-stopping-rules" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>In your initial commitment to a recruitment block (in the laboratory questionnaire), you will document your recruitment practices, your initial plan regarding how many babies you will run and of what type, as well as your stopping rule (e.g. stop when I reach the specified N, stop when the study data collection time ends). It is important to document any changes to your recruitment/stopping rule with a “protocol change form”.
+IMPORTANT: It is critical for the integrity of the data analysis that you NOT base any decisions about how many babies to run on the data being generated in your lab, or on the number of participant exclusions.
+Laboratories should stick with their original “stopping rule” - whether based on a number of participants or testing time frame. However, we recognize that this may not always be possible. In extraordinary circumstances, decisions about changes to the sample size and stopping rule must be made by someone who has not viewed the emerging data.
+You can look (if necessary, e.g. to support a student interim report) but you MUST NOT change your recruitment goals and strategy based on your view of the data. Doing this will compromise the goals of the project!
+If you change your recruitment based on the data, that invalidates the statistical inferences we want to make and introduces exactly the kinds of biases into the data that this project was designed to avoid. If your lab is running pre-specified pilot participants (e.g., to practice the procedure), you may make minor procedural adjustments during that period only.</p>
 
 </div>
 </div>
@@ -334,20 +373,6 @@ gitbook.start({
 });
 </script>
 
-<!-- dynamically load mathjax for compatibility with self-contained -->
-<script>
-  (function () {
-    var script = document.createElement("script");
-    script.type = "text/javascript";
-    var src = "true";
-    if (src === "" || src === "true") src = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/latest.js?config=TeX-MML-AM_CHTML";
-    if (location.protocol !== "file:")
-      if (/^https?:/.test(src))
-        src = src.replace(/^https?:/, '');
-    script.src = src;
-    document.getElementsByTagName("head")[0].appendChild(script);
-  })();
-</script>
 </body>
 
 </html>
