@@ -4,18 +4,18 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>2.6 General lab practices | ManyBabies 5 Lab Manual - DRAFT - DO NOT USE</title>
+  <title>6.2 Data templates | ManyBabies 5 Lab Manual - DRAFT - DO NOT USE</title>
   <meta name="description" content="This is the lab manual for labs participating in the ManyBabies 5 project." />
   <meta name="generator" content="bookdown 0.39 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="2.6 General lab practices | ManyBabies 5 Lab Manual - DRAFT - DO NOT USE" />
+  <meta property="og:title" content="6.2 Data templates | ManyBabies 5 Lab Manual - DRAFT - DO NOT USE" />
   <meta property="og:type" content="book" />
   <meta property="og:image" content="/images/mb5-logo.png" />
   <meta property="og:description" content="This is the lab manual for labs participating in the ManyBabies 5 project." />
   <meta name="github-repo" content="manybabies/mb5-manual" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="2.6 General lab practices | ManyBabies 5 Lab Manual - DRAFT - DO NOT USE" />
+  <meta name="twitter:title" content="6.2 Data templates | ManyBabies 5 Lab Manual - DRAFT - DO NOT USE" />
   
   <meta name="twitter:description" content="This is the lab manual for labs participating in the ManyBabies 5 project." />
   <meta name="twitter:image" content="/images/mb5-logo.png" />
@@ -29,8 +29,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-<link rel="prev" href="procedure.html"/>
-<link rel="next" href="general-lab-practices-1.html"/>
+<link rel="prev" href="data-reporting-guidelines.html"/>
+<link rel="next" href="data-dictionary.html"/>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
@@ -196,81 +196,26 @@ div.csl-indent {
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="general-lab-practices" class="section level2 hasAnchor" number="2.6">
-<h2><span class="header-section-number">2.6</span> General lab practices<a href="general-lab-practices.html#general-lab-practices" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<div id="training-research-assistants" class="section level3 hasAnchor" number="2.6.1">
-<h3><span class="header-section-number">2.6.1</span> Training research assistants<a href="general-lab-practices.html#training-research-assistants" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>You are responsible for implementing rigorous training practices. Research assistants should be held to the same high standards for ManyBabies as they would be for your main studies. You are free to have any number of research assistants conduct the test sessions, but please aim for as much coding consistency as possible and document which research assistant coded a given baby (using code names such as RA1, RA2, etc. if you wish). You will be asked to report about your standard training practices (e.g., how/when do you determine it’s okay for a research assistant to test real babies).
-Online Coding. If you are using a central screen to gather accumulated looking data for infant-controlled familiarization, then research assistants will need to be properly trained in coding online looking behaviors.
-Offline Coding. If you are not using an eyetracker to gather data, then you will need to code the test trials offline.<br />
-Greeting families
-You can greet families, briefly explain the study’s purpose and goals in terms understandable to families (avoid technical jargon), obtain informed consent, and conduct the appointment as you normally would. Acknowledge their decision to consider participating and express appreciation for their time. Address potential concerns families might have and answer their questions openly and honestly.</p>
+<div id="data-templates" class="section level2 hasAnchor" number="6.2">
+<h2><span class="header-section-number">6.2</span> Data templates<a href="data-templates.html#data-templates" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>The primary deliverables for the project are two data files, filled out by your lab from the templates provided below. Please download a copy of each template and use a guide for formatting your lab’s data. We prefer files in the CSV data format. PLEASE NOTE that saving in this format will remove any formulas or other non-plain-text features of your spreadsheet (e.g,. color fills, formatting); all information should be captured in the text within each cell.<br />
+Participant Data – A .csv file with one row for each participant, and with columns showing the participant’s subject number, age, demographic information, notes on the session, etc.
+Participant Data - CSV template
+Trial Data – A .csv file with one row for each trial, and with columns showing the participant’s subject number, trial number, trial type, looking time, etc.
+Trial Data - CSV template
+IMPORTANT NOTE 1: These two files must use identical, anonymous subject identifiers (‘participant_id’). We must be able to link participant- and trial-level data across files! You can use your lab’s normal participant numbering convention (e.g., 001, 002, 003, etc.), as long as participant IDs DO NOT include any private information (e.g., initials, birth date, gender).
+IMPORTANT NOTE 2: These files must contain de-identified data ONLY. All potentially identifying information should be stripped from your data file before submission. For example, you SHOULD NOT include birth date and test date in your Participant Data file. Instead, use an age calculating tool (e.g., <a href="https://www.calculator.net/age-calculator.html" class="uri">https://www.calculator.net/age-calculator.html</a>) to calculate each participant’s age in days, and report that value in the ‘participant_age_days’ variable. If you have any questions about ensuring your data is de-identified, email <a href="mailto:contact@manybabies.org" class="email">contact@manybabies.org</a>.
+IMPORTANT NOTE 3: It’s really important to remember that these files are designed to be read by a computer program, not a person. So anything that violates the template (e.g., variables that aren’t of the specified type, formatting, comments, etc.) will not work. For example, cells in the column “lang1_exposure” in the participant data file should contain numbers. If you write “80 to 90” this will cause errors because it contains characters in addition to numbers (note: please check questionnaire responses before participants leave the lab to avoid NA responses). If you have questions, comments, or calculations, please communicate directly with the analysis team, rather than embedding them in the data.
+IMPORTANT NOTE 4: Please do not leave any fields blank. If something does not logically have an answer, or if you did not collect this information, please mark it as “NA”.
+Language. If you collect data from children who are learning more than one language, please provide an approximate percentage of exposure to each language, either by parental report, or if it is standard practice in your lab, using a day-in-the-life style questionnaire administered by the RA. The total should add up to 100%.</p>
 </div>
-<div id="compensating-families" class="section level3 hasAnchor" number="2.6.2">
-<h3><span class="header-section-number">2.6.2</span> Compensating families<a href="general-lab-practices.html#compensating-families" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>You can use your lab’s standard, IRB-approved method for compensating families. This can include providinge small gifts, cash, travel reimbursement, taxi rides, or other incentives for participation as you normally would. Participating labs are responsible for compensating their own participants.</p>
-</div>
-<div id="walkthrough-video" class="section level3 hasAnchor" number="2.6.3">
-<h3><span class="header-section-number">2.6.3</span> Walkthrough video<a href="general-lab-practices.html#walkthrough-video" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>Before beginning data collection, you are required to create a walkthrough video and submit it for approval. Instructions can be found here.
-Upload your walkthrough video:
-Walkthrough videos should be uploaded to this google drive folder. Please ensure that your video is clearly labeled in the filename with your LabID (e.g. babylabPrinceton_walkthrough.mpg).</p>
-<!-- leaving this in from template for now, so we know how to add figs and tables 
-
-Figures and tables *with captions* can also be cross-referenced from elsewhere in your book using `\@ref(fig:chunk-label)` and `\@ref(tab:chunk-label)`, respectively.
-
-See Figure \@ref(fig:nice-fig).
-
-
-```r
-par(mar = c(4, 4, .1, .1))
-plot(pressure, type = 'b', pch = 19)
-```
-
-<div class="figure" style="text-align: center">
-<img src="_main_files/figure-html/nice-fig-1.png" alt="Plot with connected points showing that vapor pressure of mercury increases exponentially as temperature increases." width="80%" />
-<p class="caption">(\#fig:nice-fig)Here is a nice figure!</p>
-</div>
-
-Don't miss Table \@ref(tab:nice-tab).
-
-
-```r
-knitr::kable(
-  head(pressure, 10), caption = 'Here is a nice table!',
-  booktabs = TRUE
-)
-```
-
-
-
-Table: (\#tab:nice-tab)Here is a nice table!
-
-| temperature| pressure|
-|-----------:|--------:|
-|           0|   0.0002|
-|          20|   0.0012|
-|          40|   0.0060|
-|          60|   0.0300|
-|          80|   0.0900|
-|         100|   0.2700|
-|         120|   0.7500|
-|         140|   1.8500|
-|         160|   4.2000|
-|         180|   8.8000|
-
--->
-
-</div>
-</div>
-<!-- </div> -->
             </section>
 
           </div>
         </div>
       </div>
-<a href="procedure.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="general-lab-practices-1.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="data-reporting-guidelines.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="data-dictionary.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
@@ -291,7 +236,7 @@ gitbook.start({
 "size": 2
 },
 "edit": {
-"link": "https://github.com/manybabies/mb5-manual/edit/main/02-setting-up-experiment.Rmd",
+"link": "https://github.com/manybabies/mb5-manual/edit/main/06-after-data-collection.Rmd",
 "text": "Edit"
 },
 "history": {
