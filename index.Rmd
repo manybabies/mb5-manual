@@ -29,7 +29,7 @@ Thank you for contributing to [**ManyBabies 5**](https://manybabies.org/MB5/) (M
 ##### **MB5 Stage 1 Registered Report:** [@kosiezettersten2024] {-}
 ##### **MB5 Contact:** [mb5@manybabies.org](mb5@manybabies.org) </b> {-}
 
-
+***
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
 
