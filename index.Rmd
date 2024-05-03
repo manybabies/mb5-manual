@@ -8,7 +8,7 @@ documentclass: book
 bibliography: [refs.bib, packages.bib]
 biblio-style: apalike
 # url: your book url like https://bookdown.org/yihui/bookdown
-cover-image: images/mb5-logo.png
+cover-image: images/mb5-logo.png # this doesnt' appear to be doing anything?
 description: |
   This is the lab manual for labs participating in the ManyBabies 5 project.
 link-citations: yes
@@ -29,9 +29,13 @@ Thank you for contributing to [**ManyBabies 5**](https://manybabies.org/MB5/) (M
 ##### **MB5 Stage 1 Registered Report:** [@kosiezettersten2024] {-}
 ##### **MB5 Contact:** [mb5@manybabies.org](mb5@manybabies.org) </b> {-}
 
-
 ***
-## Lab Checklist {-}
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+
+
+\newpage
+
+## MB5 Lab Checklist {-}
 
 1. If you are new to MB5, complete the [Initial Sign-Up Form](https://docs.google.com/forms/d/e/1FAIpQLSdJnP3KO_dCmj-jNPHs0XP2j3q66g1RI6L31dwhCzhwhoJeoA/viewform).
 2. Read this manual start to finish.
