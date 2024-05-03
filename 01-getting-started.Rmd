@@ -1,7 +1,38 @@
 # Getting Started
 
+## MB5 Lab Checklist {-}
+
+* If you are new to MB5, complete the [Initial Sign-Up Form](https://docs.google.com/forms/d/e/1FAIpQLSdJnP3KO_dCmj-jNPHs0XP2j3q66g1RI6L31dwhCzhwhoJeoA/viewform).
+* Read this manual start to finish.
+
+#### BEFORE you begin data collection: {-}
+
+* Please ensure that you have carefully read the [MB5 Collaboration Agreement](https://docs.google.com/document/d/1vbTDmH6euda5pJN4uyds3zsnQ1DXrW9wpHogwC-5TSk/edit?usp=sharing) and all of the documentation from the [ManyBabies General Manual](https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit?usp=sharing) regarding [ethical research](https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.22i70rxou3ha), [authorship](https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.9ty2g48mpe0t), [data sharing](https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.aunbjkpwxhf3), and [data use](https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.6h67zsyeiveg). 
+* Set up your study in consultation with this document. Carefully record any needed deviations from the protocol. Decide on your planned sample size/stopping rule.
+* Complete the Laboratory Questionnaire [insert link], submit Ethics approval and other documentation/materials. 
+* Create and submit your walkthrough video.
+* Run pilot sample through [data validator](https://manybabies.org/validator/).
+* Send email to [mb5@manybabies.org](mb5@manybabies.org) to let the leadership team know that you are ready for ‘greenlighting’. 
+* Wait for your official “greenlight” from the leadership team to begin data collection.
+
+#### Data collection: {-}
+
+##### IMPORTANT: DO NOT begin data collection (other than piloting) until you have been explicitly (and individually) “greenlighted” to do so. {-}
+
+* Collect your data! 
+
+#### AFTER you finish data collection: {-}
+
+* Complete your participant and trial data files in consultation with the data reporting instructions [insert link].
+* Submit your data using the [MB5 data upload form](https://docs.google.com/forms/d/e/1FAIpQLSdFYk-gb4yjRYLjSTP1_BVaW-3vLkpJClLoY2BOGDGfIVE5ww/viewform?usp=sf_link).
+
+<br>
+
+***
+
 ## Start and End Date
-Data collection officially started XXX and will initially run until XXX. Labs may join the MB5 project any time during the data collection period, provided that set-up and a formal “green light” is obtained, and data collection can be completed before the end date. However, we understand that there may be disruptions to data collection for various reasons. If you are having trouble meeting this timeframe, please alert the leadership team to discuss possibilities.  
+MB5 ata collection is scheduled to run from 2024-MM-DD to 2025-MM-DD. Labs may join the MB5 project any time during the data collection period, provided that set-up and a formal “green light” is obtained, and data collection can be completed before the end date. However, we understand that there may be disruptions to data collection for various reasons. If you are having trouble meeting this timeframe, please alert the leadership team to discuss possibilities.  
+
 
 ## Ethics approval
 It is a good idea to get started on your ethics approvals as soon as possible. Approvals must be in place and a copy submitted to the Drive folder (see below) before you can obtain a green light to collect data. Contact us [mb5@manybabies.org](mailto:mb5@manybabies.org) if you need advice on obtaining ethics approval. 
@@ -9,7 +40,6 @@ It is a good idea to get started on your ethics approvals as soon as possible. A
 MB5 and other ManyBabies projects ask labs to collect a number of [demographic background variables](ADD LINK TO PARTICIPANTS SECTION) to be made public along with the main data, e.g. parental education, sex, etcetera. Not all of those variables are part of the main analysis. Even so, it is highly relevant to collect them for follow-up and secondary analyses, and for checking the representativeness of the sample. Please contact us [mb5@manybabies.org](mailto:mb5@manybabies.org) if your ethics board raises concerns about collecting these data. 
 
 ##### Please make sure you have permission to publicly share anonymized raw data (including required demographic info), as this is a condition of participation. {-}
-
 
 ### Video sharing 
 We strongly encourage labs (where possible) to store/share video recordings of their testing on [Databrary](https://nyu.databrary.org/), which is a secure site for this purpose. You will need to ensure that you have ethics approval in place to do this, and collect specific consent for this purpose from your participants. In addition, you will become a member of Databrary, which will require approval from your institution, so it’s helpful to start this process early. You can [begin the registration process for Databrary here](https://nyu.databrary.org/user/register?page=create). We are aware that many laboratories, particularly in the European Union, may not be allowed to use Databrary. In these circumstances we encourage labs to use alternative methods for sharing their videos where possible.
@@ -30,12 +60,10 @@ The minimum expected contribution is a full sample of 32 babies (preferred, if p
 
 While we encourage as much participation as you can spare, it is crucial to the success of the project that you treat our study with the same care as you would any other study in your lab with respect to recruitment procedures, timing of data collection, and RAs/RA training. Please do not commit to providing data to ManyBabies if this level of care is not possible.
 
-
 ### Eligibility and Exclusions
 **The <u>only</u> requirements for inclusion in MB5 are that an infants’ age falls within the 3- to 15-month age range and that the infant has no known issues that would directly impede their ability to process visual stimuli.** Infants who are hard of hearing, premature, bilingual, etc can be included in the lab’s sample.
 
 Please determine participants’ eligibility on the phone prior to scheduling them in the ManyBabies study to avoid testing ineligible participants, but note that the inclusion criteria for MB5 are much more inclusive than typical in-lab studies (described above). Participants who come into the lab who are subsequently determined to be ineligible should be reported in the sample.
-
 
 ### First-session/second-session policy
 Some laboratories have the practice of testing babies in more than one study during the same visit. ***‘First session’*** refers to babies tested soon upon arrival to the lab, prior to participating in any other studies. ***‘Second session’*** refers to any testing that is done after the first session. 
