@@ -3,6 +3,7 @@
 The steps for getting started are tracked by the MB5 leadership team on the MB5 Project Tracker. You can check it to see what steps your lab has completed. If you have any questions or think your lab’s progress is not up-to-date, contact us (mb5@manybabies.org).
 
 After preparing your lab and BEFORE BEGINNING DATA COLLECTION you need to: 
+
 * Complete the Initial Sign-Up Form (if you have not already done so).
 * Confirm ethics approval is uploaded: Make sure that a copy of your lab’s ethics approval is in this google drive folder. If you plan to share participant videos via Databrary, you should also make sure you are getting proper consent for video sharing (please include approval for video sharing in ethics upload). 
 * Confirm demographics form is uploaded: Make sure that a copy of your lab’s demographics formethics approval is in this google drive folder.
