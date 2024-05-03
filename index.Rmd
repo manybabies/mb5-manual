@@ -6,7 +6,7 @@ date: "Updated: `r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [refs.bib, packages.bib]
-biblio-style: apa
+biblio-style: apalike
 # url: your book url like https://bookdown.org/yihui/bookdown
 cover-image: images/mb5-logo.png
 description: |
