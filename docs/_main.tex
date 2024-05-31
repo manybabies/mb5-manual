@@ -69,7 +69,7 @@
 \fi
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
-\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\usepackage{bookmark}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
 \urlstyle{same}
 \hypersetup{
@@ -87,7 +87,7 @@
 \makeatother
 \subtitle{Primary Manual for Participating Laboratories}
 \author{compiled by ManyBabies 5 Leads}
-\date{Updated: 2024-05-03}
+\date{Updated: 2024-05-31}
 
 \begin{document}
 \maketitle
@@ -96,32 +96,26 @@
 \setcounter{tocdepth}{1}
 \tableofcontents
 }
-\hypertarget{overview}{%
-\chapter*{Overview}\label{overview}}
+\chapter*{Overview}\label{overview}
 \addcontentsline{toc}{chapter}{Overview}
 
-\includegraphics[width=0.3\textwidth,height=\textheight]{images/mb-logo.png} \includegraphics[width=0.3\textwidth,height=\textheight]{images/mb5-logo.png}
+\includegraphics[width=0.25\textwidth,height=\textheight]{images/mb-logo.png} \includegraphics[width=0.25\textwidth,height=\textheight]{images/mb5-logo.png}
 
 Thank you for contributing to \href{https://manybabies.org/MB5/}{\textbf{ManyBabies 5}} (MB5), a project of \href{https://manybabies.org/}{\textbf{ManyBabies}}, a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants' familiarity vs.~novelty preference through a collaboratively-designed ``best test'' of a popular model of infants' visual preference for familiar and novel stimuli\footnote{\citet{hunterames}}. More details about the background, design and hypotheses can be found in the \href{https://osf.io/preprints/psyarxiv/ck3vd}{\textbf{Registered Report}}. Below we provide instructions on how to implement the experiment in your lab and report data back to the project as a whole.
 
-\hypertarget{mb5-project-website}{%
-\paragraph*{MB5 Project website}\label{mb5-project-website}}
+\paragraph*{MB5 Project website}\label{mb5-project-website}
 \addcontentsline{toc}{paragraph}{MB5 Project website}
 
-\hypertarget{manybabies-general-manual}{%
-\paragraph*{ManyBabies General Manual}\label{manybabies-general-manual}}
+\paragraph*{ManyBabies General Manual}\label{manybabies-general-manual}
 \addcontentsline{toc}{paragraph}{ManyBabies General Manual}
 
-\hypertarget{mb5-collaboration-agreement}{%
-\paragraph*{MB5 Collaboration Agreement}\label{mb5-collaboration-agreement}}
+\paragraph*{MB5 Collaboration Agreement}\label{mb5-collaboration-agreement}
 \addcontentsline{toc}{paragraph}{MB5 Collaboration Agreement}
 
-\hypertarget{mb5-stage-1-registered-report}{%
-\paragraph*{\texorpdfstring{MB5 Stage 1 Registered Report \footnote{\citet{kosiezettersten2024}}}{MB5 Stage 1 Registered Report }}\label{mb5-stage-1-registered-report}}
+\paragraph*{\texorpdfstring{MB5 Stage 1 Registered Report \footnote{\citet{kosiezettersten2024}}}{MB5 Stage 1 Registered Report }}\label{mb5-stage-1-registered-report}
 \addcontentsline{toc}{paragraph}{MB5 Stage 1 Registered Report }
 
-\hypertarget{mb5-contact-mb5manybabies.org}{%
-\paragraph*{\texorpdfstring{MB5 Contact: \href{mailto:mb5@manybabies.org}{\nolinkurl{mb5@manybabies.org}} }{MB5 Contact: mb5@manybabies.org }}\label{mb5-contact-mb5manybabies.org}}
+\paragraph*{\texorpdfstring{MB5 Contact: \href{mailto:mb5@manybabies.org}{\nolinkurl{mb5@manybabies.org}} }{MB5 Contact: mb5@manybabies.org }}\label{mb5-contact-mb5manybabies.org}
 \addcontentsline{toc}{paragraph}{MB5 Contact: \href{mailto:mb5@manybabies.org}{\nolinkurl{mb5@manybabies.org}} }
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
@@ -130,11 +124,9 @@ This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 Int
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{getting-started}{%
-\chapter{Getting Started}\label{getting-started}}
+\chapter{Getting Started}\label{getting-started}
 
-\hypertarget{mb5-lab-checklist}{%
-\section*{MB5 Lab Checklist}\label{mb5-lab-checklist}}
+\section*{MB5 Lab Checklist}\label{mb5-lab-checklist}
 \addcontentsline{toc}{section}{MB5 Lab Checklist}
 
 \begin{itemize}
@@ -179,7 +171,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 Int
   \begin{itemize}
   \tightlist
   \item
-    Complete your participant and trial data files in consultation with the data reporting instructions ``\protect\hyperlink{data-reporting-guidelines}{Data reporting guidelines}.''
+    Complete your participant and trial data files in consultation with the data reporting instructions ``\hyperref[data-reporting-guidelines]{Data reporting guidelines}.''
   \item
     Submit your data using the \href{https://docs.google.com/forms/d/e/1FAIpQLSdFYk-gb4yjRYLjSTP1_BVaW-3vLkpJClLoY2BOGDGfIVE5ww/viewform?usp=sf_link}{MB5 data upload form}.
   \end{itemize}
@@ -187,37 +179,30 @@ This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 Int
 
 \begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
-\hypertarget{start-and-end-date}{%
-\section{Start and End Date}\label{start-and-end-date}}
+\section{Start and End Date}\label{start-and-end-date}
 
 MB5 data collection is scheduled to run from \textbf{2024-MM-DD} to \textbf{2025-MM-DD}. Labs may join the MB5 project any time during the data collection period, provided that set-up and a formal ``green light'' is obtained, and data collection can be completed before the end date. However, we understand that there may be disruptions to data collection for various reasons. If you are having trouble meeting this timeframe, please alert the leadership team to discuss possibilities.
 
-\hypertarget{ethics-approval}{%
-\section{Ethics approval}\label{ethics-approval}}
+\section{Ethics approval}\label{ethics-approval}
 
-It is a good idea to get started on your ethics approvals as soon as possible. Approvals must be in place and a copy submitted to the Drive folder (see Section \ref{ethics-upload} ``\protect\hyperlink{ethics-upload}{Upload a copy of your ethics approval documentation}) before you can obtain a green light to collect data. Contact us \href{mailto:mb5@manybabies.org}{\nolinkurl{mb5@manybabies.org}} if you need advice on obtaining ethics approval.
+It is a good idea to get started on your ethics approvals as soon as possible. Approvals must be in place and a copy submitted to the Drive folder (see Section \ref{ethics-upload}) before you can obtain a green light to collect data. Contact us \href{mailto:mb5@manybabies.org}{\nolinkurl{mb5@manybabies.org}} if you need advice on obtaining ethics approval.
 
 MB5 and other ManyBabies projects ask labs to collect a number of \href{ADD\%20LINK\%20TO\%20PARTICIPANTS\%20SECTION}{demographic background variables} to be made public along with the main data, e.g.~parental education, sex, etcetera. Not all of those variables are part of the main analysis. Even so, it is highly relevant to collect them for follow-up and secondary analyses, and for checking the representativeness of the sample. Please contact us \href{mailto:mb5@manybabies.org}{\nolinkurl{mb5@manybabies.org}} if your ethics board raises concerns about collecting these data.
 
-\hypertarget{please-make-sure-you-have-permission-to-publicly-share-anonymized-raw-data-including-required-demographic-info-as-this-is-a-condition-of-participation.}{%
-\paragraph*{Please make sure you have permission to publicly share anonymized raw data (including required demographic info), as this is a condition of participation.}\label{please-make-sure-you-have-permission-to-publicly-share-anonymized-raw-data-including-required-demographic-info-as-this-is-a-condition-of-participation.}}
+\paragraph*{Please make sure you have permission to publicly share anonymized raw data (including required demographic info), as this is a condition of participation.}\label{please-make-sure-you-have-permission-to-publicly-share-anonymized-raw-data-including-required-demographic-info-as-this-is-a-condition-of-participation.}
 \addcontentsline{toc}{paragraph}{Please make sure you have permission to publicly share anonymized raw data (including required demographic info), as this is a condition of participation.}
 
-\hypertarget{video-sharing}{%
-\subsection{Video sharing}\label{video-sharing}}
+\subsection{Video sharing}\label{video-sharing}
 
 We strongly encourage labs (where possible) to store/share video recordings of their testing on \href{https://nyu.databrary.org/}{Databrary}, which is a secure site for this purpose. You will need to ensure that you have ethics approval in place to do this, and collect specific consent for this purpose from your participants. In addition, you will become a member of Databrary, which will require approval from your institution, so it's helpful to start this process early. You can \href{https://nyu.databrary.org/user/register?page=create}{begin the registration process for Databrary here}. We are aware that many laboratories, particularly in the European Union, may not be allowed to use Databrary. In these circumstances we encourage labs to use alternative methods for sharing their videos where possible.
 
-\hypertarget{ethics-upload}{%
-\subsection{Upload a copy of your ethics approval documentation}\label{ethics-upload}}
+\subsection{Upload a copy of your ethics approval documentation}\label{ethics-upload}
 
 Ethics documentation (e.g., IRB approval forms) should be submitted prior to data collection. Ethics forms should be uploaded using the \href{https://docs.google.com/forms/d/e/1FAIpQLScTTmcQl1P1F4UWe95Jo7u5bken40AyAefXCYUJ9iYbnWaG8Q/viewform?usp=sf_link}{MB5 Documentation Upload Form}. \textbf{Please ensure that all materials uploaded for ethics are clearly labeled in the filename with your LabID (e.g.~\emph{babylabPrinceton\_ethics.pdf}).} Check \href{https://manybabies.org/labids/}{here} for a complete list of LabIDs to confirm yours before uploading. In some cases, labs will already have approval for MB5 under an ``umbrella protocol'' (i.e., a protocol that covers multiple studies in one lab). In these cases, the ethics form should still be uploaded as described here.
 
-\hypertarget{participants-and-recruitment}{%
-\section{Participants and Recruitment}\label{participants-and-recruitment}}
+\section{Participants and Recruitment}\label{participants-and-recruitment}
 
-\hypertarget{age-and-numbers}{%
-\subsection{Age and numbers}\label{age-and-numbers}}
+\subsection{Age and numbers}\label{age-and-numbers}
 
 The minimum expected contribution is a full sample of 32 babies (preferred, if possible) or a half sample of 16 babies between 3 months, 0 days and 15 months, 0 days old.
 
@@ -239,30 +224,25 @@ The minimum expected contribution is a full sample of 32 babies (preferred, if p
 
 While we encourage as much participation as you can spare, it is crucial to the success of the project that you treat our study with the same care as you would any other study in your lab with respect to recruitment procedures, timing of data collection, and RAs/RA training. Please do not commit to providing data to ManyBabies if this level of care is not possible.
 
-\hypertarget{eligibility-and-exclusions}{%
-\subsection{Eligibility and Exclusions}\label{eligibility-and-exclusions}}
+\subsection{Eligibility and Exclusions}\label{eligibility-and-exclusions}
 
 \textbf{The only requirements for inclusion in MB5 are that an infants' age falls within the 3- to 15-month age range and that the infant has no known issues that would directly impede their ability to process visual stimuli.} Infants who are hard of hearing, premature, bilingual, etc can be included in the lab's sample.
 
 Please determine participants' eligibility on the phone prior to scheduling them in the ManyBabies study to avoid testing ineligible participants, but note that the inclusion criteria for MB5 are much more inclusive than typical in-lab studies (described above). Participants who come into the lab who are subsequently determined to be ineligible should be reported in the sample.
 
-\hypertarget{first-sessionsecond-session-policy}{%
-\subsection{First-session/second-session policy}\label{first-sessionsecond-session-policy}}
+\subsection{First-session/second-session policy}\label{first-sessionsecond-session-policy}
 
 Some laboratories have the practice of testing babies in more than one study during the same visit. \textbf{\emph{`First session'}} refers to babies tested soon upon arrival to the lab, prior to participating in any other studies. \textbf{\emph{`Second session'}} refers to any testing that is done after the first session.
 * \textbf{Please contribute `first session' babies when possible.} It is possible that second session babies will contribute worse/weaker/different data with respect to the larger goals of determining effect sizes.
 * \textbf{Please label `second session' babies} appropriately if infants were run in a different study on the same visit prior to their participation in MB5. Please also document the nature of the study run prior to MB5 for all `second session' participants (e.g., ``7 minute study of object categorization using eye-tracking'').
 
-\hypertarget{setting-up-the-experiment}{%
-\chapter{Setting up the experiment}\label{setting-up-the-experiment}}
+\chapter{Setting up the experiment}\label{setting-up-the-experiment}
 
-\hypertarget{experiment-overview}{%
-\section{Experiment Overview}\label{experiment-overview}}
+\section{Experiment Overview}\label{experiment-overview}
 
 Each baby will be presented with a series of 12 trials with one familiarization and two test phases each. During familiarization, a single stimulus is presented centrally on the screen. The test phase will consist of two stimuli, one familiar and one novel, presented side-by-side. The location of the stimuli will be switched in the two test trials. The duration of the familiarization will vary across trials (5, 10, or 15s). The tests will last 5s each. There will be two versions of the experiment: one in which the familiarization time will be pre-established (fixed-length), and another one in which the length of the trial will last until the infant accumulates the required looking time (infant-controlled).
 
-\hypertarget{equipment}{%
-\section{Equipment}\label{equipment}}
+\section{Equipment}\label{equipment}
 
 We assume you will use an experimental software (e.g.~Matlab, Habit, E-Prime, Psychopy, OpenSesame or custom software) to run the study and one of two settings to record looking times:
 (1) Offline Video recording
@@ -279,8 +259,7 @@ Eye tracking, using SMI:
 Eye tracking, using Eyelink: Julien Mayor (\href{mailto:julien.mayor@psykologi.uio.no}{\nolinkurl{julien.mayor@psykologi.uio.no}})
 Other systems: email Casey Lew-Williams (\href{mailto:caseylw@princeton.edu}{\nolinkurl{caseylw@princeton.edu}}) and we'll do our best to help out.
 
-\hypertarget{stimuli}{%
-\section{Stimuli}\label{stimuli}}
+\section{Stimuli}\label{stimuli}
 
 All materials are available in our google drive folder.
 Trial Structure. There are a total of 12 trials for each infant. Each trial will include both familiarization and test phases (described in further detail below). Between each trial, a laughing baby attention-getter will be presented.
@@ -333,29 +312,25 @@ Between Trials. Please use the provided laughing baby stimulus to re-center babi
 Within Trial. Please use the provided attention-getter stimulus (the Hoehle circle with chimes) to re-center babies within each trial (i.e., between familiarization and test and between each of the test phases).
 See below for a visualization of the trial structure:
 
-\hypertarget{piloting-and-other-non-primary-data}{%
-\section{Piloting and other non-primary data}\label{piloting-and-other-non-primary-data}}
+\section{Piloting and other non-primary data}\label{piloting-and-other-non-primary-data}
 
 Some labs might wish to pilot their design on a small number of infants in order to work out problems with the setup and allow experimenters to practice the protocol. Piloting with this purpose is indeed encouraged!
 It is critical to the integrity of the ManyBabies project that these pilot data are carefully differentiated from your main contribution. You do NOT need to report pilot data in your spreadsheet, but if you do, please ensure that you properly mark them as such in the designated Pilot column.
 You must make an explicit decision to begin non-pilot data collection at a particular date - this decision cannot be retroactive, and cannot be based on inspection of the pilot data (i.e., you cannot choose to include a pilot participant in the actual sample if the data ``looks good'').
 Some labs might plan to test additional babies beyond the primary sample (e.g., with additional manipulations). These data will not be included in our primary planned analyses, and will not count toward the minimum contribution, but these additional datasets are welcome, and we encourage researchers to preregister other hypotheses. You are free to publish these ``side studies'' on your own terms, but please keep in mind the restrictions on publishing the main dataset if you are using it as a comparison/control sample (see the section on Open Science Policies in the MB General Manual).
 
-\hypertarget{procedure}{%
-\section{Procedure}\label{procedure}}
+\section{Procedure}\label{procedure}
 
 Please adhere to the following specifications for conducting this study. If any of the following technical specifications are not possible for your lab, please contact the MB5 leadership team (\href{mailto:mb5@manybabies.org}{\nolinkurl{mb5@manybabies.org}}) before beginning data collection to inform us of your planned deviation and the reason for it.
 
-\hypertarget{caregiver-bias-and-instruction}{%
-\subsection{Caregiver bias and instruction}\label{caregiver-bias-and-instruction}}
+\subsection{Caregiver bias and instruction}\label{caregiver-bias-and-instruction}
 
 Caregivers should be masked from viewing the visual stimulus using your lab's standard method (e.g., having caregivers wear taped-over sunglasses).
 It is not necessary to block parents' hearing of the audio stimulus.
 Instruct parents NOT to point to the lights or screen, shift their bodies, or move their chairs if the baby is inattentive. Emphasize during the instruction/setup that infants' boredom with some of the stimuli is part of the experiment and is OK.
 Suggestion: to ensure that the infant and parent are as comfortable as possible, you may tell the parent that it is okay to shift their or their baby's body to a more comfortable position, or provide interaction that the baby is soliciting, but emphasize that this may be done only for a short period during the attention grabber phase (e.g., when they hear the laughing baby).
 
-\hypertarget{collecting-participant-information}{%
-\subsection{Collecting participant information}\label{collecting-participant-information}}
+\subsection{Collecting participant information}\label{collecting-participant-information}
 
 We aim to integrate our testing procedure with your lab's procedure as much as possible, but there is some amount of information that we need to gather in a standardized fashion.
 Participant information: Please use this Family Background Questionnaire to collect the information. You are welcome to adapt the format as long as the wording is not changed, except as noted:
@@ -366,26 +341,22 @@ If you need to make changes other than as indicated above, please contact the le
 Let us know if any of the questions are unclear to you - it is important that you are able to answer any questions the participants may have. Please also check the participants' answers to avoid blank responses.
 If you modify any of the wording in the form, even in the green sections, or translate the form to your lab's local language please upload a blank copy of your form using the MB5 documentation upload form. Please ensure that your form is clearly labeled in the filename with your LabID (e.g.~babylabPrinceton\_background.pdf).
 
-\hypertarget{experimenter-blindness}{%
-\subsection{Experimenter blindness}\label{experimenter-blindness}}
+\subsection{Experimenter blindness}\label{experimenter-blindness}
 
 The experimenter should be masked fromblind to trial details, by being either (1) in a different room, with no way of knowing which stimuli the baby is seeing on each trial, or (2) in the same room but facing away from the stimuli and unaware of what is on the screen.
 
-\hypertarget{sound-volume}{%
-\subsection{Sound volume}\label{sound-volume}}
+\subsection{Sound volume}\label{sound-volume}
 
 Your lab can use whatever volume level has been used successfully in the past, but please standardize your volume for this study so that every baby gets stimuli at the same volume.
 
-\hypertarget{familiarization}{%
-\subsection{Familiarization}\label{familiarization}}
+\subsection{Familiarization}\label{familiarization}
 
 Infant-Controlled Version (preferred version of data collection):
 The visual stimulus is displayed until the infant accumulates 5, 10, or 15 seconds of looking (depending on familiarization condition). Infants' looking to the screen is tracked online in one of two ways: (1) automatically (e.g., using eye tracking methods); or (2) manually (e.g., experimenter presses a button while the infant is looking and releases when the infant looks away).
 Fixed-Length/Duration Version:
 The visual stimulus is displayed for 5, 10, or 15 seconds (depending on familiarization condition) regardless of the duration of infants' looking. Infants' looking to the screen may be measured offline (e.g., via later video coding) or online (e.g., experimenter presses a button while the infant is looking and releases when the infant looks away) to assess how much the infant actually looked to the stimulus during familiarization.
 
-\hypertarget{test}{%
-\subsection{Test}\label{test}}
+\subsection{Test}\label{test}
 
 Infant-Controlled Version (preferred version of data collection):
 Circle \& chimes attention getter plays until the infant fixates for at least 500 ms total (can be accumulated across multiple looks).
@@ -400,11 +371,9 @@ Circle \& chimes attention getter plays again for 750 ms.
 After 750 ms, the same stimulus pair is presented for an additional 5s (regardless of how much the infant looks to the stimuli) with the side of familiar and novel stimulus reversed.
 Infants' looking during test is calculated manually offline (e.g., coded from video data).
 
-\hypertarget{general-lab-practices}{%
-\section{General lab practices}\label{general-lab-practices}}
+\section{General lab practices}\label{general-lab-practices}
 
-\hypertarget{training-research-assistants}{%
-\subsection{Training research assistants}\label{training-research-assistants}}
+\subsection{Training research assistants}\label{training-research-assistants}
 
 You are responsible for implementing rigorous training practices. Research assistants should be held to the same high standards for ManyBabies as they would be for your main studies. You are free to have any number of research assistants conduct the test sessions, but please aim for as much coding consistency as possible and document which research assistant coded a given baby (using code names such as RA1, RA2, etc. if you wish). You will be asked to report about your standard training practices (e.g., how/when do you determine it's okay for a research assistant to test real babies).
 Online Coding. If you are using a central screen to gather accumulated looking data for infant-controlled familiarization, then research assistants will need to be properly trained in coding online looking behaviors.
@@ -412,47 +381,39 @@ Offline Coding. If you are not using an eyetracker to gather data, then you will
 Greeting families
 You can greet families, briefly explain the study's purpose and goals in terms understandable to families (avoid technical jargon), obtain informed consent, and conduct the appointment as you normally would. Acknowledge their decision to consider participating and express appreciation for their time. Address potential concerns families might have and answer their questions openly and honestly.
 
-\hypertarget{compensating-families}{%
-\subsection{Compensating families}\label{compensating-families}}
+\subsection{Compensating families}\label{compensating-families}
 
 You can use your lab's standard, IRB-approved method for compensating families. This can include providinge small gifts, cash, travel reimbursement, taxi rides, or other incentives for participation as you normally would. Participating labs are responsible for compensating their own participants.
 
-\hypertarget{walkthrough-video}{%
-\subsection{Walkthrough video}\label{walkthrough-video}}
+\subsection{Walkthrough video}\label{walkthrough-video}
 
 Before beginning data collection, you are required to create a walkthrough video and submit it for approval. Instructions can be found here.
 Upload your walkthrough video:
 Walkthrough videos should be uploaded to this google drive folder. Please ensure that your video is clearly labeled in the filename with your LabID (e.g.~babylabPrinceton\_walkthrough.mpg).
 
-\hypertarget{general-lab-practices-1}{%
-\chapter{General Lab Practices}\label{general-lab-practices-1}}
+\chapter{General Lab Practices}\label{general-lab-practices-1}
 
-\hypertarget{training-research-assistants-1}{%
-\section{Training research assistants}\label{training-research-assistants-1}}
+\section{Training research assistants}\label{training-research-assistants-1}
 
 You are responsible for implementing rigorous training practices. Research assistants should be held to the same high standards for ManyBabies as they would be for your main studies. You are free to have any number of research assistants conduct the test sessions, but please aim for as much coding consistency as possible and document which research assistant coded a given baby (using code names such as RA1, RA2, etc. if you wish). You will be asked to report about your standard training practices (e.g., how/when do you determine it's okay for a research assistant to test real babies).
 Online Coding. If you are using a central screen to gather accumulated looking data for infant-controlled familiarization, then research assistants will need to be properly trained in coding online looking behaviors.
 Offline Coding. If you are not using an eyetracker to gather data, then you will need to code the test trials offline.
 
-\hypertarget{greeting-families}{%
-\section{Greeting families}\label{greeting-families}}
+\section{Greeting families}\label{greeting-families}
 
 You can greet families, briefly explain the study's purpose and goals in terms understandable to families (avoid technical jargon), obtain informed consent, and conduct the appointment as you normally would. Acknowledge their decision to consider participating and express appreciation for their time. Address potential concerns families might have and answer their questions openly and honestly.
 
-\hypertarget{compensating-families-1}{%
-\section{Compensating families}\label{compensating-families-1}}
+\section{Compensating families}\label{compensating-families-1}
 
 You can use your lab's standard, IRB-approved method for compensating families. This can include providinge small gifts, cash, travel reimbursement, taxi rides, or other incentives for participation as you normally would. Participating labs are responsible for compensating their own participants.
 
-\hypertarget{walkthrough-video-1}{%
-\section{Walkthrough video}\label{walkthrough-video-1}}
+\section{Walkthrough video}\label{walkthrough-video-1}
 
 Before beginning data collection, you are required to create a walkthrough video and submit it for approval. Instructions can be found here.
 Upload your walkthrough video:
 Walkthrough videos should be uploaded to this google drive folder. Please ensure that your video is clearly labeled in the filename with your LabID (e.g.~babylabPrinceton\_walkthrough.mpg).
 
-\hypertarget{prior-to-data-collection-checklist}{%
-\chapter{Prior to data collection checklist}\label{prior-to-data-collection-checklist}}
+\chapter{Prior to data collection checklist}\label{prior-to-data-collection-checklist}
 
 The steps for getting started are tracked by the MB5 leadership team on the MB5 Project Tracker. You can check it to see what steps your lab has completed. If you have any questions or think your lab's progress is not up-to-date, contact us (\href{mailto:mb5@manybabies.org}{\nolinkurl{mb5@manybabies.org}}).
 
@@ -478,14 +439,11 @@ After preparing your lab and BEFORE BEGINNING DATA COLLECTION you need to:
   Wait until you receive an official go-ahead from Project Leads before you begin testing. We may have questions for you, e.g.~about your planned protocol deviations. We will do our best to respond quickly, but Iif you don't hear from us within a week of sending the email, please contact us again!.
 \end{itemize}
 
-\hypertarget{during-data-collection}{%
-\chapter{During data collection}\label{during-data-collection}}
+\chapter{During data collection}\label{during-data-collection}
 
-\hypertarget{running-the-experiment}{%
-\section{Running the experiment}\label{running-the-experiment}}
+\section{Running the experiment}\label{running-the-experiment}
 
-\hypertarget{restarts-recalibration-eye-tracker-and-pauses}{%
-\subsection{Restarts, recalibration (eye-tracker) and pauses}\label{restarts-recalibration-eye-tracker-and-pauses}}
+\subsection{Restarts, recalibration (eye-tracker) and pauses}\label{restarts-recalibration-eye-tracker-and-pauses}
 
 Any pauses in the procedure can potentially lead to an erasure of the weak memory trace for the familiarization stimuli (Gerken, p.c. noticed a loss of effect if there is a 30+ second pause between familiarization and test phase). Therefore, we ask:
 NO RESTARTS. Do not restart any trials, regardless of short looking, fussiness, experimental error, etc. Very short trials will be excluded centrally during the analysis process, but should be fully reported and not repeated.
@@ -493,15 +451,13 @@ DO NOT RECALIBRATE (eyetrackers) once the session has started.
 Pauses: If babies are fussy, it can be necessary to attempt to get them settled. You may use the natural pause of an attention getter to let the parent non-verbally resettle their baby for a very short time (a couple of seconds, according to your practices). However, longer pauses should result in the cessation of the study.
 Suggestion: if the baby is fussy and you would like to try to continue the experiment after the baby calms down just so that the parent gets the full experience, you are welcome to do so, but this data must be excluded. For these babies, you would report any data collected before the actual experiment terminated from fuss-out/inattention, not the repeat or continued demonstration.
 
-\hypertarget{exclusions-and-reporting-errors-and-infant-fuss-outs}{%
-\section{Exclusions and reporting errors and infant ``fuss-outs''}\label{exclusions-and-reporting-errors-and-infant-fuss-outs}}
+\section{Exclusions and reporting errors and infant ``fuss-outs''}\label{exclusions-and-reporting-errors-and-infant-fuss-outs}
 
 Decisions regarding discards for experimental reasons will be made centrally and need to be reported consistently, hence it is important to retain all data from all infants that entered the testing room. Specifically, the data you send in for central analysis should use the ``toe in the testing room'' standard: if the infant made it so far as the testing room, the Pparticipant Data files dataset should include their data.
 In ManyBabies studies, we do not discard ``partial data.'' It is important for both reporting purposes and potential secondary analyses to have full information about both ``usable'' and ``unusable'' trials, even for infants who did not complete or provide usable data for all familiarization and test trials. Trial-level exclusions may not result in the exclusion of the participant from the dataset.
 These instructions are counter to many labs' normal internal practices, so please ensure that RAs are fully trained on this element. There are specific columns in the data templates to report the reasons that some of this data should not be included in the main analysis; every lab is expected to report at least some `unusable' data!
 
-\hypertarget{session-level-and-trial-level-errors}{%
-\subsection{Session-level and trial-level errors}\label{session-level-and-trial-level-errors}}
+\subsection{Session-level and trial-level errors}\label{session-level-and-trial-level-errors}
 
 There are two possible kinds of exclusion: session-level (exclude all data from this participant from analysis) and trial-level (exclude just this trial, e.g.~because there was interference or the baby had already fussed out). Session-level errors are reported in the Participant Data file and trial-level errors are reported in the Trial Data file. Most lab-reported errors will be ``trial-level'' errors.
 If the infant completed any trials, please do NOT report the infant as a session-level error EVEN IF YOU LATER REALIZE THE CHILD DOES NOT MEET ALL INCLUSION CRITERIA.
@@ -535,8 +491,7 @@ Equipment failure that raises concerns about the validity of subsequent trials.
 Significant parental interference/engagement or external noise that diverts the infant's attention to the extent that it raises concerns about the infant being distracted across all trials.
 Note that we have included a test in the robustness checking section of the manuscript about the effect of discarding trials after an initial excluded trial.
 
-\hypertarget{peeking-and-stopping-rules}{%
-\section{Peeking and stopping rules}\label{peeking-and-stopping-rules}}
+\section{Peeking and stopping rules}\label{peeking-and-stopping-rules}
 
 In your initial commitment to a recruitment block (in the laboratory questionnaire), you will document your recruitment practices, your initial plan regarding how many babies you will run and of what type, as well as your stopping rule (e.g.~stop when I reach the specified N, stop when the study data collection time ends). It is important to document any changes to your recruitment/stopping rule with a ``protocol change form''.
 IMPORTANT: It is critical for the integrity of the data analysis that you NOT base any decisions about how many babies to run on the data being generated in your lab, or on the number of participant exclusions.
@@ -544,19 +499,16 @@ Laboratories should stick with their original ``stopping rule'' - whether based 
 You can look (if necessary, e.g.~to support a student interim report) but you MUST NOT change your recruitment goals and strategy based on your view of the data. Doing this will compromise the goals of the project!
 If you change your recruitment based on the data, that invalidates the statistical inferences we want to make and introduces exactly the kinds of biases into the data that this project was designed to avoid. If your lab is running pre-specified pilot participants (e.g., to practice the procedure), you may make minor procedural adjustments during that period only.
 
-\hypertarget{after-data-collection}{%
-\chapter{After data collection}\label{after-data-collection}}
+\chapter{After data collection}\label{after-data-collection}
 
 Contact Martin Zettersten (\href{mailto:martincz@princeton.edu}{\nolinkurl{martincz@princeton.edu}}) with questions about data submission and data preparation (please read text below carefully first!)
 
-\hypertarget{data-reporting-guidelines}{%
-\section{Data reporting guidelines}\label{data-reporting-guidelines}}
+\section{Data reporting guidelines}\label{data-reporting-guidelines}
 
 Participant data from all infants entering the lab needs to be reported. Even if the infant fusses out prior to entering the testing room/booth, the data for that infant should be submitted. In the case of fuss-out prior to entering the testing room, only participant data needs to be provided. In all other cases, trial level data also needs to be reported (In some cases it may be the case that all trial data will be missing as indicated by `NA'). This provides valuable information for, e.g., secondary analyses regarding fuss-out rates and the timing of fuss-out in the experiment. Data collected after the study has been terminated (e.g.~fussy babies who are brought back in for a ``second run'') should not be reported; any data collected prior to the complete fuss-out needs to be reported in the usual manner. If you report pilot data, make sure this is indicated as such in the `Pilot' column of the data table.
 Below instructions are designed to help you share data with the MB5 project team in a format that will minimize analysis errors and maximize the ease of merging datasets from many different labs.
 
-\hypertarget{data-templates}{%
-\section{Data templates}\label{data-templates}}
+\section{Data templates}\label{data-templates}
 
 The primary deliverables for the project are two data files, filled out by your lab from the templates provided below. Please download a copy of each template and use a guide for formatting your lab's data. We prefer files in the CSV data format. PLEASE NOTE that saving in this format will remove any formulas or other non-plain-text features of your spreadsheet (e.g,. color fills, formatting); all information should be captured in the text within each cell.\\
 Participant Data -- A .csv file with one row for each participant, and with columns showing the participant's subject number, age, demographic information, notes on the session, etc.
@@ -569,14 +521,12 @@ IMPORTANT NOTE 3: It's really important to remember that these files are designe
 IMPORTANT NOTE 4: Please do not leave any fields blank. If something does not logically have an answer, or if you did not collect this information, please mark it as ``NA''.
 Language. If you collect data from children who are learning more than one language, please provide an approximate percentage of exposure to each language, either by parental report, or if it is standard practice in your lab, using a day-in-the-life style questionnaire administered by the RA. The total should add up to 100\%.
 
-\hypertarget{data-dictionary}{%
-\section{Data dictionary}\label{data-dictionary}}
+\section{Data dictionary}\label{data-dictionary}
 
 MB5 Data Dictionary -- This spreadsheet lists all of the variables that need to go into the Participant Data and Trial Data files (Note that there is one worksheet/tab for each data file). Each row contains a variable and that variable's specified format (e.g., string, integer), set of example values, and description. It is important that your lab's data follows these specifications exactly in order to allow for data harmonization with the full dataset.
 MB5 Data Dictionary
 
-\hypertarget{data-validation}{%
-\section{Data Validation}\label{data-validation}}
+\section{Data Validation}\label{data-validation}
 
 After preparing your Participant Data and Trial Data files, please use the MB Data Validator to ensure your lab's data is in the correct format (MB Validator User Manual).
 Common issues:
@@ -584,8 +534,7 @@ If the validator is rejecting your CSV file, it may be due to different country 
 Make sure that there are no stray marks in cells outside of your data range. For example, a space entered in a cell in an otherwise empty row or column will cause an error.
 If you encounter any unexpected issues please send an email to Martin Zettersten (\href{mailto:martincz@princeton.edu}{\nolinkurl{martincz@princeton.edu}}). Your data files MUST pass validation before submission.
 
-\hypertarget{data-submission}{%
-\section{Data submission}\label{data-submission}}
+\section{Data submission}\label{data-submission}
 
 Once your data files have passed validation, please upload both the Participant Dataand Trial Data files using the MB5 Data Upload form. Please take note of the following:
 It is essential that both file names include your ManyBabies LabID. Refer to the LabID list here to find your lab's unique LabID.
@@ -593,33 +542,27 @@ Use the following naming convention for your Participant and Trial Data files:
 yourLabID\_participant\_data.csv (e.g., babylabPrinceton\_participant\_data.csv)
 yourLabID\_trial\_data.csv (e.g., babylabPrinceton\_trial\_data.csv)
 
-\hypertarget{sharing-raw-data}{%
-\subsection{Sharing `raw' data}\label{sharing-raw-data}}
+\subsection{Sharing `raw' data}\label{sharing-raw-data}
 
 For most labs, the ``raw'' data generated by the software that runs the study will be in a different format from the one we are asking labs to submit as their machine-readable, de-identified data. This creates a problem for reproducibility of the data pipeline. In addition to potential error-checking, the raw data may be useful for secondary analysis. Secondary analyses can be used to map variability between labs. Ideally, we would ask all labs to share both their actual raw data (immediately generated when the study is run) together with any code they use to convert it to the submission format. However, doing so would likely raise concerns about the sharing of de-identified data as these raw data outputs may contain birthdates or other participant-identifying information. A related concern is that many labs may be converting the raw data into the submission formatted files by hand, which may be prone to human error. We strongly encourage labs to develop processes for making these conversions in an automated way (e.g., in an R script). In the coming months we will be soliciting suggestions and reviewing the practicality of helping labs develop these practices, as well as making a decision about whether and how to collect raw data from labs that do not use eyetrackers. We welcome comments and suggestions from contributors on this issue!
 
-\hypertarget{submitting-raw-eye-tracking-data}{%
-\subsubsection{Submitting raw eye-tracking data}\label{submitting-raw-eye-tracking-data}}
+\subsubsection{Submitting raw eye-tracking data}\label{submitting-raw-eye-tracking-data}
 
 There are additional considerations for labs submitting eye-tracking data. First, the raw data is useful for studying variability between labs in the extraction of looking times. Second, the pupil size data provides interesting additional information about cognitive processing that can be used in follow-up or spin-off studies. We are therefore asking all laboratories submitting eye-tracking data to provide these raw data. For the data to be most useful and accessible for secondary analyses, the preferred format is to submit 1) CSV or TSV files (or any other plain text format); please select the export options so that the file remains as unchanged as possible (select all possible variables, no fixation filters, etc.) and 2) annotated R-code (or other script) that transforms these CSV or TSV files into the trial-level format that needs to be submitted.
 Please upload these files using the MB5 Data Upload form in addition to the Participant Data and Trial Data files (see above for details). For purposes of transparency and replicability, using a standardized format for the eye-tracking data is preferable (e.g., the Peekbank format). Please take care that the raw eye-tracking data does not contain any identifying information such as birth dates, zip codes, etc.! If you have any concerns regarding the sharing of your raw data (e.g.~with respect to participant consent/ethics approval), please contact the project leaders.
 In the Lab Questionnaire, report which method you used to compute the looking times
 In your upload, please also include the (annotated!) script that was used to compute the looking times from the raw data
 
-\hypertarget{video-records-of-data-collection-optional}{%
-\section{Video records of data collection (optional)}\label{video-records-of-data-collection-optional}}
+\section{Video records of data collection (optional)}\label{video-records-of-data-collection-optional}
 
 If you are sharing videos of your data collection (and this is strongly encouraged, if it's at all possible given your ethics approval), you can store them in Databrary if you are a member. The naming convention for Databrary volumes is ``ManyBabies5: yourLabID'' (e.g.~``ManyBabies5: babylabPrinceton''). We ask that you use this naming convention so people can easily search for all the ManyBabies-related volumes.
 
-\hypertarget{thank-you-for-being-part-of-manybabies-5}{%
-\chapter*{Thank you for being part of ManyBabies 5!}\label{thank-you-for-being-part-of-manybabies-5}}
+\chapter*{Thank you for being part of ManyBabies 5!}\label{thank-you-for-being-part-of-manybabies-5}
 \addcontentsline{toc}{chapter}{Thank you for being part of ManyBabies 5!}
 
-\hypertarget{additional-chapter}{%
-\chapter{Additional Chapter}\label{additional-chapter}}
+\chapter{Additional Chapter}\label{additional-chapter}
 
-\hypertarget{heres-the-next-chapter}{%
-\section{Here's the next chapter}\label{heres-the-next-chapter}}
+\section{Here's the next chapter}\label{heres-the-next-chapter}
 
 Wow, really insightful!!
 
