@@ -1,4 +1,4 @@
-thank-you-for-contributing-to-manybabies-5-mb5-a-project-of-manybabies
+fig:unnamed-chunk-1
 getting-started
 start-and-end-date
 ethics-approval
