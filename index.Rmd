@@ -20,8 +20,11 @@ github-repo: manybabies/mb5-manual
 ![](images/mb-logo.png){width=25%}   ![](images/mb5-logo.png){width=25%}
 
 
-Thank you for contributing to [**ManyBabies 5**](https://manybabies.org/MB5/) (MB5), a project of [**ManyBabies**](https://manybabies.org/), a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs. novelty preference through a collaboratively-designed “best test” of a popular model of infants’ visual preference for familiar and novel stimuli^[@hunterames]. More details about the background, design and hypotheses can be found in the [**Registered Report**](https://osf.io/preprints/psyarxiv/ck3vd). Below we provide instructions on how to implement the experiment in your lab and report data back to the project as a whole.
+### Thank you for contributing to [**ManyBabies 5**](https://manybabies.org/MB5/) (MB5), a project of [**ManyBabies**](https://manybabies.org/)! 
 
+MB5 is a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs. novelty preference through a collaboratively-designed “best test” of a popular model of infants’ visual preference for familiar and novel stimuli^[@hunterames]. More details about the background, design and hypotheses can be found in the [**Registered Report**](https://osf.io/preprints/psyarxiv/ck3vd). Below we provide instructions on how to implement the experiment in your lab and report data back to the project as a whole.
+
+knitr::include_graphics(rep("images/HunterAmesFig.png"))
 
 ##### <a href="https://manybabies.org/MB5/" target="_blank">MB5 Project website</a> {-}
 ##### <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit?usp=sharing" target="_blank">ManyBabies General Manual</a> {-}
