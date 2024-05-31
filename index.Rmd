@@ -26,6 +26,8 @@ MB5 is a cross-lab effort to provide an empirical basis for discussions of repli
 
 knitr::include_graphics(rep("images/HunterAmesFig.png"))
 
+## Important links {-}
+
 ##### <a href="https://manybabies.org/MB5/" target="_blank">MB5 Project website</a> {-}
 ##### <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit?usp=sharing" target="_blank">ManyBabies General Manual</a> {-}
 ##### <a href="https://docs.google.com/document/d/1vbTDmH6euda5pJN4uyds3zsnQ1DXrW9wpHogwC-5TSk/edit?usp=sharing" target="_blank">MB5 Collaboration Agreement</a> {-}
