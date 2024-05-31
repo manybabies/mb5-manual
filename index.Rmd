@@ -20,15 +20,20 @@ github-repo: manybabies/mb5-manual
 ![](images/mb-logo.png){width=25%}   ![](images/mb5-logo.png){width=25%}
 
 
-### Thank you for contributing to [**ManyBabies 5**](https://manybabies.org/MB5/) (MB5), a project of [**ManyBabies**](https://manybabies.org/)! 
+#### Thank you for contributing to [**ManyBabies 5**](https://manybabies.org/MB5/) (MB5), a project of [**ManyBabies**](https://manybabies.org/)! {-}
 
-MB5 is a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs. novelty preference through a collaboratively-designed “best test” of a popular model of infants’ visual preference for familiar and novel stimuli^[@hunterames]. More details about the background, design and hypotheses can be found in the [**Registered Report**](https://osf.io/preprints/psyarxiv/ck3vd). Below we provide instructions on how to implement the experiment in your lab and report data back to the project as a whole.
+MB5 is a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs. novelty preference through a collaboratively-designed “best test” of a popular model of infants’ visual preference for familiar and novel stimuli^[@hunterames]. More details about the background, design and hypotheses can be found in the [**Registered Report**](https://osf.io/preprints/psyarxiv/ck3vd)^[@kosiezettersten2024]. Below we provide instructions on how to implement the experiment in your lab and report data back to the project as a whole.
 
 
 ```{r include=FALSE, fig.cap="Hunter & Ames model of infant attention"}
-knitr::include_graphics(rep("images/HunterAmesFig.png"))
+knitr::include_graphics("images/HunterAmesFig.png")
 ```
 
+***
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+
+***
 
 ## Important links {-}
 
@@ -40,9 +45,6 @@ knitr::include_graphics(rep("images/HunterAmesFig.png"))
 
 <br>
 
-***
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
 ***
 
