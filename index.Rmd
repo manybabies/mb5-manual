@@ -15,6 +15,9 @@ link-citations: yes
 github-repo: manybabies/mb5-manual
 ---
 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+
+***
 # Overview {-}
 
 ![](images/mb-logo.png){width=25%}   ![](images/mb5-logo.png){width=25%}
@@ -33,9 +36,7 @@ Thank you for contributing to [**ManyBabies 5**](https://manybabies.org/MB5/) (M
 
 ***
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
-***
 
 ```{r eval=FALSE, include=FALSE}
 bookdown::serve_book()
