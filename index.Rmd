@@ -37,11 +37,11 @@ knitr::include_graphics("images/HunterAmesFig.png")
 
 ## Important links {-}
 
-#### <a href="https://manybabies.org/MB5/" target="_blank">MB5 Project website</a> {-}
-#### <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit?usp=sharing" target="_blank">ManyBabies General Manual</a> {-}
-#### <a href="https://docs.google.com/document/d/1vbTDmH6euda5pJN4uyds3zsnQ1DXrW9wpHogwC-5TSk/edit?usp=sharing" target="_blank">MB5 Collaboration Agreement</a> {-}
-#### <a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">MB5 Stage 1 Registered Report</a> ^[@kosiezettersten2024] {-}
-#### MB5 Contact: [mb5@manybabies.org](mailto:mb5@manybabies.org) </b> {-}
+* #### <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit?usp=sharing" target="_blank">ManyBabies General Manual</a> {-}
+* #### <a href="https://manybabies.org/MB5/" target="_blank">MB5 project website</a> {-}
+* #### <a href="https://docs.google.com/document/d/1vbTDmH6euda5pJN4uyds3zsnQ1DXrW9wpHogwC-5TSk/edit?usp=sharing" target="_blank">MB5 collaboration agreement</a> {-}
+* #### <a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">MB5 Stage 1 Registered Report</a> ^[@kosiezettersten2024] {-}
+* #### MB5 contact: [mb5@manybabies.org](mailto:mb5@manybabies.org) </b> {-}
 
 <br>
 
