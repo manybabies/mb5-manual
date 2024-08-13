@@ -1,6 +1,6 @@
 fig:unnamed-chunk-1
 getting-started
-start-and-end-date
+data-collection-period
 ethics-approval
 video-sharing
 ethics-upload
