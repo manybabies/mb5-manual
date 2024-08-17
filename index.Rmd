@@ -1,6 +1,6 @@
 --- 
-title: "ManyBabies 5 Lab Manual - DRAFT - DO NOT USE"
-subtitle: "Primary Manual for Participating Laboratories"
+title: "ManyBabies 5 Lab Manual"
+subtitle: "DRAFT - DO NOT USE"
 # author: "compiled by ManyBabies 5 Leads"
 date: "Updated: `r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -22,7 +22,7 @@ github-repo: manybabies/mb5-manual
 
 #### Thank you for contributing to [**ManyBabies 5**](https://manybabies.org/MB5/), a project of [**ManyBabies**](https://manybabies.org/)! {-}
 
-MB5 is a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs. novelty preference through a collaboratively-designed “best test” of a popular model of infants’ visual preference for familiar and novel stimuli^[@hunterames]. More details about the background, design and hypotheses can be found in the [**Registered Report**](https://osf.io/preprints/psyarxiv/ck3vd)^[@kosiezettersten2024]. In the following sections, we provide instructions on how to implement the experiment in your lab and report data back to the project as a whole.
+MB5 is a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs. novelty preference through a collaboratively-designed “best test” of a popular model of infants’ visual preference for familiar and novel stimuli^[@hunterames]. More details about the background, design and hypotheses can be found in the [**Registered Report**](https://osf.io/preprints/psyarxiv/ck3vd)^[@kosiezettersten2024]. In the following sections, we provide instructions on how to implement the experiment in your lab and report data back to the project as a whole. Thanks for joining us!
 
 
 ```{r echo = FALSE, fig.align='center',  out.width = '75%', fig.cap='Hunter and Ames model of infant attention (adapted from Bergmann and Cristia, 2016)'}
@@ -37,14 +37,40 @@ knitr::include_graphics("images/HunterAmesFig.png")
 
 ## Important links {-}
 
+* #### <a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">MB5 Stage 1 Registered Report</a> {-}
 * #### <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit?usp=sharing" target="_blank">ManyBabies General Manual</a> {-}
 * #### <a href="https://manybabies.org/MB5/" target="_blank">MB5 project website</a> {-}
 * #### <a href="https://docs.google.com/document/d/1vbTDmH6euda5pJN4uyds3zsnQ1DXrW9wpHogwC-5TSk/edit?usp=sharing" target="_blank">MB5 collaboration agreement</a> {-}
-* #### <a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">MB5 Stage 1 Registered Report</a> {-}
 * #### <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXoKjJo3XgGuXCLhWhzEDz0UrJ7tmio-70SoS24g4vqc4Utg/viewform?usp=sf_link" target="_blank">MB5 issue tracker form</a>
-* #### MB5 contact: [mb5@manybabies.org](mailto:mb5@manybabies.org) </b> {-}
+
+
+
+## Contact info {-}
+* ##### MB5 general contact: [mb5@manybabies.org](mailto:mb5@manybabies.org) </b> {-}
+* ##### Jessica Kosie (Project Lead): [jkosie@asu.edu](mailto:jkosie@asu.edu)
+* ##### Martin Zettersten (Project Lead): [mzettersten@ucsd.edu](mailto:mzettersten@ucsd.edu)
+* ##### Casey Lew-Williams (Project Lead): [caseylw@princeton.edu](mailto:caseylw@princeton.edu)
+* ##### Heidi Baumgartner (MB Exec. Director): [heidib@manybabies.org](mailto:heidib@manybabies.org)
+
+
+
+## Data collection period {-}
+MB5 data collection is scheduled to run between the following dates:
+
+#### *Start Date:* **2024-MM-DD** {-}
+
+#### *End Date:* **2025-MM-DD** {-}
+
+It is essential that all participating labs do their best to collect data prior to the End Date. However, we understand that there may be disruptions to data collection for various reasons. If you are having trouble meeting this timeframe, please alert the leadership team ([mb5@manybabies.org](mailto:mb5@manybabies.org)) as soon as possible to discuss options. 
 
 <br>
+
+**Labs may join the MB5 project any time during the data collection period, provided:**
+
+* They commit to completing data collection by the specified end date, and 
+* A formal “green light” for testing is obtained. 
+
+
 
 ## MB5 Lab Checklist {-}
 

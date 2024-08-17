@@ -1,11 +1,12 @@
 fig:unnamed-chunk-1
 getting-started
-data-collection-period
+green-lighting-process
 ethics-approval
+demographic-data
 video-sharing
 ethics-upload
 participants-and-recruitment
-age-and-numbers
+age-and-sample-size
 eligibility-and-exclusions
 first-sessionsecond-session-policy
 setting-up-the-experiment
