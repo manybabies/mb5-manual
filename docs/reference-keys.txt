@@ -2,8 +2,8 @@ fig:unnamed-chunk-1
 getting-started
 green-lighting-process
 ethics-approval
-demographic-data
-video-sharing
+permission-to-collectshare-demographic-data
+permission-to-share-video-recordings
 ethics-upload
 participants-and-recruitment
 age-and-sample-size

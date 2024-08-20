@@ -9,7 +9,7 @@ Welcome to ManyBabies 5! This section covers some basic aspects of the project t
 
 
 ## Green-lighting process
-All labs must complete a series of preparation steps, referred to by MB as the **"green-lighting" process**, before collecting data for any ManyBabies project. These steps are outlined in detail throughout the following sections of this manual, but in essence this involves: 
+All labs must complete a series of preparation steps, referred to by MB as the **"green-lighting" process**, before collecting data for any ManyBabies project. These steps are outlined in the [MB5 Lab Checklist][MB5 Lab Checklist] and in detail throughout the following sections of this manual, but in essence this involves: 
 
 * providing **required documentation** (e.g., ethics approval, lab-specific Demographics Questionnaire)
 * demonstrating **correct implementation of the testing procedure** 
@@ -25,18 +25,18 @@ All data-collecting labs are required to obtain ethics approval from their local
 
 > In some cases, labs will already have approval for MB5 under an “umbrella protocol” (i.e., a protocol that covers multiple studies in one lab). In these cases, the ethics form should still be uploaded as described below.
 
-### Demographic data
+### Permission to collect/share demographic data
 MB5 (and other ManyBabies projects) ask labs to collect a number of demographic background variables (e.g., gestational age, sex, parental education, community of descent) to be shared along with the main data (after full de-identification is confirmed) (see **[Demographics questionnaire](ADD LINK TO DEMOGRAPHICS QUESTIONNAIRE)** for all items). Not all of those variables are part of the main analysis. Even so, it is highly relevant to collect them for describing our sample, for follow-up and secondary analyses, and for checking the representativeness of the sample. 
 
 ##### Please make sure you have permission to publicly share anonymized raw data (including required demographic info), as this is a condition of participation. {-}
 Contact us **[mb5@manybabies.org](mailto:mb5@manybabies.org)** if your ethics board raises concerns about collecting and/or sharing these data.
 
 
-### Video sharing 
+### Permission to share video recordings 
 We strongly encourage labs (where possible) to store and share video recordings of their testing sessions on **[Databrary](https://nyu.databrary.org/)**, which is a secure site created for this purpose. Databrary allows for different levels of privacy: fully private (available only to the uploading research group), shared only with Databrary-approved researchers, or fully open. **You will need to ensure that you have ethics approval in place to upload and/or share recordings, and collect specific consent for this purpose from your participants' parents/guardians.** In addition, you will need to become a member of Databrary, which requires approval from your institution, so it’s helpful to start this process early. You can [begin the registration process for Databrary here](https://nyu.databrary.org/user/register?page=create). We are aware that many laboratories, particularly those based in the European Union, may not be allowed to use Databrary. In these circumstances we encourage labs to use alternative methods for sharing their videos where possible.
 
 
-### Upload a copy of your ethics approval documentation {#ethics-upload}
+### Uploading ethics approval documentation {#ethics-upload}
 Ethics documentation (e.g., proof of IRB approval) must be submitted to the MB5 leads prior to data collection. Submit your lab's ethics approval documentation using the **[MB5 Documentation Upload Form](https://docs.google.com/forms/d/e/1FAIpQLScTTmcQl1P1F4UWe95Jo7u5bken40AyAefXCYUJ9iYbnWaG8Q/viewform?usp=sf_link)**. 
 
 **Please ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g. *babylabPrinceton_ethics.pdf*).** Check the **[list of LabIDs](https://manybabies.org/labids/)** to confirm your lab's unique LabID before uploading. 
