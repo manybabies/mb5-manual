@@ -37,7 +37,7 @@ knitr::include_graphics("images/HunterAmesFig.png")
 
 ## Important links {-}
 
-* #### <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit?usp=sharing" target="_blank">ManyBabies General Manual</a> {-}
+* #### <a href="https://docs.google.com/document/d/e/2PACX-1vQT9a2lYPUclD_Mbqz_sca4NZq6tCb1HzfMSt9EEQt54mAb55vrkE3J6_6uydYAH-afCdSCaSELycAI/pub" target="_blank">ManyBabies General Manual</a> {-}
 * #### <a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">MB5 Stage 1 Registered Report</a> {-}
 * #### <a href="https://manybabies.org/MB5/" target="_blank">MB5 project website</a> {-}
 * #### <a href="https://docs.google.com/document/d/1vbTDmH6euda5pJN4uyds3zsnQ1DXrW9wpHogwC-5TSk/edit?usp=sharing" target="_blank">MB5 collaboration agreement</a> {-}
@@ -82,7 +82,7 @@ These are the steps that every data-collecting lab must follow to participate in
 
 1. Complete the <a href="https://docs.google.com/forms/d/e/1FAIpQLSdJnP3KO_dCmj-jNPHs0XP2j3q66g1RI6L31dwhCzhwhoJeoA/viewform" target="_blank"><b>ManyBabies 5 Initial Sign-Up Form</b></a>.
 2. Read the <a href="https://docs.google.com/document/d/1vbTDmH6euda5pJN4uyds3zsnQ1DXrW9wpHogwC-5TSk/edit?usp=sharing" target="_blank"><b>MB5 Collaboration Agreement</b></a>.
-3. <b>Read this manual start to finish</b> and review the information in the <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit?usp=sharing" target="_blank"><b>ManyBabies General Manual</b></a> regarding <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.22i70rxou3ha" target="_blank">ethical research</a>, <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.9ty2g48mpe0t" target="_blank">authorship</a>, <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.aunbjkpwxhf3" target="_blank">data sharing</a>, and <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.6h67zsyeiveg" target="_blank">data use</a>. 
+3. <b>Read this manual start to finish</b> and review the information in the <a href="https://docs.google.com/document/d/e/2PACX-1vQT9a2lYPUclD_Mbqz_sca4NZq6tCb1HzfMSt9EEQt54mAb55vrkE3J6_6uydYAH-afCdSCaSELycAI/pub" target="_blank"><b>ManyBabies General Manual</b></a> regarding <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.22i70rxou3ha" target="_blank">ethical research</a>, <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.9ty2g48mpe0t" target="_blank">authorship</a>, <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.aunbjkpwxhf3" target="_blank">data sharing</a>, and <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.6h67zsyeiveg" target="_blank">data use</a>. 
 
 **BEFORE you begin data collection:**
 
@@ -96,8 +96,9 @@ These are the steps that every data-collecting lab must follow to participate in
 
 **Data collection:**
 
-11. Collect your data! 
-  + *IMPORTANT: DO NOT begin data collection (other than piloting) until you have been explicitly (and individually) “green-lighted” to do so.*
+11. Collect your data!
+
+> *IMPORTANT: DO NOT begin data collection (other than piloting) until you have been explicitly (and individually) “green-lighted” to do so.*
   
 **AFTER you finish data collection:**
 
