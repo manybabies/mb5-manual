@@ -2,10 +2,17 @@ project:
   type: book
   output-dir: docs
 
+reference-location: margin # footnotes in margin
+link-citations: true       # citations link to references
+
 book:
   title: "MB5-manual"
   author: "MB5 Leads"
-  date: "2024-10-22"
+  date: last-modified
+  repo-url: https://github.com/manybabies/mb5-manual
+  sidebar:
+    style: "docked"
+    footer: license.qmd
   chapters:
     - index.qmd
     - getting-started.qmd
@@ -18,6 +25,16 @@ book:
 
 bibliography: references.bib
 csl: apa.csl
+reference-section-title: References
+
+crossref:
+  fig-prefix: figure
+  tbl-prefix: table
+  sec-prefix: section
+
+language:
+  crossref-ch-prefix: chapter
+  crossref-apx-prefix: appendix
 
 format:
   html:
