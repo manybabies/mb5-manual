@@ -18,58 +18,23 @@ MB5 is a cross-lab effort to provide an empirical basis for discussions of repli
 
 ------------------------------------------------------------------------
 
-## Important links {.unnumbered}
 
--   
-
-    #### <a href="https://docs.google.com/document/d/e/2PACX-1vQT9a2lYPUclD_Mbqz_sca4NZq6tCb1HzfMSt9EEQt54mAb55vrkE3J6_6uydYAH-afCdSCaSELycAI/pub" target="_blank">ManyBabies General Manual</a> {.unnumbered}
-
--   
-
-    #### <a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">MB5 Stage 1 Registered Report</a> {.unnumbered}
-
--   
-
-    #### <a href="https://manybabies.org/MB5/" target="_blank">MB5 project website</a> {.unnumbered}
-
--   
-
-    #### <a href="https://docs.google.com/document/d/1vbTDmH6euda5pJN4uyds3zsnQ1DXrW9wpHogwC-5TSk/edit?usp=sharing" target="_blank">MB5 collaboration agreement</a> {.unnumbered}
-
--   
-
-    #### <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXoKjJo3XgGuXCLhWhzEDz0UrJ7tmio-70SoS24g4vqc4Utg/viewform?usp=sf_link" target="_blank">MB5 issue tracker form</a> {.unnumbered}
-
--   
-
-    #### <a href="https://docs.google.com/forms/d/e/1FAIpQLScunCYwrJApObng6xVV_lN4CUrcLrsrAKmiBmia67vPc9jNTA/viewform?usp=sf_link" target="_blank">MB5 documentation upload form </a> {.unnumbered}
-
--   
-
-    #### <a href="https://docs.google.com/forms/d/e/1FAIpQLSeydFOC2LviKVBhHEpExH5SEJsqH0705pxH8gwHsPDN13Qk6Q/viewform?usp=sf_link" target="_blank">MB5 data upload form</a> {.unnumbered}
 
 ## Contact info {.unnumbered}
 
--   
+- ##### MB5 general contact: [mb5\@manybabies.org](mailto:mb5@manybabies.org) </b> {.unnumbered}
 
-    ##### MB5 general contact: [mb5\@manybabies.org](mailto:mb5@manybabies.org) </b> {.unnumbered}
+- ##### Jessica Kosie (Project Lead): [jkosie\@asu.edu](mailto:jkosie@asu.edu)
 
--   
+- ##### Martin Zettersten (Project Lead): [mzettersten\@ucsd.edu](mailto:mzettersten@ucsd.edu)
 
-    ##### Jessica Kosie (Project Lead): [jkosie\@asu.edu](mailto:jkosie@asu.edu)
+- ##### Casey Lew-Williams (Project Lead): [caseylw\@princeton.edu](mailto:caseylw@princeton.edu)
 
--   
+- ##### Heidi Baumgartner (MB Exec. Director): [heidib\@manybabies.org](mailto:heidib@manybabies.org)
 
-    ##### Martin Zettersten (Project Lead): [mzettersten\@ucsd.edu](mailto:mzettersten@ucsd.edu)
 
--   
 
-    ##### Casey Lew-Williams (Project Lead): [caseylw\@princeton.edu](mailto:caseylw@princeton.edu)
-
--   
-
-    ##### Heidi Baumgartner (MB Exec. Director): [heidib\@manybabies.org](mailto:heidib@manybabies.org)
-
+***
 ## Data collection period {.unnumbered}
 
 MB5 data collection is scheduled to run between the following dates:
