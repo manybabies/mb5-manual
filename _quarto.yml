@@ -6,7 +6,7 @@ reference-location: margin # footnotes in margin
 link-citations: true       # citations link to references
 
 book:
-  title: "MB5-manual"
+  title: "Many Babies 5 Lab Manual"
   author: "MB5 Leads"
   date: last-modified
   repo-url: https://github.com/manybabies/mb5-manual
