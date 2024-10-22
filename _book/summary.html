@@ -6,10 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="MB5 Leads">
-<meta name="dcterms.date" content="2024-10-22">
 
-<title>MB5-manual</title>
+<title>2&nbsp; Summary – MB5-manual</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -22,27 +20,41 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for citations */
-div.csl-bib-body { }
-div.csl-entry {
-  clear: both;
-  margin-bottom: 0em;
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
 }
-.hanging-indent div.csl-entry {
-  margin-left:2em;
-  text-indent:-2em;
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
 }
-div.csl-left-margin {
-  min-width:2em;
-  float:left;
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
-div.csl-right-inline {
-  margin-left:2em;
-  padding-left:1em;
-}
-div.csl-indent {
-  margin-left: 2em;
-}</style>
+</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -52,7 +64,8 @@ div.csl-indent {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./getting-started.html" rel="next">
+<link href="./references.html" rel="next">
+<link href="./intro.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -102,7 +115,7 @@ div.csl-indent {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Preface</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./summary.html"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Summary</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -129,44 +142,20 @@ div.csl-indent {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Preface</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./getting-started.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Getting Started</span></span></a>
+  <a href="./intro.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introduction</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./setting-up-experiment.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Setting up the experiment</span></span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./general-lab-practices.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">General Lab Practices</span></span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./prior-to-data-coll-checklist.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Prior to data collection checklist</span></span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./during-data-collection.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">During data collection</span></span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./after-data-collection.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">After data collection</span></span></a>
+  <a href="./summary.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Summary</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -180,47 +169,22 @@ div.csl-indent {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Table of contents</h2>
-   
-  <ul>
-  <li><a href="#preface" id="toc-preface" class="nav-link active" data-scroll-target="#preface">Preface</a></li>
-  <li><a href="#overview" id="toc-overview" class="nav-link" data-scroll-target="#overview">Overview</a>
-  <ul class="collapse">
-  <li><a href="#important-links" id="toc-important-links" class="nav-link" data-scroll-target="#important-links">Important links</a></li>
-  <li><a href="#contact-info" id="toc-contact-info" class="nav-link" data-scroll-target="#contact-info">Contact info</a></li>
-  <li><a href="#data-collection-period" id="toc-data-collection-period" class="nav-link" data-scroll-target="#data-collection-period">Data collection period</a></li>
-  <li><a href="#mb5-lab-checklist" id="toc-mb5-lab-checklist" class="nav-link" data-scroll-target="#mb5-lab-checklist">MB5 Lab Checklist</a></li>
-  </ul></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">MB5-manual</h1>
+<h1 class="title"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Summary</span></h1>
 </div>
 
 
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>MB5 Leads </p>
-          </div>
-  </div>
     
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">October 22, 2024</p>
-    </div>
-  </div>
   
     
   </div>
@@ -230,104 +194,15 @@ div.csl-indent {
 </header>
 
 
-<section id="preface" class="level1 unnumbered">
-<h1 class="unnumbered">Preface</h1>
-<p>This is a Quarto book.</p>
-<p>To learn more about Quarto books visit <a href="https://quarto.org/docs/books" class="uri">https://quarto.org/docs/books</a>.</p>
-</section>
-<section id="overview" class="level1 unnumbered">
-<h1 class="unnumbered">Overview</h1>
-<p><img src="images/mb-logo.png" class="img-fluid" style="width:25.0%"> <img src="images/mb5-logo.png" class="img-fluid" style="width:25.0%"></p>
-<section id="thank-you-for-contributing-to-manybabies-5-a-project-of-manybabies" class="level4 unnumbered">
-<h4 class="unnumbered anchored" data-anchor-id="thank-you-for-contributing-to-manybabies-5-a-project-of-manybabies">Thank you for contributing to <a href="https://manybabies.org/MB5/"><strong>ManyBabies 5</strong></a>, a project of <a href="https://manybabies.org/"><strong>ManyBabies</strong></a>!</h4>
-<p>MB5 is a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs.&nbsp;novelty preference through a collaboratively-designed “best test” of a popular model of infants’ visual preference for familiar and novel stimuli <span class="citation" data-cites="hunter1988">(<a href="references.html#ref-hunter1988" role="doc-biblioref">Hunter &amp; Ames, 1988</a>)</span>. More details about the background, design and hypotheses can be found in the <a href="https://osf.io/preprints/psyarxiv/ck3vd"><strong>Registered Report</strong></a> <span class="citation" data-cites="kosie">(<a href="references.html#ref-kosie" role="doc-biblioref">Kosie et al., n.d.</a>)</span>. In the following sections, we provide instructions on how to implement the experiment in your lab and report data back to the project as a whole. Thanks for joining us!</p>
-<hr>
-<p><a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" style="border-width:0"></a><br>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.</p>
-<hr>
-</section>
-<section id="important-links" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="important-links">Important links</h2>
-<ul>
-<li><h4 id="manybabies-general-manual" class="unnumbered anchored"><a href="https://docs.google.com/document/d/e/2PACX-1vQT9a2lYPUclD_Mbqz_sca4NZq6tCb1HzfMSt9EEQt54mAb55vrkE3J6_6uydYAH-afCdSCaSELycAI/pub" target="_blank">ManyBabies General Manual</a></h4></li>
-<li><h4 id="mb5-stage-1-registered-report" class="unnumbered anchored"><a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">MB5 Stage 1 Registered Report</a></h4></li>
-<li><h4 id="mb5-project-website" class="unnumbered anchored"><a href="https://manybabies.org/MB5/" target="_blank">MB5 project website</a></h4></li>
-<li><h4 id="mb5-collaboration-agreement" class="unnumbered anchored"><a href="https://docs.google.com/document/d/1vbTDmH6euda5pJN4uyds3zsnQ1DXrW9wpHogwC-5TSk/edit?usp=sharing" target="_blank">MB5 collaboration agreement</a></h4></li>
-<li><h4 id="mb5-issue-tracker-form" class="unnumbered anchored"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfXoKjJo3XgGuXCLhWhzEDz0UrJ7tmio-70SoS24g4vqc4Utg/viewform?usp=sf_link" target="_blank">MB5 issue tracker form</a></h4></li>
-<li><h4 id="mb5-documentation-upload-form" class="unnumbered anchored"><a href="https://docs.google.com/forms/d/e/1FAIpQLScunCYwrJApObng6xVV_lN4CUrcLrsrAKmiBmia67vPc9jNTA/viewform?usp=sf_link" target="_blank">MB5 documentation upload form </a></h4></li>
-<li><h4 id="mb5-data-upload-form" class="unnumbered anchored"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeydFOC2LviKVBhHEpExH5SEJsqH0705pxH8gwHsPDN13Qk6Q/viewform?usp=sf_link" target="_blank">MB5 data upload form</a></h4></li>
-</ul>
-</section>
-<section id="contact-info" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="contact-info">Contact info</h2>
-<ul>
-<li><h5 id="mb5-general-contact-mb5manybabies.org" class="unnumbered anchored">MB5 general contact: <a href="mailto:mb5@manybabies.org">mb5@manybabies.org</a> </h5></li>
-<li><h5 id="jessica-kosie-project-lead-jkosieasu.edu" class="anchored">Jessica Kosie (Project Lead): <a href="mailto:jkosie@asu.edu">jkosie@asu.edu</a></h5></li>
-<li><h5 id="martin-zettersten-project-lead-mzetterstenucsd.edu" class="anchored">Martin Zettersten (Project Lead): <a href="mailto:mzettersten@ucsd.edu">mzettersten@ucsd.edu</a></h5></li>
-<li><h5 id="casey-lew-williams-project-lead-caseylwprinceton.edu" class="anchored">Casey Lew-Williams (Project Lead): <a href="mailto:caseylw@princeton.edu">caseylw@princeton.edu</a></h5></li>
-<li><h5 id="heidi-baumgartner-mb-exec.-director-heidibmanybabies.org" class="anchored">Heidi Baumgartner (MB Exec. Director): <a href="mailto:heidib@manybabies.org">heidib@manybabies.org</a></h5></li>
-</ul>
-</section>
-<section id="data-collection-period" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="data-collection-period">Data collection period</h2>
-<p>MB5 data collection is scheduled to run between the following dates:</p>
-<section id="start-date-2024-mm-dd" class="level4 unnumbered">
-<h4 class="unnumbered anchored" data-anchor-id="start-date-2024-mm-dd"><em>Start Date:</em> <strong>2024-MM-DD</strong></h4>
-</section>
-<section id="end-date-2025-mm-dd" class="level4 unnumbered">
-<h4 class="unnumbered anchored" data-anchor-id="end-date-2025-mm-dd"><em>End Date:</em> <strong>2025-MM-DD</strong></h4>
-<p>It is essential that all participating labs do their best to collect data prior to the End Date. However, we understand that there may be disruptions to data collection for various reasons. If you are having trouble meeting this timeframe, please alert the leadership team (<a href="mailto:mb5@manybabies.org">mb5@manybabies.org</a>) as soon as possible to discuss options.</p>
-<p><br></p>
-<p><strong>Labs may join the MB5 project any time during the data collection period, provided:</strong></p>
-<ul>
-<li>They commit to completing data collection by the specified end date, and</li>
-<li>A formal “green-light” for testing is obtained</li>
-</ul>
-</section>
-</section>
-<section id="mb5-lab-checklist" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="mb5-lab-checklist">MB5 Lab Checklist</h2>
-<p>These are the steps that every data-collecting lab must follow to participate in MB5. More detail for each checklist item is available in the linked manual sections.</p>
-<p><strong>BEFORE you do ANYTHING else:</strong></p>
-<ol type="1">
-<li>Complete the <a href="https://docs.google.com/forms/d/e/1FAIpQLSdJnP3KO_dCmj-jNPHs0XP2j3q66g1RI6L31dwhCzhwhoJeoA/viewform" target="_blank"><b>ManyBabies 5 Initial Sign-Up Form</b></a>.</li>
-<li>Read the <a href="https://docs.google.com/document/d/1vbTDmH6euda5pJN4uyds3zsnQ1DXrW9wpHogwC-5TSk/edit?usp=sharing" target="_blank"><b>MB5 Collaboration Agreement</b></a>.</li>
-<li><b>Read this manual start to finish</b> and review the information in the <a href="https://docs.google.com/document/d/e/2PACX-1vQT9a2lYPUclD_Mbqz_sca4NZq6tCb1HzfMSt9EEQt54mAb55vrkE3J6_6uydYAH-afCdSCaSELycAI/pub" target="_blank"><b>ManyBabies General Manual</b></a> regarding <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.22i70rxou3ha" target="_blank">ethical research</a>, <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.9ty2g48mpe0t" target="_blank">authorship</a>, <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.aunbjkpwxhf3" target="_blank">data sharing</a>, and <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.6h67zsyeiveg" target="_blank">data use</a>.</li>
-</ol>
-<p><strong>BEFORE you begin data collection:</strong></p>
-<ol start="4" type="1">
-<li>[<strong>Set up your study</strong>][Setting up the experiment] in consultation with this lab manual. Decide on your planned sample size/stopping rule. Carefully record any needed deviations from the protocol using the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXoKjJo3XgGuXCLhWhzEDz0UrJ7tmio-70SoS24g4vqc4Utg/viewform?usp=sf_link" target="_blank"><b>MB5 issue tracker form</b></a>.</li>
-<li>Complete the <b>Laboratory Questionnaire</b> [INSERT LINK],</li>
-<li>Submit [<strong>ethics approval</strong>] and other documentation/materials using the <a href="https://docs.google.com/forms/d/e/1FAIpQLScunCYwrJApObng6xVV_lN4CUrcLrsrAKmiBmia67vPc9jNTA/viewform?usp=sf_link" target="_blank"><b>MB5 documentation upload form</b></a>.</li>
-<li>Create and submit your [<strong>walkthrough video</strong>][Walkthrough video].</li>
-<li>Run pilot sample through the <a href="https://manybabies.org/validator/" target="_blank"><b>Data Validator</b></a>.</li>
-<li>Send email to <a href="mb5@manybabies.org">mb5@manybabies.org</a> to let the leadership team know that you are ready for “green-lighting”.</li>
-<li><strong>Wait for your official “green-light”</strong> from the leadership team to begin data collection.</li>
-</ol>
-<p><strong>Data collection:</strong></p>
-<ol start="11" type="1">
-<li>Collect your data!</li>
-</ol>
-<blockquote class="blockquote">
-<p><em>IMPORTANT: DO NOT begin data collection (other than piloting) until you have been explicitly (and individually) “green-lighted” to do so.</em></p>
-</blockquote>
-<p><strong>AFTER you finish data collection:</strong></p>
-<ol start="12" type="1">
-<li>Complete your participant and trial data files in consultation with the data reporting instructions “[Data reporting guidelines].”</li>
-<li>Submit your data using the <a href="https://docs.google.com/forms/d/e/1FAIpQLSeydFOC2LviKVBhHEpExH5SEJsqH0705pxH8gwHsPDN13Qk6Q/viewform?usp=sf_link">MB5 data upload form</a>.</li>
-<li>Report contributions using the <a href="https://manybabies.org/credit/">MB Contribution Reporting Form</a></li>
-</ol>
+<p>In summary, this book has no content whatsoever.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="dv">1</span> <span class="sc">+</span> <span class="dv">1</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] 2</code></pre>
+</div>
+</div>
 
 
-<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list" style="display: none">
-<div id="ref-hunter1988" class="csl-entry" role="listitem">
-Hunter, M. A., &amp; Ames, E. W. (1988). <em>A multifactor model of infant preferences for novel and familiar stimuli</em> (pp. 69–95). Ablex Publishing.
-</div>
-<div id="ref-kosie" class="csl-entry" role="listitem">
-Kosie, J., Zettersten, M., Abu-Zhaya, R., Amso, D., Babineau, M., Baumgartner, H., Bazhydai, M., Belia, M., Benavides, S., Bergmann, C., Berteletti, I., Black, A. K., Borges, P., Borovsky, A., Byers-Heinlein, K., Cabrera, L., Calignano, G., Cao, A., Cox, C. M. M., … Lew-Williams, C. (n.d.). <em>ManyBabies 5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time</em>. <a href="https://doi.org/10.31234/osf.io/ck3vd">https://doi.org/10.31234/osf.io/ck3vd</a>
-</div>
-</div>
-</section>
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -752,10 +627,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
+      <a href="./intro.html" class="pagination-link" aria-label="Introduction">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introduction</span></span>
+      </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./getting-started.html" class="pagination-link" aria-label="Getting Started">
-        <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Getting Started</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./references.html" class="pagination-link" aria-label="References">
+        <span class="nav-page-text">References</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

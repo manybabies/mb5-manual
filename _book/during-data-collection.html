@@ -6,10 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="MB5 Leads">
-<meta name="dcterms.date" content="2024-10-22">
 
-<title>MB5-manual</title>
+<title>5&nbsp; During data collection – MB5-manual</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -22,27 +20,7 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for citations */
-div.csl-bib-body { }
-div.csl-entry {
-  clear: both;
-  margin-bottom: 0em;
-}
-.hanging-indent div.csl-entry {
-  margin-left:2em;
-  text-indent:-2em;
-}
-div.csl-left-margin {
-  min-width:2em;
-  float:left;
-}
-div.csl-right-inline {
-  margin-left:2em;
-  padding-left:1em;
-}
-div.csl-indent {
-  margin-left: 2em;
-}</style>
+</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -52,7 +30,8 @@ div.csl-indent {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./getting-started.html" rel="next">
+<link href="./after-data-collection.html" rel="next">
+<link href="./prior-to-data-coll-checklist.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -102,7 +81,7 @@ div.csl-indent {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Preface</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./during-data-collection.html"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">During data collection</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -129,7 +108,7 @@ div.csl-indent {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Preface</span></a>
   </div>
 </li>
@@ -159,7 +138,7 @@ div.csl-indent {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./during-data-collection.html" class="sidebar-item-text sidebar-link">
+  <a href="./during-data-collection.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">During data collection</span></span></a>
   </div>
 </li>
@@ -185,14 +164,15 @@ div.csl-indent {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#preface" id="toc-preface" class="nav-link active" data-scroll-target="#preface">Preface</a></li>
-  <li><a href="#overview" id="toc-overview" class="nav-link" data-scroll-target="#overview">Overview</a>
+  <li><a href="#running-the-experiment" id="toc-running-the-experiment" class="nav-link active" data-scroll-target="#running-the-experiment"><span class="header-section-number">5.1</span> Running the experiment</a>
   <ul class="collapse">
-  <li><a href="#important-links" id="toc-important-links" class="nav-link" data-scroll-target="#important-links">Important links</a></li>
-  <li><a href="#contact-info" id="toc-contact-info" class="nav-link" data-scroll-target="#contact-info">Contact info</a></li>
-  <li><a href="#data-collection-period" id="toc-data-collection-period" class="nav-link" data-scroll-target="#data-collection-period">Data collection period</a></li>
-  <li><a href="#mb5-lab-checklist" id="toc-mb5-lab-checklist" class="nav-link" data-scroll-target="#mb5-lab-checklist">MB5 Lab Checklist</a></li>
+  <li><a href="#restarts-recalibration-eye-tracker-and-pauses" id="toc-restarts-recalibration-eye-tracker-and-pauses" class="nav-link" data-scroll-target="#restarts-recalibration-eye-tracker-and-pauses"><span class="header-section-number">5.1.1</span> Restarts, recalibration (eye-tracker) and pauses</a></li>
   </ul></li>
+  <li><a href="#exclusions-and-reporting-errors-and-infant-fuss-outs" id="toc-exclusions-and-reporting-errors-and-infant-fuss-outs" class="nav-link" data-scroll-target="#exclusions-and-reporting-errors-and-infant-fuss-outs"><span class="header-section-number">5.2</span> Exclusions and reporting errors and infant “fuss-outs”</a>
+  <ul class="collapse">
+  <li><a href="#session-level-and-trial-level-errors" id="toc-session-level-and-trial-level-errors" class="nav-link" data-scroll-target="#session-level-and-trial-level-errors"><span class="header-section-number">5.2.1</span> Session-level and trial-level errors</a></li>
+  </ul></li>
+  <li><a href="#peeking-and-stopping-rules" id="toc-peeking-and-stopping-rules" class="nav-link" data-scroll-target="#peeking-and-stopping-rules"><span class="header-section-number">5.3</span> Peeking and stopping rules</a></li>
   </ul>
 </nav>
     </div>
@@ -201,26 +181,14 @@ div.csl-indent {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">MB5-manual</h1>
+<h1 class="title"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">During data collection</span></h1>
 </div>
 
 
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>MB5 Leads </p>
-          </div>
-  </div>
     
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">October 22, 2024</p>
-    </div>
-  </div>
   
     
   </div>
@@ -230,103 +198,29 @@ div.csl-indent {
 </header>
 
 
-<section id="preface" class="level1 unnumbered">
-<h1 class="unnumbered">Preface</h1>
-<p>This is a Quarto book.</p>
-<p>To learn more about Quarto books visit <a href="https://quarto.org/docs/books" class="uri">https://quarto.org/docs/books</a>.</p>
-</section>
-<section id="overview" class="level1 unnumbered">
-<h1 class="unnumbered">Overview</h1>
-<p><img src="images/mb-logo.png" class="img-fluid" style="width:25.0%"> <img src="images/mb5-logo.png" class="img-fluid" style="width:25.0%"></p>
-<section id="thank-you-for-contributing-to-manybabies-5-a-project-of-manybabies" class="level4 unnumbered">
-<h4 class="unnumbered anchored" data-anchor-id="thank-you-for-contributing-to-manybabies-5-a-project-of-manybabies">Thank you for contributing to <a href="https://manybabies.org/MB5/"><strong>ManyBabies 5</strong></a>, a project of <a href="https://manybabies.org/"><strong>ManyBabies</strong></a>!</h4>
-<p>MB5 is a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs.&nbsp;novelty preference through a collaboratively-designed “best test” of a popular model of infants’ visual preference for familiar and novel stimuli <span class="citation" data-cites="hunter1988">(<a href="references.html#ref-hunter1988" role="doc-biblioref">Hunter &amp; Ames, 1988</a>)</span>. More details about the background, design and hypotheses can be found in the <a href="https://osf.io/preprints/psyarxiv/ck3vd"><strong>Registered Report</strong></a> <span class="citation" data-cites="kosie">(<a href="references.html#ref-kosie" role="doc-biblioref">Kosie et al., n.d.</a>)</span>. In the following sections, we provide instructions on how to implement the experiment in your lab and report data back to the project as a whole. Thanks for joining us!</p>
-<hr>
-<p><a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" style="border-width:0"></a><br>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.</p>
-<hr>
-</section>
-<section id="important-links" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="important-links">Important links</h2>
-<ul>
-<li><h4 id="manybabies-general-manual" class="unnumbered anchored"><a href="https://docs.google.com/document/d/e/2PACX-1vQT9a2lYPUclD_Mbqz_sca4NZq6tCb1HzfMSt9EEQt54mAb55vrkE3J6_6uydYAH-afCdSCaSELycAI/pub" target="_blank">ManyBabies General Manual</a></h4></li>
-<li><h4 id="mb5-stage-1-registered-report" class="unnumbered anchored"><a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">MB5 Stage 1 Registered Report</a></h4></li>
-<li><h4 id="mb5-project-website" class="unnumbered anchored"><a href="https://manybabies.org/MB5/" target="_blank">MB5 project website</a></h4></li>
-<li><h4 id="mb5-collaboration-agreement" class="unnumbered anchored"><a href="https://docs.google.com/document/d/1vbTDmH6euda5pJN4uyds3zsnQ1DXrW9wpHogwC-5TSk/edit?usp=sharing" target="_blank">MB5 collaboration agreement</a></h4></li>
-<li><h4 id="mb5-issue-tracker-form" class="unnumbered anchored"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfXoKjJo3XgGuXCLhWhzEDz0UrJ7tmio-70SoS24g4vqc4Utg/viewform?usp=sf_link" target="_blank">MB5 issue tracker form</a></h4></li>
-<li><h4 id="mb5-documentation-upload-form" class="unnumbered anchored"><a href="https://docs.google.com/forms/d/e/1FAIpQLScunCYwrJApObng6xVV_lN4CUrcLrsrAKmiBmia67vPc9jNTA/viewform?usp=sf_link" target="_blank">MB5 documentation upload form </a></h4></li>
-<li><h4 id="mb5-data-upload-form" class="unnumbered anchored"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeydFOC2LviKVBhHEpExH5SEJsqH0705pxH8gwHsPDN13Qk6Q/viewform?usp=sf_link" target="_blank">MB5 data upload form</a></h4></li>
-</ul>
-</section>
-<section id="contact-info" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="contact-info">Contact info</h2>
-<ul>
-<li><h5 id="mb5-general-contact-mb5manybabies.org" class="unnumbered anchored">MB5 general contact: <a href="mailto:mb5@manybabies.org">mb5@manybabies.org</a> </h5></li>
-<li><h5 id="jessica-kosie-project-lead-jkosieasu.edu" class="anchored">Jessica Kosie (Project Lead): <a href="mailto:jkosie@asu.edu">jkosie@asu.edu</a></h5></li>
-<li><h5 id="martin-zettersten-project-lead-mzetterstenucsd.edu" class="anchored">Martin Zettersten (Project Lead): <a href="mailto:mzettersten@ucsd.edu">mzettersten@ucsd.edu</a></h5></li>
-<li><h5 id="casey-lew-williams-project-lead-caseylwprinceton.edu" class="anchored">Casey Lew-Williams (Project Lead): <a href="mailto:caseylw@princeton.edu">caseylw@princeton.edu</a></h5></li>
-<li><h5 id="heidi-baumgartner-mb-exec.-director-heidibmanybabies.org" class="anchored">Heidi Baumgartner (MB Exec. Director): <a href="mailto:heidib@manybabies.org">heidib@manybabies.org</a></h5></li>
-</ul>
-</section>
-<section id="data-collection-period" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="data-collection-period">Data collection period</h2>
-<p>MB5 data collection is scheduled to run between the following dates:</p>
-<section id="start-date-2024-mm-dd" class="level4 unnumbered">
-<h4 class="unnumbered anchored" data-anchor-id="start-date-2024-mm-dd"><em>Start Date:</em> <strong>2024-MM-DD</strong></h4>
-</section>
-<section id="end-date-2025-mm-dd" class="level4 unnumbered">
-<h4 class="unnumbered anchored" data-anchor-id="end-date-2025-mm-dd"><em>End Date:</em> <strong>2025-MM-DD</strong></h4>
-<p>It is essential that all participating labs do their best to collect data prior to the End Date. However, we understand that there may be disruptions to data collection for various reasons. If you are having trouble meeting this timeframe, please alert the leadership team (<a href="mailto:mb5@manybabies.org">mb5@manybabies.org</a>) as soon as possible to discuss options.</p>
-<p><br></p>
-<p><strong>Labs may join the MB5 project any time during the data collection period, provided:</strong></p>
-<ul>
-<li>They commit to completing data collection by the specified end date, and</li>
-<li>A formal “green-light” for testing is obtained</li>
-</ul>
+<section id="running-the-experiment" class="level2" data-number="5.1">
+<h2 data-number="5.1" class="anchored" data-anchor-id="running-the-experiment"><span class="header-section-number">5.1</span> Running the experiment</h2>
+<section id="restarts-recalibration-eye-tracker-and-pauses" class="level3" data-number="5.1.1">
+<h3 data-number="5.1.1" class="anchored" data-anchor-id="restarts-recalibration-eye-tracker-and-pauses"><span class="header-section-number">5.1.1</span> Restarts, recalibration (eye-tracker) and pauses</h3>
+<p>Any pauses in the procedure can potentially lead to an erasure of the weak memory trace for the familiarization stimuli (Gerken, p.c. noticed a loss of effect if there is a 30+ second pause between familiarization and test phase). Therefore, we ask: NO RESTARTS. Do not restart any trials, regardless of short looking, fussiness, experimental error, etc. Very short trials will be excluded centrally during the analysis process, but should be fully reported and not repeated. DO NOT RECALIBRATE (eyetrackers) once the session has started. Pauses: If babies are fussy, it can be necessary to attempt to get them settled. You may use the natural pause of an attention getter to let the parent non-verbally resettle their baby for a very short time (a couple of seconds, according to your practices). However, longer pauses should result in the cessation of the study. Suggestion: if the baby is fussy and you would like to try to continue the experiment after the baby calms down just so that the parent gets the full experience, you are welcome to do so, but this data must be excluded. For these babies, you would report any data collected before the actual experiment terminated from fuss-out/inattention, not the repeat or continued demonstration.</p>
 </section>
 </section>
-<section id="mb5-lab-checklist" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="mb5-lab-checklist">MB5 Lab Checklist</h2>
-<p>These are the steps that every data-collecting lab must follow to participate in MB5. More detail for each checklist item is available in the linked manual sections.</p>
-<p><strong>BEFORE you do ANYTHING else:</strong></p>
-<ol type="1">
-<li>Complete the <a href="https://docs.google.com/forms/d/e/1FAIpQLSdJnP3KO_dCmj-jNPHs0XP2j3q66g1RI6L31dwhCzhwhoJeoA/viewform" target="_blank"><b>ManyBabies 5 Initial Sign-Up Form</b></a>.</li>
-<li>Read the <a href="https://docs.google.com/document/d/1vbTDmH6euda5pJN4uyds3zsnQ1DXrW9wpHogwC-5TSk/edit?usp=sharing" target="_blank"><b>MB5 Collaboration Agreement</b></a>.</li>
-<li><b>Read this manual start to finish</b> and review the information in the <a href="https://docs.google.com/document/d/e/2PACX-1vQT9a2lYPUclD_Mbqz_sca4NZq6tCb1HzfMSt9EEQt54mAb55vrkE3J6_6uydYAH-afCdSCaSELycAI/pub" target="_blank"><b>ManyBabies General Manual</b></a> regarding <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.22i70rxou3ha" target="_blank">ethical research</a>, <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.9ty2g48mpe0t" target="_blank">authorship</a>, <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.aunbjkpwxhf3" target="_blank">data sharing</a>, and <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.6h67zsyeiveg" target="_blank">data use</a>.</li>
-</ol>
-<p><strong>BEFORE you begin data collection:</strong></p>
-<ol start="4" type="1">
-<li>[<strong>Set up your study</strong>][Setting up the experiment] in consultation with this lab manual. Decide on your planned sample size/stopping rule. Carefully record any needed deviations from the protocol using the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXoKjJo3XgGuXCLhWhzEDz0UrJ7tmio-70SoS24g4vqc4Utg/viewform?usp=sf_link" target="_blank"><b>MB5 issue tracker form</b></a>.</li>
-<li>Complete the <b>Laboratory Questionnaire</b> [INSERT LINK],</li>
-<li>Submit [<strong>ethics approval</strong>] and other documentation/materials using the <a href="https://docs.google.com/forms/d/e/1FAIpQLScunCYwrJApObng6xVV_lN4CUrcLrsrAKmiBmia67vPc9jNTA/viewform?usp=sf_link" target="_blank"><b>MB5 documentation upload form</b></a>.</li>
-<li>Create and submit your [<strong>walkthrough video</strong>][Walkthrough video].</li>
-<li>Run pilot sample through the <a href="https://manybabies.org/validator/" target="_blank"><b>Data Validator</b></a>.</li>
-<li>Send email to <a href="mb5@manybabies.org">mb5@manybabies.org</a> to let the leadership team know that you are ready for “green-lighting”.</li>
-<li><strong>Wait for your official “green-light”</strong> from the leadership team to begin data collection.</li>
-</ol>
-<p><strong>Data collection:</strong></p>
-<ol start="11" type="1">
-<li>Collect your data!</li>
-</ol>
-<blockquote class="blockquote">
-<p><em>IMPORTANT: DO NOT begin data collection (other than piloting) until you have been explicitly (and individually) “green-lighted” to do so.</em></p>
-</blockquote>
-<p><strong>AFTER you finish data collection:</strong></p>
-<ol start="12" type="1">
-<li>Complete your participant and trial data files in consultation with the data reporting instructions “[Data reporting guidelines].”</li>
-<li>Submit your data using the <a href="https://docs.google.com/forms/d/e/1FAIpQLSeydFOC2LviKVBhHEpExH5SEJsqH0705pxH8gwHsPDN13Qk6Q/viewform?usp=sf_link">MB5 data upload form</a>.</li>
-<li>Report contributions using the <a href="https://manybabies.org/credit/">MB Contribution Reporting Form</a></li>
-</ol>
+<section id="exclusions-and-reporting-errors-and-infant-fuss-outs" class="level2" data-number="5.2">
+<h2 data-number="5.2" class="anchored" data-anchor-id="exclusions-and-reporting-errors-and-infant-fuss-outs"><span class="header-section-number">5.2</span> Exclusions and reporting errors and infant “fuss-outs”</h2>
+<p>Decisions regarding discards for experimental reasons will be made centrally and need to be reported consistently, hence it is important to retain all data from all infants that entered the testing room. Specifically, the data you send in for central analysis should use the “toe in the testing room” standard: if the infant made it so far as the testing room, the Pparticipant Data files dataset should include their data. In ManyBabies studies, we do not discard “partial data.” It is important for both reporting purposes and potential secondary analyses to have full information about both “usable” and “unusable” trials, even for infants who did not complete or provide usable data for all familiarization and test trials. Trial-level exclusions may not result in the exclusion of the participant from the dataset. These instructions are counter to many labs’ normal internal practices, so please ensure that RAs are fully trained on this element. There are specific columns in the data templates to report the reasons that some of this data should not be included in the main analysis; every lab is expected to report at least some ‘unusable’ data!</p>
+<section id="session-level-and-trial-level-errors" class="level3" data-number="5.2.1">
+<h3 data-number="5.2.1" class="anchored" data-anchor-id="session-level-and-trial-level-errors"><span class="header-section-number">5.2.1</span> Session-level and trial-level errors</h3>
+<p>There are two possible kinds of exclusion: session-level (exclude all data from this participant from analysis) and trial-level (exclude just this trial, e.g.&nbsp;because there was interference or the baby had already fussed out). Session-level errors are reported in the Participant Data file and trial-level errors are reported in the Trial Data file. Most lab-reported errors will be “trial-level” errors. If the infant completed any trials, please do NOT report the infant as a session-level error EVEN IF YOU LATER REALIZE THE CHILD DOES NOT MEET ALL INCLUSION CRITERIA. Medical issues and developmental concerns. Please do not exclude based on medical issues / developmental concerns. Instead, provide sufficient detail in the ‘medical_issue’and/or ’developmental_concern’ fields for the analysis team to review and categorize centrally. As with all exclusions, it is important to include these in your data if the infant entered the testing room.</p>
+<p>For clear-cut judgements such as age, please just use the appropriate columns to report the values that would result in exclusion (e.g.&nbsp;“age = 3 years”). For subjective judgements such as whether the baby was too fussy, the central decision will be made based on the original coder/RA’s judgment, since it would be impractical to review comments/videos and make the decision centrally. Therefore, please be very clear (but succinct) in the ‘trial_error_info’ and ‘session_error_info’ fields about whether a given trial should be discarded and why. Please classify as one of the listed ‘Value example’ options in the Data Dictionary where possible. Use the “other” category sparingly and only if absolutely necessary. In the ‘notes’ column, please provide further succinct but sufficient information so that it is clear why a given trial or infant was excluded (e.g.&nbsp;“mom pointed at the screen”). Remember that this will be the only information that will be available to the analysis team as they compile and analyze the dataset; ambiguous entries will be problematic for data analysis!</p>
+<p>Session-level errors: Session level errors are those which result in discarding the data for a participant completely. Session level errors include: Fuss-out after entering the testing room but prior to starting the experiment Parental interference affecting ALL trials (e.g.&nbsp;caregiver refuses to wear the eye covering properly through all trials, or chronically failing to comply with experimenter instructions such that the validity of the entire session is in question). Experimenter error that makes the entire session unuseable (e.g.&nbsp;ran the wrong test session). Equipment failure that makes the entire session unuseable (e.g.&nbsp;video was not playing properly) Failure to calibrate (eyetrackers only) Infant was tested but was found to not meet the inclusion criteria (e.g.&nbsp;vision issues reported on the demographics questionnaire). Only in cases where infants did not start the experiment (i.e., did not see any stimuli) due to fuss-out or equipment/calibration failure, labs are welcome to reschedule the appointment to another occasion; please indicate this in the participant data form. With regards to session-level errors: Please make sure to include participants excluded for session-level errors in your Participant Data file. You do not need to report them in the Trial Data file (see below for details about the required formats of these files). Data from infants where session-level errors are reported do NOT count towards the minimum sample size. Please do NOT mark a participant as a “session-level” error if an infant entered the testing room and completed the first familiarization phase even if they provided no usable test trial data. Trial-level errors: Trial-level errors are those which result in discarding the data for a single trial. Each of the 12 test trials should be marked as either ‘no error’ (usable) or ‘error’ (to be discarded). Trials with no usable data should have ‘NA’ marked in their data columns. Your lab will make the decision and report whether a trial should be excluded, as well as the reason why. These can include temporary instances of issues such as: parental interference in the middle of the experiment (e.g.&nbsp;mother speaks to infant during a trial and gets their attention) experimenter error or equipment failure that affects one or more trials but not the entire session transitory infant fussiness involving only a very brief pause in testing (see below for further details on reporting), or fussiness where the infant “fusses out” after the initiation of one or more test trials With regards to trial-level errors note: For transitory fussiness, ONLY mark the trials on which the infant was actually fussy - further exclusions may be implemented centrally, but it is important that any potentially usable trials after a transitory fussiness period be included in the submitted data. For example, if the infant was fussy on trials 8 and 10 but not trials 1-7,9,11 and 12, only trials 8 and 10 should be marked as an exclusion. If the infant provides some usable trials and then “fusses out” so that the study is terminated prematurely, please make this clear by marking ‘NA’ on trials that were not given.</p>
+<p>Trial level errors resulting in further exclusion: In most cases, trial level exclusions should result in exclusion ONLY of the trial immediately impacted by the exclusion (e.g.&nbsp;transitory fussiness, parent distracting baby by scratching their nose). However, in some cases, it may be necessary to exclude all subsequent trials, because of concerns that the infant is no longer “on task”. If this is the case, please mark all subsequent trials as trial level errors and explain the reasoning in the notes. Some examples of this type of situation: Any time (due to fussiness or other reasons) there is a break between trials of more than a few seconds. Equipment failure that raises concerns about the validity of subsequent trials. Significant parental interference/engagement or external noise that diverts the infant’s attention to the extent that it raises concerns about the infant being distracted across all trials. Note that we have included a test in the robustness checking section of the manuscript about the effect of discarding trials after an initial excluded trial.</p>
+</section>
+</section>
+<section id="peeking-and-stopping-rules" class="level2" data-number="5.3">
+<h2 data-number="5.3" class="anchored" data-anchor-id="peeking-and-stopping-rules"><span class="header-section-number">5.3</span> Peeking and stopping rules</h2>
+<p>In your initial commitment to a recruitment block (in the laboratory questionnaire), you will document your recruitment practices, your initial plan regarding how many babies you will run and of what type, as well as your stopping rule (e.g.&nbsp;stop when I reach the specified N, stop when the study data collection time ends). It is important to document any changes to your recruitment/stopping rule with a “protocol change form”. IMPORTANT: It is critical for the integrity of the data analysis that you NOT base any decisions about how many babies to run on the data being generated in your lab, or on the number of participant exclusions. Laboratories should stick with their original “stopping rule” - whether based on a number of participants or testing time frame. However, we recognize that this may not always be possible. In extraordinary circumstances, decisions about changes to the sample size and stopping rule must be made by someone who has not viewed the emerging data. You can look (if necessary, e.g.&nbsp;to support a student interim report) but you MUST NOT change your recruitment goals and strategy based on your view of the data. Doing this will compromise the goals of the project! If you change your recruitment based on the data, that invalidates the statistical inferences we want to make and introduces exactly the kinds of biases into the data that this project was designed to avoid. If your lab is running pre-specified pilot participants (e.g., to practice the procedure), you may make minor procedural adjustments during that period only.</p>
 
 
-<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list" style="display: none">
-<div id="ref-hunter1988" class="csl-entry" role="listitem">
-Hunter, M. A., &amp; Ames, E. W. (1988). <em>A multifactor model of infant preferences for novel and familiar stimuli</em> (pp. 69–95). Ablex Publishing.
-</div>
-<div id="ref-kosie" class="csl-entry" role="listitem">
-Kosie, J., Zettersten, M., Abu-Zhaya, R., Amso, D., Babineau, M., Baumgartner, H., Bazhydai, M., Belia, M., Benavides, S., Bergmann, C., Berteletti, I., Black, A. K., Borges, P., Borovsky, A., Byers-Heinlein, K., Cabrera, L., Calignano, G., Cao, A., Cox, C. M. M., … Lew-Williams, C. (n.d.). <em>ManyBabies 5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time</em>. <a href="https://doi.org/10.31234/osf.io/ck3vd">https://doi.org/10.31234/osf.io/ck3vd</a>
-</div>
-</div>
-</section>
 </section>
 
 </main> <!-- /main -->
@@ -752,10 +646,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
+      <a href="./prior-to-data-coll-checklist.html" class="pagination-link" aria-label="Prior to data collection checklist">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Prior to data collection checklist</span></span>
+      </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./getting-started.html" class="pagination-link" aria-label="Getting Started">
-        <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Getting Started</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./after-data-collection.html" class="pagination-link" aria-label="After data collection">
+        <span class="nav-page-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">After data collection</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

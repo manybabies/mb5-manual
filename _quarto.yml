@@ -1,0 +1,28 @@
+project:
+  type: book
+
+book:
+  title: "MB5-manual"
+  author: "MB5 Leads"
+  date: "2024-10-22"
+  chapters:
+    - index.qmd
+    - getting-started.qmd
+    - setting-up-experiment.qmd
+    - general-lab-practices.qmd
+    - prior-to-data-coll-checklist.qmd
+    - during-data-collection.qmd
+    - after-data-collection.qmd
+    - references.qmd
+
+bibliography: references.bib
+csl: apa.csl
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
