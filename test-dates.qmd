@@ -1,0 +1,16 @@
+# Data collection period {.unnumbered}
+
+MB5 data collection is scheduled to run between the following dates:
+
+#### *Start Date:* **2024-MM-DD** {.unnumbered}
+
+#### *End Date:* **2025-MM-DD** {.unnumbered}
+
+It is essential that all participating labs do their best to collect data prior to the End Date. However, we understand that there may be disruptions to data collection for various reasons. If you are having trouble meeting this timeframe, please alert the leadership team ([mb5\@manybabies.org](mailto:mb5@manybabies.org)) as soon as possible to discuss options.
+
+<br>
+
+**Labs may join the MB5 project any time during the data collection period, provided:**
+
+-   They commit to completing data collection by the specified end date, AND
+-   A formal “green-light” for testing is obtained from project leadership
