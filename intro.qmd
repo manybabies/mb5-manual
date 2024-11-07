@@ -1,18 +1,6 @@
 # Introduction
 
-## Contact info {.unnumbered}
 
--   MB5 general contact: [mb5\@manybabies.org](mailto:mb5@manybabies.org)
-
--   Jessica Kosie (Project Lead): [jkosie\@asu.edu](mailto:jkosie@asu.edu)
-
--   Martin Zettersten (Project Lead): [mzettersten\@ucsd.edu](mailto:mzettersten@ucsd.edu)
-
--   Casey Lew-Williams (Project Lead): [caseylw\@princeton.edu](mailto:caseylw@princeton.edu)
-
--   Heidi Baumgartner (MB Exec. Director): [heidib\@manybabies.org](mailto:heidib@manybabies.org)
-
-<br>
 
 ## Data collection period {.unnumbered}
 

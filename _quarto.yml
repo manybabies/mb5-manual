@@ -15,9 +15,9 @@ book:
     footer: license.qmd
   chapters:
     - index.qmd
-    - part: "Important links"
+    - part: "General information"
       chapters:
-        - 01-links.qmd
+        - contact-info.qmd
     - getting-started.qmd
     - setting-up-experiment.qmd
     - general-lab-practices.qmd
