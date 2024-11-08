@@ -4,9 +4,7 @@ This is a Quarto book.
 
 To learn more about Quarto books visit <https://quarto.org/docs/books>.
 
-# Overview {.unnumbered}
-
-![](images/mb-logo.png){width="25%"} ![](images/mb5-logo.png){width="25%"}
+![](images/mb-logo.png){width="30%"} ![](images/mb5-logo.png){width="30%"}
 
 
 
