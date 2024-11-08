@@ -34,6 +34,10 @@ book:
     - during-data-collection.qmd
     - after-data-collection.qmd
     - references.qmd
+    - part: "Appendices"
+      appendices:
+        - collab-agreement.qmd
+
 
 bibliography: references.bib
 csl: apa.csl
