@@ -16,12 +16,15 @@ book:
     footer: license.qmd
   chapters:
     - index.qmd
-    - part: "General information"
+    - part: intro.qmd
       chapters:
         - contact-info.qmd
         - test-dates.qmd
         - lab-checklist.qmd
-    - getting-started.qmd
+    - part: getting-started.qmd
+        - green-lighting.qmd
+        - ethics.qmd
+        - participants.qmd
     - setting-up-experiment.qmd
     - general-lab-practices.qmd
     - prior-to-data-coll-checklist.qmd
