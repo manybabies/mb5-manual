@@ -2,11 +2,6 @@
 
 <br>
 
-* *Authored by:* ManyBabies (adapted from the Psychological Science Accelerator Collaboration Agreement template)
-* *Amended by:* Jessica Kosie, Martin Zettersten, Christina Bergmann, Dima Amso, Casey Lew-Williams
-* *Reviewed by:* J.K., M.Z., C.L.-W., Heidi Baumgartner
-* *Date updated:*	2022-04-29
-
 # ManyBabies 5 Collaboration Agreement {.unnumbered}
 
 This agreement describes how work on the [ManyBabies 5](manybabies.org/MB5) project will be structured and credited. The purpose of this agreement is to clarify contributor roles and expectations in the interest of transparency.
@@ -137,3 +132,12 @@ As the project evolves, changes may be made to this collaboration agreement. In 
 
 ## Contact info {.unnumbered}
 We encourage you to ask questions and raise concerns about project-related matters as soon as possible. You can direct all questions and concerns to [jkosie@asu.edu](mailto:jkosie@asu.edu), [mzettersten@ucsd.edu](mailto:mzettersten@ucsd.edu), and/or [caseylw@princeton.edu](mailto:caseylw@princeton.edu). If you have an issue or concern that you would like addressed by MB leadership, you can contact the [MB Executive Director](mailto:contact@manybabies.org) or the [MB Governing Board](mailto:govboard@manybabies.org).
+
+
+***
+
+* *Authored by:* ManyBabies (adapted from the Psychological Science Accelerator Collaboration Agreement template)
+* *Amended by:* Jessica Kosie, Martin Zettersten, Christina Bergmann, Dima Amso, Casey Lew-Williams
+* *Reviewed by:* J.K., M.Z., C.L.-W., Heidi Baumgartner
+* *Date updated:*	2022-04-29
+
