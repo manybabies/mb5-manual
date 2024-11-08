@@ -21,6 +21,7 @@ book:
         - contact-info.qmd
         - test-dates.qmd
         - lab-checklist.qmd
+    - getting-started.qmd
     - part: getting-started.qmd
       chapters:
         - green-lighting.qmd
