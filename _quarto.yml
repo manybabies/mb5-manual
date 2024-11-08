@@ -21,7 +21,11 @@ book:
         - contact-info.qmd
         - test-dates.qmd
         - lab-checklist.qmd
-    - getting-started.qmd
+    - part: getting-started.qmd
+      chapters: 
+        - green-lighting.qmd
+        - ethics.qmd
+        - participants.qmd
     - part: setting-up-experiment.qmd
       chapters: 
         - equipment.qmd
