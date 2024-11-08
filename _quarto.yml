@@ -4,7 +4,7 @@ project:
 
 reference-location: margin # footnotes in margin
 link-citations: true       # citations link to references
-number-depth: 1
+number-depth: 2
 
 book:
   title: "Many Babies 5 Lab Manual"
@@ -22,11 +22,6 @@ book:
         - test-dates.qmd
         - lab-checklist.qmd
     - getting-started.qmd
-    - part: getting-started.qmd
-      chapters:
-        - green-lighting.qmd
-        - ethics.qmd
-        - participants.qmd
     - part: setting-up-experiment.qmd
       chapters: 
         - equipment.qmd
