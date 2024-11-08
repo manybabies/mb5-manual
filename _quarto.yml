@@ -22,6 +22,7 @@ book:
         - test-dates.qmd
         - lab-checklist.qmd
     - part: getting-started.qmd
+      chapters:
         - green-lighting.qmd
         - ethics.qmd
         - participants.qmd
