@@ -2,34 +2,33 @@
 
 ## Contact info
 
--   MB5 general contact: [mb5\@manybabies.org](mailto:mb5@manybabies.org)
+-   **General inquiries**: [mb5\@manybabies.org](mailto:mb5@manybabies.org)
 
--   Jessica Kosie (Project Lead): [jkosie\@asu.edu](mailto:jkosie@asu.edu)
+-   **Jessica Kosie** (Project Lead): [jkosie\@asu.edu](mailto:jkosie@asu.edu)
 
--   Martin Zettersten (Project Lead): [mzettersten\@ucsd.edu](mailto:mzettersten@ucsd.edu)
+-   **Martin Zettersten** (Project Lead): [mzettersten\@ucsd.edu](mailto:mzettersten@ucsd.edu)
 
--   Casey Lew-Williams (Project Lead): [caseylw\@princeton.edu](mailto:caseylw@princeton.edu)
+-   **Casey Lew-Williams** (Project Lead): [caseylw\@princeton.edu](mailto:caseylw@princeton.edu)
 
--   Heidi Baumgartner (MB Exec. Director): [heidib\@manybabies.org](mailto:heidib@manybabies.org)
+-   **Heidi Baumgartner** (MB Exec. Director): [heidib\@manybabies.org](mailto:heidib@manybabies.org)
 
 ## Project listserv {.unnumbered}
 
--   [mb5-list\@manybabies.org](mailto:mb5-list@manybabies.org) [\[subscribe here,](https://groups.google.com/a/manybabies.org/g/mb5-list)click on "Join group" using a google-linked account, or email [mb5\@manybabies.org](mailto:mb5@manybabies.org) to request to join[\]](https://groups.google.com/a/manybabies.org/g/mb5-list)
+-   **MB5 project listserv**: [mb5-list\@manybabies.org](mailto:mb5-list@manybabies.org)
+-   **Subscribe to listserv**:<a href="https://groups.google.com/a/manybabies.org/g/mb5-list" target="_blank">link</a>*(click on "Join group" using a google-linked account, or email [mb5\@manybabies.org](mailto:mb5@manybabies.org) to request to join)*
 
 ## Important links {.unnumbered}
 
--   MB5 project website: <a href="https://manybabies.org/MB5/" target="_blank">manybabies.org/MB5</a>
+-   **MB5 project website**: <a href="https://manybabies.org/MB5/" target="_blank">manybabies.org/MB5</a>
 
--   MB5 listserv: <a href="https://groups.google.com/a/manybabies.org/g/mb5-list" target="_blank">subscribe</a> *(click on "Join group" using a google-linked account, or email mb5\@manybabies.org to request to join)*
+-   **MB5 Stage 1 Registered Report**: <a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">https://doi.org/10.31234/osf.io/ck3vd</a>
 
--   MB5 Lab Manual (this document): <a href="https://manybabies.org/mb5-manual" target="_blank">manybabies.org/mb5-manual</a>
+-   **MB5 Lab Manual** (this document): <a href="https://manybabies.org/mb5-manual" target="_blank">manybabies.org/mb5-manual</a>
 
--   MB5 Stage 1 Registered Report: <a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">https://doi.org/10.31234/osf.io/ck3vd</a>
+-   **MB5 collaboration agreement**: <a href="https://docs.google.com/document/d/1vbTDmH6euda5pJN4uyds3zsnQ1DXrW9wpHogwC-5TSk/edit?usp=sharing" target="_blank">link to google doc</a> *(note: the MB5 collaboration agreement can also be found in the Appendix of this manual)*
 
--   MB5 collaboration agreement: <a href="https://docs.google.com/document/d/1vbTDmH6euda5pJN4uyds3zsnQ1DXrW9wpHogwC-5TSk/edit?usp=sharing" target="_blank">link to google doc</a> *(note: the MB5 collaboration agreement can also be found in the Appendix of this manual)*
+-   **To report issues with data collection, deviations from protocol, etc.**: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXoKjJo3XgGuXCLhWhzEDz0UrJ7tmio-70SoS24g4vqc4Utg/viewform?usp=sf_link" target="_blank">MB issue tracker form</a>
 
--   MB5 issue tracker form: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXoKjJo3XgGuXCLhWhzEDz0UrJ7tmio-70SoS24g4vqc4Utg/viewform?usp=sf_link" target="_blank">link to form</a>
+-   **To upload required documentation** (e.g., lab questionnaire): <a href="https://docs.google.com/forms/d/e/1FAIpQLScunCYwrJApObng6xVV_lN4CUrcLrsrAKmiBmia67vPc9jNTA/viewform?usp=sf_link" target="_blank">MB5 documentation upload form</a>
 
--   MB5 documentation upload form: <a href="https://docs.google.com/forms/d/e/1FAIpQLScunCYwrJApObng6xVV_lN4CUrcLrsrAKmiBmia67vPc9jNTA/viewform?usp=sf_link" target="_blank">link to form</a>
-
--   MB5 data upload form: <a href="https://docs.google.com/forms/d/e/1FAIpQLSeydFOC2LviKVBhHEpExH5SEJsqH0705pxH8gwHsPDN13Qk6Q/viewform?usp=sf_link" target="_blank">link to form</a>
+-   **To upload data**: <a href="https://docs.google.com/forms/d/e/1FAIpQLSeydFOC2LviKVBhHEpExH5SEJsqH0705pxH8gwHsPDN13Qk6Q/viewform?usp=sf_link" target="_blank">MB5 data upload form</a>
