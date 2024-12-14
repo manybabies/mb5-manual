@@ -25,6 +25,7 @@ format:
     
   pdf:
     documentclass: scrreprt
+    csl: apa.csl
 
 editor: visual
 
@@ -43,18 +44,24 @@ book:
         - contact-info.qmd
         - test-dates.qmd
         - lab-checklist.qmd
-    - part: getting-started.qmd
+    - part: "Getting started"
       chapters: 
+        - getting-started.qmd
         - green-lighting.qmd
         - ethics.qmd
         - participants.qmd
-    - part: setting-up-experiment.qmd
+    - part: "Setting up the experiment"
       chapters: 
+        - setting-up-experiment.qmd
         - equipment.qmd
-    - general-lab-practices.qmd
-    - prior-to-data-coll-checklist.qmd
-    - during-data-collection.qmd
-    - after-data-collection.qmd
+        - prior-to-data-coll-checklist.qmd
+        - general-lab-practices.qmd
+    - part: "Running the experiment"
+      chapters:
+        - during-data-collection.qmd
+    - part: "After data collection"
+      chapters:
+        - after-data-collection.qmd
     - references.qmd
   appendices:
     - collab-agreement.qmd
