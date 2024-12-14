@@ -38,7 +38,7 @@ book:
     footer: license.qmd
   chapters:
     - index.qmd
-    - part: "Introduction"
+    - part: "General information"
       chapters:
         - contact-info.qmd
         - test-dates.qmd

@@ -1,14 +1,8 @@
-# Preface {.unnumbered}
-
-This is a Quarto book.
-
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
-
 ![](images/mb-logo.png){width="30%"} ![](images/mb5-logo.png){width="30%"}
 
 
 ***
-# Introduction & general information {.unnumbered}
+# Preface {.unnumbered}
 
 #### Thank you for contributing to [**ManyBabies 5**](https://manybabies.org/MB5/), a project of [**ManyBabies**](https://manybabies.org/)! {.unnumbered}
 
@@ -17,6 +11,12 @@ MB5 is a cross-lab effort to provide an empirical basis for discussions of repli
 ![Hunter and Ames model of infant attention (adapted from Bergmann and Cristia, 2016)](images/HunterAmesFig.png){#fig-hunterames}
 
 
+
+------------------------------------------------------------------------
+
+This is a Quarto book.
+
+To learn more about Quarto books visit <https://quarto.org/docs/books>.
 
 ------------------------------------------------------------------------
 
