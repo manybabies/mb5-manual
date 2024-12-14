@@ -6,6 +6,27 @@ reference-location: margin # footnotes in margin
 link-citations: true       # citations link to references
 number-depth: 2
 
+bibliography: references.bib
+csl: apa.csl
+reference-section-title: References
+
+crossref:
+  fig-prefix: figure
+  tbl-prefix: table
+  sec-prefix: section
+
+language:
+  crossref-ch-prefix: chapter
+  crossref-apx-prefix: appendix
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
 book:
   title: "Many Babies 5 Lab Manual"
   author: "MB5 Leads"
@@ -37,25 +58,4 @@ book:
   appendices:
     - collab-agreement.qmd
 
-
-bibliography: references.bib
-csl: apa.csl
-reference-section-title: References
-
-crossref:
-  fig-prefix: figure
-  tbl-prefix: table
-  sec-prefix: section
-
-language:
-  crossref-ch-prefix: chapter
-  crossref-apx-prefix: appendix
-
-format:
-  html:
-    theme: cosmo
-  pdf:
-    documentclass: scrreprt
-
-editor: visual
 
