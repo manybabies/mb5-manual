@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Many Babies 5 Lab Manual",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n \n\nThis work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.",
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n \n\n\n\nIntroduction & general information\n\nThank you for contributing to ManyBabies 5, a project of ManyBabies!\nMB5 is a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs. novelty preference through a collaboratively-designed “best test” of a popular model of infants’ visual preference for familiar and novel stimuli (Hunter & Ames, 1988). More details about the background, design and hypotheses can be found in the Registered Report (Kosie et al., n.d.). In the following sections, we provide instructions on how to implement the experiment in your lab and report data back to the project as a whole. Thanks for joining us!\n\n\n\n\n\n\nFigure 1: Hunter and Ames model of infant attention (adapted from Bergmann and Cristia, 2016)\n\n\n\n\nThis work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.\n\n\n\n\n\n\nReferences\n\n\nHunter, M. A., & Ames, E. W. (1988). A multifactor model of infant preferences for novel and familiar stimuli (pp. 69–95). Ablex Publishing.\n\n\nKosie, J., Zettersten, M., Abu-Zhaya, R., Amso, D., Babineau, M., Baumgartner, H., Bazhydai, M., Belia, M., Benavides, S., Bergmann, C., Berteletti, I., Black, A. K., Borges, P., Borovsky, A., Byers-Heinlein, K., Cabrera, L., Calignano, G., Cao, A., Cox, C. M. M., … Lew-Williams, C. (n.d.). ManyBabies 5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time. https://doi.org/10.31234/osf.io/ck3vd",
     "crumbs": [
       "Preface"
     ]
@@ -16,7 +16,7 @@
     "section": "",
     "text": "1.1 Contact info",
     "crumbs": [
-      "Introduction & general information",
+      "Introduction",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Contact info and important links</span>"
     ]
   },
@@ -27,7 +27,7 @@
     "section": "",
     "text": "MB5 general contact: mb5@manybabies.org\nJessica Kosie (Project Lead): jkosie@asu.edu\nMartin Zettersten (Project Lead): mzettersten@ucsd.edu\nCasey Lew-Williams (Project Lead): caseylw@princeton.edu\nHeidi Baumgartner (MB Exec. Director): heidib@manybabies.org",
     "crumbs": [
-      "Introduction & general information",
+      "Introduction",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Contact info and important links</span>"
     ]
   },
@@ -38,7 +38,7 @@
     "section": "Project listserv",
     "text": "Project listserv\n\nmb5-list@manybabies.org [subscribe here,click on “Join group” using a google-linked account, or email mb5@manybabies.org to request to join]",
     "crumbs": [
-      "Introduction & general information",
+      "Introduction",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Contact info and important links</span>"
     ]
   },
@@ -49,7 +49,7 @@
     "section": "Important links",
     "text": "Important links\n\nMB5 listserv (click on “Join group” using a google-linked account, or email mb5@manybabies.org to request to join)\nManyBabies General Manual  (this document)\nMB5 Stage 1 Registered Report\nMB5 project website\nMB5 collaboration agreement\nMB5 issue tracker form\nMB5 documentation upload form \nMB5 data upload form",
     "crumbs": [
-      "Introduction & general information",
+      "Introduction",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Contact info and important links</span>"
     ]
   },
@@ -60,7 +60,7 @@
     "section": "",
     "text": "MB5 data collection is scheduled to run between the following dates:\n\nStart Date: 2024-MM-DD\n\n\nEnd Date: 2025-MM-DD\nIt is essential that all participating labs do their best to collect data prior to the End Date. However, we understand that there may be disruptions to data collection for various reasons. If you are having trouble meeting this timeframe, please alert the leadership team (mb5@manybabies.org) as soon as possible to discuss options.\n\nLabs may join the MB5 project any time during the data collection period, provided:\n\nThey commit to completing data collection by the specified end date, AND\nA formal “green-light” for testing is obtained from project leadership",
     "crumbs": [
-      "Introduction & general information",
+      "Introduction",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Data collection period</span>"
     ]
   },
@@ -71,7 +71,7 @@
     "section": "",
     "text": "These are the steps that every data-collecting lab must follow to participate in MB5. This is just an overview of the data collection process. More detail for each checklist item is available in the linked manual sections.\nBEFORE you do ANYTHING else:\n\nComplete the ManyBabies 5 Initial Sign-Up Form.\nRead the MB5 Collaboration Agreement.\nRead this manual start to finish and review the information in the ManyBabies General Manual regarding ethical research, authorship, data sharing, and data use.\n\nBEFORE you begin data collection:\n\n[Set up your study][Setting up the experiment] in consultation with this lab manual. Decide on your planned sample size/stopping rule. Carefully record any needed deviations from the protocol using the MB5 issue tracker form.\nComplete the Laboratory Questionnaire [INSERT LINK],\nSubmit [ethics approval] and other documentation/materials using the MB5 documentation upload form.\nCreate and submit your [walkthrough video][Walkthrough video].\nRun pilot sample through the Data Validator.\nSend email to mb5@manybabies.org to let the leadership team know that you are ready for “green-lighting”.\nWait for your official “green-light” from the leadership team to begin data collection.\n\nData collection:\n\nCollect your data!\n\n\nIMPORTANT: DO NOT begin data collection (other than piloting) until you have been explicitly (and individually) “green-lighted” to do so.\n\nAFTER you finish data collection:\n\nComplete your participant and trial data files in consultation with the data reporting instructions “[Data reporting guidelines].”\nSubmit your data using the MB5 data upload form.\nReport contributions using the MB Contribution Reporting Form",
     "crumbs": [
-      "Introduction & general information",
+      "Introduction",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>MB5 Lab Checklist</span>"
     ]
   },
@@ -431,16 +431,6 @@
     "crumbs": [
       "Appendices",
       "<span class='chapter-number'>A</span>  <span class='chapter-title'>Collaboration Agreement</span>"
-    ]
-  },
-  {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "Introduction & general information",
-    "section": "",
-    "text": "Thank you for contributing to ManyBabies 5, a project of ManyBabies!\nMB5 is a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs. novelty preference through a collaboratively-designed “best test” of a popular model of infants’ visual preference for familiar and novel stimuli (Hunter & Ames, 1988). More details about the background, design and hypotheses can be found in the Registered Report (Kosie et al., n.d.). In the following sections, we provide instructions on how to implement the experiment in your lab and report data back to the project as a whole. Thanks for joining us!\n\n\n\n\n\n\nFigure 1: Hunter and Ames model of infant attention (adapted from Bergmann and Cristia, 2016)\n\n\n\n\n\n\n\nReferences\n\n\nHunter, M. A., & Ames, E. W. (1988). A multifactor model of infant preferences for novel and familiar stimuli (pp. 69–95). Ablex Publishing.\n\n\nKosie, J., Zettersten, M., Abu-Zhaya, R., Amso, D., Babineau, M., Baumgartner, H., Bazhydai, M., Belia, M., Benavides, S., Bergmann, C., Berteletti, I., Black, A. K., Borges, P., Borovsky, A., Byers-Heinlein, K., Cabrera, L., Calignano, G., Cao, A., Cox, C. M. M., … Lew-Williams, C. (n.d.). ManyBabies 5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time. https://doi.org/10.31234/osf.io/ck3vd",
-    "crumbs": [
-      "Introduction & general information"
     ]
   },
   {
