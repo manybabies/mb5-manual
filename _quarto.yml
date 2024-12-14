@@ -6,6 +6,38 @@ reference-location: margin # footnotes in margin
 link-citations: true       # citations link to references
 number-depth: 2
 
+book:
+  title: "Many Babies 5 Lab Manual"
+  author: "MB5 Leads"
+  date: last-modified
+  repo-url: https://github.com/manybabies/mb5-manual
+  sidebar:
+    style: "docked"
+    footer: license.qmd
+  chapters:
+    - index.qmd
+    - part: intro.qmd
+      chapters:
+        - contact-info.qmd
+        - test-dates.qmd
+        - lab-checklist.qmd
+    - part: getting-started.qmd
+      chapters: 
+        - green-lighting.qmd
+        - ethics.qmd
+        - participants.qmd
+    - part: setting-up-experiment.qmd
+      chapters: 
+        - equipment.qmd
+    - general-lab-practices.qmd
+    - prior-to-data-coll-checklist.qmd
+    - during-data-collection.qmd
+    - after-data-collection.qmd
+    - references.qmd
+  appendices:
+    - collab-agreement.qmd
+
+
 bibliography: references.bib
 csl: apa.csl
 reference-section-title: References
@@ -24,51 +56,6 @@ format:
     theme: cosmo
   pdf:
     documentclass: scrreprt
-    links-as-notes: true # turn URLs into sidenotes
-    citecolor: DarkGreen # tufte color
-    linkcolor: DarkBlue # tufte color
-    urlcolor: DarkGreen # tufte color
 
 editor: visual
-
-book:
-  title: "Many Babies 5 Lab Manual"
-  author: "MB5 Leads"
-  date: last-modified
-  repo-url: https://github.com/manybabies/mb5-manual
-  downloads: [pdf]
-  sidebar:
-    style: "docked"
-    footer: license.qmd
-  chapters:
-    - index.qmd
-    - part: Introduction & general info
-      chapters:
-        - intro.qmd
-        - contact-info.qmd
-        - test-dates.qmd
-        - lab-checklist.qmd
-    - part: getting-started.qmd
-      chapters: 
-        - green-lighting.qmd
-        - ethics.qmd
-        - participants.qmd
-    - part: "Setting up the experiment"
-      chapters: 
-        - setting-up-experiment.qmd
-        - equipment.qmd
-        - prior-to-data-coll-checklist.qmd
-    - part: "Running the experiment"
-      chapters: 
-        - during-data-collection.qmd
-    - part: "After data collection"
-      chapters:
-        - after-data-collection.qmd
-    - general-lab-practices.qmd
-    - references.qmd
-  appendices:
-    - collab-agreement.qmd
-
-
-
 
