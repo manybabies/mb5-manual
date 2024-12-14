@@ -18,18 +18,18 @@
 
 ## Important links {.unnumbered}
 
--   <a href="https://groups.google.com/a/manybabies.org/g/mb5-list" target="_blank">MB5 listserv</a> (click on "Join group" using a google-linked account, or email mb5\@manybabies.org to request to join)
+-   MB5 project website: <a href="https://manybabies.org/MB5/" target="_blank">manybabies.org/MB5</a>
 
--   <a href="https://manybabies.org/mb5-manual" target="_blank">ManyBabies General Manual </a> (this document)
+-   MB5 listserv: <a href="https://groups.google.com/a/manybabies.org/g/mb5-list" target="_blank">subscribe</a> *(click on "Join group" using a google-linked account, or email mb5\@manybabies.org to request to join)*
 
--   <a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">MB5 Stage 1 Registered Report</a>
+-   MB5 Lab Manual (this document): <a href="https://manybabies.org/mb5-manual" target="_blank">manybabies.org/mb5-manual</a>
 
--   <a href="https://manybabies.org/MB5/" target="_blank">MB5 project website</a>
+-   MB5 Stage 1 Registered Report: <a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">https://doi.org/10.31234/osf.io/ck3vd</a>
 
--   <a href="https://docs.google.com/document/d/1vbTDmH6euda5pJN4uyds3zsnQ1DXrW9wpHogwC-5TSk/edit?usp=sharing" target="_blank">MB5 collaboration agreement</a>
+-   MB5 collaboration agreement: <a href="https://docs.google.com/document/d/1vbTDmH6euda5pJN4uyds3zsnQ1DXrW9wpHogwC-5TSk/edit?usp=sharing" target="_blank">link to google doc</a> *(note: the MB5 collaboration agreement can also be found in the Appendix of this manual)*
 
--   <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXoKjJo3XgGuXCLhWhzEDz0UrJ7tmio-70SoS24g4vqc4Utg/viewform?usp=sf_link" target="_blank">MB5 issue tracker form</a>
+-   MB5 issue tracker form: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXoKjJo3XgGuXCLhWhzEDz0UrJ7tmio-70SoS24g4vqc4Utg/viewform?usp=sf_link" target="_blank">link to form</a>
 
--   <a href="https://docs.google.com/forms/d/e/1FAIpQLScunCYwrJApObng6xVV_lN4CUrcLrsrAKmiBmia67vPc9jNTA/viewform?usp=sf_link" target="_blank">MB5 documentation upload form </a>
+-   MB5 documentation upload form: <a href="https://docs.google.com/forms/d/e/1FAIpQLScunCYwrJApObng6xVV_lN4CUrcLrsrAKmiBmia67vPc9jNTA/viewform?usp=sf_link" target="_blank">link to form</a>
 
--   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeydFOC2LviKVBhHEpExH5SEJsqH0705pxH8gwHsPDN13Qk6Q/viewform?usp=sf_link" target="_blank">MB5 data upload form</a>
+-   MB5 data upload form: <a href="https://docs.google.com/forms/d/e/1FAIpQLSeydFOC2LviKVBhHEpExH5SEJsqH0705pxH8gwHsPDN13Qk6Q/viewform?usp=sf_link" target="_blank">link to form</a>
