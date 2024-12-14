@@ -1,4 +1,4 @@
-# Introduction & general information
+# Introduction & general information {.unnumbered}
 
 #### Thank you for contributing to [**ManyBabies 5**](https://manybabies.org/MB5/), a project of [**ManyBabies**](https://manybabies.org/)! {.unnumbered}
 
