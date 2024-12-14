@@ -1,4 +1,4 @@
-# MB5 Lab Checklist {.unnumbered}
+# MB5 Lab Checklist
 
 These are the steps that every data-collecting lab must follow to participate in MB5. This is just an overview of the data collection process. More detail for each checklist item is available in the linked manual sections.
 

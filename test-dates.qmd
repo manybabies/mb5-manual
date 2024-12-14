@@ -1,4 +1,4 @@
-# Data collection period {.unnumbered}
+# Data collection period 
 
 MB5 data collection is scheduled to run between the following dates:
 
