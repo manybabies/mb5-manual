@@ -69,7 +69,7 @@
     "href": "lab-checklist.html",
     "title": "3  MB5 Lab Checklist",
     "section": "",
-    "text": "These are the steps that every data-collecting lab must follow to participate in MB5. This is just an overview of the data collection process. More detail for each checklist item is available in the linked manual sections.\nBEFORE you do ANYTHING else:\n\nComplete the ManyBabies 5 Initial Sign-Up Form.\nRead the MB5 Collaboration Agreement.\nRead this manual start to finish and review the information in the ManyBabies General Manual regarding ethical research, authorship, data sharing, and data use.\n\nBEFORE you begin data collection:\n\n[Set up your study][Setting up the experiment] in consultation with this lab manual. Decide on your planned sample size/stopping rule. Carefully record any needed deviations from the protocol using the MB5 issue tracker form.\nComplete the Laboratory Questionnaire [INSERT LINK],\nSubmit [ethics approval] and other documentation/materials using the MB5 documentation upload form.\nCreate and submit your [walkthrough video][Walkthrough video].\nRun pilot sample through the Data Validator.\nSend email to mb5@manybabies.org to let the leadership team know that you are ready for “green-lighting”.\nWait for your official “green-light” from the leadership team to begin data collection.\n\nData collection:\n\nCollect your data!\n\n\nIMPORTANT: DO NOT begin data collection (other than piloting) until you have been explicitly (and individually) “green-lighted” to do so.\n\nAFTER you finish data collection:\n\nComplete your participant and trial data files in consultation with the data reporting instructions “[Data reporting guidelines].”\nSubmit your data using the MB5 data upload form.\nReport contributions using the MB Contribution Reporting Form",
+    "text": "These are the steps that every data-collecting lab must follow to participate in MB5. This is just an overview of the data collection process. More detail for each checklist item is available in the linked manual sections.\nBEFORE you do ANYTHING else:\n\nComplete the ManyBabies 5 Initial Sign-Up Form.\nRead the MB5 Collaboration Agreement.\nRead this manual start to finish and review the information in the ManyBabies General Manual regarding ethical research, authorship, data sharing, and data use.\n\nBEFORE you begin data collection:\n\nSet up the experiment in consultation with this lab manual. Decide on your planned sample size/stopping rule. Carefully record any needed deviations from the protocol using the MB5 issue tracker form.\nComplete the Laboratory Questionnaire [INSERT LINK],\nSubmit [ethics approval] and other documentation/materials using the MB5 documentation upload form.\nCreate and submit your [walkthrough video][Walkthrough video].\nRun pilot sample through the Data Validator.\nSend email to mb5@manybabies.org to let the leadership team know that you are ready for “green-lighting”.\nWAIT for your official “green-light” from the leadership team to begin data collection.\n\nData collection:\n\nCollect your data!\n\n\nIMPORTANT: DO NOT begin data collection (other than piloting) until you have been explicitly (and individually) “green-lighted” to do so.\n\nAFTER you finish data collection:\n\nComplete your participant and trial data files in consultation with the data reporting instructions [Data reporting guidelines].\nSubmit your data using the MB5 data upload form.\nReport contributions using the MB Contribution Reporting Form",
     "crumbs": [
       "General information",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>MB5 Lab Checklist</span>"
@@ -80,7 +80,7 @@
     "href": "getting-started.html",
     "title": "4  Getting Started",
     "section": "",
-    "text": "Welcome to ManyBabies 5! This section covers some basic aspects of the project that you’ll need to know about BEFORE you set up and run the experiment. Use the arrows below to continue to through the sections, or jump to a section using the links.\n\n[Green-lighting process]\nEthics approval information\n[Participants and recruitment]",
+    "text": "Welcome to ManyBabies 5! This section covers some basic aspects of the project that you’ll need to know about BEFORE you set up and run the experiment. Use the arrows below to continue to through the sections, or jump to a section using the links.\n\nGreen-lighting process\nEthics approval information\nParticipants and recruitment\nGeneral lab practices",
     "crumbs": [
       "Getting started",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Getting Started</span>"
@@ -197,124 +197,135 @@
     ]
   },
   {
-    "objectID": "setting-up-experiment.html",
-    "href": "setting-up-experiment.html",
-    "title": "8  Setting up the experiment",
-    "section": "",
-    "text": "8.1 Experiment Overview\nEach baby will be presented with a series of 12 trials with one familiarization and two test phases each. During familiarization, a single stimulus is presented centrally on the screen. The test phase will consist of two stimuli, one familiar and one novel, presented side-by-side. The location of the stimuli will be switched in the two test trials. The duration of the familiarization will vary across trials (5, 10, or 15s). The tests will last 5s each. There will be two versions of the experiment: one in which the familiarization time will be pre-established (fixed-length), and another one in which the length of the trial will last until the infant accumulates the required looking time (infant-controlled).",
-    "crumbs": [
-      "Setting up the experiment",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Setting up the experiment</span>"
-    ]
-  },
-  {
-    "objectID": "setting-up-experiment.html#equipment",
-    "href": "setting-up-experiment.html#equipment",
-    "title": "8  Setting up the experiment",
-    "section": "8.2 Equipment",
-    "text": "8.2 Equipment\nWe assume you will use an experimental software (e.g. Matlab, Habit, E-Prime, Psychopy, OpenSesame or custom software) to run the study and one of two settings to record looking times: (1) Offline Video recording (2) Eye-tracker (e.g. Tobii, EyeLink, SMI, ASL, or a different company, with appropriate software from the eye-tracker or custom software). (3) Eye-tracker + video recording We also assume you know how to set up looking-time studies on your equipment. If that is not the case, or if you need help, support is available from the following people: OpenSesame: E-prime: Andreea Geambasu (a.geambasu@hum.leidenuniv.nl) PsychoPy: Silvia Benavides-Varela (silvia.benavidesvarela@unipd.it). (the psychopy experiment used by Silvia’s group is here for other labs to use) PyHab: Kateřina Chládková chladkova@praha.psu.cas.cz or Katerina.Chladkova@ff.cuni.cz\nEye tracking, using Tobii: Sylvain Sirois (sylvain.sirois@uqtr.ca) Eye tracking, using SMI: Eye tracking, using Eyelink: Julien Mayor (julien.mayor@psykologi.uio.no) Other systems: email Casey Lew-Williams (caseylw@princeton.edu) and we’ll do our best to help out.",
-    "crumbs": [
-      "Setting up the experiment",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Setting up the experiment</span>"
-    ]
-  },
-  {
-    "objectID": "setting-up-experiment.html#stimuli",
-    "href": "setting-up-experiment.html#stimuli",
-    "title": "8  Setting up the experiment",
-    "section": "8.3 Stimuli",
-    "text": "8.3 Stimuli\nAll materials are available in our google drive folder. Trial Structure. There are a total of 12 trials for each infant. Each trial will include both familiarization and test phases (described in further detail below). Between each trial, a laughing baby attention-getter will be presented. Familiarization Trials. There are a total of 12 familiarization events for each infant that vary across three dimensions: (1) stimulus class (fractals or fribbles) ; (2) complexity level (low or high complexity); and (3) familiarization time (5s, 10s, or 15s); see table below. XXX Infant-controlled Familiarization studies: If you are running the infant-controlled version of the study, infants may accumulate the required familiarization time across multiple exposures before advancing to the test trials. Fixed Familiarization studies: If you are unable to collect infant-controlled accumulated looking for familiarization trials, then you will present the familiarization trials for a fixed length of time in one exposure before advancing to the test trial. Stimulus Class Complexity Level Familiarization Time Fribbles Low Complexity 5 seconds Fribbles Low Complexity 10 seconds Fribbles Low Complexity 15 seconds Fribbles High Complexity 5 seconds Fribbles High Complexity 10 seconds Fribbles High Complexity 15 seconds Fractals Low Complexity 5 seconds Fractals Low Complexity 10 seconds Fractals Low Complexity 15 seconds Fractals High Complexity 5 seconds Fractals High Complexity 10 seconds Fractals High Complexity 15 seconds\nTest Trials. Once the familiarization criterion has been reached, the infant will be presented with a central fixation stimulus and then paired test stimuli. Each pair of test stimuli includes the stimulus to which the infant was familiarized and a novel stimulus from the same stimulus class (fribbles or fractals) and complexity level (low-complexity or high-complexity). Infants will view the test stimuli for a total of 10s, separated into two phases. They will be presented with the familiar and novel stimulus for 5s after which a central fixation stimulus will be presented. The infant will then view the second 5s test phase, which uses the same two stimuli but with the location flipped (i.e., the image that was on the left in phase 1 will be on the right in phase 2). Re-centering / Attention-getter stimulus Between Trials. Please use the provided laughing baby stimulus to re-center babies between each trial (i.e., before familiarization begins).\nWithin Trial. Please use the provided attention-getter stimulus (the Hoehle circle with chimes) to re-center babies within each trial (i.e., between familiarization and test and between each of the test phases). See below for a visualization of the trial structure:",
-    "crumbs": [
-      "Setting up the experiment",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Setting up the experiment</span>"
-    ]
-  },
-  {
-    "objectID": "setting-up-experiment.html#piloting-and-other-non-primary-data",
-    "href": "setting-up-experiment.html#piloting-and-other-non-primary-data",
-    "title": "8  Setting up the experiment",
-    "section": "8.4 Piloting and other non-primary data",
-    "text": "8.4 Piloting and other non-primary data\nSome labs might wish to pilot their design on a small number of infants in order to work out problems with the setup and allow experimenters to practice the protocol. Piloting with this purpose is indeed encouraged! It is critical to the integrity of the ManyBabies project that these pilot data are carefully differentiated from your main contribution. You do NOT need to report pilot data in your spreadsheet, but if you do, please ensure that you properly mark them as such in the designated Pilot column. You must make an explicit decision to begin non-pilot data collection at a particular date - this decision cannot be retroactive, and cannot be based on inspection of the pilot data (i.e., you cannot choose to include a pilot participant in the actual sample if the data “looks good”). Some labs might plan to test additional babies beyond the primary sample (e.g., with additional manipulations). These data will not be included in our primary planned analyses, and will not count toward the minimum contribution, but these additional datasets are welcome, and we encourage researchers to preregister other hypotheses. You are free to publish these “side studies” on your own terms, but please keep in mind the restrictions on publishing the main dataset if you are using it as a comparison/control sample (see the section on Open Science Policies in the MB General Manual).",
-    "crumbs": [
-      "Setting up the experiment",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Setting up the experiment</span>"
-    ]
-  },
-  {
-    "objectID": "setting-up-experiment.html#procedure",
-    "href": "setting-up-experiment.html#procedure",
-    "title": "8  Setting up the experiment",
-    "section": "8.5 Procedure",
-    "text": "8.5 Procedure\nPlease adhere to the following specifications for conducting this study. If any of the following technical specifications are not possible for your lab, please contact the MB5 leadership team (mb5@manybabies.org) before beginning data collection to inform us of your planned deviation and the reason for it.\n\nCaregiver bias and instruction\nCaregivers should be masked from viewing the visual stimulus using your lab’s standard method (e.g., having caregivers wear taped-over sunglasses). It is not necessary to block parents’ hearing of the audio stimulus. Instruct parents NOT to point to the lights or screen, shift their bodies, or move their chairs if the baby is inattentive. Emphasize during the instruction/setup that infants’ boredom with some of the stimuli is part of the experiment and is OK. Suggestion: to ensure that the infant and parent are as comfortable as possible, you may tell the parent that it is okay to shift their or their baby’s body to a more comfortable position, or provide interaction that the baby is soliciting, but emphasize that this may be done only for a short period during the attention grabber phase (e.g., when they hear the laughing baby).\n\n\nCollecting participant information\nWe aim to integrate our testing procedure with your lab’s procedure as much as possible, but there is some amount of information that we need to gather in a standardized fashion. Participant information: Please use this Family Background Questionnaire to collect the information. You are welcome to adapt the format as long as the wording is not changed, except as noted: Any areas marked in green you can adapt to ensure they are appropriate to your country/region. However, please keep the wording as similar as possible to ensure consistency in reporting. The question on race/ethnicity can be adapted to meet the norms of your region. If possible, please use racial/ethnic categories taken from local census categories. For countries where it is not considered socially or legally acceptable to inquire about ethnic background, please adapt to a more appropriate question (e.g. parent and child place of birth), if possible. Translations into other languages will be available here as they are created. If you need to make changes other than as indicated above, please contact the leadership team to discuss your concerns. Let us know if any of the questions are unclear to you - it is important that you are able to answer any questions the participants may have. Please also check the participants’ answers to avoid blank responses. If you modify any of the wording in the form, even in the green sections, or translate the form to your lab’s local language please upload a blank copy of your form using the MB5 documentation upload form. Please ensure that your form is clearly labeled in the filename with your LabID (e.g. babylabPrinceton_background.pdf).\n\n\nExperimenter blindness\nThe experimenter should be masked fromblind to trial details, by being either (1) in a different room, with no way of knowing which stimuli the baby is seeing on each trial, or (2) in the same room but facing away from the stimuli and unaware of what is on the screen.\n\n\nSound volume\nYour lab can use whatever volume level has been used successfully in the past, but please standardize your volume for this study so that every baby gets stimuli at the same volume.\n\n\nFamiliarization\nInfant-Controlled Version (preferred version of data collection): The visual stimulus is displayed until the infant accumulates 5, 10, or 15 seconds of looking (depending on familiarization condition). Infants’ looking to the screen is tracked online in one of two ways: (1) automatically (e.g., using eye tracking methods); or (2) manually (e.g., experimenter presses a button while the infant is looking and releases when the infant looks away). Fixed-Length/Duration Version: The visual stimulus is displayed for 5, 10, or 15 seconds (depending on familiarization condition) regardless of the duration of infants’ looking. Infants’ looking to the screen may be measured offline (e.g., via later video coding) or online (e.g., experimenter presses a button while the infant is looking and releases when the infant looks away) to assess how much the infant actually looked to the stimulus during familiarization.\n\n\nTest\nInfant-Controlled Version (preferred version of data collection): Circle & chimes attention getter plays until the infant fixates for at least 500 ms total (can be accumulated across multiple looks). After 500 ms is accumulated, the stimulus to which the infant was familiarized is presented alongside a novel stimulus (drawn from the same stimulus class (fribbles or fractals) and complexity level (low-complexity or high-complexity). The pair is presented for 5 s, regardless of how much the infant looks to the stimuli (i.e., duration of the test trials is fixed regardless of whether labs are using the infant-controlled or fixed-length version). Circle & chimes attention getter plays again until the infant fixates for at least 500 ms total (can be accumulated across multiple looks). After 500 ms is accumulated, the same stimulus pair is presented for an additional 5s (regardless of how much the infant looks to the stimuli) with the side of familiar and novel stimulus reversed. Infants’ looking during test is calculated either: (1) automatically (if using an eyetracker); or (2) manually offline (e.g., coded from video data). Because it is challenging to manually code the side to which an infant is looking online, we request that labs who are not using an eyetracker code infants’ looking during the test phase offline. Fixed-Length/Duration Version: Circle & chimes attention getter plays for 750 ms (note that this is longer than the infant-controlled version to give infants time to fixate the central stimulus). After 750 ms, the stimulus to which the infant was familiarized is presented alongside a novel stimulus (drawn from the same stimulus class (fribbles or fractals) and complexity level (low-complexity or high-complexity). The pair is presented for 5 s, regardless of how much the infant looks to the stimuli (i.e., duration of the test trials is fixed regardless of whether labs are using the infant-controlled or fixed-length version). Circle & chimes attention getter plays again for 750 ms. After 750 ms, the same stimulus pair is presented for an additional 5s (regardless of how much the infant looks to the stimuli) with the side of familiar and novel stimulus reversed. Infants’ looking during test is calculated manually offline (e.g., coded from video data).",
-    "crumbs": [
-      "Setting up the experiment",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Setting up the experiment</span>"
-    ]
-  },
-  {
-    "objectID": "setting-up-experiment.html#general-lab-practices",
-    "href": "setting-up-experiment.html#general-lab-practices",
-    "title": "8  Setting up the experiment",
-    "section": "8.6 General lab practices",
-    "text": "8.6 General lab practices\n\nTraining research assistants\nYou are responsible for implementing rigorous training practices. Research assistants should be held to the same high standards for ManyBabies as they would be for your main studies. You are free to have any number of research assistants conduct the test sessions, but please aim for as much coding consistency as possible and document which research assistant coded a given baby (using code names such as RA1, RA2, etc. if you wish). You will be asked to report about your standard training practices (e.g., how/when do you determine it’s okay for a research assistant to test real babies). Online Coding. If you are using a central screen to gather accumulated looking data for infant-controlled familiarization, then research assistants will need to be properly trained in coding online looking behaviors. Offline Coding. If you are not using an eyetracker to gather data, then you will need to code the test trials offline.\nGreeting families You can greet families, briefly explain the study’s purpose and goals in terms understandable to families (avoid technical jargon), obtain informed consent, and conduct the appointment as you normally would. Acknowledge their decision to consider participating and express appreciation for their time. Address potential concerns families might have and answer their questions openly and honestly.\n\n\nCompensating families\nYou can use your lab’s standard, IRB-approved method for compensating families. This can include providinge small gifts, cash, travel reimbursement, taxi rides, or other incentives for participation as you normally would. Participating labs are responsible for compensating their own participants.\n\n\nWalkthrough video\nBefore beginning data collection, you are required to create a walkthrough video and submit it for approval. Instructions can be found here. Upload your walkthrough video: Walkthrough videos should be uploaded to this google drive folder. Please ensure that your video is clearly labeled in the filename with your LabID (e.g. babylabPrinceton_walkthrough.mpg).",
-    "crumbs": [
-      "Setting up the experiment",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Setting up the experiment</span>"
-    ]
-  },
-  {
-    "objectID": "prior-to-data-coll-checklist.html",
-    "href": "prior-to-data-coll-checklist.html",
-    "title": "10  Prior to data collection checklist",
-    "section": "",
-    "text": "The steps for getting started are tracked by the MB5 leadership team on the MB5 Project Tracker. You can check it to see what steps your lab has completed. If you have any questions or think your lab’s progress is not up-to-date, contact us (mb5@manybabies.org).\nAfter preparing your lab and BEFORE BEGINNING DATA COLLECTION you need to:\n\nComplete the Initial Sign-Up Form (if you have not already done so).\nConfirm ethics approval is uploaded: Make sure that a copy of your lab’s ethics approval is in this google drive folder. If you plan to share participant videos via Databrary, you should also make sure you are getting proper consent for video sharing (please include approval for video sharing in ethics upload).\nConfirm demographics form is uploaded: Make sure that a copy of your lab’s demographics formethics approval is in this google drive folder.\nConfirm walkthrough video is and demographics form uploaded (if needed): Make sure that a copy of your lab’s walkthrough video is in this google drive folder, and your laboratory demographics form in this google drive folder.\nComplete the Lab Questionnaire: Make sure someone from your lab has filled out the Lab Questionnaire with details about your laboratory. The leadership will be notified of your submission of the Lab Questionnaire after which they will start the approval/greenlighting process.\nConvert dummy or pilot data into the right format for submission (see details below) using the MB Data validator to check data validity; in case of questions, please contact the analysis team. This ensures that you will be ready to submit your lab’s data to the central analysis team!\nSend email to Jessica Kosie (jkosie@asu.edu) to let the leadership know that you are ready for ‘greenlighting’.\nWait until you receive an official go-ahead from Project Leads before you begin testing. We may have questions for you, e.g. about your planned protocol deviations. We will do our best to respond quickly, but Iif you don’t hear from us within a week of sending the email, please contact us again!.",
-    "crumbs": [
-      "Setting up the experiment",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Prior to data collection checklist</span>"
-    ]
-  },
-  {
     "objectID": "general-lab-practices.html",
     "href": "general-lab-practices.html",
-    "title": "11  General Lab Practices",
+    "title": "8  General Lab Practices (#genlab)",
     "section": "",
-    "text": "11.1 Training research assistants\nYou are responsible for implementing rigorous training practices. Research assistants should be held to the same high standards for ManyBabies as they would be for your main studies. You are free to have any number of research assistants conduct the test sessions, but please aim for as much coding consistency as possible and document which research assistant coded a given baby (using code names such as RA1, RA2, etc. if you wish). You will be asked to report about your standard training practices (e.g., how/when do you determine it’s okay for a research assistant to test real babies). Online Coding. If you are using a central screen to gather accumulated looking data for infant-controlled familiarization, then research assistants will need to be properly trained in coding online looking behaviors. Offline Coding. If you are not using an eyetracker to gather data, then you will need to code the test trials offline.",
+    "text": "8.1 Training research assistants\nYou are responsible for implementing rigorous training practices. Research assistants should be held to the same high standards for ManyBabies as they would be for your main studies. You are free to have any number of research assistants conduct the test sessions, but please aim for as much coding consistency as possible and document which research assistant coded a given baby (using code names such as RA1, RA2, etc. if you wish). You will be asked to report about your standard training practices (e.g., how/when do you determine it’s okay for a research assistant to test real babies). Online Coding. If you are using a central screen to gather accumulated looking data for infant-controlled familiarization, then research assistants will need to be properly trained in coding online looking behaviors. Offline Coding. If you are not using an eyetracker to gather data, then you will need to code the test trials offline.",
     "crumbs": [
-      "Setting up the experiment",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>General Lab Practices</span>"
+      "Getting started",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>General Lab Practices (#genlab)</span>"
     ]
   },
   {
     "objectID": "general-lab-practices.html#greeting-families",
     "href": "general-lab-practices.html#greeting-families",
-    "title": "11  General Lab Practices",
-    "section": "11.2 Greeting families",
-    "text": "11.2 Greeting families\nYou can greet families, briefly explain the study’s purpose and goals in terms understandable to families (avoid technical jargon), obtain informed consent, and conduct the appointment as you normally would. Acknowledge their decision to consider participating and express appreciation for their time. Address potential concerns families might have and answer their questions openly and honestly.",
+    "title": "8  General Lab Practices (#genlab)",
+    "section": "8.2 Greeting families",
+    "text": "8.2 Greeting families\nYou can greet families, briefly explain the study’s purpose and goals in terms understandable to families (avoid technical jargon), obtain informed consent, and conduct the appointment as you normally would. Acknowledge their decision to consider participating and express appreciation for their time. Address potential concerns families might have and answer their questions openly and honestly.",
     "crumbs": [
-      "Setting up the experiment",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>General Lab Practices</span>"
+      "Getting started",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>General Lab Practices (#genlab)</span>"
     ]
   },
   {
     "objectID": "general-lab-practices.html#compensating-families",
     "href": "general-lab-practices.html#compensating-families",
-    "title": "11  General Lab Practices",
-    "section": "11.3 Compensating families",
-    "text": "11.3 Compensating families\nYou can use your lab’s standard, IRB-approved method for compensating families. This can include providinge small gifts, cash, travel reimbursement, taxi rides, or other incentives for participation as you normally would. Participating labs are responsible for compensating their own participants.",
+    "title": "8  General Lab Practices (#genlab)",
+    "section": "8.3 Compensating families",
+    "text": "8.3 Compensating families\nYou can use your lab’s standard, IRB-approved method for compensating families. This can include providinge small gifts, cash, travel reimbursement, taxi rides, or other incentives for participation as you normally would. Participating labs are responsible for compensating their own participants.",
     "crumbs": [
-      "Setting up the experiment",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>General Lab Practices</span>"
+      "Getting started",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>General Lab Practices (#genlab)</span>"
     ]
   },
   {
     "objectID": "general-lab-practices.html#walkthrough-video",
     "href": "general-lab-practices.html#walkthrough-video",
-    "title": "11  General Lab Practices",
-    "section": "11.4 Walkthrough video",
-    "text": "11.4 Walkthrough video\nBefore beginning data collection, you are required to create a walkthrough video and submit it for approval. Instructions can be found here. Upload your walkthrough video: Walkthrough videos should be uploaded to this google drive folder. Please ensure that your video is clearly labeled in the filename with your LabID (e.g. babylabPrinceton_walkthrough.mpg).",
+    "title": "8  General Lab Practices (#genlab)",
+    "section": "8.4 Walkthrough video",
+    "text": "8.4 Walkthrough video\nBefore beginning data collection, you are required to create a walkthrough video and submit it for approval. Instructions can be found here. Upload your walkthrough video: Walkthrough videos should be uploaded to this google drive folder. Please ensure that your video is clearly labeled in the filename with your LabID (e.g. babylabPrinceton_walkthrough.mpg).",
+    "crumbs": [
+      "Getting started",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>General Lab Practices (#genlab)</span>"
+    ]
+  },
+  {
+    "objectID": "setting-up-experiment.html",
+    "href": "setting-up-experiment.html",
+    "title": "9  Setting up the experiment",
+    "section": "",
+    "text": "9.1 Experiment Overview\nEach baby will be presented with a series of 12 trials with one familiarization and two test phases each. During familiarization, a single stimulus is presented centrally on the screen. The test phase will consist of two stimuli, one familiar and one novel, presented side-by-side. The location of the stimuli will be switched in the two test trials. The duration of the familiarization will vary across trials (5, 10, or 15s). The tests will last 5s each. There will be two versions of the experiment: one in which the familiarization time will be pre-established (fixed-length), and another one in which the length of the trial will last until the infant accumulates the required looking time (infant-controlled).",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>General Lab Practices</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Setting up the experiment</span>"
+    ]
+  },
+  {
+    "objectID": "setting-up-experiment.html#experiment-overview",
+    "href": "setting-up-experiment.html#experiment-overview",
+    "title": "9  Setting up the experiment",
+    "section": "",
+    "text": "Ethics approval information\nParticipants and recruitment",
+    "crumbs": [
+      "Setting up the experiment",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Setting up the experiment</span>"
+    ]
+  },
+  {
+    "objectID": "setting-up-experiment.html#stimuli",
+    "href": "setting-up-experiment.html#stimuli",
+    "title": "9  Setting up the experiment",
+    "section": "9.2 Stimuli",
+    "text": "9.2 Stimuli\nAll materials are available in our google drive folder. Trial Structure. There are a total of 12 trials for each infant. Each trial will include both familiarization and test phases (described in further detail below). Between each trial, a laughing baby attention-getter will be presented. Familiarization Trials. There are a total of 12 familiarization events for each infant that vary across three dimensions: (1) stimulus class (fractals or fribbles) ; (2) complexity level (low or high complexity); and (3) familiarization time (5s, 10s, or 15s); see table below. XXX Infant-controlled Familiarization studies: If you are running the infant-controlled version of the study, infants may accumulate the required familiarization time across multiple exposures before advancing to the test trials. Fixed Familiarization studies: If you are unable to collect infant-controlled accumulated looking for familiarization trials, then you will present the familiarization trials for a fixed length of time in one exposure before advancing to the test trial. Stimulus Class Complexity Level Familiarization Time Fribbles Low Complexity 5 seconds Fribbles Low Complexity 10 seconds Fribbles Low Complexity 15 seconds Fribbles High Complexity 5 seconds Fribbles High Complexity 10 seconds Fribbles High Complexity 15 seconds Fractals Low Complexity 5 seconds Fractals Low Complexity 10 seconds Fractals Low Complexity 15 seconds Fractals High Complexity 5 seconds Fractals High Complexity 10 seconds Fractals High Complexity 15 seconds\nTest Trials. Once the familiarization criterion has been reached, the infant will be presented with a central fixation stimulus and then paired test stimuli. Each pair of test stimuli includes the stimulus to which the infant was familiarized and a novel stimulus from the same stimulus class (fribbles or fractals) and complexity level (low-complexity or high-complexity). Infants will view the test stimuli for a total of 10s, separated into two phases. They will be presented with the familiar and novel stimulus for 5s after which a central fixation stimulus will be presented. The infant will then view the second 5s test phase, which uses the same two stimuli but with the location flipped (i.e., the image that was on the left in phase 1 will be on the right in phase 2). Re-centering / Attention-getter stimulus Between Trials. Please use the provided laughing baby stimulus to re-center babies between each trial (i.e., before familiarization begins).\nWithin Trial. Please use the provided attention-getter stimulus (the Hoehle circle with chimes) to re-center babies within each trial (i.e., between familiarization and test and between each of the test phases). See below for a visualization of the trial structure:",
+    "crumbs": [
+      "Setting up the experiment",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Setting up the experiment</span>"
+    ]
+  },
+  {
+    "objectID": "setting-up-experiment.html#piloting-and-other-non-primary-data",
+    "href": "setting-up-experiment.html#piloting-and-other-non-primary-data",
+    "title": "9  Setting up the experiment",
+    "section": "9.3 Piloting and other non-primary data",
+    "text": "9.3 Piloting and other non-primary data\nSome labs might wish to pilot their design on a small number of infants in order to work out problems with the setup and allow experimenters to practice the protocol. Piloting with this purpose is indeed encouraged! It is critical to the integrity of the ManyBabies project that these pilot data are carefully differentiated from your main contribution. You do NOT need to report pilot data in your spreadsheet, but if you do, please ensure that you properly mark them as such in the designated Pilot column. You must make an explicit decision to begin non-pilot data collection at a particular date - this decision cannot be retroactive, and cannot be based on inspection of the pilot data (i.e., you cannot choose to include a pilot participant in the actual sample if the data “looks good”). Some labs might plan to test additional babies beyond the primary sample (e.g., with additional manipulations). These data will not be included in our primary planned analyses, and will not count toward the minimum contribution, but these additional datasets are welcome, and we encourage researchers to preregister other hypotheses. You are free to publish these “side studies” on your own terms, but please keep in mind the restrictions on publishing the main dataset if you are using it as a comparison/control sample (see the section on Open Science Policies in the MB General Manual).",
+    "crumbs": [
+      "Setting up the experiment",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Setting up the experiment</span>"
+    ]
+  },
+  {
+    "objectID": "setting-up-experiment.html#procedure",
+    "href": "setting-up-experiment.html#procedure",
+    "title": "9  Setting up the experiment",
+    "section": "9.4 Procedure",
+    "text": "9.4 Procedure\nPlease adhere to the following specifications for conducting this study. If any of the following technical specifications are not possible for your lab, please contact the MB5 leadership team (mb5@manybabies.org) before beginning data collection to inform us of your planned deviation and the reason for it.\n\nCaregiver bias and instruction\nCaregivers should be masked from viewing the visual stimulus using your lab’s standard method (e.g., having caregivers wear taped-over sunglasses). It is not necessary to block parents’ hearing of the audio stimulus. Instruct parents NOT to point to the lights or screen, shift their bodies, or move their chairs if the baby is inattentive. Emphasize during the instruction/setup that infants’ boredom with some of the stimuli is part of the experiment and is OK. Suggestion: to ensure that the infant and parent are as comfortable as possible, you may tell the parent that it is okay to shift their or their baby’s body to a more comfortable position, or provide interaction that the baby is soliciting, but emphasize that this may be done only for a short period during the attention grabber phase (e.g., when they hear the laughing baby).\n\n\nCollecting participant information\nWe aim to integrate our testing procedure with your lab’s procedure as much as possible, but there is some amount of information that we need to gather in a standardized fashion. Participant information: Please use this Family Background Questionnaire to collect the information. You are welcome to adapt the format as long as the wording is not changed, except as noted: Any areas marked in green you can adapt to ensure they are appropriate to your country/region. However, please keep the wording as similar as possible to ensure consistency in reporting. The question on race/ethnicity can be adapted to meet the norms of your region. If possible, please use racial/ethnic categories taken from local census categories. For countries where it is not considered socially or legally acceptable to inquire about ethnic background, please adapt to a more appropriate question (e.g. parent and child place of birth), if possible. Translations into other languages will be available here as they are created. If you need to make changes other than as indicated above, please contact the leadership team to discuss your concerns. Let us know if any of the questions are unclear to you - it is important that you are able to answer any questions the participants may have. Please also check the participants’ answers to avoid blank responses. If you modify any of the wording in the form, even in the green sections, or translate the form to your lab’s local language please upload a blank copy of your form using the MB5 documentation upload form. Please ensure that your form is clearly labeled in the filename with your LabID (e.g. babylabPrinceton_background.pdf).\n\n\nExperimenter blindness\nThe experimenter should be masked fromblind to trial details, by being either (1) in a different room, with no way of knowing which stimuli the baby is seeing on each trial, or (2) in the same room but facing away from the stimuli and unaware of what is on the screen.\n\n\nSound volume\nYour lab can use whatever volume level has been used successfully in the past, but please standardize your volume for this study so that every baby gets stimuli at the same volume.\n\n\nFamiliarization\nInfant-Controlled Version (preferred version of data collection): The visual stimulus is displayed until the infant accumulates 5, 10, or 15 seconds of looking (depending on familiarization condition). Infants’ looking to the screen is tracked online in one of two ways: (1) automatically (e.g., using eye tracking methods); or (2) manually (e.g., experimenter presses a button while the infant is looking and releases when the infant looks away). Fixed-Length/Duration Version: The visual stimulus is displayed for 5, 10, or 15 seconds (depending on familiarization condition) regardless of the duration of infants’ looking. Infants’ looking to the screen may be measured offline (e.g., via later video coding) or online (e.g., experimenter presses a button while the infant is looking and releases when the infant looks away) to assess how much the infant actually looked to the stimulus during familiarization.\n\n\nTest\nInfant-Controlled Version (preferred version of data collection): Circle & chimes attention getter plays until the infant fixates for at least 500 ms total (can be accumulated across multiple looks). After 500 ms is accumulated, the stimulus to which the infant was familiarized is presented alongside a novel stimulus (drawn from the same stimulus class (fribbles or fractals) and complexity level (low-complexity or high-complexity). The pair is presented for 5 s, regardless of how much the infant looks to the stimuli (i.e., duration of the test trials is fixed regardless of whether labs are using the infant-controlled or fixed-length version). Circle & chimes attention getter plays again until the infant fixates for at least 500 ms total (can be accumulated across multiple looks). After 500 ms is accumulated, the same stimulus pair is presented for an additional 5s (regardless of how much the infant looks to the stimuli) with the side of familiar and novel stimulus reversed. Infants’ looking during test is calculated either: (1) automatically (if using an eyetracker); or (2) manually offline (e.g., coded from video data). Because it is challenging to manually code the side to which an infant is looking online, we request that labs who are not using an eyetracker code infants’ looking during the test phase offline. Fixed-Length/Duration Version: Circle & chimes attention getter plays for 750 ms (note that this is longer than the infant-controlled version to give infants time to fixate the central stimulus). After 750 ms, the stimulus to which the infant was familiarized is presented alongside a novel stimulus (drawn from the same stimulus class (fribbles or fractals) and complexity level (low-complexity or high-complexity). The pair is presented for 5 s, regardless of how much the infant looks to the stimuli (i.e., duration of the test trials is fixed regardless of whether labs are using the infant-controlled or fixed-length version). Circle & chimes attention getter plays again for 750 ms. After 750 ms, the same stimulus pair is presented for an additional 5s (regardless of how much the infant looks to the stimuli) with the side of familiar and novel stimulus reversed. Infants’ looking during test is calculated manually offline (e.g., coded from video data).",
+    "crumbs": [
+      "Setting up the experiment",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Setting up the experiment</span>"
+    ]
+  },
+  {
+    "objectID": "equipment.html",
+    "href": "equipment.html",
+    "title": "10  Equipment and software",
+    "section": "",
+    "text": "10.1 Equipment\nWe assume you will use an experimental software (e.g. Matlab, Habit, E-Prime, Psychopy, OpenSesame or custom software) to run the study and one of two settings to record looking times: (1) Offline Video recording (2) Eye-tracker (e.g. Tobii, EyeLink, SMI, ASL, or a different company, with appropriate software from the eye-tracker or custom software). (3) Eye-tracker + video recording. We also assume you know how to set up looking-time studies on your equipment. If that is not the case, or if you need help, support is available from the following people:",
+    "crumbs": [
+      "Setting up the experiment",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Equipment and software</span>"
+    ]
+  },
+  {
+    "objectID": "equipment.html#equipment",
+    "href": "equipment.html#equipment",
+    "title": "10  Equipment and software",
+    "section": "",
+    "text": "PsychoPy:\nPyHab:\nTobii:\nEyelink:\nOther systems: email us mb5@manybabies.org and we’ll do our best to help out",
+    "crumbs": [
+      "Setting up the experiment",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Equipment and software</span>"
+    ]
+  },
+  {
+    "objectID": "prior-to-data-coll-checklist.html",
+    "href": "prior-to-data-coll-checklist.html",
+    "title": "11  Prior to data collection checklist",
+    "section": "",
+    "text": "The steps for getting started are tracked by the MB5 leadership team on the MB5 Project Tracker. You can check it to see what steps your lab has completed. If you have any questions or think your lab’s progress is not up-to-date, contact us (mb5@manybabies.org).\nAfter preparing your lab and BEFORE BEGINNING DATA COLLECTION you need to:\n\nComplete the Initial Sign-Up Form (if you have not already done so).\nConfirm ethics approval is uploaded: Make sure that a copy of your lab’s ethics approval is in this google drive folder. If you plan to share participant videos via Databrary, you should also make sure you are getting proper consent for video sharing (please include approval for video sharing in ethics upload).\nConfirm demographics form is uploaded: Make sure that a copy of your lab’s demographics formethics approval is in this google drive folder.\nConfirm walkthrough video is and demographics form uploaded (if needed): Make sure that a copy of your lab’s walkthrough video is in this google drive folder, and your laboratory demographics form in this google drive folder.\nComplete the Lab Questionnaire: Make sure someone from your lab has filled out the Lab Questionnaire with details about your laboratory. The leadership will be notified of your submission of the Lab Questionnaire after which they will start the approval/greenlighting process.\nConvert dummy or pilot data into the right format for submission (see details below) using the MB Data validator to check data validity; in case of questions, please contact the analysis team. This ensures that you will be ready to submit your lab’s data to the central analysis team!\nSend email to Jessica Kosie (jkosie@asu.edu) to let the leadership know that you are ready for ‘greenlighting’.\nWait until you receive an official go-ahead from Project Leads before you begin testing. We may have questions for you, e.g. about your planned protocol deviations. We will do our best to respond quickly, but Iif you don’t hear from us within a week of sending the email, please contact us again!.",
+    "crumbs": [
+      "Setting up the experiment",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Prior to data collection checklist</span>"
     ]
   },
   {

@@ -50,12 +50,12 @@ book:
         - green-lighting.qmd
         - ethics.qmd
         - participants.qmd
+        - general-lab-practices.qmd
     - part: "Setting up the experiment"
       chapters: 
         - setting-up-experiment.qmd
         - equipment.qmd
         - prior-to-data-coll-checklist.qmd
-        - general-lab-practices.qmd
     - part: "Running the experiment"
       chapters:
         - during-data-collection.qmd

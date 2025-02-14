@@ -1,4 +1,4 @@
-# Setting up the experiment
+# Setting up the experiment {#setup}
 
 This chapter explains the experimental procedure in detail. Please follow the instructions as closely as possible, and report any deviations from the protocol using the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXoKjJo3XgGuXCLhWhzEDz0UrJ7tmio-70SoS24g4vqc4Utg/viewform?usp=sf_link" target="_blank"><b>MB5 issue tracker form</b></a>.
 
@@ -6,11 +6,8 @@ This chapter explains the experimental procedure in detail. Please follow the in
 
 Each baby will be presented with a series of 12 trials with one familiarization and two test phases each. During familiarization, a single stimulus is presented centrally on the screen. The test phase will consist of two stimuli, one familiar and one novel, presented side-by-side. The location of the stimuli will be switched in the two test trials. The duration of the familiarization will vary across trials (5, 10, or 15s). The tests will last 5s each. There will be two versions of the experiment: one in which the familiarization time will be pre-established (fixed-length), and another one in which the length of the trial will last until the infant accumulates the required looking time (infant-controlled).
 
-## Equipment
-
-We assume you will use an experimental software (e.g. Matlab, Habit, E-Prime, Psychopy, OpenSesame or custom software) to run the study and one of two settings to record looking times: (1) Offline Video recording (2) Eye-tracker (e.g. Tobii, EyeLink, SMI, ASL, or a different company, with appropriate software from the eye-tracker or custom software). (3) Eye-tracker + video recording We also assume you know how to set up looking-time studies on your equipment. If that is not the case, or if you need help, support is available from the following people: OpenSesame: E-prime: Andreea Geambasu (a.geambasu\@hum.leidenuniv.nl) PsychoPy: Silvia Benavides-Varela (silvia.benavidesvarela\@unipd.it). (the psychopy experiment used by Silvia’s group is here for other labs to use) PyHab: Kateřina Chládková chladkova\@praha.psu.cas.cz or Katerina.Chladkova\@ff.cuni.cz
-
-Eye tracking, using Tobii: Sylvain Sirois (sylvain.sirois\@uqtr.ca) Eye tracking, using SMI: Eye tracking, using Eyelink: Julien Mayor (julien.mayor\@psykologi.uio.no) Other systems: email Casey Lew-Williams (caseylw\@princeton.edu) and we’ll do our best to help out.
+-   [Ethics approval information](#ethics-approval)
+-   [Participants and recruitment](#participants)
 
 ## Stimuli
 
@@ -51,20 +48,7 @@ Infant-Controlled Version (preferred version of data collection): The visual sti
 
 Infant-Controlled Version (preferred version of data collection): Circle & chimes attention getter plays until the infant fixates for at least 500 ms total (can be accumulated across multiple looks). After 500 ms is accumulated, the stimulus to which the infant was familiarized is presented alongside a novel stimulus (drawn from the same stimulus class (fribbles or fractals) and complexity level (low-complexity or high-complexity). The pair is presented for 5 s, regardless of how much the infant looks to the stimuli (i.e., duration of the test trials is fixed regardless of whether labs are using the infant-controlled or fixed-length version). Circle & chimes attention getter plays again until the infant fixates for at least 500 ms total (can be accumulated across multiple looks). After 500 ms is accumulated, the same stimulus pair is presented for an additional 5s (regardless of how much the infant looks to the stimuli) with the side of familiar and novel stimulus reversed. Infants’ looking during test is calculated either: (1) automatically (if using an eyetracker); or (2) manually offline (e.g., coded from video data). Because it is challenging to manually code the side to which an infant is looking online, we request that labs who are not using an eyetracker code infants’ looking during the test phase offline. Fixed-Length/Duration Version: Circle & chimes attention getter plays for 750 ms (note that this is longer than the infant-controlled version to give infants time to fixate the central stimulus). After 750 ms, the stimulus to which the infant was familiarized is presented alongside a novel stimulus (drawn from the same stimulus class (fribbles or fractals) and complexity level (low-complexity or high-complexity). The pair is presented for 5 s, regardless of how much the infant looks to the stimuli (i.e., duration of the test trials is fixed regardless of whether labs are using the infant-controlled or fixed-length version). Circle & chimes attention getter plays again for 750 ms. After 750 ms, the same stimulus pair is presented for an additional 5s (regardless of how much the infant looks to the stimuli) with the side of familiar and novel stimulus reversed. Infants’ looking during test is calculated manually offline (e.g., coded from video data).
 
-## General lab practices
 
-### Training research assistants
-
-You are responsible for implementing rigorous training practices. Research assistants should be held to the same high standards for ManyBabies as they would be for your main studies. You are free to have any number of research assistants conduct the test sessions, but please aim for as much coding consistency as possible and document which research assistant coded a given baby (using code names such as RA1, RA2, etc. if you wish). You will be asked to report about your standard training practices (e.g., how/when do you determine it’s okay for a research assistant to test real babies). Online Coding. If you are using a central screen to gather accumulated looking data for infant-controlled familiarization, then research assistants will need to be properly trained in coding online looking behaviors. Offline Coding. If you are not using an eyetracker to gather data, then you will need to code the test trials offline.\
-Greeting families You can greet families, briefly explain the study's purpose and goals in terms understandable to families (avoid technical jargon), obtain informed consent, and conduct the appointment as you normally would. Acknowledge their decision to consider participating and express appreciation for their time. Address potential concerns families might have and answer their questions openly and honestly.
-
-### Compensating families
-
-You can use your lab’s standard, IRB-approved method for compensating families. This can include providinge small gifts, cash, travel reimbursement, taxi rides, or other incentives for participation as you normally would. Participating labs are responsible for compensating their own participants.
-
-### Walkthrough video
-
-Before beginning data collection, you are required to create a walkthrough video and submit it for approval. Instructions can be found here. Upload your walkthrough video: Walkthrough videos should be uploaded to this google drive folder. Please ensure that your video is clearly labeled in the filename with your LabID (e.g. babylabPrinceton_walkthrough.mpg).
 
 ````{=html}
 <!-- leaving this in from template for now, so we know how to add figs and tables 

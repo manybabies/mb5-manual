@@ -1,4 +1,4 @@
-# Participants and recruitment
+# Participants and recruitment {#participants}
 
 While we encourage as much participation as you can spare, it is crucial to the success of the project that you treat our study with the same care as you would any other study in your lab with respect to recruitment procedures, timing of data collection, and RAs/RA training. Please do not commit to providing data to ManyBabies if this level of care is not possible.
 

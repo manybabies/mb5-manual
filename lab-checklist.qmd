@@ -10,13 +10,13 @@ These are the steps that every data-collecting lab must follow to participate in
 
 **BEFORE you begin data collection:**
 
-4.  \[**Set up your study**\]\[Setting up the experiment\] in consultation with this lab manual. Decide on your planned sample size/stopping rule. Carefully record any needed deviations from the protocol using the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXoKjJo3XgGuXCLhWhzEDz0UrJ7tmio-70SoS24g4vqc4Utg/viewform?usp=sf_link" target="_blank"><b>MB5 issue tracker form</b></a>.
+4.  **[Set up the experiment](#setup)** in consultation with this lab manual. Decide on your planned sample size/stopping rule. Carefully record any needed deviations from the protocol using the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXoKjJo3XgGuXCLhWhzEDz0UrJ7tmio-70SoS24g4vqc4Utg/viewform?usp=sf_link" target="_blank"><b>MB5 issue tracker form</b></a>.
 5.  Complete the <b>Laboratory Questionnaire</b> \[INSERT LINK\],
 6.  Submit \[**ethics approval**\] and other documentation/materials using the <a href="https://docs.google.com/forms/d/e/1FAIpQLScunCYwrJApObng6xVV_lN4CUrcLrsrAKmiBmia67vPc9jNTA/viewform?usp=sf_link" target="_blank"><b>MB5 documentation upload form</b></a>.
 7.  Create and submit your \[**walkthrough video**\]\[Walkthrough video\].
 8.  Run pilot sample through the <a href="https://manybabies.org/validator/" target="_blank"><b>Data Validator</b></a>.
 9.  Send email to [mb5\@manybabies.org](mb5@manybabies.org) to let the leadership team know that you are ready for “green-lighting”.
-10. **Wait for your official “green-light”** from the leadership team to begin data collection.
+10. **WAIT for your official “green-light”** from the leadership team to begin data collection.
 
 **Data collection:**
 
@@ -26,6 +26,6 @@ These are the steps that every data-collecting lab must follow to participate in
 
 **AFTER you finish data collection:**
 
-12. Complete your participant and trial data files in consultation with the data reporting instructions "\[Data reporting guidelines\]."
-13. Submit your data using the [MB5 data upload form](https://docs.google.com/forms/d/e/1FAIpQLSeydFOC2LviKVBhHEpExH5SEJsqH0705pxH8gwHsPDN13Qk6Q/viewform?usp=sf_link).
-14. Report contributions using the [MB Contribution Reporting Form](https://manybabies.org/credit/)
+12. Complete your participant and trial data files in consultation with the data reporting instructions **\[Data reporting guidelines\]**.
+13. Submit your data using the [**MB5 data upload form**](https://docs.google.com/forms/d/e/1FAIpQLSeydFOC2LviKVBhHEpExH5SEJsqH0705pxH8gwHsPDN13Qk6Q/viewform?usp=sf_link)**.**
+14. Report contributions using the [**MB Contribution Reporting Form**](https://manybabies.org/credit/)

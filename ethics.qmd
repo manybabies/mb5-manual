@@ -1,12 +1,12 @@
 # Ethics approval {#ethics-approval}
 
 ## Overview
+
 All data-collecting labs are required to obtain ethics approval from their local oversight board (e.g., IRB)[^ethics-1]. As this process can take time, it is a good idea to **get started on your ethics approval application as soon as possible**. Approvals must be in place and a copy submitted via the process described below before you can obtain a green light to collect data. [Contact us](mailto:mb5@manybabies.org) if you need advice or help with obtaining ethics approval.
 
 [^ethics-1]: If your lab/institution does not have a formal ethics oversight board, please refer to [MB's general ethics guidance](https://docs.google.com/document/d/e/2PACX-1vR2nv4Wy1soDS4cBBNy9QZOyewvvjP1ka1reBRhAIzcrNi0reJxgHuhGS7f7i2wE0ScQuppek8Al_21/pub) and contact the Project Leads to confirm ethics compliance
 
 > In some cases, labs will already have approval for MB5 under an “umbrella protocol” (i.e., a protocol that covers multiple studies in one lab). In these cases, the ethics form should still be uploaded as described below.
-
 
 ## Permission to collect/share demographic data
 
