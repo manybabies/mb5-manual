@@ -1,4 +1,4 @@
-# General Lab Practices (#genlab)
+# General Lab Practices {#genlab}
 
 ## Training research assistants
 
