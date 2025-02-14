@@ -55,6 +55,9 @@ book:
       chapters: 
         - setting-up-experiment.qmd
         - equipment.qmd
+        - stimuli.qmd
+        - procedure.qmd
+        - conditions.qmd
         - prior-to-data-coll-checklist.qmd
     - part: "Running the experiment"
       chapters:

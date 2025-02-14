@@ -2,6 +2,10 @@
 
 ## Equipment
 
+
+
+
+## Software
 We assume you will use an experimental software (e.g. Matlab, Habit, E-Prime, Psychopy, OpenSesame or custom software) to run the study and one of two settings to record looking times: (1) Offline Video recording (2) Eye-tracker (e.g. Tobii, EyeLink, SMI, ASL, or a different company, with appropriate software from the eye-tracker or custom software). (3) Eye-tracker + video recording. We also assume you know how to set up looking-time studies on your equipment. If that is not the case, or if you need help, support is available from the following people: 
 
 * PsychoPy: 

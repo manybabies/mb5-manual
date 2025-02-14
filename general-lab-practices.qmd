@@ -14,4 +14,4 @@ You can use your lab’s standard, IRB-approved method for compensating families
 
 ## Walkthrough video
 
-Before beginning data collection, you are required to create a walkthrough video and submit it for approval. Instructions can be found here. Upload your walkthrough video: Walkthrough videos should be uploaded to this google drive folder. Please ensure that your video is clearly labeled in the filename with your LabID (e.g. babylabPrinceton_walkthrough.mpg).
+Before beginning data collection, you are required to create a walkthrough video and submit it for approval. Instructions can be found here. Upload your walkthrough video: Walkthrough videos should be uploaded to this google drive folder. Please ensure that your video is clearly labeled in the file name with your LabID (e.g. *babylabPrinceton_walkthrough.mpg*).

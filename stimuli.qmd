@@ -1,0 +1,18 @@
+# Stimuli {#stimuli}
+
+## Overview
+
+> All materials are available in the **[MB5 materials directory]()**. 
+
+Because the sample size possible in ManyBabies projects provides a unique  opportunity to test generalizability across multiple stimulus types, we chose two different  categories of stimuli: fribbles and fractals. These two classes of stimuli were chosen because: (1) they allow for  variation in stimulus complexity within the same stimulus category (i.e., by manipulating the  number of features); (2) infants are unlikely to have previous experience with either set of  stimuli; and (3) the inclusion of two stimulus sets allow us to begin examining the  generalizability of any observed effect.
+
+We created 12 unique fribbles and 12 unique fractals, operationalizing complexity as the number of features present (these features are appendages in the case of fribbles and iterations of  the same structure for fractals; see Figure 3). Within each stimulus type, 6 items were designed to be low-complexity and 6 were designed to be high-complexity
+
+### ManyFribbuli
+Fribbles are colorful, computer-generated  models of 3D figures. All fribbles are made up of one of three possible body shapes and up to  four appendages that can be chosen from a set of possible options for heads, legs, and two parts  of a tail
+
+### Fractals
+Fractals are geometric shapes in which the same structure is repeated iteratively at  different levels of scale
+
+
+
