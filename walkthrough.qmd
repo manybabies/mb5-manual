@@ -47,8 +47,8 @@ Make sure your video covers the following components. We added questions you sho
 7. How is the experimenter blinded to trial type during testing?
 8. Hos is the parent blinded during testing (blacked-out glasses or something similar)?
 
-### Questionnaire(s) (when are they filled in / collected)
-1. At what point do you hand out / collect questionnaires? 
+### Questionnaire(s) 
+1. At what point do you hand out/collect questionnaires? 
 2. Do you give any additional instructions?
 
 ### Debrief after experiment
