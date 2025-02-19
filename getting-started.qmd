@@ -6,3 +6,4 @@ Welcome to ManyBabies 5! This section covers some basic aspects of the project t
 -   [Ethics approval information](#ethics-approval)
 -   [Participants and recruitment](#participants)
 -   [General lab practices](#genlab)
+-   [Walkthrough videos](#walkthrough)

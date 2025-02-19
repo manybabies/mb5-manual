@@ -51,6 +51,7 @@ book:
         - ethics.qmd
         - participants.qmd
         - general-lab-practices.qmd
+        - walkthrough.qmd
     - part: "Setting up the experiment"
       chapters: 
         - setting-up-experiment.qmd

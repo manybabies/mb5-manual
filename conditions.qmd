@@ -4,25 +4,20 @@
 
 Some labs might wish to pilot their design on a small number of infants in order to work out problems with the setup and allow experimenters to practice the protocol. Piloting with this purpose is indeed encouraged! It is critical to the integrity of the ManyBabies project that these pilot data are carefully differentiated from your main contribution. You do NOT need to report pilot data in your spreadsheet, but if you do, please ensure that you properly mark them as such in the designated Pilot column. You must make an explicit decision to begin non-pilot data collection at a particular date - this decision cannot be retroactive, and cannot be based on inspection of the pilot data (i.e., you cannot choose to include a pilot participant in the actual sample if the data “looks good”). Some labs might plan to test additional babies beyond the primary sample (e.g., with additional manipulations). These data will not be included in our primary planned analyses, and will not count toward the minimum contribution, but these additional datasets are welcome, and we encourage researchers to preregister other hypotheses. You are free to publish these “side studies” on your own terms, but please keep in mind the restrictions on publishing the main dataset if you are using it as a comparison/control sample (see the section on Open Science Policies in the MB General Manual).
 
-
 ### Caregiver bias and instruction
 
 Caregivers should be masked from viewing the visual stimulus using your lab’s standard method (e.g., having caregivers wear taped-over sunglasses). It is not necessary to block parents' hearing of the audio stimulus. Instruct parents NOT to point to the lights or screen, shift their bodies, or move their chairs if the baby is inattentive. Emphasize during the instruction/setup that infants’ boredom with some of the stimuli is part of the experiment and is OK. Suggestion: to ensure that the infant and parent are as comfortable as possible, you may tell the parent that it is okay to shift their or their baby’s body to a more comfortable position, or provide interaction that the baby is soliciting, but emphasize that this may be done only for a short period during the attention grabber phase (e.g., when they hear the laughing baby).
 
-
 ### Collecting participant information
 
-We aim to integrate our testing procedure with your lab’s procedure as much as possible, but there is some amount of information that we need to gather in a standardized fashion. 
+We aim to integrate our testing procedure with your lab’s procedure as much as possible, but there is some amount of information that we need to gather in a standardized fashion.
 
 Participant information: Please use this Family Background Questionnaire to collect the information. You are welcome to adapt the format as long as the wording is not changed, except as noted: Any areas marked in green you can adapt to ensure they are appropriate to your country/region. However, please keep the wording as similar as possible to ensure consistency in reporting. The question on race/ethnicity can be adapted to meet the norms of your region. If possible, please use racial/ethnic categories taken from local census categories. For countries where it is not considered socially or legally acceptable to inquire about ethnic background, please adapt to a more appropriate question (e.g. parent and child place of birth), if possible. Translations into other languages will be available here as they are created. If you need to make changes other than as indicated above, please contact the leadership team to discuss your concerns. Let us know if any of the questions are unclear to you - it is important that you are able to answer any questions the participants may have. Please also check the participants’ answers to avoid blank responses. If you modify any of the wording in the form, even in the green sections, or translate the form to your lab’s local language please upload a blank copy of your form using the MB5 documentation upload form. Please ensure that your form is clearly labeled in the filename with your LabID (e.g. babylabPrinceton_background.pdf).
-
 
 ### Experimenter blindness
 
 The experimenter should be masked fromblind to trial details, by being either (1) in a different room, with no way of knowing which stimuli the baby is seeing on each trial, or (2) in the same room but facing away from the stimuli and unaware of what is on the screen.
 
-
 ### Sound volume
 
 Your lab can use whatever volume level has been used successfully in the past, but please standardize your volume for this study so that every baby gets stimuli at the same volume.
-
