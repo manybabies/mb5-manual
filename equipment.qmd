@@ -1,7 +1,11 @@
 # Equipment and software
 
 ## Equipment
+The minimal equipment required to run this experiment is:
 
+* Computer running experiment software (see below)
+* Monitor/television for stimulus display 
+* Camera for capturing infant looking behavior^[not needed if infant's face is captured by eye-tracker] 
 
 
 
