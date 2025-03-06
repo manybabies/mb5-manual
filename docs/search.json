@@ -14,7 +14,7 @@
     "href": "contact-info.html",
     "title": "1  Contact info and important links",
     "section": "",
-    "text": "1.1 Contact info",
+    "text": "Contact info",
     "crumbs": [
       "General information",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Contact info and important links</span>"
@@ -25,7 +25,7 @@
     "href": "contact-info.html#contact-info",
     "title": "1  Contact info and important links",
     "section": "",
-    "text": "General inquiries: mb5@manybabies.org\nJessica Kosie (Project Lead): jkosie@asu.edu\nMartin Zettersten (Project Lead): mzettersten@ucsd.edu\nCasey Lew-Williams (Project Lead): caseylw@princeton.edu\nHeidi Baumgartner (MB Exec. Director): heidib@manybabies.org",
+    "text": "General inquiries: mb5@manybabies.org\nJessica Kosie (Project Lead): jkosie@asu.edu\nMartin Zettersten (Project Lead): mzettersten@ucsd.edu\nCasey Lew-Williams (Project Lead): caseylw@princeton.edu\nHeidi Baumgartner (MB Exec. Director & MB5 Coordinator): heidib@manybabies.org",
     "crumbs": [
       "General information",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Contact info and important links</span>"
@@ -36,7 +36,7 @@
     "href": "contact-info.html#project-listserv",
     "title": "1  Contact info and important links",
     "section": "Project listserv",
-    "text": "Project listserv\n\nMB5 project listserv: mb5-list@manybabies.org\nSubscribe to listserv:link (click on “Join group” using a google-linked account, or email mb5@manybabies.org to request to join)",
+    "text": "Project listserv\n\nMB5 project listserv: mb5-list@manybabies.org\n\nSUBSCRIBE (click on “Join group” using a google-linked account, or email mb5@manybabies.org to request to join)",
     "crumbs": [
       "General information",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Contact info and important links</span>"
@@ -78,12 +78,12 @@
   {
     "objectID": "getting-started.html",
     "href": "getting-started.html",
-    "title": "4  Getting Started",
+    "title": "4  Pre-testing steps",
     "section": "",
     "text": "Welcome to ManyBabies 5! This section covers some basic aspects of the project that you’ll need to know about BEFORE you set up and run the experiment. Use the arrows below to continue to through the sections, or jump to a section using the links.\n\nGreen-lighting process\nEthics approval information\nParticipants and recruitment\nGeneral lab practices\nWalkthrough videos",
     "crumbs": [
       "Getting started",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Getting Started</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Pre-testing steps</span>"
     ]
   },
   {
@@ -322,7 +322,7 @@
     "href": "equipment.html",
     "title": "11  Equipment and software",
     "section": "",
-    "text": "11.1 Equipment\nThe minimal equipment required to run this experiment is:",
+    "text": "11.1 Equipment\nThe minimal equipment required to run this experiment is:\nAddional (optional) equipment:",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Equipment and software</span>"
@@ -333,7 +333,7 @@
     "href": "equipment.html#equipment",
     "title": "11  Equipment and software",
     "section": "",
-    "text": "Computer running experiment software (see below)\nMonitor/television for stimulus display\nCamera for capturing infant looking behavior1\n\n1 not needed if infant’s face is captured by eye-tracker",
+    "text": "Computer running experiment software (see below)\nMonitor/television for stimulus display\nCamera for capturing infant looking behavior1\nMixer for syncing recording of infant with stimulus timing (or other method for doing so)\n\n1 not needed if infant’s face is captured by eye tracker\n\nEye tracker\nBlacked-out glasses for parent to wear during experiment",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Equipment and software</span>"

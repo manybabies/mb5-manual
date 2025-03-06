@@ -1,6 +1,6 @@
 # Contact info and important links
 
-## Contact info
+## Contact info {.unnumbered}
 
 -   **General inquiries**: [mb5\@manybabies.org](mailto:mb5@manybabies.org)
 
@@ -10,12 +10,13 @@
 
 -   **Casey Lew-Williams** (Project Lead): [caseylw\@princeton.edu](mailto:caseylw@princeton.edu)
 
--   **Heidi Baumgartner** (MB Exec. Director): [heidib\@manybabies.org](mailto:heidib@manybabies.org)
+-   **Heidi Baumgartner** (MB Exec. Director & MB5 Coordinator): [heidib\@manybabies.org](mailto:heidib@manybabies.org)
 
 ## Project listserv {.unnumbered}
 
 -   **MB5 project listserv**: [mb5-list\@manybabies.org](mailto:mb5-list@manybabies.org)
--   **Subscribe to listserv**:<a href="https://groups.google.com/a/manybabies.org/g/mb5-list" target="_blank">link</a> *(click on "Join group" using a google-linked account, or email [mb5\@manybabies.org](mailto:mb5@manybabies.org) to request to join)*
+
+    +   <a href="https://groups.google.com/a/manybabies.org/g/mb5-list" target="_blank">**SUBSCRIBE**</a> *(click on "Join group" using a google-linked account, or email [mb5\@manybabies.org](mailto:mb5@manybabies.org) to request to join)*
 
 ## Important links {.unnumbered}
 

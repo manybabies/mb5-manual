@@ -1,4 +1,4 @@
-# Getting Started
+# Pre-testing steps
 
 Welcome to ManyBabies 5! This section covers some basic aspects of the project that you'll need to know about BEFORE you set up and run the experiment. Use the arrows below to continue to through the sections, or jump to a section using the links.
 
