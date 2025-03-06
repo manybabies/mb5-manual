@@ -67,12 +67,56 @@
   {
     "objectID": "lab-checklist.html",
     "href": "lab-checklist.html",
-    "title": "3  MB5 Lab Checklist",
+    "title": "3  MB5 Lab Participation Overview",
     "section": "",
-    "text": "These are the steps that every data-collecting lab must follow to participate in MB5. This is just an overview of the data collection process. More detail for each checklist item is available in the linked manual sections.\nBEFORE you do ANYTHING else:\n\nComplete the ManyBabies 5 Initial Sign-Up Form.\nRead the MB5 Collaboration Agreement.\nRead this manual start to finish and review the information in the ManyBabies General Manual regarding ethical research, authorship, data sharing, and data use.\n\nBEFORE you begin data collection:\n\nSet up the experiment in consultation with this lab manual. Decide on your planned sample size/stopping rule. Carefully record any needed deviations from the protocol using the MB5 issue tracker form.\nComplete the Laboratory Questionnaire [INSERT LINK],\nSubmit [ethics approval] and other documentation/materials using the MB5 documentation upload form.\nCreate and submit your [walkthrough video][Walkthrough video].\nRun pilot sample through the Data Validator.\nSend email to mb5@manybabies.org to let the leadership team know that you are ready for “green-lighting”.\nWAIT for your official “green-light” from the leadership team to begin data collection.\n\nData collection:\n\nCollect your data!\n\n\nIMPORTANT: DO NOT begin data collection (other than piloting) until you have been explicitly (and individually) “green-lighted” to do so.\n\nAFTER you finish data collection:\n\nComplete your participant and trial data files in consultation with the data reporting instructions [Data reporting guidelines].\nSubmit your data using the MB5 data upload form.\nReport contributions using the MB Contribution Reporting Form",
+    "text": "BEFORE you do ANYTHING else:",
     "crumbs": [
       "General information",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>MB5 Lab Checklist</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>MB5 Lab Participation Overview</span>"
+    ]
+  },
+  {
+    "objectID": "lab-checklist.html#before-you-do-anything-else",
+    "href": "lab-checklist.html#before-you-do-anything-else",
+    "title": "3  MB5 Lab Participation Overview",
+    "section": "",
+    "text": "Complete the ManyBabies 5 Initial Sign-Up Form.\nRead the MB5 Collaboration Agreement.\nRead this manual start to finish and review the information in the ManyBabies General Manual regarding ethical research, authorship, data sharing, and data use.",
+    "crumbs": [
+      "General information",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>MB5 Lab Participation Overview</span>"
+    ]
+  },
+  {
+    "objectID": "lab-checklist.html#before-you-begin-data-collection",
+    "href": "lab-checklist.html#before-you-begin-data-collection",
+    "title": "3  MB5 Lab Participation Overview",
+    "section": "BEFORE you begin data collection:",
+    "text": "BEFORE you begin data collection:\n\nSet up the experiment in consultation with this lab manual. Decide on your planned sample size/stopping rule. Carefully record any needed deviations from the protocol using the MB5 issue tracker form.\nComplete the Laboratory Questionnaire [INSERT LINK],\nSubmit [ethics approval] and other documentation/materials using the MB5 documentation upload form.\nCreate and submit your [walkthrough video][Walkthrough video].\nRun pilot sample through the Data Validator.\nSend email to mb5@manybabies.org to let the leadership team know that you are ready for “green-lighting”.\nWAIT for your official “green-light” from the leadership team to begin data collection.",
+    "crumbs": [
+      "General information",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>MB5 Lab Participation Overview</span>"
+    ]
+  },
+  {
+    "objectID": "lab-checklist.html#data-collection",
+    "href": "lab-checklist.html#data-collection",
+    "title": "3  MB5 Lab Participation Overview",
+    "section": "Data collection:",
+    "text": "Data collection:\n\nCollect your data!\n\n\nIMPORTANT: DO NOT begin data collection (other than piloting) until you have been explicitly (and individually) “green-lighted” to do so.",
+    "crumbs": [
+      "General information",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>MB5 Lab Participation Overview</span>"
+    ]
+  },
+  {
+    "objectID": "lab-checklist.html#after-you-finish-data-collection",
+    "href": "lab-checklist.html#after-you-finish-data-collection",
+    "title": "3  MB5 Lab Participation Overview",
+    "section": "AFTER you finish data collection:",
+    "text": "AFTER you finish data collection:\n\nComplete your participant and trial data files in consultation with the data reporting instructions [Data reporting guidelines].\nSubmit your data using the MB5 data upload form.\nReport contributions using the MB Contribution Reporting Form",
+    "crumbs": [
+      "General information",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>MB5 Lab Participation Overview</span>"
     ]
   },
   {
