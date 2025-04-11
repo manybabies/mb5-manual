@@ -23,3 +23,10 @@ Fribbuli are colorful, computer-generated models of 3D figures. All Fribbuli are
 Fractals are geometric shapes in which the same structure is repeated iteratively at different levels of scale.
 
 **ADD MORE INFO ABOUT FRACTAL GENERATION**
+
+
+### Attention-getter stimuli
+
+-   **Between Trials:** Please use the provided "laughing baby" stimulus to re-center babies between each trial (i.e., before familiarization begins). If your lab uses a different attention-getting stimulus that you feel is more appropriate for your community, please check with us.
+-   **Within Trial:** Please use the the "Hoehle circle with chimes" stimulus to re-center babies within each trial (i.e., between familiarization and test and between test phases 1 and 2).
+
