@@ -4,7 +4,10 @@
 
 Please use the **MB5 Demographics Questionnaire**[^demographics-1] to collect information about the participant and their family. While parents/guardians can choose to not respond to individual questions, please check the form BEFORE THE RESPONDANT LEAVES YOUR LAB to avoid accidental blank responses.
 
-[^demographics-1]: This questionnaire is adapted from the template(s) created by the [MB-Demographics](https://manybabies.org/MB-Demographics/) group. Please see @Singh2024 for more information on the development of the template. \#### Adaptations and Translations As noted in @Signh2024, the questionnaire was developed to query information pertaining to six contructs (biographical information, gestational status, health status, community of descent, caregiving environment, and socioeconomic status). We have added a few additional questions that are of particular interest to MB5 (e.g., family history of colorblindness).
+[^demographics-1]: This questionnaire is adapted from the template(s) created by the [MB-Demographics](https://manybabies.org/MB-Demographics/) group. Please see @Singh2024 for more information on the development of the template.
+
+#### Adaptations and Translations 
+As noted in @Singh2024, the questionnaire was developed to query information pertaining to six contructs (biographical information, gestational status, health status, community of descent, caregiving environment, and socioeconomic status). We have added a few additional questions that are of particular interest to MB5 (e.g., family history of colorblindness).
 
 We recognize that the specific questions/response options on the example template (which was developed for use in the United States) are not appropriate for all contexts.
 

@@ -10,7 +10,7 @@ All data-collecting labs are required to obtain ethics approval from their local
 
 ## Permission to collect/share demographic data
 
-MB5 (and other ManyBabies projects) ask labs to collect a number of demographic background variables (e.g., gestational age, sex, parental education, community of descent) to be shared along with the main data (after full de-identification is confirmed) (see [**MB5 Demographics Questionnaire questionnaire**](#demographics) for more information). Not all of those variables are part of the main analysis. Even so, it is highly relevant to collect them for describing our sample, for follow-up and secondary analyses, and for checking the representativeness of the sample.
+MB5 (and other ManyBabies projects) ask labs to collect a number of demographic background variables (e.g., gestational age, sex, parental education, community of descent) to be shared along with the main data (after full de-identification is confirmed) (see [**MB5 Demographics Questionnaire**](#demographics) for more information). Not all of those variables are part of the main analysis. Even so, it is highly relevant to collect them for describing our sample, for follow-up and secondary analyses, and for checking the representativeness of the sample.
 
 #### Please make sure you have permission to publicly share anonymized raw data (including required demographic info), as this is a condition of participation. {.unnumbered}
 
