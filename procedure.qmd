@@ -4,13 +4,13 @@
 
 ## Trial Structure
 
-There are a total of 12 trials for each infant. Each trial will include both familiarization and test phases (described in further detail below). Between each trial, a laughing baby attention-getter will be presented.
+There are a total of 12 trials for each infant. Each trial will include both familiarization and test phases (described in further detail below). Between each trial, a "laughing baby" attention-getter will be presented.
 
 ## Overview
 
-During the experiment, infants will be seated on their caregiver’s lap or in a high-chair or car seat (whichever option corresponds to labs’ standard procedures for testing infants, as reported in the pre-data-collection survey). Each trial will be made up of a familiarization phase, in which infants are first exposed to a stimulus, and two test phases where infants are presented with both the item they viewed during the familiarization phase and a novel test item. These phases will be repeated on each of 12 total trials.
+During the experiment, infants will be seated on their caregiver’s lap or in a high-chair or car seat (whichever option corresponds to a lab's standard procedures for testing infants, as reported in the pre-data-collection survey). Each trial is made up of a familiarization phase, in which infants are first exposed to a stimulus, followed by two test phases where infants are presented with both the item they viewed during the familiarization phase (the familiar item) and a novel test item. These phases will be repeated on each of 12 total trials.
 
-![This figure depicts the design of an example trial. At familiarization, a single image is shown for 5, 10, or 15 s. After the desired familiarization time is reached (based on the infant-controlled or fixed-length design criteria), infants are presented with a central fixation stimulus for 500 ms. During the two test phases (5 s each), infants view the same image to which they were familiarized paired with a new stimulus from the same set (e.g., fribbles or fractals) and the same level of complexity. The side on which the familiar and novel images are presented is counterbalanced across test phases, but the images remain the same.](images/mb5-trial.png){#fig-trial}
+![This figure depicts the design of an example trial. At familiarization, a single image is shown for 5, 10, or 15 s. After the desired familiarization time is reached (based on the infant-controlled or fixed-length design criteria), infants are presented with a central fixation stimulus for 500 ms. During the two test phases (5 s each), infants view the same image to which they were familiarized paired with a new stimulus from the same set (e.g., Fribbuli or Fractals) and the same level of complexity. The side on which the familiar and novel images are presented is counterbalanced across test phases, but the images remain the same.](images/mb5-trial.png){#fig-trial}
 
 ### Familiarization Phase
 
@@ -18,7 +18,7 @@ There are a total of 12 familiarization events for each infant that vary across 
 
 -   
 
-    (1) stimulus class (fractals or fribbles)
+    (1) stimulus class (Fribbuli or Fractals)
 
 -   
 
@@ -30,14 +30,14 @@ There are a total of 12 familiarization events for each infant that vary across 
 
 <!-- NEED TO CONVERT TO TABLE -->
 
-| Stimulus Class | Complexity Level | Familiarization Time |
-|:--------------:|:----------------:|:--------------------:|
-|    Fribbles    |  Low Complexity  |      5 seconds       |
-|    Fribbles    |  Low Complexity  |      10 seconds      |
-|    Fribbles    |  Low Complexity  |      15 seconds      |
-|    Fribbles    | High Complexity  |      5 seconds       |
-|    Fribbles    | High Complexity  |      10 seconds      |
-|    Fribbles    | High Complexity  |      15 seconds      |
+| Stimulus Class | Complexity Level | Example Image | Familiarization Time |
+|:--------------:|:----------------:|:-------------:|:--------------------:|
+|    Fribbuli    |  Low Complexity  | <img src="images/fribbuli-low.png"></img> |  5 seconds  | 
+|    Fribbuli    |  Low Complexity  |      10 seconds      |
+|    Fribbuli    |  Low Complexity  |      15 seconds      |
+|    Fribbuli    | High Complexity  |      5 seconds       |
+|    Fribbuli    | High Complexity  |      10 seconds      |
+|    Fribbuli    | High Complexity  |      15 seconds      |
 |    Fractals    |  Low Complexity  |      5 seconds       |
 |    Fractals    |  Low Complexity  |      10 seconds      |
 |    Fractals    |  Low Complexity  |      15 seconds      |
@@ -45,7 +45,18 @@ There are a total of 12 familiarization events for each infant that vary across 
 |    Fractals    | High Complexity  |      10 seconds      |
 |    Fractals    | High Complexity  |      15 seconds      |
 
-: Familarization events (order will be randomized for each pariticipant) {.striped}
+: Familarization events *(Note: Order of events will be randomized for each pariticipant)* {#tbl-familiarization .striped}
+
+
++----------------+------------------+----------------------+--------------------------------------------------------------------------+
+| Stimulus Class | Complexity Level | Familiarization Time | Example Image                                                            |
++:===============+:=================+:=====================+==========================================================================+
+|    Fribbuli    |  Low Complexity  | <p> 5 seconds </p>   | <img src="images/fribbuli-low.png" alt="Low complexity Fribbulus"></img> | 
+|                |                  | <p> 10 seconds </p>  |                                                                          |
+|                |                  | <p> 15 seconds </p>  |                                                                          |
++----------------+------------------+----------------------+--------------------------------------------------------------------------+
+
+: Familarization events *(Note: Order of events will be randomized for each pariticipant)* {#tbl-familiarization .striped}
 
 <br>
 

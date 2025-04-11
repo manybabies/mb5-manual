@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -72,7 +92,7 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-sidebar docked">
+<body class="nav-sidebar docked slimcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -81,7 +101,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./setting-up-experiment.html">Setting up the experiment</a></li><li class="breadcrumb-item"><a href="./stimuli.html"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Stimuli</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./experiment-overview.html">Setting up the experiment</a></li><li class="breadcrumb-item"><a href="./stimuli.html"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Stimuli</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -138,7 +158,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./lab-checklist.html" class="sidebar-item-text sidebar-link">
+  <a href="./lab-overview.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">MB5 Lab Participation Overview</span></span></a>
   </div>
 </li>
@@ -202,8 +222,8 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./setting-up-experiment.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Setting up the experiment</span></span></a>
+  <a href="./experiment-overview.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Experiment Overview</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -309,16 +329,17 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview"><span class="header-section-number">12.1</span> Overview</a>
   <ul class="collapse">
-  <li><a href="#manyfribbuli" id="toc-manyfribbuli" class="nav-link" data-scroll-target="#manyfribbuli">ManyFribbuli</a></li>
-  <li><a href="#fractals" id="toc-fractals" class="nav-link" data-scroll-target="#fractals">Fractals</a></li>
+  <li><a href="#manyfribbulistimuli-2" id="toc-manyfribbulistimuli-2" class="nav-link" data-scroll-target="#manyfribbulistimuli-2">ManyFribbuli</a></li>
+  <li><a href="#manyfractals" id="toc-manyfractals" class="nav-link" data-scroll-target="#manyfractals">ManyFractals</a></li>
   </ul></li>
+  <li><a href="#bibliography" id="toc-bibliography" class="nav-link" data-scroll-target="#bibliography">References</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./setting-up-experiment.html">Setting up the experiment</a></li><li class="breadcrumb-item"><a href="./stimuli.html"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Stimuli</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./experiment-overview.html">Setting up the experiment</a></li><li class="breadcrumb-item"><a href="./stimuli.html"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Stimuli</span></a></li></ol></nav>
 <div class="quarto-title">
 <h1 class="title"><span id="stimuli" class="quarto-section-identifier"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Stimuli</span></span></h1>
 </div>
@@ -337,24 +358,35 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="overview" class="level2" data-number="12.1">
+<section id="overview" class="level2 page-columns page-full" data-number="12.1">
 <h2 data-number="12.1" class="anchored" data-anchor-id="overview"><span class="header-section-number">12.1</span> Overview</h2>
 <blockquote class="blockquote">
-<p>All materials are available in the <strong><a href="">MB5 materials directory</a></strong>.</p>
+<p>All materials are available in the <a href="https://drive.google.com/drive/folders/1ces1jzHYVV0Wx29JAtdfGAZx_pDAAh5l?usp=sharing"><strong>MB5 materials directory</strong></a>.</p>
 </blockquote>
-<p>Because the sample size possible in ManyBabies projects provides a unique opportunity to test generalizability across multiple stimulus types, we chose two different categories of stimuli: fribbles and fractals. These two classes of stimuli were chosen because: (1) they allow for variation in stimulus complexity within the same stimulus category (i.e., by manipulating the number of features); (2) infants are unlikely to have previous experience with either set of stimuli; and (3) the inclusion of two stimulus sets allow us to begin examining the generalizability of any observed effect.</p>
-<p>We created 12 unique fribbles and 12 unique fractals, operationalizing complexity as the number of features present (these features are appendages in the case of fribbles and iterations of the same structure for fractals; see Figure 3). Within each stimulus type, 6 items were designed to be low-complexity and 6 were designed to be high-complexity</p>
-<section id="manyfribbuli" class="level3">
-<h3 class="anchored" data-anchor-id="manyfribbuli">ManyFribbuli</h3>
-<p>Fribbles are colorful, computer-generated models of 3D figures. All fribbles are made up of one of three possible body shapes and up to four appendages that can be chosen from a set of possible options for heads, legs, and two parts of a tail</p>
+<p>Because the sample size possible in ManyBabies projects provides a unique opportunity to test generalizability across multiple stimulus types, we chose two different categories of stimuli: <strong>Fribbuli</strong><a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> and <strong>Fractals</strong>. These two classes of stimuli were chosen because: (1) they allow for variation in stimulus complexity within the same stimulus category (i.e., by manipulating the number of features); (2) infants are unlikely to have previous experience with either set of stimuli; and (3) the inclusion of two stimulus sets allow us to begin examining the generalizability of any observed effect.</p>
+<div class="no-row-height column-margin column-container"><div id="fn1"><p><sup>1</sup>&nbsp;“Fribbuli” is a portmenteau combining the words “Fribble” and “stimuli”. These stimuli were inspired by the Fribbles stimulus set <span class="citation" data-cites="barry2014">(<a href="references.html#ref-barry2014" role="doc-biblioref">Barry et al., 2014</a>)</span></p></div></div><p>We created 12 unique Fribbuli and 12 unique Fractals, operationalizing complexity as the number of features present (these features are appendages in the case of Fribbuli and iterations of the same structure for Fractals; see Figure 3). Within each stimulus type, 6 items were designed to be low-complexity and 6 were designed to be high-complexity</p>
+<section id="manyfribbulistimuli-2" class="level3">
+<h3 class="anchored" data-anchor-id="manyfribbulistimuli-2">ManyFribbuli<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a></h3>
+<p>Fribbuli are colorful, computer-generated models of 3D figures. All Fribbuli are made up of one of twelve possible body shapes and one (low-complexity) or four (high-complexity) appendages.</p>
+<p><strong>ADD MORE INFO ABOUT COLOR SELECTION, SIZING, ETC</strong></p>
 </section>
-<section id="fractals" class="level3">
-<h3 class="anchored" data-anchor-id="fractals">Fractals</h3>
-<p>Fractals are geometric shapes in which the same structure is repeated iteratively at different levels of scale</p>
+<div class="no-row-height column-margin column-container"><div id="fn2"><p><sup>2</sup>&nbsp;We’re calling our custom sets of stimuli “ManyFribbuli” and “ManyFractals” because… well, it’s fun.</p></div></div><section id="manyfractals" class="level3">
+<h3 class="anchored" data-anchor-id="manyfractals">ManyFractals</h3>
+<p>Fractals are geometric shapes in which the same structure is repeated iteratively at different levels of scale.</p>
+<p><strong>ADD MORE INFO ABOUT FRACTAL GENERATION</strong></p>
 
 
 </section>
 </section>
+<section id="bibliography" class="level1 unnumbered">
+<h1 class="unnumbered">References</h1>
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list" style="display: none">
+<div id="ref-barry2014" class="csl-entry" role="listitem">
+Barry, T. J., Griffith, J. W., De Rossi, S., &amp; Hermans, D. (2014). Meet the fribbles: Novel stimuli for use within behavioural research. <em>Frontiers in Psychology</em>, <em>5</em>. <a href="https://doi.org/10.3389/fpsyg.2014.00103">https://doi.org/10.3389/fpsyg.2014.00103</a>
+</div>
+</div>
+</section>
+
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

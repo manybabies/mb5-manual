@@ -43,7 +43,7 @@ book:
       chapters:
         - contact-info.qmd
         - test-dates.qmd
-        - lab-checklist.qmd
+        - lab-overview.qmd
     - part: "Getting started"
       chapters: 
         - getting-started.qmd
@@ -54,7 +54,7 @@ book:
         - walkthrough.qmd
     - part: "Setting up the experiment"
       chapters: 
-        - setting-up-experiment.qmd
+        - experiment-overview.qmd
         - equipment.qmd
         - stimuli.qmd
         - procedure.qmd
