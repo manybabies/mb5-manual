@@ -48,6 +48,7 @@ book:
       chapters: 
         - getting-started.qmd
         - green-lighting.qmd
+        - demographics.qmd
         - ethics.qmd
         - participants.qmd
         - general-lab-practices.qmd
@@ -58,11 +59,11 @@ book:
         - equipment.qmd
         - stimuli.qmd
         - procedure.qmd
-        - conditions.qmd
         - prior-to-data-coll-checklist.qmd
     - part: "Running the experiment"
       chapters:
         - during-data-collection.qmd
+        - conditions.qmd
     - part: "After data collection"
       chapters:
         - after-data-collection.qmd
