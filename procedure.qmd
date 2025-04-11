@@ -48,13 +48,15 @@ There are a total of 12 familiarization events for each infant that vary across 
 : Familarization events *(Note: Order of events will be randomized for each pariticipant)* {#tbl-familiarization .striped}
 
 
-+----------------+------------------+----------------------+--------------------------------------------------------------------------+
-| Stimulus Class | Complexity Level | Familiarization Time | Example Image                                                            |
-+:===============+:=================+:=====================+==========================================================================+
-|    Fribbuli    |  Low Complexity  | <p> 5 seconds </p>   | <img src="images/fribbuli-low.png" alt="Low complexity Fribbulus"></img> | 
-|                |                  | <p> 10 seconds </p>  |                                                                          |
-|                |                  | <p> 15 seconds </p>  |                                                                          |
-+----------------+------------------+----------------------+--------------------------------------------------------------------------+
++----------------+------------------+----------------------+---------------------------------------------------------------------------------------+
+| Stimulus Class | Complexity Level | Familiarization Time | Example Image                                                                         |
++================+==================+======================+=======================================================================================+
+|    Fribbuli    |  Low Complexity  | 5 seconds <br>       | <img src="images/fribbuli-low.png" alt="Low complexity Fribbulus" height="100"></img> | 
+|                |                  | <hr>                 |                                                                                       |
+|                |                  | 10 seconds <br>      |                                                                                       |
+|                |                  | <hr>                 |                                                                                       |
+|                |                  | 15 seconds <br>.     |                                                                                       |
++----------------+------------------+----------------------+---------------------------------------------------------------------------------------+
 
 : Familarization events *(Note: Order of events will be randomized for each pariticipant)* {#tbl-familiarization .striped}
 
