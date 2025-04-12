@@ -1,7 +1,7 @@
-![](images/mb-logo.png){width="30%"} ![](images/mb5-logo.png){width="30%"}
+![](images/mb-logo.png){width="18%"} ![](images/mb5-logo.png){width="18%"}
 
+------------------------------------------------------------------------
 
-***
 # Preface {.unnumbered}
 
 #### Thank you for contributing to [**ManyBabies 5**](https://manybabies.org/MB5/), a project of [**ManyBabies**](https://manybabies.org/)! {.unnumbered}
@@ -9,8 +9,6 @@
 MB5 is a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs. novelty preference through a collaboratively-designed “best test” of a popular model of infants’ visual preference for familiar and novel stimuli [@hunter1988]. More details about the background, design and hypotheses can be found in the [**Registered Report**](https://osf.io/preprints/psyarxiv/ck3vd) [@kosie]. In the following sections, we provide instructions on how to implement the experiment in your lab and report data back to the project as a whole. Thanks for joining us!
 
 ![Hunter and Ames model of infant attention (adapted from Bergmann and Cristia, 2016)](images/HunterAmesFig.png){#fig-hunterames}
-
-
 
 ------------------------------------------------------------------------
 
@@ -23,6 +21,3 @@ To learn more about Quarto books visit <https://quarto.org/docs/books>.
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" style="border-width:0"/></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
 ------------------------------------------------------------------------
-
-
-

@@ -8,7 +8,6 @@ number-depth: 2
 
 bibliography: references.bib
 csl: apa.csl
-reference-section-title: References
 
 crossref:
   fig-prefix: figure
@@ -30,7 +29,7 @@ format:
 editor: visual
 
 book:
-  title: "Many Babies 5 Lab Manual"
+  title: "ManyBabies 5: Hunter & Ames Model of Infant Attention - Lab Manual"
   author: "MB5 Leads"
   date: last-modified
   repo-url: https://github.com/manybabies/mb5-manual
@@ -50,8 +49,6 @@ book:
         - green-lighting.qmd
         - demographics.qmd
         - ethics.qmd
-        - participants.qmd
-        - general-lab-practices.qmd
         - walkthrough.qmd
     - part: "Setting up the experiment"
       chapters: 
@@ -62,13 +59,27 @@ book:
         - prior-to-data-coll-checklist.qmd
     - part: "Running the experiment"
       chapters:
-        - during-data-collection.qmd
+        - participants.qmd
+        - general-lab-practices.qmd
         - conditions.qmd
+        - during-data-collection.qmd
     - part: "After data collection"
       chapters:
         - after-data-collection.qmd
     - references.qmd
   appendices:
     - collab-agreement.qmd
+  page-footer: 
+    left: "ManyBabies5 Lab Manual"
+    right: 
+      - icon: link-45deg
+        href: https://manybabies.org/MB5
+      - icon: envelope
+        href: mailto:mb5@manybabies.org
+      - icon: github
+        href: https://github.com/manybabies/mb5-analysis
+      - icon: book
+        href: https://doi.org/10.31234/osf.io/ck3vd
+
 
 

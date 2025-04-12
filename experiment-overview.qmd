@@ -9,7 +9,11 @@ Each baby will be presented with a series of 12 trials with one familiarization 
 -   [**Equipment and sofware**](#equipment)
 -   [**Stimuli**](#stimuli)
 -   [**Procedure**](#procedure)
--   [**Testing conditions**](#conditions)
+-   [**Participants and recruitment**](#participants)
+-   [**General lab practices**](#genlab)
+
+
+
 
 ````{=html}
 <!-- leaving this in from template for now, so we know how to add figs and tables 

@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Many Babies 5 Lab Manual",
+    "title": "ManyBabies 5: Hunter & Ames Model of Infant Attention - Lab Manual",
     "section": "",
-    "text": "Preface\n\nThank you for contributing to ManyBabies 5, a project of ManyBabies!\nMB5 is a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs. novelty preference through a collaboratively-designed “best test” of a popular model of infants’ visual preference for familiar and novel stimuli (Hunter & Ames, 1988). More details about the background, design and hypotheses can be found in the Registered Report (Kosie et al., n.d.). In the following sections, we provide instructions on how to implement the experiment in your lab and report data back to the project as a whole. Thanks for joining us!\n\n\n\n\n\n\nFigure 1: Hunter and Ames model of infant attention (adapted from Bergmann and Cristia, 2016)\n\n\n\n\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\nThis work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.\n\n\n\n\n\n\nReferences\n\n\nHunter, M. A., & Ames, E. W. (1988). A multifactor model of infant preferences for novel and familiar stimuli (pp. 69–95). Ablex Publishing.\n\n\nKosie, J., Zettersten, M., Abu-Zhaya, R., Amso, D., Babineau, M., Baumgartner, H., Bazhydai, M., Belia, M., Benavides, S., Bergmann, C., Berteletti, I., Black, A. K., Borges, P., Borovsky, A., Byers-Heinlein, K., Cabrera, L., Calignano, G., Cao, A., Cox, C. M. M., … Lew-Williams, C. (n.d.). ManyBabies 5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time. https://doi.org/10.31234/osf.io/ck3vd",
+    "text": "Preface\n\nThank you for contributing to ManyBabies 5, a project of ManyBabies!\nMB5 is a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs. novelty preference through a collaboratively-designed “best test” of a popular model of infants’ visual preference for familiar and novel stimuli (Hunter & Ames, 1988). More details about the background, design and hypotheses can be found in the Registered Report (Kosie et al., n.d.). In the following sections, we provide instructions on how to implement the experiment in your lab and report data back to the project as a whole. Thanks for joining us!\n\n\n\n\n\n\nFigure 1: Hunter and Ames model of infant attention (adapted from Bergmann and Cristia, 2016)\n\n\n\n\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\nThis work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.\n\n\n\n\n\nHunter, M. A., & Ames, E. W. (1988). A multifactor model of infant preferences for novel and familiar stimuli (pp. 69–95). Ablex Publishing.\n\n\nKosie, J., Zettersten, M., Abu-Zhaya, R., Amso, D., Babineau, M., Baumgartner, H., Bazhydai, M., Belia, M., Benavides, S., Bergmann, C., Berteletti, I., Black, A. K., Borges, P., Borovsky, A., Byers-Heinlein, K., Cabrera, L., Calignano, G., Cao, A., Cox, C. M. M., … Lew-Williams, C. (n.d.). ManyBabies 5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time. https://doi.org/10.31234/osf.io/ck3vd",
     "crumbs": [
       "Preface"
     ]
@@ -80,7 +80,7 @@
     "href": "getting-started.html",
     "title": "4  Pre-testing steps",
     "section": "",
-    "text": "This section covers some basic aspects of the project that you’ll need to know about BEFORE you set up and run the experiment. Use the arrows below to continue to through the sections, or jump to a section using the links.\n\nGreen-lighting process\nEthics approval information\nDemographics questionnaire\nParticipants and recruitment\nGeneral lab practices\nWalkthrough videos",
+    "text": "This section covers some basic aspects of the project that you’ll need to know about BEFORE you set up and run the experiment. Use the arrows to continue to through the sections, or jump to a section using the links below.\n\nGreen-lighting process\nDemographics questionnaire\nEthics approval information\nParticipants and recruitment\nGeneral lab practices\nWalkthrough videos",
     "crumbs": [
       "Getting started",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Pre-testing steps</span>"
@@ -113,7 +113,18 @@
     "href": "demographics.html#collecting-participant-information",
     "title": "6  Demographics Questionnaire",
     "section": "",
-    "text": "1 This questionnaire is adapted from the template(s) created by the MB-Demographics group. Please see Singh et al. (2024) for more information on the development of the template.\nAdaptations and Translations\nAs noted in (Signh2024?), the questionnaire was developed to query information pertaining to six contructs (biographical information, gestational status, health status, community of descent, caregiving environment, and socioeconomic status). We have added a few additional questions that are of particular interest to MB5 (e.g., family history of colorblindness).\nWe recognize that the specific questions/response options on the example template (which was developed for use in the United States) are not appropriate for all contexts.\nWe encourage labs to adapt the questionnaire template as needed, while keeping in mind the goal of querying the same constructs included in the original template to ensure consistency in reporting. For example, the question on race/ethnicity can be adapted to meet the norms of your region. If possible, please use racial/ethnic categories taken from local census categories. For countries where it is not considered socially or legally acceptable to inquire about ethnic background, please adapt to a more appropriate question (e.g. parent and child place of birth), if possible.If you have any questions about adapting the questionnaire, please contact the leadership team to discuss your concerns. Let us know if any of the questions are unclear to you - it is important that you are able to answer any questions the participants may have. Translations/adaptations of the MB5 Demographics Questionnaire will be available here as they are created.2\n2 Translations/adaptations of the MB-Demographics template are available via the MB-Demographics OSF repository.All labs must upload a blank copy of the Demographics Questionnaire they will be using for MB5 via the MB5 documentation upload form. Please ensure that your form is clearly labeled in the filename with your LabID (e.g., babylabPrinceton_demographics.pdf).\n\n\nRace/Ethnicity",
+    "text": "1 This questionnaire is adapted from the template(s) created by the MB-Demographics group. Please see Singh et al. (2024) for more information on the development of the template.\nAdaptations and translations\nAs noted in Singh et al. (2024), the questionnaire was developed to query information pertaining to six contructs (biographical information, gestational status, health status, community of descent, caregiving environment, and socioeconomic status). We have added a few additional questions that are of particular interest to MB5 (e.g., family history of colorblindness).\nWe recognize that the specific questions/response options on the example template (which was developed for use in the United States) are not appropriate for all contexts.\nWe encourage labs to adapt the questionnaire template as needed, while keeping in mind the goal of querying the same constructs included in the original template to ensure consistency in reporting. For example, the question on race/ethnicity can be adapted to meet the norms of your region. If possible, please use racial/ethnic categories taken from local census categories. For countries where it is not considered socially or legally acceptable to inquire about ethnic background, please adapt to a more appropriate question (e.g. parent and child place of birth), if possible.If you have any questions about adapting the questionnaire, please contact the leadership team to discuss your concerns. Let us know if any of the questions are unclear to you - it is important that you are able to answer any questions the participants may have. Translations/adaptations of the MB5 Demographics Questionnaire will be available here as they are created.2\n2 Translations/adaptations of the MB-Demographics template are available via the MB-Demographics OSF repository.",
+    "crumbs": [
+      "Getting started",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Demographics Questionnaire</span>"
+    ]
+  },
+  {
+    "objectID": "demographics.html#uploading-demographics-questionnaire",
+    "href": "demographics.html#uploading-demographics-questionnaire",
+    "title": "6  Demographics Questionnaire",
+    "section": "6.2 Uploading demographics questionnaire",
+    "text": "6.2 Uploading demographics questionnaire\nAll labs must upload a blank copy of the Demographics Questionnaire they will be using for MB5 via the MB5 documentation upload form.\nPlease ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g. babylabPrinceton_demographics.pdf). Check the list of LabIDs to confirm your lab’s unique LabID before uploading.\n\n\n\n\nSingh, L., Barokova, M. D., Baumgartner, H. A., Lopera-Perez, D. C., Omane, P. O., Sheskin, M., Yuen, F. L., Wu, Y., Alcock, K. J., Altmann, E. C., Bazhydai, M., Carstensen, A., Chan, K. C. J., Chuan-Peng, H., Dal Ben, R., Franchin, L., Kosie, J. E., Lew-Williams, C., Okocha, A., … Frank, M. C. (2024). A unified approach to demographic data collection for research with young children across diverse cultures. Developmental Psychology, 60. https://doi.org/10.1037/dev0001623",
     "crumbs": [
       "Getting started",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Demographics Questionnaire</span>"
@@ -175,344 +186,333 @@
     ]
   },
   {
-    "objectID": "participants.html",
-    "href": "participants.html",
-    "title": "8  Participants and recruitment",
-    "section": "",
-    "text": "8.1 Age and sample size\nThe expected lab contribution is a full sample of 32 babies (preferred, if possible) or a half sample of 16 babies (minimum).",
-    "crumbs": [
-      "Getting started",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Participants and recruitment</span>"
-    ]
-  },
-  {
-    "objectID": "participants.html#age-and-sample-size",
-    "href": "participants.html#age-and-sample-size",
-    "title": "8  Participants and recruitment",
-    "section": "",
-    "text": "Minimum age: 3 months, 0 days\n\n\nMaximum age: 15 months, 0 days\n\nFor example, on a testing date of 2025-04-15, eligible infants would have birthdays on or between 2024-01-15 and 2025-01-15.\n\nYou can use an online tool such as this Age Calculator to use the infant’s date of birth and testing date to determine eligibility and calculate age in days, which is the required format for age reporting. \n\n\nNotes about age and sample size:\n\nTry to distribute participants across the full range of ages, if possible.\nA lab’s sample size contribution includes any infant who enters the laboratory, even if they are eventually excluded (e.g., due to fussiness, experimenter error, too young or too old, etc.).\nIn situations where labs plan but are unable to collect the minimum contribution (16 babies), lab members will still be eligible for authorship. Alternative contributions may be requested by the Project Leads in these circumstances.",
-    "crumbs": [
-      "Getting started",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Participants and recruitment</span>"
-    ]
-  },
-  {
-    "objectID": "participants.html#eligibility-and-exclusions",
-    "href": "participants.html#eligibility-and-exclusions",
-    "title": "8  Participants and recruitment",
-    "section": "8.2 Eligibility and Exclusions",
-    "text": "8.2 Eligibility and Exclusions\n\nThe only requirements for inclusion in MB5 are:\n\nthe infant’s age falls within the 3- to 15-month age range AND\nthe infant has no known issues that would directly impede their ability to process visual stimuli\n\nInfants with other characteristics that are commonly used as exclusion criteria in developmental studies (e.g., hard of hearing, premature, bilingual, etc.) can be included in the sample.\nPlease determine participants’ eligibility on the phone prior to scheduling them in the ManyBabies study to avoid testing ineligible participants, but note that the inclusion criteria for MB5 are much more inclusive than typical in-lab studies (described above). Participants who come into the lab who are subsequently determined to be ineligible should be still reported in the sample but clearly marked as ineligible based on age or visual processing impairment (see [Data reporting guidelines][Data reporting guidelines] for more info).",
-    "crumbs": [
-      "Getting started",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Participants and recruitment</span>"
-    ]
-  },
-  {
-    "objectID": "participants.html#first-sessionsecond-session-policy",
-    "href": "participants.html#first-sessionsecond-session-policy",
-    "title": "8  Participants and recruitment",
-    "section": "8.3 First-session/second-session policy",
-    "text": "8.3 First-session/second-session policy\nSome laboratories have the practice of testing babies in more than one study during the same visit.\n\n‘First session’ refers to babies tested soon upon arrival to the lab, prior to participating in any other studies.\n‘Second session’ refers to any testing that is done after the first session.\n\nPlease contribute ‘first session’ babies when possible. It is possible that second session babies will contribute worse/weaker/different data with respect to the larger goals of determining effect sizes.\nLabel ‘second session’ babies appropriately if infants were run in a different study on the same visit prior to their participation in MB5. Please also document the nature of the study run prior to MB5 for all ‘second session’ participants (e.g., “7 minute study of object categorization using eye-tracking”).",
-    "crumbs": [
-      "Getting started",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Participants and recruitment</span>"
-    ]
-  },
-  {
-    "objectID": "general-lab-practices.html",
-    "href": "general-lab-practices.html",
-    "title": "9  General Lab Practices",
-    "section": "",
-    "text": "9.1 Training research assistants\nYou are responsible for implementing rigorous training practices. Research assistants should be held to the same high standards for ManyBabies as they would be for your main studies. You are free to have any number of research assistants conduct the test sessions, but please aim for as much coding consistency as possible and document which research assistant coded a given baby (using code names such as RA1, RA2, etc. if you wish). You will be asked to report about your standard training practices (e.g., how/when do you determine it’s okay for a research assistant to test real babies). Online Coding. If you are using a central screen to gather accumulated looking data for infant-controlled familiarization, then research assistants will need to be properly trained in coding online looking behaviors. Offline Coding. If you are not using an eyetracker to gather data, then you will need to code the test trials offline.",
-    "crumbs": [
-      "Getting started",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>General Lab Practices</span>"
-    ]
-  },
-  {
-    "objectID": "general-lab-practices.html#greeting-families",
-    "href": "general-lab-practices.html#greeting-families",
-    "title": "9  General Lab Practices",
-    "section": "9.2 Greeting families",
-    "text": "9.2 Greeting families\nYou can greet families, briefly explain the study’s purpose and goals in terms understandable to families (avoid technical jargon), obtain informed consent, and conduct the appointment as you normally would. Acknowledge their decision to consider participating and express appreciation for their time. Address potential concerns families might have and answer their questions openly and honestly.",
-    "crumbs": [
-      "Getting started",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>General Lab Practices</span>"
-    ]
-  },
-  {
-    "objectID": "general-lab-practices.html#compensating-families",
-    "href": "general-lab-practices.html#compensating-families",
-    "title": "9  General Lab Practices",
-    "section": "9.3 Compensating families",
-    "text": "9.3 Compensating families\nYou can use your lab’s standard, IRB-approved method for compensating families. This can include providinge small gifts, cash, travel reimbursement, taxi rides, or other incentives for participation as you normally would. Participating labs are responsible for compensating their own participants.",
-    "crumbs": [
-      "Getting started",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>General Lab Practices</span>"
-    ]
-  },
-  {
     "objectID": "walkthrough.html",
     "href": "walkthrough.html",
-    "title": "10  Walkthrough Videos",
+    "title": "8  Walkthrough Videos",
     "section": "",
-    "text": "10.1 Purpose\nThe purpose walkthrough videos is two-fold:\nPlease rest assured that these videos will NOT be used by ManyBabies to critique individual researchers’ laboratory policies and procedures. This project is a community effort!",
+    "text": "8.1 Purpose\nThe purpose walkthrough videos is two-fold:\nPlease rest assured that these videos will NOT be used by ManyBabies to critique individual researchers’ laboratory policies and procedures. This project is a community effort!",
     "crumbs": [
       "Getting started",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Walkthrough Videos</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Walkthrough Videos</span>"
     ]
   },
   {
     "objectID": "walkthrough.html#purpose",
     "href": "walkthrough.html#purpose",
-    "title": "10  Walkthrough Videos",
+    "title": "8  Walkthrough Videos",
     "section": "",
     "text": "Given the ManyBabies Consortium’s commitment to Open Science, we would like to have a full and accurate record of how the study was implemented in each laboratory.\nOne of the goals of ManyBabies is to study how methodological variation affects experimental outcomes in infant research. This video record may be used for analyses examining whether laboratories with different characteristics and procedures (e.g., larger or smaller test booths, white or black walls) differ in the effect size obtained in ManyBabies projects.",
     "crumbs": [
       "Getting started",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Walkthrough Videos</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Walkthrough Videos</span>"
     ]
   },
   {
     "objectID": "walkthrough.html#method",
     "href": "walkthrough.html#method",
-    "title": "10  Walkthrough Videos",
-    "section": "10.2 Method",
-    "text": "10.2 Method\nThere are two possibilities to create a video documenting your process:\n\nFilming a (preferably pilot) session with a participant (with parental approval and permission from your local ethics board). Please make sure you have permission to share this video fully publicly!!\nAsking a colleague to “play” parent and using a dummy (e.g., a doll) as a baby stand-in.\n\nIF YOUR FINAL VERSION IS NOT READY FOR PRIME TIME, FEAR NOT. The goal is to be informative, not flawless - it can have starts and stops and disfluency.",
+    "title": "8  Walkthrough Videos",
+    "section": "8.2 Method",
+    "text": "8.2 Method\nThere are two possibilities to create a video documenting your process:\n\nFilming a (preferably pilot) session with a participant (with parental approval and permission from your local ethics board). Please make sure you have permission to share this video fully publicly!!\nAsking a colleague to “play” parent and using a dummy (e.g., a doll) as a baby stand-in.\n\nIF YOUR FINAL VERSION IS NOT READY FOR PRIME TIME, FEAR NOT. The goal is to be informative, not flawless - it can have starts and stops and disfluency.",
     "crumbs": [
       "Getting started",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Walkthrough Videos</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Walkthrough Videos</span>"
     ]
   },
   {
     "objectID": "walkthrough.html#consent",
     "href": "walkthrough.html#consent",
-    "title": "10  Walkthrough Videos",
-    "section": "10.3 Consent",
-    "text": "10.3 Consent\nNote that we plan to share the videos among the consortium via Databrary, our website, and/or YouTube. There should be no assumption of privacy, and no confidential or otherwise sensitive information should be included in the videos. Be sure that parental consent covers all these options when filming participants.",
+    "title": "8  Walkthrough Videos",
+    "section": "8.3 Consent",
+    "text": "8.3 Consent\nNote that we plan to share the videos among the consortium via Databrary, our website, and/or YouTube. There should be no assumption of privacy, and no confidential or otherwise sensitive information should be included in the videos. Be sure that parental consent covers all these options when filming participants.",
     "crumbs": [
       "Getting started",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Walkthrough Videos</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Walkthrough Videos</span>"
     ]
   },
   {
     "objectID": "walkthrough.html#sequence",
     "href": "walkthrough.html#sequence",
-    "title": "10  Walkthrough Videos",
-    "section": "10.4 Sequence",
-    "text": "10.4 Sequence\nMake sure your video covers the following components. We added questions you should answer for each step. It is not necessary to narrate your video (you can if you want); a silent observer is sufficient, but be sure to cover all details requested below. If your lab language is not English, we might add subtitles later on.\n\nGreeting\n\nWhere do you receive families? (Dedicated area, parking lot, general entrance)\nWho is there? (Parents, colleagues, assistants)\nWhat do you say and ask them? (Example: Do you check when the baby last ate / slept?)\nWhat do you do if a baby arrives asleep or fussy?\n\n\n\nBriefing before testing\n\nWhat instructions do you give to the parents? Are there any specific instructions on how to behave, sit, hold the baby, etc?\nHow detailed do you explain the procedure and aim of the study?\nWhat is your informed consenting process like? How do parents give consent? When do you typically obtain consent?\n\n\n\nTest\n\nWhat does your testing room/booth look like (size, lay-out, etc.)? Try to film the entrance and complete interior of the test booth or room\nWhere is the baby sitting (e.g., parent’s lap, high chair, etc.)? Film the seating arrangement before the baby is seating and with the baby\nWhat does the stimulus display look like (size, distance to baby)? Where are the screen(s)/lamps located? 4. Where is the experimenter located during testing (e.g., inside or outside the booth)? Show where the experimenter is sitting; if it is in the same room, capture both baby and experimenter.\nCan the baby see the experimenter during testing? How does the experimenter see the baby? (e.g.,videofeed)\nIf live-coding takes place: Show examples of what counts as a look / no look and/or videotape someone doing the coding together with the infant looks.\nHow is the experimenter blinded to trial type during testing?\nHos is the parent blinded during testing (blacked-out glasses or something similar)?\n\n\n\nQuestionnaire(s)\n\nAt what point do you hand out/collect questionnaires (e.g., pre- or post-experiment)?\nDo you give any additional instructions other than those listed on the form(s)?\n\n\n\nDebrief after experiment\n\nWhat do you tell parents at the end of a study?\nAre there standard questions you ask them?",
+    "title": "8  Walkthrough Videos",
+    "section": "8.4 Sequence",
+    "text": "8.4 Sequence\nMake sure your video covers the following components. We added questions you should answer for each step. It is not necessary to narrate your video (you can if you want); a silent observer is sufficient, but be sure to cover all details requested below. If your lab language is not English, we might add subtitles later on.\n\nGreeting\n\nWhere do you receive families? (Dedicated area, parking lot, general entrance)\nWho is there? (Parents, colleagues, assistants)\nWhat do you say and ask them? (Example: Do you check when the baby last ate / slept?)\nWhat do you do if a baby arrives asleep or fussy?\n\n\n\nBriefing before testing\n\nWhat instructions do you give to the parents? Are there any specific instructions on how to behave, sit, hold the baby, etc?\nHow detailed do you explain the procedure and aim of the study?\nWhat is your informed consenting process like? How do parents give consent? When do you typically obtain consent?\n\n\n\nTest\n\nWhat does your testing room/booth look like (size, lay-out, etc.)? Try to film the entrance and complete interior of the test booth or room\nWhere is the baby sitting (e.g., parent’s lap, high chair, etc.)? Film the seating arrangement before the baby is seating and with the baby\nWhat does the stimulus display look like (size, distance to baby)? Where are the screen(s)/lamps located? 4. Where is the experimenter located during testing (e.g., inside or outside the booth)? Show where the experimenter is sitting; if it is in the same room, capture both baby and experimenter.\nCan the baby see the experimenter during testing? How does the experimenter see the baby? (e.g.,videofeed)\nIf live-coding takes place: Show examples of what counts as a look / no look and/or videotape someone doing the coding together with the infant looks.\nHow is the experimenter blinded to trial type during testing?\nHos is the parent blinded during testing (blacked-out glasses or something similar)?\n\n\n\nQuestionnaire(s)\n\nAt what point do you hand out/collect questionnaires (e.g., pre- or post-experiment)?\nDo you give any additional instructions other than those listed on the form(s)?\n\n\n\nDebrief after experiment\n\nWhat do you tell parents at the end of a study?\nAre there standard questions you ask them?",
     "crumbs": [
       "Getting started",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Walkthrough Videos</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Walkthrough Videos</span>"
     ]
   },
   {
     "objectID": "walkthrough.html#upload-your-walkthrough-video",
     "href": "walkthrough.html#upload-your-walkthrough-video",
-    "title": "10  Walkthrough Videos",
-    "section": "10.5 Upload your walkthrough video",
-    "text": "10.5 Upload your walkthrough video\n\nUpload your walkthrough video here\n\nPlease ensure that your video is clearly labeled in the file name with your LabID (e.g. babylabPrinceton_walkthrough.mpg).\nYou are welcome to view videos that have already been uploaded by other labs as examples (note that these videos might not have been reviewed yet by project leads for completeness)\nWalkthrough videos from MB1 are available on Databrary",
+    "title": "8  Walkthrough Videos",
+    "section": "8.5 Upload your walkthrough video",
+    "text": "8.5 Upload your walkthrough video\n\nUpload your walkthrough video here\n\nPlease ensure that your video is clearly labeled in the file name with your LabID (e.g. babylabPrinceton_walkthrough.mpg).\nYou are welcome to view videos that have already been uploaded by other labs as examples (note that these videos might not have been reviewed yet by project leads for completeness)\nWalkthrough videos from MB1 are available on Databrary",
     "crumbs": [
       "Getting started",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Walkthrough Videos</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Walkthrough Videos</span>"
     ]
   },
   {
     "objectID": "experiment-overview.html",
     "href": "experiment-overview.html",
-    "title": "11  Experiment Overview",
+    "title": "9  Experiment Overview",
     "section": "",
-    "text": "11.1\nEach baby will be presented with a series of 12 trials with one familiarization and two test phases each. During familiarization, a single stimulus is presented centrally on the screen. The test phase will consist of two stimuli, one familiar and one novel, presented side-by-side. The location of the stimuli will be switched in the two test trials. The duration of the familiarization will vary across trials (5, 10, or 15s). The tests will last 5s each. There will be two versions of the experiment: one in which the familiarization time will be pre-established (fixed-length), and another one in which the length of the trial will last until the infant accumulates the required looking time (infant-controlled).",
+    "text": "9.1\nEach baby will be presented with a series of 12 trials with one familiarization and two test phases each. During familiarization, a single stimulus is presented centrally on the screen. The test phase will consist of two stimuli, one familiar and one novel, presented side-by-side. The location of the stimuli will be switched in the two test trials. The duration of the familiarization will vary across trials (5, 10, or 15s). The tests will last 5s each. There will be two versions of the experiment: one in which the familiarization time will be pre-established (fixed-length), and another one in which the length of the trial will last until the infant accumulates the required looking time (infant-controlled).",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Experiment Overview</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Experiment Overview</span>"
     ]
   },
   {
     "objectID": "experiment-overview.html#section",
     "href": "experiment-overview.html#section",
-    "title": "11  Experiment Overview",
+    "title": "9  Experiment Overview",
     "section": "",
-    "text": "Equipment and sofware\nStimuli\nProcedure\nTesting conditions",
+    "text": "Equipment and sofware\nStimuli\nProcedure\nParticipants and recruitment\nGeneral lab practices",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Experiment Overview</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Experiment Overview</span>"
     ]
   },
   {
     "objectID": "equipment.html",
     "href": "equipment.html",
-    "title": "12  Equipment and software",
+    "title": "10  Equipment and software",
     "section": "",
-    "text": "12.1 Equipment\nThe minimal equipment required to run this experiment is:\nAddional (optional) equipment:",
+    "text": "10.1 Equipment\nThe minimal equipment required to run this experiment is:\nAddional (optional) equipment:",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Equipment and software</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Equipment and software</span>"
     ]
   },
   {
     "objectID": "equipment.html#equipment",
     "href": "equipment.html#equipment",
-    "title": "12  Equipment and software",
+    "title": "10  Equipment and software",
     "section": "",
     "text": "Computer running experiment software (see below)\nMonitor/television for stimulus display\nCamera for capturing infant looking behavior1\nMixer for syncing recording of infant with stimulus timing (or other method for doing so)\n\n1 not needed if infant’s face is captured by eye tracker\n\nEye tracker\nBlacked-out glasses for parent to wear during experiment",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Equipment and software</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Equipment and software</span>"
     ]
   },
   {
     "objectID": "equipment.html#software",
     "href": "equipment.html#software",
-    "title": "12  Equipment and software",
-    "section": "12.2 Software",
-    "text": "12.2 Software\nWe assume you will use an experimental software (e.g. Matlab, Habit, E-Prime, Psychopy, OpenSesame or custom software) to run the study and one of two settings to record looking times: (1) Offline Video recording (2) Eye-tracker (e.g. Tobii, EyeLink, SMI, ASL, or a different company, with appropriate software from the eye-tracker or custom software). (3) Eye-tracker + video recording. We also assume you know how to set up looking-time studies on your equipment. If that is not the case, or if you need help, support is available from the following people:\n\nPsychoPy:\nPyHab:\nTobii:\nEyelink:\nOther systems: email us mb5@manybabies.org and we’ll do our best to help out",
+    "title": "10  Equipment and software",
+    "section": "10.2 Software",
+    "text": "10.2 Software\nWe assume you will use an experimental software (e.g. Matlab, Habit, E-Prime, Psychopy, OpenSesame or custom software) to run the study and one of two settings to record looking times: (1) Offline Video recording (2) Eye-tracker (e.g. Tobii, EyeLink, SMI, ASL, or a different company, with appropriate software from the eye-tracker or custom software). (3) Eye-tracker + video recording. We also assume you know how to set up looking-time studies on your equipment. If that is not the case, or if you need help, support is available from the following people:\n\nPsychoPy:\nPyHab:\nTobii:\nEyelink:\nOther systems: email us mb5@manybabies.org and we’ll do our best to help out",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Equipment and software</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Equipment and software</span>"
     ]
   },
   {
     "objectID": "stimuli.html",
     "href": "stimuli.html",
-    "title": "13  Stimuli",
+    "title": "11  Stimuli",
     "section": "",
-    "text": "13.1 Overview\nBecause the sample size possible in ManyBabies projects provides a unique opportunity to test generalizability across multiple stimulus types, we chose two different categories of stimuli: Fribbuli1 and Fractals. These two classes of stimuli were chosen because: (1) they allow for variation in stimulus complexity within the same stimulus category (i.e., by manipulating the number of features); (2) infants are unlikely to have previous experience with either set of stimuli; and (3) the inclusion of two stimulus sets allow us to begin examining the generalizability of any observed effect.\nWe created 12 unique Fribbuli and 12 unique Fractals, operationalizing complexity as the number of features present (these features are appendages in the case of Fribbuli and iterations of the same structure for Fractals; see Figure 3). Within each stimulus type, 6 items were designed to be low-complexity and 6 were designed to be high-complexity",
+    "text": "11.1 Overview\nBecause the sample size possible in ManyBabies projects provides a unique opportunity to test generalizability across multiple stimulus types, we chose two different categories of stimuli: Fribbuli1 and Fractals. These two classes of stimuli were chosen because: (1) they allow for variation in stimulus complexity within the same stimulus category (i.e., by manipulating the number of features); (2) infants are unlikely to have previous experience with either set of stimuli; and (3) the inclusion of two stimulus sets allow us to begin examining the generalizability of any observed effect.\nWe created 12 unique Fribbuli and 12 unique Fractals, operationalizing complexity as the number of features present (these features are appendages in the case of Fribbuli and iterations of the same structure for Fractals; see Figure 3). Within each stimulus type, 6 items were designed to be low-complexity and 6 were designed to be high-complexity",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Stimuli</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Stimuli</span>"
     ]
   },
   {
     "objectID": "stimuli.html#overview",
     "href": "stimuli.html#overview",
-    "title": "13  Stimuli",
+    "title": "11  Stimuli",
     "section": "",
-    "text": "All materials are available in the MB5 materials directory.\n\n\n1 “Fribbuli” is a portmenteau combining the words “Fribble” and “stimuli”. These stimuli were inspired by the Fribbles stimulus set (Barry et al., 2014)\n\nManyFribbuli2\nFribbuli are colorful, computer-generated models of 3D figures. All Fribbuli are made up of one of twelve possible body shapes and one (low-complexity) or four (high-complexity) appendages.\nADD MORE INFO ABOUT COLOR SELECTION, SIZING, ETC\n\n2 We’re calling our custom sets of stimuli “ManyFribbuli” and “ManyFractals” because… well, it’s fun.\nManyFractals\nFractals are geometric shapes in which the same structure is repeated iteratively at different levels of scale.\nADD MORE INFO ABOUT FRACTAL GENERATION\n\n\nAttention-getter stimuli\n\nBetween Trials: Please use the provided “laughing baby” stimulus to re-center babies between each trial (i.e., before familiarization begins). If your lab uses a different attention-getting stimulus that you feel is more appropriate for your community, please check with us.\nWithin Trial: Please use the the “Hoehle circle with chimes” stimulus to re-center babies within each trial (i.e., between familiarization and test and between test phases 1 and 2).",
+    "text": "All materials are available in the MB5 materials directory.\n\n\n1 “Fribbuli” is a portmenteau combining the words “Fribble” and “stimuli”. These stimuli were inspired by the Fribbles stimulus set (Barry et al., 2014)\n\nManyFribbuli2\nFribbuli are colorful, computer-generated models of 3D figures. All Fribbuli are made up of one of twelve possible body shapes and one (low-complexity) or four (high-complexity) appendages.\nADD MORE INFO ABOUT COLOR SELECTION, SIZING, ETC\n\n2 We’re calling our custom sets of stimuli “ManyFribbuli” and “ManyFractals” because… well, it’s fun.\nManyFractals\nFractals are geometric shapes in which the same structure is repeated iteratively at different levels of scale.\nADD MORE INFO ABOUT FRACTAL GENERATION\n\n\nAttention-getter stimuli\n\nBetween Trials: Please use the provided “laughing baby” stimulus to re-center babies between each trial (i.e., before familiarization begins). If your lab uses a different attention-getting stimulus that you feel is more appropriate for your community, please check with us.\nWithin Trial: Please use the the “Hoehle circle with chimes” stimulus to re-center babies within each trial (i.e., between familiarization and test and between test phases 1 and 2).\n\n\n\n\n\nBarry, T. J., Griffith, J. W., De Rossi, S., & Hermans, D. (2014). Meet the fribbles: Novel stimuli for use within behavioural research. Frontiers in Psychology, 5. https://doi.org/10.3389/fpsyg.2014.00103",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Stimuli</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Stimuli</span>"
     ]
   },
   {
     "objectID": "procedure.html",
     "href": "procedure.html",
-    "title": "14  Procedure",
+    "title": "12  Procedure",
     "section": "",
-    "text": "14.1 Trial Structure\nThere are a total of 12 trials for each infant. Each trial will include both familiarization and test phases (described in further detail below). Between each trial, a “laughing baby” attention-getter will be presented.",
+    "text": "12.1 Trial Structure\nThere are a total of 12 trials for each infant. Each trial will include both familiarization and test phases (described in further detail below). Between each trial, a “laughing baby” attention-getter will be presented.",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Procedure</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Procedure</span>"
     ]
   },
   {
     "objectID": "procedure.html#overview",
     "href": "procedure.html#overview",
-    "title": "14  Procedure",
-    "section": "14.2 Overview",
-    "text": "14.2 Overview\nDuring the experiment, infants will be seated on their caregiver’s lap or in a high-chair or car seat (whichever option corresponds to a lab’s standard procedures for testing infants, as reported in the pre-data-collection survey). Each trial is made up of a familiarization phase, in which infants are first exposed to a stimulus, followed by two test phases where infants are presented with both the item they viewed during the familiarization phase (the familiar item) and a novel test item. These phases will be repeated on each of 12 total trials.\n\n\n\n\n\n\nFigure 14.1: This figure depicts the design of an example trial. At familiarization, a single image is shown for 5, 10, or 15 s. After the desired familiarization time is reached (based on the infant-controlled or fixed-length design criteria), infants are presented with a central fixation stimulus for 500 ms. During the two test phases (5 s each), infants view the same image to which they were familiarized paired with a new stimulus from the same set (e.g., Fribbuli or Fractals) and the same level of complexity. The side on which the familiar and novel images are presented is counterbalanced across test phases, but the images remain the same.",
+    "title": "12  Procedure",
+    "section": "12.2 Overview",
+    "text": "12.2 Overview\nDuring the experiment, infants will be seated on their caregiver’s lap or in a high-chair or car seat (whichever option corresponds to a lab’s standard procedures for testing infants, as reported in the pre-data-collection survey). Each trial is made up of a familiarization phase, in which infants are first exposed to a stimulus, followed by two test phases where infants are presented with both the item they viewed during the familiarization phase (the familiar item) and a novel test item. These phases will be repeated on each of 12 total trials.\n\n\n\n\n\n\nFigure 12.1: This figure depicts the design of an example trial. At familiarization, a single image is shown for 5, 10, or 15 s. After the desired familiarization time is reached (based on the infant-controlled or fixed-length design criteria), infants are presented with a central fixation stimulus for 500 ms. During the two test phases (5 s each), infants view the same image to which they were familiarized paired with a new stimulus from the same set (e.g., Fribbuli or Fractals) and the same level of complexity. The side on which the familiar and novel images are presented is counterbalanced across test phases, but the images remain the same.",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Procedure</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Procedure</span>"
     ]
   },
   {
     "objectID": "procedure.html#familiarization-phase",
     "href": "procedure.html#familiarization-phase",
-    "title": "14  Procedure",
-    "section": "14.3 Familiarization Phase",
-    "text": "14.3 Familiarization Phase\nThere are a total of 12 familiarization events for each infant that vary across three dimensions (see table 14.1):\n\nStimulus class (Fribbuli or Fractals)\nComplexity level (low or high); and\nFamiliarization time (5s, 10s, or 15s)1\n\n1 Familiarization can be achieved either by ending the familiarization phase of an experiment after infants have acquired a certain amount of looking at the target (i.e., an infant-controlled design), or by presenting the familiarization phase for a fixed amount of exposure (i.e., a fixed-length design).2 Participating labs are encouraged to use an infant-controlled procedure, if possible.\nInfant-Controlled Familiarization2\nIf you are running the infant-controlled version of the study, infants may accumulate the required familiarization time across multiple looks before advancing to the test phase. The familiarlization image will remain on the screen until the infant has reached the target familiarization time (as determined by an experiment coding infant looking).\nWe will additionally implement a maximum trial length criterion; if infants do not accumulate the required looking time within twice the target familiarization time (i.e., 10, 20, or 30s), the familiarization phase will end.\n\n\nFixed-Length Familiarization\nIf you are unable to collect infant-controlled accumulated looking for familiarization trials, then you will present the familiarization trials for a fixed length of time before advancing to the test trial.\n\n\n\n\n\nTable 14.1: Familarization events (Note: Order of events will be randomized for each pariticipant)\n\n\n\n\n\n\n\n\n\n\n\n\nEvent\nFamiliarization Time (s)\nStimulus Class\nComplexity Level\nExample Stimulus\n\n\n\n\n1  2  3\n5  10  15\n Fribbuli\n Low\n\n\n\n4  5  6\n5  10  15\n Fribbuli\n High\n\n\n\n7  8  9\n5  10  15\n Fractals\n Low\n\n\n\n10  11  12\n5  10  15\n Fractals\n High",
+    "title": "12  Procedure",
+    "section": "12.3 Familiarization Phase",
+    "text": "12.3 Familiarization Phase\nThere are a total of 12 familiarization events for each infant that vary across three dimensions (see table 12.1):\n\nStimulus class (Fribbuli or Fractals)\nComplexity level (low or high); and\nFamiliarization time (5s, 10s, or 15s)1\n\n1 Familiarization can be achieved either by ending the familiarization phase of an experiment after infants have acquired a certain amount of looking at the target (i.e., an infant-controlled design), or by presenting the familiarization phase for a fixed amount of exposure (i.e., a fixed-length design).2 Participating labs are encouraged to use an infant-controlled procedure, if possible.\nInfant-Controlled Familiarization2\nIf you are running the infant-controlled version of the study, infants may accumulate the required familiarization time across multiple looks before advancing to the test phase. The familiarlization image will remain on the screen until the infant has reached the target familiarization time (as determined by an experiment coding infant looking).\nWe will additionally implement a maximum trial length criterion; if infants do not accumulate the required looking time within twice the target familiarization time (i.e., 10, 20, or 30s), the familiarization phase will end.\n\n\nFixed-Length Familiarization\nIf you are unable to collect infant-controlled accumulated looking for familiarization trials, then you will present the familiarization trials for a fixed length of time before advancing to the test trial.\n\n\n\n\n\nTable 12.1: Familarization events (Note: Order of events will be randomized for each pariticipant)\n\n\n\n\n\n\n\n\n\n\n\n\nEvent\nFamiliarization Time (s)\nStimulus Class\nComplexity Level\nExample Stimulus\n\n\n\n\n1  2  3\n5  10  15\n Fribbuli\n Low\n\n\n\n4  5  6\n5  10  15\n Fribbuli\n High\n\n\n\n7  8  9\n5  10  15\n Fractals\n Low\n\n\n\n10  11  12\n5  10  15\n Fractals\n High",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Procedure</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Procedure</span>"
     ]
   },
   {
     "objectID": "procedure.html#test-phase",
     "href": "procedure.html#test-phase",
-    "title": "14  Procedure",
-    "section": "14.4 Test Phase",
-    "text": "14.4 Test Phase\nOnce the familiarization criterion has been reached, the infant will be presented with a central-fixation stimulus (looming circle) for 500 ms. The central-fixation stimulus will be immediately followed by the paired test stimuli. Each pair of test stimuli includes the stimulus to which the infant was familiarized and a novel stimulus from the same stimulus class (Fribbuli or Fractals) and complexity level (low-complexity or high-complexity). Infants will view the test stimuli for a total of 10s, separated into two sub-phases. They will be presented with the familiar and novel stimulus for 5s after which a central fixation stimulus will be presented. The infant will then view the second 5s test phase, which uses the same two stimuli but with the location flipped (i.e., the image that was on the left in phase 1 will be on the right in phase 2).",
+    "title": "12  Procedure",
+    "section": "12.4 Test Phase",
+    "text": "12.4 Test Phase\nOnce the familiarization criterion has been reached, the infant will be presented with a central-fixation stimulus (looming circle) for 500 ms. The central-fixation stimulus will be immediately followed by the paired test stimuli. Each pair of test stimuli includes the stimulus to which the infant was familiarized and a novel stimulus from the same stimulus class (Fribbuli or Fractals) and complexity level (low-complexity or high-complexity). Infants will view the test stimuli for a total of 10s, separated into two sub-phases. They will be presented with the familiar and novel stimulus for 5s after which a central fixation stimulus will be presented. The infant will then view the second 5s test phase, which uses the same two stimuli but with the location flipped (i.e., the image that was on the left in phase 1 will be on the right in phase 2).",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Procedure</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Procedure</span>"
     ]
   },
   {
     "objectID": "prior-to-data-coll-checklist.html",
     "href": "prior-to-data-coll-checklist.html",
-    "title": "15  Prior to data collection checklist",
+    "title": "13  Prior to data collection checklist",
     "section": "",
     "text": "The steps for getting started are tracked by the MB5 leadership team on the MB5 Project Tracker. You can check it to see what steps your lab has completed. If you have any questions or think your lab’s progress is not up-to-date, contact us (mb5@manybabies.org).\nAfter preparing your lab and BEFORE BEGINNING DATA COLLECTION you need to:\n\nComplete the Initial Sign-Up Form (if you have not already done so).\nConfirm ethics approval is uploaded: Make sure that a copy of your lab’s ethics approval is in this google drive folder. If you plan to share participant videos via Databrary, you should also make sure you are getting proper consent for video sharing (please include approval for video sharing in ethics upload).\nConfirm demographics form is uploaded: Make sure that a copy of your lab’s demographics formethics approval is in this google drive folder.\nConfirm walkthrough video is and demographics form uploaded (if needed): Make sure that a copy of your lab’s walkthrough video is in this google drive folder, and your laboratory demographics form in this google drive folder.\nComplete the Lab Questionnaire: Make sure someone from your lab has filled out the Lab Questionnaire with details about your laboratory. The leadership will be notified of your submission of the Lab Questionnaire after which they will start the approval/greenlighting process.\nConvert dummy or pilot data into the right format for submission (see details below) using the MB Data validator to check data validity; in case of questions, please contact the analysis team. This ensures that you will be ready to submit your lab’s data to the central analysis team!\nSend email to Jessica Kosie (jkosie@asu.edu) to let the leadership know that you are ready for ‘greenlighting’.\nWait until you receive an official go-ahead from Project Leads before you begin testing. We may have questions for you, e.g. about your planned protocol deviations. We will do our best to respond quickly, but Iif you don’t hear from us within a week of sending the email, please contact us again!.",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Prior to data collection checklist</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Prior to data collection checklist</span>"
     ]
   },
   {
-    "objectID": "during-data-collection.html",
-    "href": "during-data-collection.html",
-    "title": "16  During data collection",
+    "objectID": "participants.html",
+    "href": "participants.html",
+    "title": "14  Participants and recruitment",
     "section": "",
-    "text": "16.1 Running the experiment",
+    "text": "14.1 Age and sample size\nThe expected lab contribution is a full sample of 32 babies (preferred, if possible) or a half sample of 16 babies (minimum).",
     "crumbs": [
       "Running the experiment",
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>During data collection</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Participants and recruitment</span>"
     ]
   },
   {
-    "objectID": "during-data-collection.html#running-the-experiment",
-    "href": "during-data-collection.html#running-the-experiment",
-    "title": "16  During data collection",
+    "objectID": "participants.html#age-and-sample-size",
+    "href": "participants.html#age-and-sample-size",
+    "title": "14  Participants and recruitment",
     "section": "",
-    "text": "Restarts, recalibration (eye-tracker) and pauses\nAny pauses in the procedure can potentially lead to an erasure of the weak memory trace for the familiarization stimuli (Gerken, p.c. noticed a loss of effect if there is a 30+ second pause between familiarization and test phase). Therefore, we ask: NO RESTARTS. Do not restart any trials, regardless of short looking, fussiness, experimental error, etc. Very short trials will be excluded centrally during the analysis process, but should be fully reported and not repeated. DO NOT RECALIBRATE (eyetrackers) once the session has started. Pauses: If babies are fussy, it can be necessary to attempt to get them settled. You may use the natural pause of an attention getter to let the parent non-verbally resettle their baby for a very short time (a couple of seconds, according to your practices). However, longer pauses should result in the cessation of the study. Suggestion: if the baby is fussy and you would like to try to continue the experiment after the baby calms down just so that the parent gets the full experience, you are welcome to do so, but this data must be excluded. For these babies, you would report any data collected before the actual experiment terminated from fuss-out/inattention, not the repeat or continued demonstration.",
+    "text": "Minimum age: 3 months, 0 days\n\n\nMaximum age: 15 months, 0 days\n\nFor example, on a testing date of 2025-04-15, eligible infants would have birthdays on or between 2024-01-15 and 2025-01-15.\n\nYou can use an online tool such as this Age Calculator to use the infant’s date of birth and testing date to determine eligibility and calculate age in days, which is the required format for age reporting. \n\n\nNotes about age and sample size:\n\nTry to distribute participants across the full range of ages, if possible.\nA lab’s sample size contribution includes any infant who enters the laboratory, even if they are eventually excluded (e.g., due to fussiness, experimenter error, too young or too old, etc.).\nIn situations where labs plan but are unable to collect the minimum contribution (16 babies), lab members will still be eligible for authorship. Alternative contributions may be requested by the Project Leads in these circumstances.",
     "crumbs": [
       "Running the experiment",
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>During data collection</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Participants and recruitment</span>"
     ]
   },
   {
-    "objectID": "during-data-collection.html#exclusions-and-reporting-errors-and-infant-fuss-outs",
-    "href": "during-data-collection.html#exclusions-and-reporting-errors-and-infant-fuss-outs",
-    "title": "16  During data collection",
-    "section": "16.2 Exclusions and reporting errors and infant “fuss-outs”",
-    "text": "16.2 Exclusions and reporting errors and infant “fuss-outs”\nDecisions regarding discards for experimental reasons will be made centrally and need to be reported consistently, hence it is important to retain all data from all infants that entered the testing room. Specifically, the data you send in for central analysis should use the “toe in the testing room” standard: if the infant made it so far as the testing room, the Pparticipant Data files dataset should include their data. In ManyBabies studies, we do not discard “partial data.” It is important for both reporting purposes and potential secondary analyses to have full information about both “usable” and “unusable” trials, even for infants who did not complete or provide usable data for all familiarization and test trials. Trial-level exclusions may not result in the exclusion of the participant from the dataset. These instructions are counter to many labs’ normal internal practices, so please ensure that RAs are fully trained on this element. There are specific columns in the data templates to report the reasons that some of this data should not be included in the main analysis; every lab is expected to report at least some ‘unusable’ data!\n\nSession-level and trial-level errors\nThere are two possible kinds of exclusion: session-level (exclude all data from this participant from analysis) and trial-level (exclude just this trial, e.g. because there was interference or the baby had already fussed out). Session-level errors are reported in the Participant Data file and trial-level errors are reported in the Trial Data file. Most lab-reported errors will be “trial-level” errors. If the infant completed any trials, please do NOT report the infant as a session-level error EVEN IF YOU LATER REALIZE THE CHILD DOES NOT MEET ALL INCLUSION CRITERIA. Medical issues and developmental concerns. Please do not exclude based on medical issues / developmental concerns. Instead, provide sufficient detail in the ‘medical_issue’and/or ’developmental_concern’ fields for the analysis team to review and categorize centrally. As with all exclusions, it is important to include these in your data if the infant entered the testing room.\nFor clear-cut judgements such as age, please just use the appropriate columns to report the values that would result in exclusion (e.g. “age = 3 years”). For subjective judgements such as whether the baby was too fussy, the central decision will be made based on the original coder/RA’s judgment, since it would be impractical to review comments/videos and make the decision centrally. Therefore, please be very clear (but succinct) in the ‘trial_error_info’ and ‘session_error_info’ fields about whether a given trial should be discarded and why. Please classify as one of the listed ‘Value example’ options in the Data Dictionary where possible. Use the “other” category sparingly and only if absolutely necessary. In the ‘notes’ column, please provide further succinct but sufficient information so that it is clear why a given trial or infant was excluded (e.g. “mom pointed at the screen”). Remember that this will be the only information that will be available to the analysis team as they compile and analyze the dataset; ambiguous entries will be problematic for data analysis!\nSession-level errors: Session level errors are those which result in discarding the data for a participant completely. Session level errors include: Fuss-out after entering the testing room but prior to starting the experiment Parental interference affecting ALL trials (e.g. caregiver refuses to wear the eye covering properly through all trials, or chronically failing to comply with experimenter instructions such that the validity of the entire session is in question). Experimenter error that makes the entire session unuseable (e.g. ran the wrong test session). Equipment failure that makes the entire session unuseable (e.g. video was not playing properly) Failure to calibrate (eyetrackers only) Infant was tested but was found to not meet the inclusion criteria (e.g. vision issues reported on the demographics questionnaire). Only in cases where infants did not start the experiment (i.e., did not see any stimuli) due to fuss-out or equipment/calibration failure, labs are welcome to reschedule the appointment to another occasion; please indicate this in the participant data form. With regards to session-level errors: Please make sure to include participants excluded for session-level errors in your Participant Data file. You do not need to report them in the Trial Data file (see below for details about the required formats of these files). Data from infants where session-level errors are reported do NOT count towards the minimum sample size. Please do NOT mark a participant as a “session-level” error if an infant entered the testing room and completed the first familiarization phase even if they provided no usable test trial data. Trial-level errors: Trial-level errors are those which result in discarding the data for a single trial. Each of the 12 test trials should be marked as either ‘no error’ (usable) or ‘error’ (to be discarded). Trials with no usable data should have ‘NA’ marked in their data columns. Your lab will make the decision and report whether a trial should be excluded, as well as the reason why. These can include temporary instances of issues such as: parental interference in the middle of the experiment (e.g. mother speaks to infant during a trial and gets their attention) experimenter error or equipment failure that affects one or more trials but not the entire session transitory infant fussiness involving only a very brief pause in testing (see below for further details on reporting), or fussiness where the infant “fusses out” after the initiation of one or more test trials With regards to trial-level errors note: For transitory fussiness, ONLY mark the trials on which the infant was actually fussy - further exclusions may be implemented centrally, but it is important that any potentially usable trials after a transitory fussiness period be included in the submitted data. For example, if the infant was fussy on trials 8 and 10 but not trials 1-7,9,11 and 12, only trials 8 and 10 should be marked as an exclusion. If the infant provides some usable trials and then “fusses out” so that the study is terminated prematurely, please make this clear by marking ‘NA’ on trials that were not given.\nTrial level errors resulting in further exclusion: In most cases, trial level exclusions should result in exclusion ONLY of the trial immediately impacted by the exclusion (e.g. transitory fussiness, parent distracting baby by scratching their nose). However, in some cases, it may be necessary to exclude all subsequent trials, because of concerns that the infant is no longer “on task”. If this is the case, please mark all subsequent trials as trial level errors and explain the reasoning in the notes. Some examples of this type of situation: Any time (due to fussiness or other reasons) there is a break between trials of more than a few seconds. Equipment failure that raises concerns about the validity of subsequent trials. Significant parental interference/engagement or external noise that diverts the infant’s attention to the extent that it raises concerns about the infant being distracted across all trials. Note that we have included a test in the robustness checking section of the manuscript about the effect of discarding trials after an initial excluded trial.",
+    "objectID": "participants.html#eligibility-and-exclusions",
+    "href": "participants.html#eligibility-and-exclusions",
+    "title": "14  Participants and recruitment",
+    "section": "14.2 Eligibility and Exclusions",
+    "text": "14.2 Eligibility and Exclusions\n\nThe only requirements for inclusion in MB5 are:\n\nthe infant’s age falls within the 3- to 15-month age range AND\nthe infant has no known issues that would directly impede their ability to process visual stimuli\n\nInfants with other characteristics that are commonly used as exclusion criteria in developmental studies (e.g., hard of hearing, premature, bilingual, etc.) can be included in the sample.\nPlease determine participants’ eligibility on the phone prior to scheduling them in the ManyBabies study to avoid testing ineligible participants, but note that the inclusion criteria for MB5 are much more inclusive than typical in-lab studies (described above). Participants who come into the lab who are subsequently determined to be ineligible should be still reported in the sample but clearly marked as ineligible based on age or visual processing impairment (see [Data reporting guidelines][Data reporting guidelines] for more info).",
     "crumbs": [
       "Running the experiment",
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>During data collection</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Participants and recruitment</span>"
     ]
   },
   {
-    "objectID": "during-data-collection.html#peeking-and-stopping-rules",
-    "href": "during-data-collection.html#peeking-and-stopping-rules",
-    "title": "16  During data collection",
-    "section": "16.3 Peeking and stopping rules",
-    "text": "16.3 Peeking and stopping rules\nIn your initial commitment to a recruitment block (in the laboratory questionnaire), you will document your recruitment practices, your initial plan regarding how many babies you will run and of what type, as well as your stopping rule (e.g. stop when I reach the specified N, stop when the study data collection time ends). It is important to document any changes to your recruitment/stopping rule with a “protocol change form”. IMPORTANT: It is critical for the integrity of the data analysis that you NOT base any decisions about how many babies to run on the data being generated in your lab, or on the number of participant exclusions. Laboratories should stick with their original “stopping rule” - whether based on a number of participants or testing time frame. However, we recognize that this may not always be possible. In extraordinary circumstances, decisions about changes to the sample size and stopping rule must be made by someone who has not viewed the emerging data. You can look (if necessary, e.g. to support a student interim report) but you MUST NOT change your recruitment goals and strategy based on your view of the data. Doing this will compromise the goals of the project! If you change your recruitment based on the data, that invalidates the statistical inferences we want to make and introduces exactly the kinds of biases into the data that this project was designed to avoid. If your lab is running pre-specified pilot participants (e.g., to practice the procedure), you may make minor procedural adjustments during that period only.",
+    "objectID": "participants.html#first-sessionsecond-session-policy",
+    "href": "participants.html#first-sessionsecond-session-policy",
+    "title": "14  Participants and recruitment",
+    "section": "14.3 First-session/second-session policy",
+    "text": "14.3 First-session/second-session policy\nSome laboratories have the practice of testing babies in more than one study during the same visit.\n\n‘First session’ refers to babies tested soon upon arrival to the lab, prior to participating in any other studies.\n‘Second session’ refers to any testing that is done after the first session.\n\nPlease contribute ‘first session’ babies when possible. It is possible that second session babies will contribute worse/weaker/different data with respect to the larger goals of determining effect sizes.\nLabel ‘second session’ babies appropriately if infants were run in a different study on the same visit prior to their participation in MB5. Please also document the nature of the study run prior to MB5 for all ‘second session’ participants (e.g., “7 minute study of object categorization using eye-tracking”).",
     "crumbs": [
       "Running the experiment",
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>During data collection</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Participants and recruitment</span>"
+    ]
+  },
+  {
+    "objectID": "participants.html#peeking-and-stopping-rules",
+    "href": "participants.html#peeking-and-stopping-rules",
+    "title": "14  Participants and recruitment",
+    "section": "14.4 Peeking and stopping rules",
+    "text": "14.4 Peeking and stopping rules\nIn your initial commitment to a recruitment block (in the laboratory questionnaire), you will document your recruitment practices, your initial plan regarding how many babies you will run and of what type, as well as your stopping rule (e.g. stop when I reach the specified N, stop when the study data collection time ends). It is important to document any changes to your recruitment/stopping rule with a “protocol change form”. IMPORTANT: It is critical for the integrity of the data analysis that you NOT base any decisions about how many babies to run on the data being generated in your lab, or on the number of participant exclusions. Laboratories should stick with their original “stopping rule” - whether based on a number of participants or testing time frame. However, we recognize that this may not always be possible. In extraordinary circumstances, decisions about changes to the sample size and stopping rule must be made by someone who has not viewed the emerging data. You can look (if necessary, e.g. to support a student interim report) but you MUST NOT change your recruitment goals and strategy based on your view of the data. Doing this will compromise the goals of the project! If you change your recruitment based on the data, that invalidates the statistical inferences we want to make and introduces exactly the kinds of biases into the data that this project was designed to avoid. If your lab is running pre-specified pilot participants (e.g., to practice the procedure), you may make minor procedural adjustments during that period only.",
+    "crumbs": [
+      "Running the experiment",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Participants and recruitment</span>"
+    ]
+  },
+  {
+    "objectID": "general-lab-practices.html",
+    "href": "general-lab-practices.html",
+    "title": "15  General Lab Practices",
+    "section": "",
+    "text": "15.1 Training research assistants\nYou are responsible for implementing rigorous training practices. Research assistants should be held to the same high standards for ManyBabies as they would be for your main studies. You are free to have any number of research assistants conduct the test sessions, but please aim for as much coding consistency as possible and document which research assistant coded a given baby (using code names such as RA1, RA2, etc. if you wish). You will be asked to report about your standard training practices (e.g., how/when do you determine it’s okay for a research assistant to test real babies). Online Coding. If you are using a central screen to gather accumulated looking data for infant-controlled familiarization, then research assistants will need to be properly trained in coding online looking behaviors. Offline Coding. If you are not using an eyetracker to gather data, then you will need to code the test trials offline.",
+    "crumbs": [
+      "Running the experiment",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>General Lab Practices</span>"
+    ]
+  },
+  {
+    "objectID": "general-lab-practices.html#greeting-families",
+    "href": "general-lab-practices.html#greeting-families",
+    "title": "15  General Lab Practices",
+    "section": "15.2 Greeting families",
+    "text": "15.2 Greeting families\nYou can greet families, briefly explain the study’s purpose and goals in terms understandable to families (avoid technical jargon), obtain informed consent, and conduct the appointment as you normally would. Acknowledge their decision to consider participating and express appreciation for their time. Address potential concerns families might have and answer their questions openly and honestly.",
+    "crumbs": [
+      "Running the experiment",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>General Lab Practices</span>"
+    ]
+  },
+  {
+    "objectID": "general-lab-practices.html#compensating-families",
+    "href": "general-lab-practices.html#compensating-families",
+    "title": "15  General Lab Practices",
+    "section": "15.3 Compensating families",
+    "text": "15.3 Compensating families\nYou can use your lab’s standard, IRB-approved method for compensating families. This can include providinge small gifts, cash, travel reimbursement, taxi rides, or other incentives for participation as you normally would. Participating labs are responsible for compensating their own participants.",
+    "crumbs": [
+      "Running the experiment",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>General Lab Practices</span>"
     ]
   },
   {
     "objectID": "conditions.html",
     "href": "conditions.html",
-    "title": "17  Testing conditions",
+    "title": "16  Testing conditions",
     "section": "",
-    "text": "17.1 Piloting and other non-primary data\nSome labs might wish to pilot their design on a small number of infants in order to work out problems with the setup and allow experimenters to practice the protocol. Piloting with this purpose is indeed encouraged! It is critical to the integrity of the ManyBabies project that these pilot data are carefully differentiated from your main contribution. You do NOT need to report pilot data in your spreadsheet, but if you do, please ensure that you properly mark them as such in the designated Pilot column. You must make an explicit decision to begin non-pilot data collection at a particular date - this decision cannot be retroactive, and cannot be based on inspection of the pilot data (i.e., you cannot choose to include a pilot participant in the actual sample if the data “looks good”). Some labs might plan to test additional babies beyond the primary sample (e.g., with additional manipulations). These data will not be included in our primary planned analyses, and will not count toward the minimum contribution, but these additional datasets are welcome, and we encourage researchers to preregister other hypotheses. You are free to publish these “side studies” on your own terms, but please keep in mind the restrictions on publishing the main dataset if you are using it as a comparison/control sample (see the section on Open Science Policies in the MB General Manual).",
+    "text": "16.1 Piloting and other non-primary data\nSome labs might wish to pilot their design on a small number of infants in order to work out problems with the setup and allow experimenters to practice the protocol. Piloting with this purpose is indeed encouraged! It is critical to the integrity of the ManyBabies project that these pilot data are carefully differentiated from your main contribution. You do NOT need to report pilot data in your spreadsheet, but if you do, please ensure that you properly mark them as such in the designated Pilot column. You must make an explicit decision to begin non-pilot data collection at a particular date - this decision cannot be retroactive, and cannot be based on inspection of the pilot data (i.e., you cannot choose to include a pilot participant in the actual sample if the data “looks good”). Some labs might plan to test additional babies beyond the primary sample (e.g., with additional manipulations). These data will not be included in our primary planned analyses, and will not count toward the minimum contribution, but these additional datasets are welcome, and we encourage researchers to preregister other hypotheses. You are free to publish these “side studies” on your own terms, but please keep in mind the restrictions on publishing the main dataset if you are using it as a comparison/control sample (see the section on Open Science Policies in the MB General Manual).",
     "crumbs": [
       "Running the experiment",
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Testing conditions</span>"
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Testing conditions</span>"
     ]
   },
   {
     "objectID": "conditions.html#piloting-and-other-non-primary-data",
     "href": "conditions.html#piloting-and-other-non-primary-data",
-    "title": "17  Testing conditions",
+    "title": "16  Testing conditions",
     "section": "",
     "text": "Caregiver bias and instruction\nCaregivers should be masked from viewing the visual stimulus using your lab’s standard method (e.g., having caregivers wear taped-over sunglasses). It is not necessary to block parents’ hearing of the audio stimulus. Instruct parents NOT to point to the lights or screen, shift their bodies, or move their chairs if the baby is inattentive. Emphasize during the instruction/setup that infants’ boredom with some of the stimuli is part of the experiment and is OK. Suggestion: to ensure that the infant and parent are as comfortable as possible, you may tell the parent that it is okay to shift their or their baby’s body to a more comfortable position, or provide interaction that the baby is soliciting, but emphasize that this may be done only for a short period during the attention grabber phase (e.g., when they hear the laughing baby).\n\n\nCollecting participant information\nWe aim to integrate our testing procedure with your lab’s procedure as much as possible, but there is some amount of information that we need to gather in a standardized fashion.\nParticipant information: Please use this Family Background Questionnaire to collect the information. You are welcome to adapt the format as long as the wording is not changed, except as noted: Any areas marked in green you can adapt to ensure they are appropriate to your country/region. However, please keep the wording as similar as possible to ensure consistency in reporting. The question on race/ethnicity can be adapted to meet the norms of your region. If possible, please use racial/ethnic categories taken from local census categories. For countries where it is not considered socially or legally acceptable to inquire about ethnic background, please adapt to a more appropriate question (e.g. parent and child place of birth), if possible. Translations into other languages will be available here as they are created. If you need to make changes other than as indicated above, please contact the leadership team to discuss your concerns. Let us know if any of the questions are unclear to you - it is important that you are able to answer any questions the participants may have. Please also check the participants’ answers to avoid blank responses. If you modify any of the wording in the form, even in the green sections, or translate the form to your lab’s local language please upload a blank copy of your form using the MB5 documentation upload form. Please ensure that your form is clearly labeled in the filename with your LabID (e.g. babylabPrinceton_background.pdf).\n\n\nExperimenter blindness\nThe experimenter should be masked fromblind to trial details, by being either (1) in a different room, with no way of knowing which stimuli the baby is seeing on each trial, or (2) in the same room but facing away from the stimuli and unaware of what is on the screen.\n\n\nSound volume\nYour lab can use whatever volume level has been used successfully in the past, but please standardize your volume for this study so that every baby gets stimuli at the same volume.",
     "crumbs": [
       "Running the experiment",
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Testing conditions</span>"
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Testing conditions</span>"
+    ]
+  },
+  {
+    "objectID": "during-data-collection.html",
+    "href": "during-data-collection.html",
+    "title": "17  During data collection",
+    "section": "",
+    "text": "17.1 Restarts, recalibration (eye-tracker) and pauses\nAny pauses in the procedure can potentially lead to an erasure of the weak memory trace for the familiarization stimuli (Gerken, p.c. noticed a loss of effect if there is a 30+ second pause between familiarization and test phase). Therefore, we ask: NO RESTARTS. Do not restart any trials, regardless of short looking, fussiness, experimental error, etc. Very short trials will be excluded centrally during the analysis process, but should be fully reported and not repeated. DO NOT RECALIBRATE (eyetrackers) once the session has started. Pauses: If babies are fussy, it can be necessary to attempt to get them settled. You may use the natural pause of an attention getter to let the parent non-verbally resettle their baby for a very short time (a couple of seconds, according to your practices). However, longer pauses should result in the cessation of the study. Suggestion: if the baby is fussy and you would like to try to continue the experiment after the baby calms down just so that the parent gets the full experience, you are welcome to do so, but this data must be excluded. For these babies, you would report any data collected before the actual experiment terminated from fuss-out/inattention, not the repeat or continued demonstration.",
+    "crumbs": [
+      "Running the experiment",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>During data collection</span>"
+    ]
+  },
+  {
+    "objectID": "during-data-collection.html#exclusions-and-reporting-errors-and-infant-fuss-outs",
+    "href": "during-data-collection.html#exclusions-and-reporting-errors-and-infant-fuss-outs",
+    "title": "17  During data collection",
+    "section": "17.2 Exclusions and reporting errors and infant “fuss-outs”",
+    "text": "17.2 Exclusions and reporting errors and infant “fuss-outs”\nDecisions regarding discards for experimental reasons will be made centrally and need to be reported consistently, hence it is important to retain all data from all infants that entered the testing room. Specifically, the data you send in for central analysis should use the “toe in the testing room” standard: if the infant made it so far as the testing room, the Pparticipant Data files dataset should include their data. In ManyBabies studies, we do not discard “partial data.” It is important for both reporting purposes and potential secondary analyses to have full information about both “usable” and “unusable” trials, even for infants who did not complete or provide usable data for all familiarization and test trials. Trial-level exclusions may not result in the exclusion of the participant from the dataset. These instructions are counter to many labs’ normal internal practices, so please ensure that RAs are fully trained on this element. There are specific columns in the data templates to report the reasons that some of this data should not be included in the main analysis; every lab is expected to report at least some ‘unusable’ data!\n\nSession-level and trial-level errors\nThere are two possible kinds of exclusion: session-level (exclude all data from this participant from analysis) and trial-level (exclude just this trial, e.g. because there was interference or the baby had already fussed out). Session-level errors are reported in the Participant Data file and trial-level errors are reported in the Trial Data file. Most lab-reported errors will be “trial-level” errors. If the infant completed any trials, please do NOT report the infant as a session-level error EVEN IF YOU LATER REALIZE THE CHILD DOES NOT MEET ALL INCLUSION CRITERIA. Medical issues and developmental concerns. Please do not exclude based on medical issues / developmental concerns. Instead, provide sufficient detail in the ‘medical_issue’and/or ’developmental_concern’ fields for the analysis team to review and categorize centrally. As with all exclusions, it is important to include these in your data if the infant entered the testing room.\nFor clear-cut judgements such as age, please just use the appropriate columns to report the values that would result in exclusion (e.g. “age = 3 years”). For subjective judgements such as whether the baby was too fussy, the central decision will be made based on the original coder/RA’s judgment, since it would be impractical to review comments/videos and make the decision centrally. Therefore, please be very clear (but succinct) in the ‘trial_error_info’ and ‘session_error_info’ fields about whether a given trial should be discarded and why. Please classify as one of the listed ‘Value example’ options in the Data Dictionary where possible. Use the “other” category sparingly and only if absolutely necessary. In the ‘notes’ column, please provide further succinct but sufficient information so that it is clear why a given trial or infant was excluded (e.g. “mom pointed at the screen”). Remember that this will be the only information that will be available to the analysis team as they compile and analyze the dataset; ambiguous entries will be problematic for data analysis!\n\nSession-level errors\nSession level errors are those which result in discarding the data for a participant completely. Session level errors include: Fuss-out after entering the testing room but prior to starting the experiment Parental interference affecting ALL trials (e.g. caregiver refuses to wear the eye covering properly through all trials, or chronically failing to comply with experimenter instructions such that the validity of the entire session is in question). Experimenter error that makes the entire session unuseable (e.g. ran the wrong test session). Equipment failure that makes the entire session unuseable (e.g. video was not playing properly) Failure to calibrate (eyetrackers only) Infant was tested but was found to not meet the inclusion criteria (e.g. vision issues reported on the demographics questionnaire). Only in cases where infants did not start the experiment (i.e., did not see any stimuli) due to fuss-out or equipment/calibration failure, labs are welcome to reschedule the appointment to another occasion; please indicate this in the participant data form. With regards to session-level errors: Please make sure to include participants excluded for session-level errors in your Participant Data file. You do not need to report them in the Trial Data file (see below for details about the required formats of these files). Data from infants where session-level errors are reported do NOT count towards the minimum sample size. Please do NOT mark a participant as a “session-level” error if an infant entered the testing room and completed the first familiarization phase even if they provided no usable test trial data.\n\n\nTrial-level errors:\nTrial-level errors are those which result in discarding the data for a single trial. Each of the 12 test trials should be marked as either ‘no error’ (usable) or ‘error’ (to be discarded). Trials with no usable data should have ‘NA’ marked in their data columns. Your lab will make the decision and report whether a trial should be excluded, as well as the reason why. These can include temporary instances of issues such as: parental interference in the middle of the experiment (e.g. mother speaks to infant during a trial and gets their attention) experimenter error or equipment failure that affects one or more trials but not the entire session transitory infant fussiness involving only a very brief pause in testing (see below for further details on reporting), or fussiness where the infant “fusses out” after the initiation of one or more test trials With regards to trial-level errors note: For transitory fussiness, ONLY mark the trials on which the infant was actually fussy - further exclusions may be implemented centrally, but it is important that any potentially usable trials after a transitory fussiness period be included in the submitted data. For example, if the infant was fussy on trials 8 and 10 but not trials 1-7,9,11 and 12, only trials 8 and 10 should be marked as an exclusion. If the infant provides some usable trials and then “fusses out” so that the study is terminated prematurely, please make this clear by marking ‘NA’ on trials that were not given.\n\nTrial level errors resulting in further exclusion:\nIn most cases, trial level exclusions should result in exclusion ONLY of the trial immediately impacted by the exclusion (e.g. transitory fussiness, parent distracting baby by scratching their nose). However, in some cases, it may be necessary to exclude all subsequent trials, because of concerns that the infant is no longer “on task”. If this is the case, please mark all subsequent trials as trial level errors and explain the reasoning in the notes. Some examples of this type of situation: Any time (due to fussiness or other reasons) there is a break between trials of more than a few seconds. Equipment failure that raises concerns about the validity of subsequent trials. Significant parental interference/engagement or external noise that diverts the infant’s attention to the extent that it raises concerns about the infant being distracted across all trials. Note that we have included a test in the robustness checking section of the manuscript about the effect of discarding trials after an initial excluded trial.",
+    "crumbs": [
+      "Running the experiment",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>During data collection</span>"
     ]
   },
   {
