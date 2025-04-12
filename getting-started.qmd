@@ -5,6 +5,4 @@ This section covers some basic aspects of the project that you'll need to know a
 -   [**Green-lighting process**](#greenlight)
 -   [**Demographics questionnaire**](#demographics)
 -   [**Ethics approval information**](#ethics-approval)
--   [**Participants and recruitment**](#participants)
--   [**General lab practices**](#genlab)
 -   [**Walkthrough videos**](#walkthrough)

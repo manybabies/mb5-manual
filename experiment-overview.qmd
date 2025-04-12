@@ -10,10 +10,7 @@ Each baby will be presented with a series of 12 trials with one familiarization 
 -   [**Stimuli**](#stimuli)
 -   [**Procedure**](#procedure)
 -   [**Participants and recruitment**](#participants)
--   [**General lab practices**](#genlab)
-
-
-
+-   [**Data validation**](#validation)
 
 ````{=html}
 <!-- leaving this in from template for now, so we know how to add figs and tables 

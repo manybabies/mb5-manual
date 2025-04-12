@@ -56,10 +56,11 @@ book:
         - equipment.qmd
         - stimuli.qmd
         - procedure.qmd
+        - participants.qmd
+        - data-validation.qmd
         - prior-to-data-coll-checklist.qmd
     - part: "Running the experiment"
       chapters:
-        - participants.qmd
         - general-lab-practices.qmd
         - conditions.qmd
         - during-data-collection.qmd
