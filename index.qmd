@@ -1,12 +1,12 @@
 ![](images/mb-logo.png){width="18%"} ![](images/mb5-logo.png){width="18%"}
 
 ------------------------------------------------------------------------
-<br>
-<br>
 
-## IMPORTANT NOTE! This lab manual is still UNDER DEVELOPMENT! {.unnumbered}
+# IMPORTANT NOTE! {.unnumbered}
 
-#### Bear with us as we finalize this document with all of the information your lab will need to successfully collect data for MB5. Feel free to poke around, and if you have any questions or need help, email us at [mb5\@manybabies.org](mailto:mb5@manybabies.org). {.unnumbered}
+## This lab manual is still UNDER DEVELOPMENT! {.unnumbered}
+
+#### Bear with us as we finalize this document with all of the information your lab will need to successfully collect data for MB5. Feel free to poke around in the meantime, and if you have any questions or need help, email us at [mb5\@manybabies.org](mailto:mb5@manybabies.org). {.unnumbered}
 
 <br> <br>
 
@@ -19,6 +19,13 @@
 MB5 is a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs. novelty preference through a collaboratively-designed “best test” of a popular model of infants’ visual preference for familiar and novel stimuli [@hunter1988]. More details about the background, design and hypotheses can be found in the [**Registered Report**](https://osf.io/preprints/psyarxiv/ck3vd) [@kosie]. In the following sections, we provide instructions on how to implement the experiment in your lab and report data back to the project as a whole. Thanks for joining us!
 
 ![Hunter and Ames model of infant attention (adapted from Bergmann and Cristia, 2016)](images/HunterAmesFig.png){#fig-hunterames}
+
+<br>
+
+### Acknowledgment
+
+Much of this manual was adapted from the lab manuals created by the MB1, MB2, MB3, and MB4 teams. 
+
 
 ------------------------------------------------------------------------
 
