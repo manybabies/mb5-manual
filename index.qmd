@@ -6,7 +6,8 @@
 
 ## This lab manual is still UNDER DEVELOPMENT! {.unnumbered}
 
-#### Bear with us as we finalize this document with all of the information your lab will need to successfully collect data for MB5. Feel free to poke around in the meantime, and if you have any questions or need help, email us at [mb5\@manybabies.org](mailto:mb5@manybabies.org). {.unnumbered}
+#### Bear with us as we finalize this document with all of the information your lab will need to successfully collect data for MB5. In the meantime, feel free to poke around and email us at [mb5\@manybabies.org](mailto:mb5@manybabies.org) if you have any questions or need help. {.unnumbered}
+
 
 <br> <br>
 

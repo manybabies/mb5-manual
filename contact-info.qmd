@@ -2,34 +2,37 @@
 
 ## Contact info {.unnumbered}
 
--   **General inquiries**: [mb5\@manybabies.org](mailto:mb5@manybabies.org)
+-   **General inquiries**: {{< var email.support >}}
 
--   **Jessica Kosie** (Project Lead): [jkosie\@asu.edu](mailto:jkosie@asu.edu)
+-   **Jessica Kosie** (MB5 Project Lead): {{< var email.jessica >}}
 
--   **Martin Zettersten** (Project Lead): [mzettersten\@ucsd.edu](mailto:mzettersten@ucsd.edu)
+-   **Martin Zettersten** (MB5 Project Lead): {{< var email.martin >}}
 
--   **Casey Lew-Williams** (Project Lead): [caseylw\@princeton.edu](mailto:caseylw@princeton.edu)
+-   **Casey Lew-Williams** (MB5 Project Lead): {{< var email.casey >}}
 
--   **Heidi Baumgartner** (MB Exec. Director & MB5 Coordinator): [heidib\@manybabies.org](mailto:heidib@manybabies.org)
+-   **Heidi Baumgartner** (MB Exec. Director & MB5 Coordinator): {{< var email.heidi >}}
+
 
 ## Project listserv {.unnumbered}
 
--   **MB5 project listserv**: [mb5-list\@manybabies.org](mailto:mb5-list@manybabies.org)
+-   **MB5 project listserv**: {{< var email.listserv >}} *Note: sending an email to this address will send it to everyone subscribed to the MB5 list; please use judiciously!*
 
-    -   <a href="https://groups.google.com/a/manybabies.org/g/mb5-list" target="_blank">**SUBSCRIBE**</a> *(click on "Join group" using a google-linked account, or email [mb5\@manybabies.org](mailto:mb5@manybabies.org) to request to join)*
+    -   **SUBSCRIBE** to the {{< var link.listserv >}} *(click on "Join group" using a google-linked account, or fill out the* <a href="https://docs.google.com/forms/d/e/1FAIpQLSewvzsv3YAwPKCAJmut_X6eVlu7P7TxbGe6vAWwG0CInI4YqA/viewform" target="_blank">MB listserv form</a> *to request to join)*
+
 
 ## Important links {.unnumbered}
 
--   **MB5 project website**: <a href="https://manybabies.org/MB5/" target="_blank">manybabies.org/MB5</a>
+-   **ManyBabies website**: {{< var link.mbwebsite >}}
 
--   **MB5 Stage 1 Registered Report**: <a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">https://doi.org/10.31234/osf.io/ck3vd</a>
+-   **MB5 project website**: {{< var link.mb5website >}}
 
--   **MB5 Lab Manual** (this document): <a href="https://manybabies.org/mb5-manual" target="_blank">manybabies.org/mb5-manual</a>
+-   **MB5 Stage 1 Registered Report**: {{< var link.stage1rr >}}
 
--   **MB5 collaboration agreement**: <a href="https://docs.google.com/document/d/1vbTDmH6euda5pJN4uyds3zsnQ1DXrW9wpHogwC-5TSk/edit?usp=sharing" target="_blank">link to google doc</a> *(note: the MB5 collaboration agreement can also be found in the Appendix of this manual)*
+-   **MB5 Lab Manual** (this document): {{< var link.manual >}}
 
--   **To report issues with data collection, deviations from protocol, etc.**: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXoKjJo3XgGuXCLhWhzEDz0UrJ7tmio-70SoS24g4vqc4Utg/viewform?usp=sf_link" target="_blank">MB issue tracker form</a>
+-   **MB5 collaboration agreement**: {{< var link.collaboration >}} *(note: the MB5 collaboration agreement can also be found in the Appendix of this manual)*
 
--   **To upload required documentation** (e.g., lab questionnaire): <a href="https://docs.google.com/forms/d/e/1FAIpQLScunCYwrJApObng6xVV_lN4CUrcLrsrAKmiBmia67vPc9jNTA/viewform?usp=sf_link" target="_blank">MB5 documentation upload form</a>
+-   **To report issues (e.g., with data collection, deviations from protocol, etc.) or to request support**: {{< var link.issue >}}
 
--   **To upload data**: <a href="https://docs.google.com/forms/d/e/1FAIpQLSeydFOC2LviKVBhHEpExH5SEJsqH0705pxH8gwHsPDN13Qk6Q/viewform?usp=sf_link" target="_blank">MB5 data upload form</a>
+-   **To upload materials and data** (e.g., ethics approval, questionnaire, data): {{< var link.upload >}}
+

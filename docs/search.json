@@ -14,7 +14,7 @@
     "href": "index.html#this-lab-manual-is-still-under-development",
     "title": "ManyBabies 5: Hunter & Ames Model of Infant Attention - Lab Manual",
     "section": "This lab manual is still UNDER DEVELOPMENT!",
-    "text": "This lab manual is still UNDER DEVELOPMENT!\n\nBear with us as we finalize this document with all of the information your lab will need to successfully collect data for MB5. Feel free to poke around in the meantime, and if you have any questions or need help, email us at mb5@manybabies.org.",
+    "text": "This lab manual is still UNDER DEVELOPMENT!\n\nBear with us as we finalize this document with all of the information your lab will need to successfully collect data for MB5. In the meantime, feel free to poke around and email us at mb5@manybabies.org if you have any questions or need help.",
     "crumbs": [
       "IMPORTANT NOTE!"
     ]
@@ -35,7 +35,7 @@
     "href": "contact-info.html#contact-info",
     "title": "1  Contact info and important links",
     "section": "",
-    "text": "General inquiries: mb5@manybabies.org\nJessica Kosie (Project Lead): jkosie@asu.edu\nMartin Zettersten (Project Lead): mzettersten@ucsd.edu\nCasey Lew-Williams (Project Lead): caseylw@princeton.edu\nHeidi Baumgartner (MB Exec. Director & MB5 Coordinator): heidib@manybabies.org",
+    "text": "General inquiries: mb5@manybabies.org\nJessica Kosie (MB5 Project Lead): jkosie@asu.edu\nMartin Zettersten (MB5 Project Lead): mzettersten@ucsd.edu\nCasey Lew-Williams (MB5 Project Lead): caseylw@princeton.edu\nHeidi Baumgartner (MB Exec. Director & MB5 Coordinator): heidib@manybabies.org",
     "crumbs": [
       "General information",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Contact info and important links</span>"
@@ -46,7 +46,7 @@
     "href": "contact-info.html#project-listserv",
     "title": "1  Contact info and important links",
     "section": "Project listserv",
-    "text": "Project listserv\n\nMB5 project listserv: mb5-list@manybabies.org\n\nSUBSCRIBE (click on “Join group” using a google-linked account, or email mb5@manybabies.org to request to join)",
+    "text": "Project listserv\n\nMB5 project listserv: mb5-list@manybabies.org Note: sending an email to this address will send it to everyone subscribed to the MB5 list; please use judiciously!\n\nSUBSCRIBE to the MB5 listserv (click on “Join group” using a google-linked account, or fill out the MB listserv form to request to join)",
     "crumbs": [
       "General information",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Contact info and important links</span>"
@@ -57,7 +57,7 @@
     "href": "contact-info.html#important-links",
     "title": "1  Contact info and important links",
     "section": "Important links",
-    "text": "Important links\n\nMB5 project website: manybabies.org/MB5\nMB5 Stage 1 Registered Report: https://doi.org/10.31234/osf.io/ck3vd\nMB5 Lab Manual (this document): manybabies.org/mb5-manual\nMB5 collaboration agreement: link to google doc (note: the MB5 collaboration agreement can also be found in the Appendix of this manual)\nTo report issues with data collection, deviations from protocol, etc.: MB issue tracker form\nTo upload required documentation (e.g., lab questionnaire): MB5 documentation upload form\nTo upload data: MB5 data upload form",
+    "text": "Important links\n\nManyBabies website: manybabies.org\nMB5 project website: manybabies.org/MB5\nMB5 Stage 1 Registered Report: MB5 Stage 1 Registered Report\nMB5 Lab Manual (this document): MB5 Lab Manual\nMB5 collaboration agreement: MB5 Collaboration Agreement (note: the MB5 collaboration agreement can also be found in the Appendix of this manual)\nTo report issues (e.g., with data collection, deviations from protocol, etc.) or to request support: MB5 Issue Tracking and Support Request Form\nTo upload materials and data (e.g., ethics approval, questionnaire, data): MB5 Upload Form",
     "crumbs": [
       "General information",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Contact info and important links</span>"
@@ -134,7 +134,7 @@
     "href": "demographics.html#uploading-demographics-questionnaire",
     "title": "6  Demographics Questionnaire",
     "section": "6.2 Uploading demographics questionnaire",
-    "text": "6.2 Uploading demographics questionnaire\nAll labs must upload a blank copy of the Demographics Questionnaire they will be using for MB5 via the MB5 documentation upload form.\nPlease ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g. babylabPrinceton_demographics.pdf). Check the list of LabIDs to confirm your lab’s unique LabID before uploading.\n\n\n\n\nSingh, L., Barokova, M. D., Baumgartner, H. A., Lopera-Perez, D. C., Omane, P. O., Sheskin, M., Yuen, F. L., Wu, Y., Alcock, K. J., Altmann, E. C., Bazhydai, M., Carstensen, A., Chan, K. C. J., Chuan-Peng, H., Dal Ben, R., Franchin, L., Kosie, J. E., Lew-Williams, C., Okocha, A., … Frank, M. C. (2024). A unified approach to demographic data collection for research with young children across diverse cultures. Developmental Psychology, 60. https://doi.org/10.1037/dev0001623",
+    "text": "6.2 Uploading demographics questionnaire\nAll labs must upload a blank copy of the Demographics Questionnaire they will be using for MB5 via the MB5 Upload Form.\nPlease ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g. babylabPrinceton_demographics.pdf). Check the list of LabIDs to confirm your lab’s unique LabID before uploading.\n\n\n\n\nSingh, L., Barokova, M. D., Baumgartner, H. A., Lopera-Perez, D. C., Omane, P. O., Sheskin, M., Yuen, F. L., Wu, Y., Alcock, K. J., Altmann, E. C., Bazhydai, M., Carstensen, A., Chan, K. C. J., Chuan-Peng, H., Dal Ben, R., Franchin, L., Kosie, J. E., Lew-Williams, C., Okocha, A., … Frank, M. C. (2024). A unified approach to demographic data collection for research with young children across diverse cultures. Developmental Psychology, 60. https://doi.org/10.1037/dev0001623",
     "crumbs": [
       "Getting started",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Demographics Questionnaire</span>"
@@ -200,7 +200,7 @@
     "href": "walkthrough.html",
     "title": "8  Walkthrough Videos",
     "section": "",
-    "text": "8.1 Purpose\nThe purpose walkthrough videos is two-fold:\nPlease rest assured that these videos will NOT be used by ManyBabies to critique individual researchers’ laboratory policies and procedures. This project is a community effort!",
+    "text": "8.1 Purpose\nOnce the experiment is set up and people involved in data collection are trained and BEFORE beginning data collection, we ask that you document how you run the ManyBabies 5 study in your lab. Each lab is required to create a walkthrough video and submit it for approval. We strongly prefer videos, but if this is not possible for you, detailed photographs would be an option. Even if you already provided a video for other ManyBabies projects, a new video specifically showing how you run the studies of the MB5 project is requested.\nThe purpose walkthrough videos is two-fold:\nPlease rest assured that these videos will NOT be used by ManyBabies to critique individual researchers’ laboratory policies and procedures. This project is a community effort!",
     "crumbs": [
       "Getting started",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Walkthrough Videos</span>"
@@ -266,7 +266,7 @@
     "href": "experiment-overview.html",
     "title": "9  Experiment Overview",
     "section": "",
-    "text": "9.1\nEach baby will be presented with a series of 12 trials with one familiarization and two test phases each. During familiarization, a single stimulus is presented centrally on the screen. The test phase will consist of two stimuli, one familiar and one novel, presented side-by-side. The location of the stimuli will be switched in the two test trials. The duration of the familiarization will vary across trials (5, 10, or 15s). The tests will last 5s each. There will be two versions of the experiment: one in which the familiarization time will be pre-established (fixed-length), and another one in which the length of the trial will last until the infant accumulates the required looking time (infant-controlled).",
+    "text": "9.1\nThis chapter explains the experimental procedure in detail. Please follow the instructions as closely as possible, and report any deviations from the protocol using the MB5 issue tracker form.\nEach baby will be presented with a series of 12 trials with one familiarization and two test phases each. During familiarization, a single stimulus is presented centrally on the screen. The test phase will consist of two stimuli, one familiar and one novel, presented side-by-side. The location of the stimuli will be switched in the two test trials. The duration of the familiarization will vary across trials (5, 10, or 15s). The tests will last 5s each. There will be two versions of the experiment: one in which the familiarization time will be pre-established (fixed-length), and another one in which the length of the trial will last until the infant accumulates the required looking time (infant-controlled).",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Experiment Overview</span>"
@@ -387,7 +387,7 @@
     "href": "participants.html",
     "title": "13  Participants and recruitment",
     "section": "",
-    "text": "13.1 Age and sample size\nThe expected lab contribution is a full sample of 32 babies (preferred, if possible) or a half sample of 16 babies (minimum).",
+    "text": "13.1 Age and sample size\nWhile we encourage as much participation as you can spare, it is crucial to the success of the project that you treat our study with the same care as you would any other study in your lab with respect to recruitment procedures, timing of data collection, and RAs/RA training. Please do not commit to providing data to ManyBabies if this level of care is not possible.\nThe expected lab contribution is a full sample of 32 babies (preferred, if possible) or a half sample of 16 babies (minimum).",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>Participants and recruitment</span>"
@@ -530,7 +530,7 @@
     "href": "after-data-collection.html",
     "title": "19  After data collection",
     "section": "",
-    "text": "19.1 Data reporting guidelines\nParticipant data from all infants entering the lab needs to be reported. Even if the infant fusses out prior to entering the testing room/booth, the data for that infant should be submitted. In the case of fuss-out prior to entering the testing room, only participant data needs to be provided. In all other cases, trial level data also needs to be reported (In some cases it may be the case that all trial data will be missing as indicated by ‘NA’). This provides valuable information for, e.g., secondary analyses regarding fuss-out rates and the timing of fuss-out in the experiment. Data collected after the study has been terminated (e.g. fussy babies who are brought back in for a “second run”) should not be reported; any data collected prior to the complete fuss-out needs to be reported in the usual manner. If you report pilot data, make sure this is indicated as such in the ‘Pilot’ column of the data table. Below instructions are designed to help you share data with the MB5 project team in a format that will minimize analysis errors and maximize the ease of merging datasets from many different labs.",
+    "text": "19.1 Data reporting guidelines\nContact Martin Zettersten (martincz@princeton.edu) with questions about data submission and data preparation (please read text below carefully first!)\nParticipant data from all infants entering the lab needs to be reported. Even if the infant fusses out prior to entering the testing room/booth, the data for that infant should be submitted. In the case of fuss-out prior to entering the testing room, only participant data needs to be provided. In all other cases, trial level data also needs to be reported (In some cases it may be the case that all trial data will be missing as indicated by ‘NA’). This provides valuable information for, e.g., secondary analyses regarding fuss-out rates and the timing of fuss-out in the experiment. Data collected after the study has been terminated (e.g. fussy babies who are brought back in for a “second run”) should not be reported; any data collected prior to the complete fuss-out needs to be reported in the usual manner. If you report pilot data, make sure this is indicated as such in the ‘Pilot’ column of the data table. Below instructions are designed to help you share data with the MB5 project team in a format that will minimize analysis errors and maximize the ease of merging datasets from many different labs.",
     "crumbs": [
       "After data collection",
       "<span class='chapter-number'>19</span>  <span class='chapter-title'>After data collection</span>"
