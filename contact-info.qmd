@@ -12,13 +12,11 @@
 
 -   **Heidi Baumgartner** (MB Exec. Director & MB5 Coordinator): {{< var email.heidi >}}
 
-
 ## Project listserv {.unnumbered}
 
 -   **MB5 project listserv**: {{< var email.listserv >}} *Note: sending an email to this address will send it to everyone subscribed to the MB5 list; please use judiciously!*
 
     -   **SUBSCRIBE** to the {{< var link.listserv >}} *(click on "Join group" using a google-linked account, or fill out the* <a href="https://docs.google.com/forms/d/e/1FAIpQLSewvzsv3YAwPKCAJmut_X6eVlu7P7TxbGe6vAWwG0CInI4YqA/viewform" target="_blank">MB listserv form</a> *to request to join)*
-
 
 ## Important links {.unnumbered}
 
@@ -36,3 +34,4 @@
 
 -   **To upload materials and data** (e.g., ethics approval, questionnaire, data): {{< var link.upload >}}
 
+-   **To upload materials and data** (e.g., ethics approval, questionnaire, data): {{< var link2.upload >}}
