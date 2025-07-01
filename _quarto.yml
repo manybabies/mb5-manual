@@ -53,10 +53,10 @@ book:
     - part: "Setting up the experiment"
       chapters: 
         - experiment-overview.qmd
-        - equipment.qmd
+        - participants.qmd
         - stimuli.qmd
         - procedure.qmd
-        - participants.qmd
+        - apparatus.qmd
         - data-validation.qmd
         - prior-to-data-coll-checklist.qmd
     - part: "Running the experiment"
