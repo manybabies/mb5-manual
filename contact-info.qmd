@@ -20,7 +20,7 @@
 
 ## Important links {.unnumbered}
 
--   **ManyBabies website**: {{< var link.mbwebsite >}}
+-   **ManyBabies website:** {{< var link.mbwebsite >}}
 
 -   **MB5 project website**: {{< var link.mb5website >}}
 
@@ -30,6 +30,6 @@
 
 -   **MB5 collaboration agreement**: {{< var link.collaboration >}} *(note: the MB5 collaboration agreement can also be found in the Appendix of this manual)*
 
--   **To report issues (e.g., with data collection, deviations from protocol, etc.) or to request support**: {{< var link.issue >}}
+-   **To report issues (e.g., with data collection, deviations from protocol, etc.) or to request support:** {{< var link.issue >}}
 
 -   **To upload materials and data** (e.g., ethics approval, questionnaire, data): {{< var link.upload >}}

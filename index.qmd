@@ -8,7 +8,6 @@
 
 #### Bear with us as we finalize this document with all of the information your lab will need to successfully collect data for MB5. In the meantime, feel free to poke around and email us at [mb5\@manybabies.org](mailto:mb5@manybabies.org) if you have any questions or need help. {.unnumbered}
 
-
 <br> <br>
 
 ------------------------------------------------------------------------
@@ -17,7 +16,7 @@
 
 ### Thank you for contributing to [**ManyBabies 5**](https://manybabies.org/MB5/), a project of [**ManyBabies**](https://manybabies.org/)! {.unnumbered}
 
-MB5 is a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs. novelty preference through a collaboratively-designed “best test” of a popular model of infants’ visual preference for familiar and novel stimuli [@hunter1988]. More details about the background, design and hypotheses can be found in the [**Registered Report**](https://osf.io/preprints/psyarxiv/ck3vd) [@kosie]. In the following sections, we provide instructions on how to implement the experiment in your lab and report data back to the project as a whole. Thanks for joining us!
+MB5 is a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs. novelty preference through a collaboratively-designed “best test” of a popular model of infants’ visual preference for familiar and novel stimuli [@hunter1988]. More details about the background, design and hypotheses can be found in the [**Registered Report**](https://osf.io/preprints/psyarxiv/ck3vd) [@kosie]. In the following sections, we provide instructions for implementing the experiment in your lab and report data back to the project as a whole. Thanks for joining us!
 
 ![Hunter and Ames model of infant attention (adapted from Bergmann and Cristia, 2016)](images/HunterAmesFig.png){#fig-hunterames}
 
@@ -25,8 +24,7 @@ MB5 is a cross-lab effort to provide an empirical basis for discussions of repli
 
 ### Acknowledgment
 
-Much of this manual was adapted from the lab manuals created by the MB1, MB2, MB3, and MB4 teams. 
-
+Much of this manual was adapted from the lab manuals created by the MB1, MB2, MB3, and MB4 teams.
 
 ------------------------------------------------------------------------
 

@@ -1,10 +1,10 @@
-# MB5 Lab Participation Overview
+# MB5 Lab Participation Overview {#laboverview}
 
 These are the steps that every data-collecting lab must follow to participate in MB5. This is just an overview of the process. More detail for each numbered item is available in the linked sections.
 
 ### BEFORE you do ANYTHING else: {.unnumbered}
 
-(@)  Complete the <a href="https://airtable.com/appRoqMKzcK3NsXt4/pag99dsjlXiM24ZnB/form" target="_blank"><b>ManyBabies 5 Lab Sign-Up Form</b></a>.
+(@)  Complete the {{< var link.signup >}}.
 (@)  Read the <a href="https://docs.google.com/document/d/1vbTDmH6euda5pJN4uyds3zsnQ1DXrW9wpHogwC-5TSk/edit?usp=sharing" target="_blank"><b>MB5 Collaboration Agreement</b></a>.
 (@)  <b>Read this manual start to finish</b> 
 (@) Review the information in the <a href="https://docs.google.com/document/d/e/2PACX-1vQT9a2lYPUclD_Mbqz_sca4NZq6tCb1HzfMSt9EEQt54mAb55vrkE3J6_6uydYAH-afCdSCaSELycAI/pub" target="_blank"><b>ManyBabies General Manual</b></a> regarding <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.22i70rxou3ha" target="_blank">ethical research</a>, <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.9ty2g48mpe0t" target="_blank">authorship</a>, <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.aunbjkpwxhf3" target="_blank">data sharing</a>, and <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.6h67zsyeiveg" target="_blank">data use</a>.
@@ -29,6 +29,6 @@ These are the steps that every data-collecting lab must follow to participate in
 
 ### AFTER you finish data collection: {.unnumbered}
 
-(@) Compile your participant and trial data files in consultation with the data reporting instructions **\[Data reporting guidelines\]**.
+(@) Compile your participant and trial data files in consultation with the **{{< var link.reporting >}}**.
 (@) Submit your data using the [**MB5 data upload form**](https://docs.google.com/forms/d/e/1FAIpQLSeydFOC2LviKVBhHEpExH5SEJsqH0705pxH8gwHsPDN13Qk6Q/viewform?usp=sf_link).
 (@) Report individual contributions using the [**MB Contribution Reporting Form**](https://manybabies.org/credit/)
