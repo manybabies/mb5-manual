@@ -4,16 +4,16 @@
 
 ## Overview
 
-During the experiment, infants will be seated on their caregiver’s lap or in a high-chair or car seat (whichever option corresponds to a lab's standard procedure for testing infants, as reported in the pre-data-collection survey). 
+During the experiment, infants will be seated on their caregiver’s lap or in a high-chair or car seat (whichever option corresponds to a lab's standard procedure for testing infants, as reported in the pre-data-collection survey).
 
-Each baby will be presented with a series of 12 trials. Each trial is preceded by an attention-getter and made up of a **familiarization phase** followed by two **test phases**. 
+Each baby will be presented with a series of 12 trials. Each trial is preceded by an attention-getter and made up of a **familiarization phase** followed by two **test phases**.
 
 #### There are two versions of the experiment:[^procedure-1]
+
 [^procedure-1]: Participating labs are encouraged to use an infant-controlled procedure, if possible. See @sec-famphase for more info.
 
-1. ***Fixed-length***, in which the duration of the familiarization phase is pre-established (5s, 10s or 15s)
-2. ***Infant-controlled***, in which the familiarization phase lasts until the infant accumulates the specified looking time (5s, 10s, or 15s). In both versions, the duration of each test phase is fixed at 5s. 
-
+1.  ***Fixed-length***, in which the duration of the familiarization phase is pre-established (5s, 10s or 15s)
+2.  ***Infant-controlled***, in which the familiarization phase lasts until the infant accumulates the specified looking time (5s, 10s, or 15s). In both versions, the duration of each test phase is fixed at 5s.
 
 #### Trial schematic:
 
@@ -31,13 +31,12 @@ In the **familiarization phase**, one stimulus is presented centrally on the scr
 2.  Complexity level (*low* or *high*); and
 3.  Familiarization time (*5s*, *10s*, or *15s*)[^procedure-2]
 
+[^procedure-2]: Familiarization time specifies the duration of the familiarization phase (*fixed-length* design), or the duration of accumulated looking time needed to end the familiarization phase (*infant-controlled* design). <br>
+
 The order of these trials will be counterbalanced along a number of dimensions across participants and labs.
 
-[^procedure-2]: Familiarization time specifies the duration of the familiarization phase (*fixed-length* design), or the duration of accumulated looking time needed to end the familiarization phase (*infant-controlled* design).
-<br>
-
 | Event | Familiarization Time (s) | Stimulus Class | Complexity Level | Example Stimulus |
-|-------------|-------------|-------------|-------------|--------------------|
+|--------------|--------------|--------------|--------------|----------------|
 | 1 <br> 2 <br> 3 | 5 <br> 10 <br> 15 | <br> Fribbuli | <br> Low | <img src="images/fribbuli-low.png" height="75"/></img> |
 | 4 <br> 5 <br> 6 | 5 <br> 10 <br> 15 | <br> Fribbuli | <br> High | <img src="images/fribbuli-high.png" height="75"/></img> |
 | 7 <br> 8 <br> 9 | 5 <br> 10 <br> 15 | <br> Fractals | <br> Low | <img src="images/fractal-low.png" height="75"/></img> |
@@ -45,17 +44,15 @@ The order of these trials will be counterbalanced along a number of dimensions a
 
 : Familarization events *(Note: Order of events will be counterbalanced across pariticipants)* {#tbl-familiarization}
 
-
 ### *Infant-Controlled* Familiarization
 
-If your lab is running the infant-controlled version of the study, infants may accumulate the required familiarization time across multiple looks before advancing to the test phase. The familiarization stimulus will remain on the screen until the infant has looked at the stimulus for the specified duration  (as determined by an experimenter coding infant looking in real time).
+If your lab is running the infant-controlled version of the study, infants may accumulate the required familiarization time across multiple looks before advancing to the test phase. The familiarization stimulus will remain on the screen until the infant has looked at the stimulus for the specified duration (as determined by an experimenter coding infant looking in real time).
 
-We will additionally implement a **maximum trial length criterion**: if infants do not accumulate the required looking time within twice the specified familiarization duration (i.e., 10, 20, or 30s), the familiarization phase will end. 
+We will additionally implement a **maximum trial length criterion**: if infants do not accumulate the required looking time within twice the specified familiarization duration (i.e., 10, 20, or 30s), the familiarization phase will end.
 
 ### *Fixed-Length* Familiarization
 
 If your lab is unable to run an infant-controlled design, then you will present the familiarization stimulus for a specified duration (5, 10, or 20s) before advancing to the test phases.
-
 
 ## Test Phase
 
