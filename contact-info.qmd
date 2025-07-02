@@ -34,4 +34,4 @@
 
 -   **To upload materials and data** (e.g., ethics approval, questionnaire, data): {{< var link.upload >}}
 
--   **To upload materials and data** (e.g., ethics approval, questionnaire, data): {{< var link2.upload >}}
+-   **To upload materials and data** (e.g., ethics approval, questionnaire, data): <a href="{{< var url.upload >}}">MB5 Upload Form</a> 
