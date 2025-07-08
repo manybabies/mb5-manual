@@ -15,8 +15,8 @@ crossref:
   sec-prefix: section
 
 language:
-  crossref-ch-prefix: chapter
-  crossref-apx-prefix: appendix
+  crossref-ch-prefix: Chapter
+  crossref-apx-prefix: Appendix
 
 format:
   html:
