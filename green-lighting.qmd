@@ -1,6 +1,6 @@
 # Green-lighting process {#greenlight}
 
-All labs must complete a series of preparation steps, referred to by MB as the **"green-lighting" process**, before collecting data for any ManyBabies project. These steps are outlined in the [MB5 Lab Overview](#laboverview) and in detail throughout the following sections of this manual, but in essence this involves:
+All labs must complete a series of preparation steps, referred to by MB as the **"green-lighting" process**, before collecting data for any ManyBabies project. These steps are outlined in the [MB5 Lab Participation Overview](#laboverview) list and in detail throughout the following sections of this manual, but in essence this involves:
 
 -   providing **required documentation** (e.g., ethics approval, lab-specific Demographics Questionnaire)
 -   demonstrating **correct implementation of the testing procedure**

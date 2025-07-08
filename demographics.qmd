@@ -2,7 +2,7 @@
 
 ## Collecting participant information
 
-Please use the **MB5 Demographics Questionnaire**[^demographics-1] to collect information about the participant and their family. While parents/guardians can choose to not respond to individual questions, please check the form BEFORE THE RESPONDANT LEAVES YOUR LAB to avoid accidental blank responses.
+Please use the {{< var link.demographics >}}[^demographics-1] to collect information about the participant and their family. While parents/guardians can choose to not respond to individual questions, please **check the form BEFORE THE RESPONDANT LEAVES YOUR LAB** to avoid accidental blank responses.
 
 [^demographics-1]: This questionnaire is adapted from the template(s) created by the [MB-Demographics](https://manybabies.org/MB-Demographics/) group. Please see @Singh2024 for more information on the development of the template.
 
@@ -18,6 +18,6 @@ We encourage labs to adapt the questionnaire template as needed, while keeping i
 
 ## Uploading demographics questionnaire
 
-**All labs must upload a blank copy of the Demographics Questionnaire they will be using for MB5 via the** {{< var link.upload >}}**.** *(even if you are using the provided template with no modifications!)*
+**All labs must upload a blank copy of the Demographics Questionnaire they will be using for MB5 via the** {{< var link.upload >}} *(even if you are using the provided template with no modifications!)*.
 
-Please ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g. *babylabPrinceton_demographics.pdf*). Check the list of {{< var link.labids >}} to confirm your lab's unique LabID before uploading.
+Please ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g. `babylabPrinceton_questionnaire.pdf`). Check the list of {{< var link.labids >}} to confirm your lab's unique LabID before uploading.

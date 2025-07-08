@@ -1,5 +1,6 @@
 email: 
-  support: "[mb5@manybabies.org](mailto:mb5@manybabies.org)"
+  support: "[**mb5@manybabies.org**](mailto:mb5@manybabies.org)"
+  contactus: "[**Contact us**](mailto:mb5@manybabies.org)"
   jessica: "[jkosie@asu.edu](mailto:jkosie@asu.edu)"
   martin: "[mzettersten@ucsd.edu](mailto:mzettersten@ucsd.edu)"
   casey: "[caseylw@princeton.edu](mailto:caseylw@princeton.edu)"
@@ -17,5 +18,5 @@ link:
   stage1rr: "[MB5 Stage 1 Registered Report](https://doi.org/10.31234/osf.io/ck3vd)"
   manual: "[MB5 Lab Manual](https://manybabies.org/mb5-manual)"
   labids: "[LabIDs](https://manybabies.org/labids/)"
-  reporting: "[Data Reporting Guidelines]()"                    #NEED LINK
-  demographics: "[MB5 Demographics Questionnaire]()"                    #NEED LINK
+  reporting: "[Data Reporting Guidelines]()"                                    #NEED LINK
+  demographics: "[MB5 Demographics Questionnaire]()"                            #NEED LINK
