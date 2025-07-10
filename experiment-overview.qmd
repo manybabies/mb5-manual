@@ -4,11 +4,11 @@ This section explains the experimental procedure in detail. Please follow the in
 
 ## Method {.unnumbered}
 
--   @sec-participants: [**Participants and recruitment**](#sec-participants)
--   @sec-stimuli: [**Stimuli**](#sec-stimuli)
--   @sec-procedure: [**Procedure**](#sec-procedure)
--   @sec-apparatus: [**Apparatus**](#sec-apparatus)
--   @sec-validation: [**Data validation**](#sec-validation)
+-   @sec-participants
+-   @sec-stimuli
+-   @sec-procedure
+-   @sec-apparatus
+-   @sec-validation
 
 ```{=html}
 <!-- 

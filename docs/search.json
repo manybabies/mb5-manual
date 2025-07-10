@@ -90,7 +90,7 @@
     "href": "getting-started.html",
     "title": "Getting Started",
     "section": "",
-    "text": "This section covers some basic aspects of the project that you’ll need to know about BEFORE you set up and run the experiment. Use the arrows to continue to through the sections, or jump to a section using the links below.\n\n4  Green-lighting process: Green-lighting process\n5  Demographics QuestionnaireDemographics questionnaire\n6  Ethics approval: Ethics approval information\n7  Walkthrough Videos: Walkthrough videos",
+    "text": "This section covers some basic aspects of the project that you’ll need to know about BEFORE you set up and run the experiment. Use the arrows to continue to through the sections, or jump to a section using the links below.\n\n4  Green-lighting process\n5  Demographics Questionnaire\n6  Ethics approval\n7  Walkthrough Videos",
     "crumbs": [
       "Getting Started"
     ]
@@ -275,7 +275,7 @@
     "href": "experiment-overview.html#method",
     "title": "Setting up the experiment",
     "section": "",
-    "text": "8  Participants and recruitment: Participants and recruitment\n9  Stimuli: Stimuli\n10  Procedure: Procedure\n11  Apparatus: Apparatus\n12  Data Validation: Data validation",
+    "text": "8  Participants and recruitment\n9  Stimuli\n10  Procedure\n11  Apparatus\n12  Data Validation",
     "crumbs": [
       "Setting up the experiment"
     ]
