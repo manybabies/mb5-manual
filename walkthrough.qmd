@@ -1,8 +1,8 @@
-# Walkthrough Videos {#walkthrough}
+# Walkthrough Videos {#sec-walkthrough}
 
 > Note: These instructions were adapted slightly from the MB1 & MB3 walkthrough instructions
 
-Once the experiment is set up and people involved in data collection are trained, and BEFORE beginning data collection, we ask that you document how you run the MB5 study in your lab by creating a "Walkthrough" video.[^walkthrough-1] 
+Once the experiment is set up and people involved in data collection are trained, and BEFORE beginning data collection, we ask that you document how you run the MB5 study in your lab by creating a "Walkthrough" video.[^walkthrough-1]
 
 [^walkthrough-1]: We strongly prefer videos, but if this is not possible for your lab, detailed photographs would be an option.
 
@@ -54,14 +54,14 @@ Make sure your video covers the following components. We added questions you sho
 
 ### Experiment
 
-1. What does your testing room/booth look like (size, lay-out, etc.)? Try to film the entrance and complete interior of the test booth or room.
-2. Where is the baby sitting (e.g., parent's lap, high chair, etc.)? Film the seating arrangement before the baby is seating and with the baby.
-3. What does the stimulus display look like (size, distance to baby)? Where is the screen located? 
-4. Where is the experimenter located during testing (e.g., inside or outside the booth)? Show where the experimenter is sitting; if it is in the same room, capture both baby and experimenter.
-5. Can the baby see the experimenter during testing? How does the experimenter see the baby (e.g.,videofeed)?
-6. How is the experimenter blinded to trial type during testing?
-7. How is the parent blinded during testing (blacked-out glasses or something similar)?
-8. If live-coding takes place: Show examples of what counts as a look/no look and/or videotape someone doing the coding together with the infant looks.
+1.  What does your testing room/booth look like (size, lay-out, etc.)? Try to film the entrance and complete interior of the test booth or room.
+2.  Where is the baby sitting (e.g., parent's lap, high chair, etc.)? Film the seating arrangement before the baby is seating and with the baby.
+3.  What does the stimulus display look like (size, distance to baby)? Where is the screen located?
+4.  Where is the experimenter located during testing (e.g., inside or outside the booth)? Show where the experimenter is sitting; if it is in the same room, capture both baby and experimenter.
+5.  Can the baby see the experimenter during testing? How does the experimenter see the baby (e.g.,videofeed)?
+6.  How is the experimenter blinded to trial type during testing?
+7.  How is the parent blinded during testing (blacked-out glasses or something similar)?
+8.  If live-coding takes place: Show examples of what counts as a look/no look and/or videotape someone doing the coding together with the infant looks.
 
 ### Debrief after experiment
 

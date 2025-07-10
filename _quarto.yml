@@ -43,9 +43,8 @@ book:
         - contact-info.qmd
         - test-dates.qmd
         - lab-overview.qmd
-    - part: "Getting started"
+    - part: getting-started.qmd
       chapters: 
-        - getting-started.qmd
         - green-lighting.qmd
         - demographics.qmd
         - ethics.qmd

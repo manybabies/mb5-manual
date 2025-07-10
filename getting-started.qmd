@@ -1,8 +1,8 @@
-# Pre-testing steps
+# Getting Started {#sec-gettingstarted .unnumbered}
 
-This section covers some basic aspects of the project that you'll need to know about BEFORE you set up and run the experiment. Use the arrows to continue to through the sections, or jump to a section using the links below.
+This section covers some basic aspects of the project that you'll need to know about **BEFORE you set up and run the experiment**. Use the arrows to continue to through the sections, or jump to a section using the links below.
 
--   [**Green-lighting process**](#greenlight)
--   [**Demographics questionnaire**](#demographics)
--   [**Ethics approval information**](#ethics-approval)
--   [**Walkthrough videos**](#walkthrough)
+-   @sec-greenlight: [**Green-lighting process**](#sec-greenlight)
+-   @sec-demographics[**Demographics questionnaire**](#sec-demographics)
+-   @sec-ethics: [**Ethics approval information**](#sec-ethics)
+-   @sec-walkthrough: [**Walkthrough videos**](#sec-walkthrough)
