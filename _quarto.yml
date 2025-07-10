@@ -50,7 +50,7 @@ book:
         - demographics.qmd
         - ethics.qmd
         - walkthrough.qmd
-    - part: "Setting up the experiment"
+    - part: experiment-overview.qmd
       chapters: 
         - experiment-overview.qmd
         - participants.qmd
