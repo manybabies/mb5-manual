@@ -1,4 +1,4 @@
-# Apparatus {#participants}
+# Apparatus {#sec-apparatus}
 
 ## Equipment
 

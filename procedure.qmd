@@ -1,4 +1,4 @@
-# Procedure {#procedure}
+# Procedure {#sec-procedure}
 
 > Please adhere to the following specifications for conducting this study. If any of the following technical specifications are not possible for your lab, please contact the MB5 leadership team ({{< var email.support >}}) before beginning data collection to inform us of your planned deviation and the reason for it.
 
@@ -36,7 +36,7 @@ In the **familiarization phase**, one stimulus is presented centrally on the scr
 The order of these trials will be counterbalanced along a number of dimensions across participants and labs.
 
 | Event | Familiarization Time (s) | Stimulus Class | Complexity Level | Example Stimulus |
-|--------------|--------------|--------------|--------------|----------------|
+|---------------|---------------|---------------|---------------|---------------|
 | 1 <br> 2 <br> 3 | 5 <br> 10 <br> 15 | <br> Fribbuli | <br> Low | <img src="images/fribbuli-low.png" height="75"/></img> |
 | 4 <br> 5 <br> 6 | 5 <br> 10 <br> 15 | <br> Fribbuli | <br> High | <img src="images/fribbuli-high.png" height="75"/></img> |
 | 7 <br> 8 <br> 9 | 5 <br> 10 <br> 15 | <br> Fractals | <br> Low | <img src="images/fractal-low.png" height="75"/></img> |
