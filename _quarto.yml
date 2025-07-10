@@ -52,7 +52,6 @@ book:
         - walkthrough.qmd
     - part: experiment-overview.qmd
       chapters: 
-        - experiment-overview.qmd
         - participants.qmd
         - stimuli.qmd
         - procedure.qmd
