@@ -18,18 +18,18 @@ You can use an online tool such as this [Age Calculator](https://www.calculator.
 
 -   Try to distribute participants across the full range of ages, if possible.
 -   A lab’s sample size contribution **includes any infant who enters the laboratory**, even if they are eventually excluded (e.g., due to fussiness, experimenter error, too young or too old, etc.).
--   In situations where labs plan but are unable to collect the minimum contribution (16 babies), lab members will still be eligible for authorship. Alternative contributions may be requested by the Project Leads in these circumstances.
+-   In situations where labs intend to collect the minimum contribution (16 babies) but are unable to do so, lab members will still be eligible for authorship. Alternative contributions may be requested by the Project Leads in these circumstances.
 
 ## Eligibility and Exclusions
 
-##### The <u>**only**</u> requirements for inclusion in MB5 are: {.unnumbered}
+#### The <u>**only**</u> requirements for inclusion in MB5 are: {.unnumbered}
 
--   the infant's age falls within the 3- to 15-month age range AND
--   the infant has no known issues that would directly impede their ability to process visual stimuli
+-   **Age**: the infant's age falls within the 3- to 15-month age range
+-   **No known visual processing impairment**: the infant has no known issues that would directly impede their ability to process visual stimuli
 
-**Infants with other characteristics that are commonly used as exclusion criteria in developmental studies (e.g., hard of hearing, premature, bilingual, etc.) can be included in the sample.**
+**Infants with other characteristics that are commonly used as exclusion criteria in developmental studies (e.g., hearing impairment, premature birth, bilingual, etc.) can be included in the sample.** Note that the inclusion criteria for MB5 are much more inclusive than typical in-lab studies.
 
-Please determine participants’ eligibility on the phone prior to scheduling them in the ManyBabies study to avoid testing ineligible participants, but note that the inclusion criteria for MB5 are much more inclusive than typical in-lab studies (described above). Participants who come into the lab who are subsequently determined to be ineligible should be still reported in the sample but clearly marked as ineligible based on age or visual processing impairment (see \[Data reporting guidelines\]\[Data reporting guidelines\] for more info).
+Please determine participants’ eligibility on the phone prior to scheduling them in the ManyBabies study to avoid testing ineligible participants. Participants who participate in the study but are subsequently determined to be ineligible based on the criteria above should still be reported in the sample but clearly marked as 'ineligible' based on age or visual processing impairment (see @sec-datareporting for more info).
 
 ## First-session/second-session policy
 

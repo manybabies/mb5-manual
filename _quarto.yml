@@ -62,9 +62,9 @@ book:
         - general-lab-practices.qmd
         - conditions.qmd
         - during-data-collection.qmd
-    - part: "After data collection"
+    - part: after-data-collection.qmd
       chapters:
-        - after-data-collection.qmd
+        - data-reporting.qmd
     - references.qmd
   appendices:
     - collab-agreement.qmd

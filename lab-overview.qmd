@@ -27,7 +27,7 @@ These are the steps that every data-collecting lab must follow to participate in
 
 ### AFTER you finish data collection: 
 
-(@) Compile your participant and trial data files in consultation with the {{< var link.reporting >}}
+(@) Compile your participant and trial data files in consultation with data reporting guidelines (see @sec-datareporting)
 (@) Verify your data files using the {{< var link.validator >}} (see @sec-validation)
-(@) Submit your data using the {{< var link.upload >}} 
+(@) Submit your data using the {{< var link.upload >}}
 (@) Report individual contributions using the {{< var link.creditform >}}
