@@ -2,33 +2,32 @@
 
 These are the steps that every data-collecting lab must follow to participate in MB5. This is just an overview of the process. More detail for each numbered item is available in the linked sections.
 
-### BEFORE you do ANYTHING else: {.unnumbered}
+### BEFORE you do ANYTHING else: 
 
-(@)  Complete the {{< var link.signup >}}.
-(@)  Read the <a href="https://docs.google.com/document/d/1vbTDmH6euda5pJN4uyds3zsnQ1DXrW9wpHogwC-5TSk/edit?usp=sharing" target="_blank"><b>MB5 Collaboration Agreement</b></a>.
 (@)  <b>Read this manual start to finish</b> 
-(@) Review the information in the <a href="https://docs.google.com/document/d/e/2PACX-1vQT9a2lYPUclD_Mbqz_sca4NZq6tCb1HzfMSt9EEQt54mAb55vrkE3J6_6uydYAH-afCdSCaSELycAI/pub" target="_blank"><b>ManyBabies General Manual</b></a> regarding <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.22i70rxou3ha" target="_blank">ethical research</a>, <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.9ty2g48mpe0t" target="_blank">authorship</a>, <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.aunbjkpwxhf3" target="_blank">data sharing</a>, and <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.6h67zsyeiveg" target="_blank">data use</a>.
+(@)  Read the {{< var link.collaboration >}}</a>
+(@) Review the information in the {{< var link.generalmanual >}} regarding <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.22i70rxou3ha" target="_blank">ethical research</a>, <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.9ty2g48mpe0t" target="_blank">authorship</a>, <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.aunbjkpwxhf3" target="_blank">data sharing</a>, and <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.6h67zsyeiveg" target="_blank">data use</a>
+(@)  **Complete the {{< var link.signup >}}**
 
-### BEFORE you begin data collection: {.unnumbered}
+### BEFORE you begin data collection: 
 
-(@)  [**Set up the experiment**](#setup) in consultation with this lab manual. 
-    i) Decide on your planned sample size/stopping rule (see [Participants and recruitment](#participants)). 
-    ii) Carefully record any needed deviations from the protocol using the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXoKjJo3XgGuXCLhWhzEDz0UrJ7tmio-70SoS24g4vqc4Utg/viewform?usp=sf_link" target="_blank"><b>MB5 issue tracker form</b></a>.
-(@)  Complete the <b>MB5 Laboratory Questionnaire</b> \[INSERT LINK\],
-(@)  Submit your [**ethics approval**](#sec-ethics), [**demographics questionnaire**](#sec-demographics), and any other documentation/materials using the <a href="https://docs.google.com/forms/d/e/1FAIpQLScunCYwrJApObng6xVV_lN4CUrcLrsrAKmiBmia67vPc9jNTA/viewform?usp=sf_link" target="_blank"><b>MB5 documentation upload form</b></a>.
-(@)  Create and submit your [**walkthrough video**](#walkthrough).
-(@)  Run pilot sample through the <a href="https://manybabies.org/validator/" target="_blank"><b>Data Validator</b></a>.
-(@)  Send email to [mb5\@manybabies.org](mb5@manybabies.org) to let the leadership team know that you are ready for “green-lighting”.
-(@) **WAIT for your official “green-light”** from the leadership team to begin data collection.
+(@)  Set up the experiment in consultation with this lab manual (see [Setting up the Experiment](#sec-setup)) 
+    i) Carefully record any needed deviations from the protocol using the {{< var link.issue >}}
+(@)  Submit the version of the **demographics questionnaire** your lab will be using (see @sec-demographics), your lab's **ethics approval** (see @sec-ethics), and any other documentation/materials
+(@)  Create and submit your **walkthrough video** (see @sec-walkthrough)
+(@)  Run pilot sample through the <a href="https://manybabies.org/validator/" target="_blank"><b>Data Validator</b></a> (see @sec-validation)
+(@)  Send email to {{< var email.support >}} to let the leadership team know that you are ready for “green-lighting”
+(@) **WAIT for your official “green-light”** from the leadership team to begin data collection
 
 > *IMPORTANT: DO NOT begin data collection (other than piloting) until you have been explicitly (and individually) “green-lighted” to do so.*
 
-### Data collection: {.unnumbered}
+### Data collection: 
 
 (@) Collect your data!
 
-### AFTER you finish data collection: {.unnumbered}
+### AFTER you finish data collection: 
 
-(@) Compile your participant and trial data files in consultation with the **{{< var link.reporting >}}**.
-(@) Submit your data using the [**MB5 data upload form**](https://docs.google.com/forms/d/e/1FAIpQLSeydFOC2LviKVBhHEpExH5SEJsqH0705pxH8gwHsPDN13Qk6Q/viewform?usp=sf_link).
-(@) Report individual contributions using the [**MB Contribution Reporting Form**](https://manybabies.org/credit/)
+(@) Compile your participant and trial data files in consultation with the {{< var link.reporting >}}
+(@) Verify your data files using the {{< var link.validator >}} (see @sec-validation)
+(@) Submit your data using the {{< var link.upload >}} 
+(@) Report individual contributions using the {{< var link.creditform >}}
