@@ -19,7 +19,7 @@ These are the steps that every data-collecting lab must follow to participate in
 (@)  Send email to {{< var email.support >}} to let the leadership team know that you are ready for “green-lighting”
 (@) **WAIT for your official “green-light”** from the leadership team to begin data collection
 
-> *IMPORTANT: DO NOT begin data collection (other than piloting) until you have been explicitly (and individually) “green-lighted” to do so.*
+#### IMPORTANT: DO NOT BEGIN DATA COLLECTION (other than piloting) until you have been explicitly (and individually) given the “Green Light” to do so.
 
 ### Data collection: 
 
