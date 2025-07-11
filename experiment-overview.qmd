@@ -1,8 +1,6 @@
 # Setting up the experiment {#setup .unnumbered}
 
-This section explains the experimental procedure in detail. Please follow the instructions as closely as possible, and report any deviations from the protocol using the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXoKjJo3XgGuXCLhWhzEDz0UrJ7tmio-70SoS24g4vqc4Utg/viewform?usp=sf_link" target="_blank"><b>MB5 issue tracker form</b></a>.
-
-## Method {.unnumbered}
+This section explains the experimental method in detail. Please follow the instructions as closely as possible, and report any deviations from the protocol using the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXoKjJo3XgGuXCLhWhzEDz0UrJ7tmio-70SoS24g4vqc4Utg/viewform?usp=sf_link" target="_blank"><b>MB5 issue tracker form</b></a>.
 
 -   @sec-participants
 -   @sec-stimuli
