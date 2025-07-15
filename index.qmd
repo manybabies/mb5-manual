@@ -12,7 +12,7 @@
 
 ------------------------------------------------------------------------
 
-# Preface {.unnumbered}
+# Preface {#sec-preface .unnumbered}
 
 ### Thank you for contributing to {{< var link.mb5dotorg >}}, a project of {{< var link.mbdotorg >}}! {.unnumbered}
 
@@ -22,9 +22,14 @@ MB5 is a cross-lab effort to provide an empirical basis for discussions of repli
 
 <br>
 
-### Acknowledgment
+## Manual Overview
+
+This manual provides the information needed to participate in ManyBabies 5. The manual is divided into
+
+### Acknowledgments
 
 Much of this manual was adapted from the lab manuals created by the MB1, MB2, MB3, and MB4 teams.
+
 
 ------------------------------------------------------------------------
 

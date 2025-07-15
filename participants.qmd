@@ -6,15 +6,15 @@ While we encourage as much participation as you can spare, it is crucial to the 
 
 The expected lab contribution is a **full sample of 32 babies** (*preferred, if possible*) or a **half sample of 16 babies** (*minimum*).
 
-##### *Minimum age:* 3 months, 0 days {.unnumbered}
+##### *Minimum age:* 3 months, 0 days
 
-##### *Maximum age:* 15 months, 0 days {.unnumbered}
+##### *Maximum age:* 15 months, 0 days
 
 > For example, on a testing date of 2025-04-15, eligible infants would have birthdays on or between 2024-01-15 and 2025-01-15.
 
 You can use an online tool such as this [Age Calculator](https://www.calculator.net/age-calculator.html) to use the infant's date of birth and testing date to determine eligibility and calculate age in days, which is the required format for age reporting. <br>
 
-##### Notes about age and sample size: {.unnumbered}
+##### Notes about age and sample size:
 
 -   Try to distribute participants across the full range of ages, if possible.
 -   A lab’s sample size contribution **includes any infant who enters the laboratory**, even if they are eventually excluded (e.g., due to fussiness, experimenter error, too young or too old, etc.).
@@ -22,7 +22,7 @@ You can use an online tool such as this [Age Calculator](https://www.calculator.
 
 ## Eligibility and Exclusions
 
-#### The <u>**only**</u> requirements for inclusion in MB5 are: {.unnumbered}
+#### The <u>**only**</u> requirements for inclusion in MB5 are:
 
 -   **Age**: the infant's age falls within the 3- to 15-month age range
 -   **No known visual processing impairment**: the infant has no known issues that would directly impede their ability to process visual stimuli
