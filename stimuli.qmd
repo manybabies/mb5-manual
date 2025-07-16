@@ -6,9 +6,9 @@
 
 Because the sample size possible in ManyBabies projects provides a unique opportunity to test generalizability across multiple stimulus types, we chose two different categories of stimuli: **Fribbuli**[^stimuli-1] and **Fractals**. These two classes of stimuli were chosen because: (1) they allow for variation in stimulus complexity within the same stimulus category (i.e., by manipulating the number of features); (2) infants are unlikely to have previous experience with either set of stimuli; and (3) the inclusion of two stimulus sets allow us to begin examining the generalizability of any observed effect.
 
-[^stimuli-1]: "Fribbuli" is a portmenteau combining the words "Fribble" and "stimuli". These stimuli were inspired by the Fribbles stimulus set [@barry2014]
+[^stimuli-1]: "Fribbuli" is a portmenteau combining the words "Fribble" and "stimuli". These stimuli were inspired by the *Fribbles* stimulus set [@barry2014]
 
-We created 12 unique Fribbuli and 12 unique Fractals, operationalizing complexity as the number of features present (these features are appendages in the case of Fribbuli and iterations of the same structure for Fractals; see Figure 3). Within each stimulus type, 6 items were designed to be low-complexity and 6 were designed to be high-complexity
+We created 12 unique Fribbuli and 12 unique Fractals, operationalizing complexity as the number of features present (these features are appendages in the case of Fribbuli and iterations of the same structure for Fractals; see Figure 3). Within each stimulus type, 6 items were designed to be low-complexity and 6 were designed to be high-complexity.
 
 ### ManyFribbuli[^stimuli-2]
 

@@ -1,24 +1,31 @@
 # Participants and recruitment {#sec-participants}
 
-While we encourage as much participation as you can spare, it is crucial to the success of the project that you treat our study with the same care as you would any other study in your lab with respect to recruitment procedures, timing of data collection, and RAs/RA training. Please do not commit to providing data to ManyBabies if this level of care is not possible.
-
-## Age and sample size
+## Sample size
 
 The expected lab contribution is a **full sample of 32 babies** (*preferred, if possible*) or a **half sample of 16 babies** (*minimum*).
 
-##### *Minimum age:* 3 months, 0 days
+While we encourage as much participation as you can spare, it is crucial to the success of the project that you treat our study with the same care as you would any other study in your lab with respect to recruitment procedures, timing of data collection, and RAs/RA training. Please do not commit to providing data to ManyBabies if this level of care is not possible.
 
-##### *Maximum age:* 15 months, 0 days
+##### Notes about sample size:
+-   A lab’s sample size contribution **includes any infant who enters the laboratory**, even if they are eventually excluded (e.g., due to fussiness, experimenter error, too young or too old, etc.).
+-   In situations where labs intend to collect the minimum contribution (*16 babies*) but are unable to do so, lab members will still be eligible for authorship. Additional contributions may be requested by the Project Leads in these circumstances.
+
+
+## Age of participants
+
+#### **Minimum age:** 3 months, 0 days
+
+#### **Maximum age:** 15 months, 0 days
+
+You can use an online tool such as this <a href="https://www.calculator.net/age-calculator.html" target="_blank"><b>Age Calculator</b></a> to use an infant's date of birth and testing date to calculate age in days, which is the required format for age reporting.
 
 > For example, on a testing date of 2025-04-15, eligible infants would have birthdays on or between 2024-01-15 and 2025-01-15.
 
-You can use an online tool such as this [Age Calculator](https://www.calculator.net/age-calculator.html) to use the infant's date of birth and testing date to determine eligibility and calculate age in days, which is the required format for age reporting. <br>
-
-##### Notes about age and sample size:
+##### Notes about age:
 
 -   Try to distribute participants across the full range of ages, if possible.
--   A lab’s sample size contribution **includes any infant who enters the laboratory**, even if they are eventually excluded (e.g., due to fussiness, experimenter error, too young or too old, etc.).
--   In situations where labs intend to collect the minimum contribution (16 babies) but are unable to do so, lab members will still be eligible for authorship. Alternative contributions may be requested by the Project Leads in these circumstances.
+-   If your lab will only be testing infants from a subset of the age range (e.g., 3-9 months), try to distribute participants across that range and make sure to inform the leadership team.
+
 
 ## Eligibility and Exclusions
 
@@ -31,17 +38,26 @@ You can use an online tool such as this [Age Calculator](https://www.calculator.
 
 Please determine participants’ eligibility on the phone prior to scheduling them in the ManyBabies study to avoid testing ineligible participants. Participants who participate in the study but are subsequently determined to be ineligible based on the criteria above should still be reported in the sample but clearly marked as 'ineligible' based on age or visual processing impairment (see @sec-datareporting for more info).
 
+
 ## First-session/second-session policy
 
 Some laboratories have the practice of testing babies in more than one study during the same visit.
 
--   ***‘First session’*** refers to babies tested soon upon arrival to the lab, prior to participating in any other studies.
--   ***‘Second session’*** refers to any testing that is done after the first session.
+-   ***‘First Session’*** refers to babies tested soon upon arrival to the lab, prior to participating in any other studies.
+-   ***‘Second Session’*** refers to any testing that is done after the first session.
 
-**Please contribute ‘first session’ babies when possible.** It is possible that second session babies will contribute worse/weaker/different data with respect to the larger goals of determining effect sizes.
+**Please contribute ‘First Session’ babies when possible.** It is possible that second session babies will contribute worse/weaker/different data with respect to the larger goals of determining effect sizes.
 
-**Label ‘second session’ babies** appropriately if infants were run in a different study on the same visit prior to their participation in MB5. Please also document the nature of the study run prior to MB5 for all ‘second session’ participants (e.g., “7 minute study of object categorization using eye-tracking”).
+**Label ‘Second Session’ babies** appropriately if infants were run in a different study on the same visit prior to their participation in MB5. Please also document the nature of the study run prior to MB5 for all ‘Second Session’ participants (e.g., “7 minute study of object categorization using eye-tracking”).
+
 
 ## Peeking and stopping rules
 
-In your initial commitment to a recruitment block (in the laboratory questionnaire), you will document your recruitment practices, your initial plan regarding how many babies you will run and of what type, as well as your stopping rule (e.g. stop when I reach the specified N, stop when the study data collection time ends). It is important to document any changes to your recruitment/stopping rule with a “protocol change form”. IMPORTANT: It is critical for the integrity of the data analysis that you NOT base any decisions about how many babies to run on the data being generated in your lab, or on the number of participant exclusions. Laboratories should stick with their original “stopping rule” - whether based on a number of participants or testing time frame. However, we recognize that this may not always be possible. In extraordinary circumstances, decisions about changes to the sample size and stopping rule must be made by someone who has not viewed the emerging data. You can look (if necessary, e.g. to support a student interim report) but you MUST NOT change your recruitment goals and strategy based on your view of the data. Doing this will compromise the goals of the project! If you change your recruitment based on the data, that invalidates the statistical inferences we want to make and introduces exactly the kinds of biases into the data that this project was designed to avoid. If your lab is running pre-specified pilot participants (e.g., to practice the procedure), you may make minor procedural adjustments during that period only.
+In your initial commitment to a recruitment block (in the laboratory questionnaire), you will document your recruitment practices, your initial plan regarding how many babies you will run and of what type, as well as your stopping rule (e.g., stop when I reach the specified N, stop when the study data collection time ends). It is important to document any changes to your recruitment/stopping rule with a submission of the {{< var link.issue >}}. 
+
+**IMPORTANT:** It is critical for the integrity of the data analysis that you NOT base any decisions about how many babies to run on 
+
+1. the data being generated in your lab, or 
+2. the number of participant exclusions. Laboratories should stick with their original “stopping rule”---whether based on a number of participants or testing time frame. 
+
+However, we recognize that this may not always be possible. In extraordinary circumstances, decisions about changes to the sample size and stopping rule must be made by someone who has NOT viewed the emerging data. You can look (if necessary, e.g., to support a student interim report) but you **MUST NOT change your recruitment goals and strategy based on your view of the data**. Doing this will compromise the goals of the project! If you change your recruitment based on the data, that invalidates the statistical inferences we want to make and introduces exactly the kinds of biases into the data that this project was designed to avoid. If your lab is running pre-specified pilot participants (e.g., to practice the procedure), you may make minor procedural adjustments during that period only.

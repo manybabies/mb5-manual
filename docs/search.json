@@ -99,7 +99,7 @@
     "href": "lab-overview.html",
     "title": "3  MB5 Lab Participation Overview",
     "section": "",
-    "text": "These are the steps that every data-collecting lab must follow to participate in MB5. This is just an overview of the process. More detail for each numbered item is available in the linked sections.\n\nBEFORE you do ANYTHING else:\n\nRead this manual start to finish\nRead the MB5 Collaboration Agreement MB5 Collaboration Agreement\nReview the information in the ManyBabies General Manual regarding ethical research, authorship, data sharing, and data use\nComplete the MB5 Sign-Up Form\n\n\n\nBEFORE you begin data collection:\n\nSet up the experiment in consultation with this lab manual (see Setting up the Experiment)\n\nCarefully record any needed deviations from the protocol using the MB5 Issue Tracking and Support Request Form\n\nSubmit the version of the demographics questionnaire your lab will be using (see Chapter 5), your lab’s ethics approval (see Chapter 6), and any other documentation/materials\nCreate and submit your walkthrough video (see Chapter 7)\nRun pilot sample through the Data Validator (see Chapter 8)\nSend email to mb5@manybabies.org to let the leadership team know that you are ready for “green-lighting”\nWAIT for your official “green-light” from the leadership team to begin data collection\n\n\nIMPORTANT: DO NOT BEGIN DATA COLLECTION (other than piloting) until you have been explicitly (and individually) given the “Green Light” to do so.\n\n\n\nData collection:\n\nCollect your data!\n\n\n\nAFTER you finish data collection:\n\nCompile your participant and trial data files in consultation with data reporting guidelines (see Chapter 17)\nVerify your data files using the ManyBabies Data Validator (see Chapter 8)\nSubmit your data using the MB5 Upload Form\nReport individual contributions using the MB Contribution Reporting Form",
+    "text": "These are the steps that every data-collecting lab must follow to participate in MB5. This is just an overview of the process. More detail for each numbered item is available in the linked sections.\n\nBEFORE you do ANYTHING else:\n\nRead this manual start to finish\nRead the MB5 Collaboration Agreement\nReview the information in the ManyBabies General Manual regarding ethical research, authorship, data sharing, and data use\nComplete the MB5 Sign-Up Form\n\n\n\nBEFORE you begin data collection:\n\nSet up the experiment in consultation with this lab manual (see Setting up the Experiment)\n\nCarefully record any needed deviations from the protocol using the MB5 Issue Tracking and Support Request Form\n\nSubmit the version of the demographics questionnaire your lab will be using (see Chapter 5), your lab’s ethics approval (see Chapter 6), and any other documentation/materials\nCreate and submit your walkthrough video (see Chapter 7)\nRun pilot sample through the ManyBabies Data Validator (see Chapter 8)\nSend email to mb5@manybabies.org to let the leadership team know that you are ready for “green-lighting”\nWAIT for your official “green-light” from the leadership team to begin data collection\n\n\nIMPORTANT: DO NOT BEGIN DATA COLLECTION (other than piloting) until you have been explicitly (and individually) given the “Green Light” to do so.\n\n\n\nData collection:\n\nCollect your data!\n\n\n\nAFTER you finish data collection:\n\nCompile your participant and trial data files in consultation with data reporting guidelines (see Chapter 17)\nVerify your data files using the ManyBabies Data Validator (see Chapter 8)\nSubmit your data using the MB5 Upload Form\nReport individual contributions using the MB Contribution Reporting Form",
     "crumbs": [
       "General information",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>MB5 Lab Participation Overview</span>"
@@ -108,11 +108,11 @@
   {
     "objectID": "getting-started.html",
     "href": "getting-started.html",
-    "title": "Getting Started",
+    "title": "Getting started",
     "section": "",
     "text": "This section covers some basic aspects of the project that you’ll need to know about BEFORE you set up and run the experiment. Use the arrows to continue to through the sections, or jump to a section using the links below.\n\n4  Green-lighting process\n5  Demographics Questionnaire\n6  Ethics approval\n7  Walkthrough Videos",
     "crumbs": [
-      "Getting Started"
+      "Getting started"
     ]
   },
   {
@@ -122,7 +122,7 @@
     "section": "",
     "text": "All labs must complete a series of preparation steps, referred to by MB as the “green-lighting” process, before collecting data for any ManyBabies project. These steps are outlined in the MB5 Lab Participation Overview list and in detail throughout the following sections of this manual, but in essence this involves:\n\nproviding required documentation (e.g., ethics approval, lab-specific Demographics Questionnaire)\ndemonstrating correct implementation of the testing procedure\nsubmitting a walkthrough video of the lab’s consent and testing procedure\nsucessfully running pilot data through the MB Data Validator\n\n\nIMPORTANT: DO NOT collect experimental data for MB5 until you have received a “green-light” from the MB5 Project Leads!",
     "crumbs": [
-      "Getting Started",
+      "Getting started",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Green-lighting process</span>"
     ]
   },
@@ -133,7 +133,7 @@
     "section": "",
     "text": "5.1 Collecting participant information\nPlease use the MB5 Demographics Questionnaire1 to collect information about the participant and their family. While parents/guardians can choose to not respond to individual questions, please check the form BEFORE THE RESPONDANT LEAVES YOUR LAB to avoid accidental blank responses.",
     "crumbs": [
-      "Getting Started",
+      "Getting started",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Demographics Questionnaire</span>"
     ]
   },
@@ -144,7 +144,7 @@
     "section": "",
     "text": "1 This questionnaire is adapted from the template(s) created by the MB-Demographics group. Please see Singh et al. (2024) for more information on the development of the template.\nAdaptations and translations\nAs noted in Singh et al. (2024), the questionnaire was developed to query information pertaining to six contructs (biographical information, gestational status, health status, community of descent, caregiving environment, and socioeconomic status). We have added a few additional questions that are of particular interest to MB5 (e.g., family history of colorblindness).\nWe recognize that the specific questions/response options on the example template (which was developed for use in the United States) are not appropriate for all contexts.\nWe encourage labs to adapt the questionnaire template as needed, while keeping in mind the goal of querying the same constructs included in the original template to ensure consistency in reporting. For example, the question on race/ethnicity can be adapted to meet the norms of your region. If possible, please use racial/ethnic categories taken from local census categories. For countries where it is not considered socially or legally acceptable to inquire about ethnic background, please adapt to a more appropriate question (e.g. parent and child place of birth), if possible. If you have any questions about adapting the questionnaire, please contact the leadership team to discuss your concerns. Let us know if any of the questions are unclear to you—it is important that you are able to answer any questions the participants may have. Translations/adaptations of the MB5 Demographics Questionnaire will be available here as they are created.2\n2 Translations/adaptations of the MB-Demographics template are available via the MB-Demographics OSF repository.",
     "crumbs": [
-      "Getting Started",
+      "Getting started",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Demographics Questionnaire</span>"
     ]
   },
@@ -155,7 +155,7 @@
     "section": "5.2 Uploading demographics questionnaire",
     "text": "5.2 Uploading demographics questionnaire\nAll labs must upload a blank copy of the Demographics Questionnaire they will be using for MB5 via the MB5 Upload Form (even if you are using the provided template with no modifications!).\nPlease ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g. babylabPrinceton_questionnaire.pdf). Check the list of LabIDs to confirm your lab’s unique LabID before uploading.\n\n\n\n\nSingh, L., Barokova, M. D., Baumgartner, H. A., Lopera-Perez, D. C., Omane, P. O., Sheskin, M., Yuen, F. L., Wu, Y., Alcock, K. J., Altmann, E. C., Bazhydai, M., Carstensen, A., Chan, K. C. J., Chuan-Peng, H., Dal Ben, R., Franchin, L., Kosie, J. E., Lew-Williams, C., Okocha, A., … Frank, M. C. (2024). A unified approach to demographic data collection for research with young children across diverse cultures. Developmental Psychology, 60. https://doi.org/10.1037/dev0001623",
     "crumbs": [
-      "Getting Started",
+      "Getting started",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Demographics Questionnaire</span>"
     ]
   },
@@ -166,7 +166,7 @@
     "section": "",
     "text": "6.1 Overview",
     "crumbs": [
-      "Getting Started",
+      "Getting started",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Ethics approval</span>"
     ]
   },
@@ -177,7 +177,7 @@
     "section": "",
     "text": "All data-collecting labs are required to obtain ethics approval from their local oversight board (e.g., IRB)1.\nAs this process can take time, it is a good idea to get started on your ethics approval application as soon as possible. Approvals must be in place and a copy submitted (via the process described below) before you can obtain a green light to collect data. Contact us if you need advice or help with obtaining ethics approval.\n\nIn some cases, labs will already have approval for MB5 under an “umbrella protocol” (i.e., a protocol that covers multiple studies in one lab). In these cases, the ethics form should still be uploaded as described below.\n\n\n1 If your lab/institution does not have a formal ethics oversight board, please refer to MB’s general ethics guidance and contact the Project Leads to confirm ethics compliance",
     "crumbs": [
-      "Getting Started",
+      "Getting started",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Ethics approval</span>"
     ]
   },
@@ -188,7 +188,7 @@
     "section": "6.2 Permission to collect/share demographic data",
     "text": "6.2 Permission to collect/share demographic data\nMB5 (like all ManyBabies projects) asks labs to collect a number of demographic background variables (e.g., gestational age, sex, parental education, community of descent) to be shared along with the main experimental data (after full de-identification is confirmed) (see Chapter 5 for more information). Not all of those variables are part of the main analysis. Even so, it is highly relevant to collect them for describing our sample, for follow-up and secondary analyses, and for checking the representativeness of the sample.\n\nPlease make sure you have permission to publicly share anonymized/de-identified raw data (including required demographic info), as this is a condition of participation.\nContact us if your ethics board raises concerns about collecting and/or sharing these data.",
     "crumbs": [
-      "Getting Started",
+      "Getting started",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Ethics approval</span>"
     ]
   },
@@ -199,7 +199,7 @@
     "section": "6.3 Permission to share video recordings",
     "text": "6.3 Permission to share video recordings\nWe strongly encourage labs (where possible) to store and share video recordings of their testing sessions on Databrary, which is a secure site created for this purpose. Databrary allows for different levels of privacy: fully private (available only to the uploading research group), shared only with Databrary-approved researchers, or fully open. Storing/sharing videos via Databrary requires the following:\n\nYou will need to ensure that you have ethics approval in place to upload and/or share recordings, and\nYou will need to collect specific consent for this purpose from your participants’ parents/guardians.\nYou will need to become a member of Databrary, which requires approval from your institution, so it’s helpful to start this process early. You can begin the registration process for Databrary here.\n\nWe are aware that many laboratories, particularly those based in the region governed by GDPR, may not be allowed to use Databrary. In these circumstances we encourage labs to use alternative methods for sharing their videos where possible.",
     "crumbs": [
-      "Getting Started",
+      "Getting started",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Ethics approval</span>"
     ]
   },
@@ -210,7 +210,7 @@
     "section": "6.4 Uploading ethics approval documentation",
     "text": "6.4 Uploading ethics approval documentation\nEthics documentation (e.g., proof of IRB approval) must be submitted prior to data collection via the MB5 Upload Form.\nPlease ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g. babylabPrinceton_ethics.pdf). Check the list of LabIDs to confirm your lab’s unique LabID before uploading.",
     "crumbs": [
-      "Getting Started",
+      "Getting started",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Ethics approval</span>"
     ]
   },
@@ -221,7 +221,7 @@
     "section": "",
     "text": "7.1 Purpose\nOnce the experiment is set up and people involved in data collection are trained, and BEFORE beginning data collection, we ask that you document how you run the MB5 study in your lab by creating a “Walkthrough” video.1\nEven if you already provided a video for another ManyBabies project, a new video specifically showing how you run the MB5 project is requested.\nThe purpose walkthrough videos is two-fold:\nPlease rest assured that these videos will NOT be used by ManyBabies to critique individual researchers’ laboratory policies and procedures. This project is a community effort!",
     "crumbs": [
-      "Getting Started",
+      "Getting started",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Walkthrough Videos</span>"
     ]
   },
@@ -232,7 +232,7 @@
     "section": "",
     "text": "Given the ManyBabies Consortium’s commitment to Open Science, we would like to have a full and accurate record of how the study was implemented in each laboratory.\nOne of the goals of ManyBabies is to study how methodological variation affects experimental outcomes in infant research. This video record may be used for analyses examining whether laboratories with different characteristics and procedures (e.g., larger or smaller test booths, white or black walls) differ in the effect size obtained in ManyBabies projects.",
     "crumbs": [
-      "Getting Started",
+      "Getting started",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Walkthrough Videos</span>"
     ]
   },
@@ -243,7 +243,7 @@
     "section": "7.2 Method",
     "text": "7.2 Method\nThere are two possibilities to create a video documenting your process:\n\nFilming a (preferably pilot) session with a participant (with parental approval and permission from your local ethics board). Please make sure you have permission to share this video fully publicly!!\nAsking a colleague to “play” parent and using a dummy (e.g., a doll) as a baby stand-in.\n\nIF YOUR FINAL VERSION IS NOT READY FOR PRIME TIME, FEAR NOT. The goal is to be informative, not flawless—it can have starts, stops, and disfluency.",
     "crumbs": [
-      "Getting Started",
+      "Getting started",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Walkthrough Videos</span>"
     ]
   },
@@ -254,7 +254,7 @@
     "section": "7.3 Consent",
     "text": "7.3 Consent\nNote that we plan to share the videos among the consortium via Databrary, our website, and/or YouTube. There should be no assumption of privacy, and no confidential or otherwise sensitive information should be included in the videos. Be sure that parental consent covers all these options when filming participants.",
     "crumbs": [
-      "Getting Started",
+      "Getting started",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Walkthrough Videos</span>"
     ]
   },
@@ -265,7 +265,7 @@
     "section": "7.4 Sequence",
     "text": "7.4 Sequence\nMake sure your video covers the following components. We added questions you should answer for each step. It is not necessary to narrate your video (you can if you want); a silent observer is sufficient, but be sure to cover all details requested below. If your lab language is not English, we might add subtitles later on.\n\nGreeting\n\nWhere do you receive families? (Dedicated area, parking lot, general entrance)\nWho is there? (Parents, colleagues, assistants)\nWhat do you say and ask them? (Example: Do you check when the baby last ate/slept?)\nWhat do you do if a baby arrives asleep or fussy?\n\n\n\nConsenting, instructions\n\nWhat is your informed consenting process like? How do parents give consent? When do you typically obtain consent?\nHow detailed do you explain the procedure and aim of the study?\nWhat instructions do you give to the parents? Are there any specific instructions on how to behave, sit, hold the baby, etc?\n\n\n\nQuestionnaire(s)\n\nAt what point do you hand out/collect questionnaires (e.g., pre- or post-experiment)?\nDo you give any additional instructions for the questionnaire other than those listed on the form(s)?\n\n\n\nExperiment\n\nWhat does your testing room/booth look like (size, lay-out, etc.)? Try to film the entrance and complete interior of the test booth or room.\nWhere is the baby sitting (e.g., parent’s lap, high chair, etc.)? Film the seating arrangement before the baby is seating and with the baby.\nWhat does the stimulus display look like (size, distance to baby)? Where is the screen located?\nWhere is the experimenter located during testing (e.g., inside or outside the booth)? Show where the experimenter is sitting; if it is in the same room, capture both baby and experimenter.\nCan the baby see the experimenter during testing? How does the experimenter see the baby (e.g.,videofeed)?\nHow is the experimenter blinded to trial type during testing?\nHow is the parent blinded during testing (blacked-out glasses or something similar)?\nIf live-coding takes place: Show examples of what counts as a look/no look and/or videotape someone doing the coding together with the infant looks.\n\n\n\nDebrief after experiment\n\nWhat do you tell parents at the end of a study?\nAre there standard questions you ask them?",
     "crumbs": [
-      "Getting Started",
+      "Getting started",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Walkthrough Videos</span>"
     ]
   },
@@ -276,7 +276,7 @@
     "section": "7.5 Upload your walkthrough video",
     "text": "7.5 Upload your walkthrough video\n\nUpload your walkthrough video here\n\nPlease ensure that your video is clearly labeled in the file name with your LabID (e.g. babylabPrinceton_walkthrough.mpg).\nYou are welcome to view videos that have already been uploaded by other labs as examples (note that these videos might not have been reviewed yet by project leads for completeness)\nWalkthrough videos from MB1 are available on Databrary",
     "crumbs": [
-      "Getting Started",
+      "Getting started",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Walkthrough Videos</span>"
     ]
   },
@@ -295,18 +295,29 @@
     "href": "participants.html",
     "title": "9  Participants and recruitment",
     "section": "",
-    "text": "9.1 Age and sample size\nWhile we encourage as much participation as you can spare, it is crucial to the success of the project that you treat our study with the same care as you would any other study in your lab with respect to recruitment procedures, timing of data collection, and RAs/RA training. Please do not commit to providing data to ManyBabies if this level of care is not possible.\nThe expected lab contribution is a full sample of 32 babies (preferred, if possible) or a half sample of 16 babies (minimum).",
+    "text": "9.1 Sample size\nThe expected lab contribution is a full sample of 32 babies (preferred, if possible) or a half sample of 16 babies (minimum).\nWhile we encourage as much participation as you can spare, it is crucial to the success of the project that you treat our study with the same care as you would any other study in your lab with respect to recruitment procedures, timing of data collection, and RAs/RA training. Please do not commit to providing data to ManyBabies if this level of care is not possible.",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Participants and recruitment</span>"
     ]
   },
   {
-    "objectID": "participants.html#age-and-sample-size",
-    "href": "participants.html#age-and-sample-size",
+    "objectID": "participants.html#sample-size",
+    "href": "participants.html#sample-size",
     "title": "9  Participants and recruitment",
     "section": "",
-    "text": "Minimum age: 3 months, 0 days\n\n\nMaximum age: 15 months, 0 days\n\nFor example, on a testing date of 2025-04-15, eligible infants would have birthdays on or between 2024-01-15 and 2025-01-15.\n\nYou can use an online tool such as this Age Calculator to use the infant’s date of birth and testing date to determine eligibility and calculate age in days, which is the required format for age reporting. \n\n\nNotes about age and sample size:\n\nTry to distribute participants across the full range of ages, if possible.\nA lab’s sample size contribution includes any infant who enters the laboratory, even if they are eventually excluded (e.g., due to fussiness, experimenter error, too young or too old, etc.).\nIn situations where labs intend to collect the minimum contribution (16 babies) but are unable to do so, lab members will still be eligible for authorship. Alternative contributions may be requested by the Project Leads in these circumstances.",
+    "text": "Notes about sample size:\n\nA lab’s sample size contribution includes any infant who enters the laboratory, even if they are eventually excluded (e.g., due to fussiness, experimenter error, too young or too old, etc.).\nIn situations where labs intend to collect the minimum contribution (16 babies) but are unable to do so, lab members will still be eligible for authorship. Additional contributions may be requested by the Project Leads in these circumstances.",
+    "crumbs": [
+      "Setting up the experiment",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Participants and recruitment</span>"
+    ]
+  },
+  {
+    "objectID": "participants.html#age-of-participants",
+    "href": "participants.html#age-of-participants",
+    "title": "9  Participants and recruitment",
+    "section": "9.2 Age of participants",
+    "text": "9.2 Age of participants\n\nMinimum age: 3 months, 0 days\n\n\nMaximum age: 15 months, 0 days\nYou can use an online tool such as this Age Calculator to use an infant’s date of birth and testing date to calculate age in days, which is the required format for age reporting.\n\nFor example, on a testing date of 2025-04-15, eligible infants would have birthdays on or between 2024-01-15 and 2025-01-15.\n\n\nNotes about age:\n\nTry to distribute participants across the full range of ages, if possible.\nIf your lab will only be testing infants from a subset of the age range (e.g., 3-9 months), try to distribute participants across that range and make sure to inform the leadership team.",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Participants and recruitment</span>"
@@ -316,8 +327,8 @@
     "objectID": "participants.html#eligibility-and-exclusions",
     "href": "participants.html#eligibility-and-exclusions",
     "title": "9  Participants and recruitment",
-    "section": "9.2 Eligibility and Exclusions",
-    "text": "9.2 Eligibility and Exclusions\n\nThe only requirements for inclusion in MB5 are:\n\nAge: the infant’s age falls within the 3- to 15-month age range\nNo known visual processing impairment: the infant has no known issues that would directly impede their ability to process visual stimuli\n\nInfants with other characteristics that are commonly used as exclusion criteria in developmental studies (e.g., hearing impairment, premature birth, bilingual, etc.) can be included in the sample. Note that the inclusion criteria for MB5 are much more inclusive than typical in-lab studies.\nPlease determine participants’ eligibility on the phone prior to scheduling them in the ManyBabies study to avoid testing ineligible participants. Participants who participate in the study but are subsequently determined to be ineligible based on the criteria above should still be reported in the sample but clearly marked as ‘ineligible’ based on age or visual processing impairment (see Chapter 17 for more info).",
+    "section": "9.3 Eligibility and Exclusions",
+    "text": "9.3 Eligibility and Exclusions\n\nThe only requirements for inclusion in MB5 are:\n\nAge: the infant’s age falls within the 3- to 15-month age range\nNo known visual processing impairment: the infant has no known issues that would directly impede their ability to process visual stimuli\n\nInfants with other characteristics that are commonly used as exclusion criteria in developmental studies (e.g., hearing impairment, premature birth, bilingual, etc.) can be included in the sample. Note that the inclusion criteria for MB5 are much more inclusive than typical in-lab studies.\nPlease determine participants’ eligibility on the phone prior to scheduling them in the ManyBabies study to avoid testing ineligible participants. Participants who participate in the study but are subsequently determined to be ineligible based on the criteria above should still be reported in the sample but clearly marked as ‘ineligible’ based on age or visual processing impairment (see Chapter 17 for more info).",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Participants and recruitment</span>"
@@ -327,8 +338,8 @@
     "objectID": "participants.html#first-sessionsecond-session-policy",
     "href": "participants.html#first-sessionsecond-session-policy",
     "title": "9  Participants and recruitment",
-    "section": "9.3 First-session/second-session policy",
-    "text": "9.3 First-session/second-session policy\nSome laboratories have the practice of testing babies in more than one study during the same visit.\n\n‘First session’ refers to babies tested soon upon arrival to the lab, prior to participating in any other studies.\n‘Second session’ refers to any testing that is done after the first session.\n\nPlease contribute ‘first session’ babies when possible. It is possible that second session babies will contribute worse/weaker/different data with respect to the larger goals of determining effect sizes.\nLabel ‘second session’ babies appropriately if infants were run in a different study on the same visit prior to their participation in MB5. Please also document the nature of the study run prior to MB5 for all ‘second session’ participants (e.g., “7 minute study of object categorization using eye-tracking”).",
+    "section": "9.4 First-session/second-session policy",
+    "text": "9.4 First-session/second-session policy\nSome laboratories have the practice of testing babies in more than one study during the same visit.\n\n‘First Session’ refers to babies tested soon upon arrival to the lab, prior to participating in any other studies.\n‘Second Session’ refers to any testing that is done after the first session.\n\nPlease contribute ‘First Session’ babies when possible. It is possible that second session babies will contribute worse/weaker/different data with respect to the larger goals of determining effect sizes.\nLabel ‘Second Session’ babies appropriately if infants were run in a different study on the same visit prior to their participation in MB5. Please also document the nature of the study run prior to MB5 for all ‘Second Session’ participants (e.g., “7 minute study of object categorization using eye-tracking”).",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Participants and recruitment</span>"
@@ -338,8 +349,8 @@
     "objectID": "participants.html#peeking-and-stopping-rules",
     "href": "participants.html#peeking-and-stopping-rules",
     "title": "9  Participants and recruitment",
-    "section": "9.4 Peeking and stopping rules",
-    "text": "9.4 Peeking and stopping rules\nIn your initial commitment to a recruitment block (in the laboratory questionnaire), you will document your recruitment practices, your initial plan regarding how many babies you will run and of what type, as well as your stopping rule (e.g. stop when I reach the specified N, stop when the study data collection time ends). It is important to document any changes to your recruitment/stopping rule with a “protocol change form”. IMPORTANT: It is critical for the integrity of the data analysis that you NOT base any decisions about how many babies to run on the data being generated in your lab, or on the number of participant exclusions. Laboratories should stick with their original “stopping rule” - whether based on a number of participants or testing time frame. However, we recognize that this may not always be possible. In extraordinary circumstances, decisions about changes to the sample size and stopping rule must be made by someone who has not viewed the emerging data. You can look (if necessary, e.g. to support a student interim report) but you MUST NOT change your recruitment goals and strategy based on your view of the data. Doing this will compromise the goals of the project! If you change your recruitment based on the data, that invalidates the statistical inferences we want to make and introduces exactly the kinds of biases into the data that this project was designed to avoid. If your lab is running pre-specified pilot participants (e.g., to practice the procedure), you may make minor procedural adjustments during that period only.",
+    "section": "9.5 Peeking and stopping rules",
+    "text": "9.5 Peeking and stopping rules\nIn your initial commitment to a recruitment block (in the laboratory questionnaire), you will document your recruitment practices, your initial plan regarding how many babies you will run and of what type, as well as your stopping rule (e.g., stop when I reach the specified N, stop when the study data collection time ends). It is important to document any changes to your recruitment/stopping rule with a submission of the MB5 Issue Tracking and Support Request Form.\nIMPORTANT: It is critical for the integrity of the data analysis that you NOT base any decisions about how many babies to run on\n\nthe data being generated in your lab, or\nthe number of participant exclusions. Laboratories should stick with their original “stopping rule”—whether based on a number of participants or testing time frame.\n\nHowever, we recognize that this may not always be possible. In extraordinary circumstances, decisions about changes to the sample size and stopping rule must be made by someone who has NOT viewed the emerging data. You can look (if necessary, e.g., to support a student interim report) but you MUST NOT change your recruitment goals and strategy based on your view of the data. Doing this will compromise the goals of the project! If you change your recruitment based on the data, that invalidates the statistical inferences we want to make and introduces exactly the kinds of biases into the data that this project was designed to avoid. If your lab is running pre-specified pilot participants (e.g., to practice the procedure), you may make minor procedural adjustments during that period only.",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Participants and recruitment</span>"
@@ -350,7 +361,7 @@
     "href": "stimuli.html",
     "title": "10  Stimuli",
     "section": "",
-    "text": "10.1 Overview\nBecause the sample size possible in ManyBabies projects provides a unique opportunity to test generalizability across multiple stimulus types, we chose two different categories of stimuli: Fribbuli1 and Fractals. These two classes of stimuli were chosen because: (1) they allow for variation in stimulus complexity within the same stimulus category (i.e., by manipulating the number of features); (2) infants are unlikely to have previous experience with either set of stimuli; and (3) the inclusion of two stimulus sets allow us to begin examining the generalizability of any observed effect.\nWe created 12 unique Fribbuli and 12 unique Fractals, operationalizing complexity as the number of features present (these features are appendages in the case of Fribbuli and iterations of the same structure for Fractals; see Figure 3). Within each stimulus type, 6 items were designed to be low-complexity and 6 were designed to be high-complexity",
+    "text": "10.1 Overview\nBecause the sample size possible in ManyBabies projects provides a unique opportunity to test generalizability across multiple stimulus types, we chose two different categories of stimuli: Fribbuli1 and Fractals. These two classes of stimuli were chosen because: (1) they allow for variation in stimulus complexity within the same stimulus category (i.e., by manipulating the number of features); (2) infants are unlikely to have previous experience with either set of stimuli; and (3) the inclusion of two stimulus sets allow us to begin examining the generalizability of any observed effect.\nWe created 12 unique Fribbuli and 12 unique Fractals, operationalizing complexity as the number of features present (these features are appendages in the case of Fribbuli and iterations of the same structure for Fractals; see Figure 3). Within each stimulus type, 6 items were designed to be low-complexity and 6 were designed to be high-complexity.",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Stimuli</span>"

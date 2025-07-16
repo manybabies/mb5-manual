@@ -5,7 +5,7 @@ These are the steps that every data-collecting lab must follow to participate in
 ### BEFORE you do ANYTHING else: 
 
 (@)  <b>Read this manual start to finish</b> 
-(@)  Read the [MB5 Collaboration Agreement](#sec-collaboration) {{< var link.collaboration >}}</a>
+(@)  Read the {{< var link.collaboration >}}
 (@) Review the information in the {{< var link.generalmanual >}} regarding <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.22i70rxou3ha" target="_blank">ethical research</a>, <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.9ty2g48mpe0t" target="_blank">authorship</a>, <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.aunbjkpwxhf3" target="_blank">data sharing</a>, and <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.6h67zsyeiveg" target="_blank">data use</a>
 (@)  **Complete the {{< var link.signup >}}**
 
@@ -15,7 +15,7 @@ These are the steps that every data-collecting lab must follow to participate in
     i) Carefully record any needed deviations from the protocol using the {{< var link.issue >}}
 (@)  Submit the version of the **demographics questionnaire** your lab will be using (see @sec-demographics), your lab's **ethics approval** (see @sec-ethics), and any other documentation/materials
 (@)  Create and submit your **walkthrough video** (see @sec-walkthrough)
-(@)  Run pilot sample through the <a href="https://manybabies.org/validator/" target="_blank"><b>Data Validator</b></a> (see @sec-validation)
+(@)  Run pilot sample through the {{< var link.validator >}} (see @sec-validation)
 (@)  Send email to {{< var email.support >}} to let the leadership team know that you are ready for “green-lighting”
 (@) **WAIT for your official “green-light”** from the leadership team to begin data collection
 
