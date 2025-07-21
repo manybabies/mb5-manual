@@ -12,9 +12,10 @@ Because the sample size possible in ManyBabies projects provides a unique opport
 -   infants are unlikely to have previous experience with either set of stimuli
 -   the inclusion of two stimulus sets allow us to begin examining the generalizability of any observed effect
 
-We created 12 unique Fribbuli and 12 unique Fractals. Within each stimulus type, 6 items were designed to be *low-complexity* and 6 were designed to be *high-complexity*. 
+We created 12 unique Fribbuli and 12 unique Fractals. Within each stimulus type, 6 items were designed to be *low-complexity* and 6 were designed to be *high-complexity*. ***Complexity*** is operationalized as the number of features present (these features are appendages in the case of Fribbuli and iterations of the same structure for Fractals; see FIGURE[^stimuli-todo]). 
 
-*Complexity* is operationalized as the number of features present (these features are appendages in the case of Fribbuli and iterations of the same structure for Fractals; see Figure 3). 
+[^stimuli-todo]: MAKE FIGURE WITH HIGH AND LOX COMPLEXITY STIMULI
+
 
 ### ManyFribbuli[^stimuli-2]
 
