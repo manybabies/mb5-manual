@@ -18,7 +18,7 @@ We created 12 unique Fribbuli and 12 unique Fractals. Within each stimulus type,
 
 ```{=html}
 <table>
-  <caption><span data-qmd="Caption filler"></span></caption>
+  <caption><span data-qmd="MB5 stimuli"></span></caption>
   <thead>
     <tr>
       <th></th>
@@ -28,7 +28,7 @@ We created 12 unique Fribbuli and 12 unique Fractals. Within each stimulus type,
   </thead>
   <tbody>
     <tr>
-        <td rowspan="4"><b><i>Fribbuli</i></b></td><td><img src="images/fribbuli-low.png" height="50"/></img></td><td><img src="images/fribbuli-low.png" height="50"/></img></td><td><img src="images/fribbuli-low.png" height="50"/></img></td><td><img src="images/fribbuli-high.png" height="50"/></img></td><td><img src="images/fribbuli-high.png" height="50"/></img></td><td><img src="images/fribbuli-high.png" height="50"/></img></td>
+        <td rowspan="4"><b><i>ManyFribbuli</i></b></td><td><img src="images/fribbuli-low.png" height="50"/></img></td><td><img src="images/fribbuli-low.png" height="50"/></img></td><td><img src="images/fribbuli-low.png" height="50"/></img></td><td><img src="images/fribbuli-high.png" height="50"/></img></td><td><img src="images/fribbuli-high.png" height="50"/></img></td><td><img src="images/fribbuli-high.png" height="50"/></img></td>
     </tr>
     <tr>
         <td><img src="images/fribbuli-low.png" height="50"/></img></td><td><img src="images/fribbuli-low.png" height="50"/></img></td><td><img src="images/fribbuli-low.png" height="50"/></img></td><td><img src="images/fribbuli-high.png" height="50"/></img></td><td><img src="images/fribbuli-high.png" height="50"/></img></td><td><img src="images/fribbuli-high.png" height="50"/></img></td>
@@ -40,7 +40,7 @@ We created 12 unique Fribbuli and 12 unique Fractals. Within each stimulus type,
         <td><img src="images/fribbuli-low.png" height="50"/></img></td><td><img src="images/fribbuli-low.png" height="50"/></img></td><td><img src="images/fribbuli-low.png" height="50"/></img></td><td><img src="images/fribbuli-high.png" height="50"/></img></td><td><img src="images/fribbuli-high.png" height="50"/></img></td><td><img src="images/fribbuli-high.png" height="50"/></img></td>
     </tr>
     <tr>
-        <td rowspan="4"><b><i>Fractals</i></b></td><td><img src="images/fractal-low.png" height="50"/></img></td><td><img src="images/fractal-low.png" height="50"/></img></td><td><img src="images/fractal-low.png" height="50"/></img></td><td><img src="images/fractal-high.png" height="50"/></img></td><td><img src="images/fractal-high.png" height="50"/></img></td><td><img src="images/fractal-high.png" height="50"/></img></td>
+        <td rowspan="4"><b><i>ManyFractals</i></b></td><td><img src="images/fractal-low.png" height="50"/></img></td><td><img src="images/fractal-low.png" height="50"/></img></td><td><img src="images/fractal-low.png" height="50"/></img></td><td><img src="images/fractal-high.png" height="50"/></img></td><td><img src="images/fractal-high.png" height="50"/></img></td><td><img src="images/fractal-high.png" height="50"/></img></td>
     </tr>
     <tr>
         <td><img src="images/fractal-low.png" height="50"/></img></td><td><img src="images/fractal-low.png" height="50"/></img></td><td><img src="images/fractal-low.png" height="50"/></img></td><td><img src="images/fractal-high.png" height="50"/></img></td><td><img src="images/fractal-high.png" height="50"/></img></td><td><img src="images/fractal-high.png" height="50"/></img></td>
