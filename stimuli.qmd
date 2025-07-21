@@ -12,32 +12,51 @@ Because the sample size possible in ManyBabies projects provides a unique opport
 -   infants are unlikely to have previous experience with either set of stimuli
 -   the inclusion of two stimulus sets allow us to begin examining the generalizability of any observed effect
 
-We created 12 unique Fribbuli and 12 unique Fractals. Within each stimulus type, 6 items were designed to be *low-complexity* and 6 were designed to be *high-complexity*. ***Complexity*** is operationalized as the number of features present (these features are appendages in the case of Fribbuli and iterations of the same structure for Fractals; see FIGURE[^stimuli-2]).
+We created 12 unique Fribbuli and 12 unique Fractals. Within each stimulus type, 6 items were designed to be *low-complexity* and 6 were designed to be *high-complexity*. ***Complexity*** is operationalized as the number of features present (these features are appendages in the case of Fribbuli and iterations of the same structure for Fractals; see @tbl-stimuli[^stimuli-2]).
 
-[^stimuli-2]: MAKE FIGURE WITH HIGH AND LOX COMPLEXITY STIMULI
+[^stimuli-2]: FIGURE OUT HOW TO LINK TO HTML TABLE and replace with actual images
 
 ```{=html}
 <table>
+  <caption><span data-qmd="Caption filler"></span></caption>
+  <thead>
     <tr>
-        <td></td><td colspan="3">Low-complexity</td><td colspan="3">High-complexity</td>
+      <th></th>
+      <th colspan="3"><span data-qmd="_Low-complexity_"></span></th>
+      <th colspan="3"><span data-qmd="_High-complexity_"></span></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td rowspan="4"><b><i>Fribbuli</i></b></td><td><img src="images/fribbuli-low.png" height="50"/></img></td><td><img src="images/fribbuli-low.png" height="50"/></img></td><td><img src="images/fribbuli-low.png" height="50"/></img></td><td><img src="images/fribbuli-high.png" height="50"/></img></td><td><img src="images/fribbuli-high.png" height="50"/></img></td><td><img src="images/fribbuli-high.png" height="50"/></img></td>
     </tr>
     <tr>
-        <td rowspan="2">Fribbuli</td><td><img src="images/fribbuli-low.png" height="50"/></img></td><td><img src="images/fribbuli-low.png" height="50"/></img></td><td><img src="images/fribbuli-low.png" height="50"/></img></td><td><img src="images/fribbuli-low.png" height="50"/></img></td><td><img src="images/fribbuli-low.png" height="50"/></img></td><td><img src="images/fribbuli-low.png" height="50"/></img></td>
+        <td><img src="images/fribbuli-low.png" height="50"/></img></td><td><img src="images/fribbuli-low.png" height="50"/></img></td><td><img src="images/fribbuli-low.png" height="50"/></img></td><td><img src="images/fribbuli-high.png" height="50"/></img></td><td><img src="images/fribbuli-high.png" height="50"/></img></td><td><img src="images/fribbuli-high.png" height="50"/></img></td>
     </tr>
     <tr>
-        <td><img src="images/fribbuli-high.png" height="50"/></img></td><td><img src="images/fribbuli-high.png" height="50"/></img></td><td><img src="images/fribbuli-high.png" height="50"/></img></td><td><img src="images/fribbuli-high.png" height="50"/></img></td><td><img src="images/fribbuli-high.png" height="50"/></img></td><td><img src="images/fribbuli-high.png" height="50"/></img></td>
+        <td><img src="images/fribbuli-low.png" height="50"/></img></td><td><img src="images/fribbuli-low.png" height="50"/></img></td><td><img src="images/fribbuli-low.png" height="50"/></img></td><td><img src="images/fribbuli-high.png" height="50"/></img></td><td><img src="images/fribbuli-high.png" height="50"/></img></td><td><img src="images/fribbuli-high.png" height="50"/></img></td>
     </tr>
     <tr>
-        <td rowspan="2">Fractals</td><td><img src="images/fractal-low.png" height="50"/></img></td><td><img src="images/fractal-low.png" height="50"/></img></td><td><img src="images/fractal-low.png" height="50"/></img></td><td><img src="images/fractal-high.png" height="50"/></img></td><td><img src="images/fractal-high.png" height="50"/></img></td><td><img src="images/fractal-high.png" height="50"/></img></td>
+        <td><img src="images/fribbuli-low.png" height="50"/></img></td><td><img src="images/fribbuli-low.png" height="50"/></img></td><td><img src="images/fribbuli-low.png" height="50"/></img></td><td><img src="images/fribbuli-high.png" height="50"/></img></td><td><img src="images/fribbuli-high.png" height="50"/></img></td><td><img src="images/fribbuli-high.png" height="50"/></img></td>
+    </tr>
+    <tr>
+        <td rowspan="4"><b><i>Fractals</i></b></td><td><img src="images/fractal-low.png" height="50"/></img></td><td><img src="images/fractal-low.png" height="50"/></img></td><td><img src="images/fractal-low.png" height="50"/></img></td><td><img src="images/fractal-high.png" height="50"/></img></td><td><img src="images/fractal-high.png" height="50"/></img></td><td><img src="images/fractal-high.png" height="50"/></img></td>
     </tr>
     <tr>
         <td><img src="images/fractal-low.png" height="50"/></img></td><td><img src="images/fractal-low.png" height="50"/></img></td><td><img src="images/fractal-low.png" height="50"/></img></td><td><img src="images/fractal-high.png" height="50"/></img></td><td><img src="images/fractal-high.png" height="50"/></img></td><td><img src="images/fractal-high.png" height="50"/></img></td>
     </tr>
+    <tr>
+        <td><img src="images/fractal-low.png" height="50"/></img></td><td><img src="images/fractal-low.png" height="50"/></img></td><td><img src="images/fractal-low.png" height="50"/></img></td><td><img src="images/fractal-high.png" height="50"/></img></td><td><img src="images/fractal-high.png" height="50"/></img></td><td><img src="images/fractal-high.png" height="50"/></img></td>
+    </tr>
+    <tr>
+        <td><img src="images/fractal-low.png" height="50"/></img></td><td><img src="images/fractal-low.png" height="50"/></img></td><td><img src="images/fractal-low.png" height="50"/></img></td><td><img src="images/fractal-high.png" height="50"/></img></td><td><img src="images/fractal-high.png" height="50"/></img></td><td><img src="images/fractal-high.png" height="50"/></img></td>
+    </tr>
+  </tbody>
 </table>
 
 ```
 
-: Familarization events *(Note: Order of events will be counterbalanced across pariticipants)* {#tbl-familiarization}
+
 
 
 ### ManyFribbuli[^stimuli-3]
