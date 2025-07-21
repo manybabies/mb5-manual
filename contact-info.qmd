@@ -28,7 +28,7 @@
 
 -   **MB5 Lab Manual** (this document): {{< var link.manual >}}
 
--   **MB5 collaboration agreement**: {{< var link.collaboration >}} *(note: the MB5 collaboration agreement can also be found in the Appendix of this manual)*
+-   **MB5 collaboration agreement**: {{< var link.collaboration >}} *(note: the MB5 collaboration agreement can also be found in the Appendix of this manual, see @sec-collaboration)*
 
 -   **To report issues (e.g., with data collection, deviations from protocol, etc.) or to request support:** {{< var link.issue >}}
 

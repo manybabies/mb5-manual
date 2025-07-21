@@ -1,8 +1,8 @@
-# Collaboration Agreement {@sec-collaboration}
+# Collaboration Agreement
 
 <br>
 
-# ManyBabies 5 Collaboration Agreement {.unnumbered}
+# ManyBabies 5 Collaboration Agreement {#sec-collaboration .unnumbered}
 
 This agreement describes how work on the {{< var link.mb5dotorg >}} project will be structured and credited. The purpose of this agreement is to clarify contributor roles and expectations in the interest of transparency.
 
