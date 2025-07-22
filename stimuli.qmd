@@ -16,8 +16,23 @@ We created 12 unique Fribbuli and 12 unique Fractals. Within each stimulus type,
 
 [^stimuli-2]: FIGURE OUT HOW TO LINK TO HTML TABLE and replace with actual images
 
+### ManyFribbuli[^stimuli-3]
+
+[^stimuli-3]: We're calling our custom sets of stimuli "ManyFribbuli" and "ManyFractals" because... well, it's fun.
+
+Fribbuli are colorful, computer-generated models of 3D figures. All Fribbuli are made up of one of twelve possible body shapes and one (low-complexity) or four (high-complexity) appendages.
+
+
+**ADD MORE INFO ABOUT COLOR SELECTION, SIZING, ETC**
+
+### ManyFractals
+
+Fractals are geometric shapes in which the same structure is repeated iteratively at different levels of scale.
+
+**ADD MORE INFO ABOUT FRACTAL GENERATION**
+
 ```{=html}
-<table>
+<table id="tbl-stimuli">
   <caption><span data-qmd="MB5 stimuli"></span></caption>
   <thead>
     <tr>
@@ -59,20 +74,7 @@ We created 12 unique Fribbuli and 12 unique Fractals. Within each stimulus type,
 
 
 
-### ManyFribbuli[^stimuli-3]
 
-[^stimuli-3]: We're calling our custom sets of stimuli "ManyFribbuli" and "ManyFractals" because... well, it's fun.
-
-Fribbuli are colorful, computer-generated models of 3D figures. All Fribbuli are made up of one of twelve possible body shapes and one (low-complexity) or four (high-complexity) appendages.
-
-
-**ADD MORE INFO ABOUT COLOR SELECTION, SIZING, ETC**
-
-### ManyFractals
-
-Fractals are geometric shapes in which the same structure is repeated iteratively at different levels of scale.
-
-**ADD MORE INFO ABOUT FRACTAL GENERATION**
 
 ### Attention-getter stimuli
 
