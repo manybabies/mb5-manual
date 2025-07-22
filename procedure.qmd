@@ -6,7 +6,7 @@
 
 During the experiment, infants will be seated on their caregiver’s lap or in a high-chair or car seat (whichever option corresponds to a lab's standard procedure for testing infants, as reported in the pre-data-collection survey).
 
-Each baby will be presented with a series of 12 trials. Each trial is preceded by an attention-getter and made up of a **familiarization phase** followed by the **test phase**.
+Each baby will be presented with a series of 12 trials. Each trial is preceded by an attention-getter and made up of a **familiarization phase** followed by the **test phase** (see @fig-trial).
 
 #### There are two versions of the experiment:[^procedure-1]
 
@@ -22,6 +22,7 @@ Each baby will be presented with a series of 12 trials. Each trial is preceded b
 ## Trial initiation
 
 This phase draws infants’ attention (back) to the screen prior to the familiarization using the “laughing baby” stimulus. The trial is initiated when the infant fixates the screen (or a maximum of 10s has elapsed).
+
 
 ## Familiarization Phase {#sec-famphase}
 
@@ -63,4 +64,6 @@ The **test phase** is made up of **two 5s test periods**. In each **test period*
 [^procedure-3]: The *novel* object on each trial will be from the same stimulus class (*Fribbuli* or *Fractals*) and complexity level (*low* or *high*) as the *familiar* object.
 
 [^procedure-4]: The attention-getter between test periods will be presented for either 750ms (Fixed-length procedure) or until the infant looks at the attention-getter for 500ms (Infant-controlled procedure)
+
+
 
