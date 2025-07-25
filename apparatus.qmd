@@ -6,10 +6,8 @@ The minimal equipment required to run this experiment is:
 
 -   Computer running experiment software (see below)
 -   Monitor/television for stimulus display
--   Camera for capturing infant looking behavior[^apparatus-1]
+-   Camera for capturing infant looking behavior^[This can be a scene view embedded in an eye tracker.]
 -   Mixer for syncing recording of infant with stimulus timing (or other method for doing so)
-
-[^apparatus-1]: not needed if infant's face is captured by eye tracker
 
 Addional (optional) equipment:
 
@@ -18,10 +16,16 @@ Addional (optional) equipment:
 
 ## Software
 
-We assume you will use an experimental software (e.g. Matlab, Habit, E-Prime, Psychopy, OpenSesame or custom software) to run the study and one of two settings to record looking times: (1) Offline Video recording (2) Eye-tracker (e.g. Tobii, EyeLink, SMI, ASL, or a different company, with appropriate software from the eye-tracker or custom software). (3) Eye-tracker + video recording. We also assume you know how to set up looking-time studies on your equipment. If that is not the case, or if you need help, support is available from the following people:
+We assume you will use an experimental software (e.g. Matlab, Habit, E-Prime, Psychopy, OpenSesame or custom software) to run the study and one of three settings to record looking times:
+
+1.  Offline Video recording
+2.  Eye-tracker (e.g. Tobii, EyeLink, SMI, ASL, or a different company) with appropriate software from the eye-tracker or custom software
+3.  Eye-tracker + video recording.
+
+We also assume you know how to set up looking-time studies on your equipment. If that is not the case, or if you need help, support is available from the following people:
 
 -   PsychoPy:
 -   PyHab:
 -   Tobii:
 -   Eyelink:
--   Other systems: email us [mb5\@manybabies.org](mailto:mb5@manybabies.org) and we’ll do our best to help out
+-   Other systems: email us ({{< var email.support >}}) and we’ll do our best to help out

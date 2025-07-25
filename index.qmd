@@ -24,12 +24,11 @@ MB5 is a cross-lab effort to provide an empirical basis for discussions of repli
 
 ## Manual Overview
 
-This manual provides the information needed to participate in ManyBabies 5. The manual is divided into
+This manual provides the information needed to participate in ManyBabies 5. The manual is divided into four sections (@sec-gettingstarted, @sec-setup, @sec-running, & @sec-aftercollection), and each section is divided into chapters.^[DON'T KNOW WHY THESE LINKS AREN'T WORKING] 
 
 ### Acknowledgments
 
 Much of this manual was adapted from the lab manuals created by the MB1, MB2, MB3, and MB4 teams.
-
 
 ------------------------------------------------------------------------
 

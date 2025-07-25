@@ -10,9 +10,9 @@ bibliography: references.bib
 csl: apa.csl
 
 crossref:
-  fig-prefix: figure
-  tbl-prefix: table
-  sec-prefix: section
+  fig-prefix: Figure
+  tbl-prefix: Table
+  sec-prefix: Section
 
 language:
   crossref-ch-prefix: Chapter
@@ -57,10 +57,10 @@ book:
         - procedure.qmd
         - apparatus.qmd
         - prior-to-data-coll-checklist.qmd
-    - part: "Running the experiment"
+    - part: running-experiment.qmd
       chapters:
         - general-lab-practices.qmd
-        - conditions.qmd
+        - test-conditions.qmd
         - during-data-collection.qmd
     - part: after-data-collection.qmd
       chapters:

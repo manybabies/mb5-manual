@@ -1,4 +1,4 @@
-# During data collection
+# During data collection {#sec-collection .unnumbered}
 
 ## Restarts, recalibration (eye-tracker) and pauses
 

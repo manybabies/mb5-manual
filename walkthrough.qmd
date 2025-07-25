@@ -2,11 +2,12 @@
 
 > Note: These instructions were adapted slightly from the MB1 & MB3 walkthrough instructions
 
-Once the experiment is set up and people involved in data collection are trained, and BEFORE beginning data collection, we ask that you document how you run the MB5 study in your lab by creating a "Walkthrough" video.[^walkthrough-1]
+Once the experiment is set up and people involved in data collection are trained, and BEFORE beginning data collection, we ask that you document how you run the MB5 study in your lab by creating a "Walkthrough" video.^[We *strongly* prefer videos, but if this is not possible for your lab, detailed photographs would be an option.]
 
-[^walkthrough-1]: We strongly prefer videos, but if this is not possible for your lab, detailed photographs would be an option.
+**THIS DOES NOT NEED TO BE A PROFESSIONAL-QUALITY VIDEO!** The goal is to be informative, not flawless---it can have starts, stops, and disfluency.
 
 **Even if you already provided a video for another ManyBabies project, a new video specifically showing how you run the MB5 project is requested.**
+
 
 ## Purpose
 
@@ -21,14 +22,13 @@ Please rest assured that these videos will NOT be used by ManyBabies to critique
 
 There are two possibilities to create a video documenting your process:
 
-1.  Filming a (preferably pilot) session with a participant (with parental approval and permission from your local ethics board). **Please make sure you have permission to share this video fully publicly!!**
+1.  Filming a pilot session with a participant (with parental approval and permission from your local ethics board). **Please make sure you have consent to share this video publicly!!**
 2.  Asking a colleague to "play" parent and using a dummy (e.g., a doll) as a baby stand-in.
 
-IF YOUR FINAL VERSION IS NOT READY FOR PRIME TIME, FEAR NOT. The goal is to be informative, not flawless---it can have starts, stops, and disfluency.
 
 ## Consent
 
-Note that we plan to share the videos among the consortium via Databrary, our website, and/or YouTube. There should be no assumption of privacy, and no confidential or otherwise sensitive information should be included in the videos. Be sure that parental consent covers all these options when filming participants.
+Note that we plan to share the videos among the consortium via Databrary, our website, and/or YouTube. **There should be no assumption of privacy, and no confidential or otherwise sensitive information should be included in the videos.** Be sure that parental consent covers all these options when filming participants.
 
 ## Sequence
 
@@ -36,42 +36,43 @@ Make sure your video covers the following components. We added questions you sho
 
 ### Greeting
 
-1.  Where do you receive families? (Dedicated area, parking lot, general entrance)
-2.  Who is there? (Parents, colleagues, assistants)
-3.  What do you say and ask them? (Example: Do you check when the baby last ate/slept?)
-4.  What do you do if a baby arrives asleep or fussy?
+-  Where do you receive families? (Dedicated area, parking lot, general entrance)
+-  Who is there? (Parents, colleagues, assistants)
+-  What do you say and ask them? (Example: Do you check when the baby last ate/slept?)
+-  What do you do if a baby arrives asleep or fussy?
 
 ### Consenting, instructions
 
-1.  What is your informed consenting process like? How do parents give consent? When do you typically obtain consent?
-2.  How detailed do you explain the procedure and aim of the study?
-3.  What instructions do you give to the parents? Are there any specific instructions on how to behave, sit, hold the baby, etc?
+-  What is your informed consenting process like? How do parents give consent? When do you typically obtain consent?
+-  How detailed do you explain the procedure and aim of the study?
+-  What instructions do you give to the parents? Are there any specific instructions on how to behave, sit, hold the baby, etc?
 
 ### Questionnaire(s)
 
-1.  At what point do you hand out/collect questionnaires (e.g., pre- or post-experiment)?
-2.  Do you give any additional instructions for the questionnaire other than those listed on the form(s)?
+-  At what point do you hand out/collect questionnaires (e.g., pre- or post-experiment)?
+-  Do you give any additional instructions for the questionnaire other than those listed on the form(s)?
 
 ### Experiment
 
-1.  What does your testing room/booth look like (size, lay-out, etc.)? Try to film the entrance and complete interior of the test booth or room.
-2.  Where is the baby sitting (e.g., parent's lap, high chair, etc.)? Film the seating arrangement before the baby is seating and with the baby.
-3.  What does the stimulus display look like (size, distance to baby)? Where is the screen located?
-4.  Where is the experimenter located during testing (e.g., inside or outside the booth)? Show where the experimenter is sitting; if it is in the same room, capture both baby and experimenter.
-5.  Can the baby see the experimenter during testing? How does the experimenter see the baby (e.g.,videofeed)?
-6.  How is the experimenter blinded to trial type during testing?
-7.  How is the parent blinded during testing (blacked-out glasses or something similar)?
-8.  If live-coding takes place: Show examples of what counts as a look/no look and/or videotape someone doing the coding together with the infant looks.
+-  What does your testing room/booth look like (size, lay-out, etc.)? Try to film the entrance and complete interior of the test booth or room.
+-  Where is the baby sitting (e.g., parent's lap, high chair, etc.)? Film the seating arrangement before the baby is seating and with the baby.
+-  What does the stimulus display look like (size, distance to baby)? Where is the screen located?
+-  Where is the experimenter located during testing (e.g., inside or outside the booth)? Show where the experimenter is sitting; if it is in the same room, capture both baby and experimenter.
+-  Can the baby see the experimenter during testing? How does the experimenter see the baby (e.g.,videofeed)?
+-  How is the experimenter blinded to trial type during testing?
+-  How is the parent blinded during testing (blacked-out glasses or something similar)?
+-  If live-coding takes place: Show examples of what counts as a look/no look and/or videotape someone doing the coding together with the infant looks.
 
 ### Debrief after experiment
 
-1.  What do you tell parents at the end of a study?
-2.  Are there standard questions you ask them?
+-  What do you tell parents at the end of a study?
+-  Are there standard questions you ask them?
 
 ## Upload your walkthrough video
 
-### [Upload your walkthrough video here](https://drive.google.com/drive/folders/1mIQ2hWt9tI7AFDvnbcwfmtNhilH8AriD?usp=sharing)
+### Share your walkthrough video using the {{< var link.upload >}}
 
--   **Please ensure that your video is clearly labeled in the file name with your [LabID](https://manybabies.org/labids/)** (e.g. *babylabPrinceton_walkthrough.mpg*).
--   You are welcome to view videos that have already been uploaded by other labs as examples *(note that these videos might not have been reviewed yet by project leads for completeness)*
--   Walkthrough videos from MB1 are available on [Databrary](https://nyu.databrary.org/volume/896)
+-   Video files are too large for us to collect via form, so you will be asked to provide a url (e.g., *google drive*, *dropbox*, etc.) for where we can access and download your video. If you do not have access to cloud storage, {{< var email.emailus >}} and we will provide an upload location.
+-   **Please ensure that your video is clearly labeled in the file name with your LabID** (e.g., `babylabPrinceton_walkthrough.mpg`). Check the list of {{< var link.labids >}} to confirm your lab's unique LabID before uploading.
+-   You are welcome to view videos that have already been uploaded by other labs as examples <a href="https://drive.google.com/drive/folders/1mIQ2hWt9tI7AFDvnbcwfmtNhilH8AriD?usp=sharing" target="_blank">HERE</a>^[Note that these videos might not have been reviewed yet by Project Leads].
+-   Walkthrough videos from MB1 are available to view <a href="https://nyu.databrary.org/volume/896" target="_blank">in this Databrary repository</a>.

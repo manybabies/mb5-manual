@@ -1,11 +1,10 @@
-# After data collection
+# After data collection {#sec-aftercollection .unnumbered}
 
 Contact Martin Zettersten (martincz\@princeton.edu) with questions about data submission and data preparation (please read text below carefully first!)
 
-- @sec-datareporting
-- data templates
-- data dictionary
-
+-   @sec-datareporting
+-   data templates
+-   data dictionary
 
 ## Data templates
 

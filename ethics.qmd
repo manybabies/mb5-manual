@@ -2,9 +2,7 @@
 
 ## Overview
 
-### All data-collecting labs are required to obtain ethics approval from their local oversight board (e.g., IRB)[^ethics-1].
-
-[^ethics-1]: If your lab/institution does not have a formal ethics oversight board, please refer to [MB's general ethics guidance](https://docs.google.com/document/d/e/2PACX-1vR2nv4Wy1soDS4cBBNy9QZOyewvvjP1ka1reBRhAIzcrNi0reJxgHuhGS7f7i2wE0ScQuppek8Al_21/pub) and contact the Project Leads to confirm ethics compliance
+### All data-collecting labs are required to obtain ethics approval from their local oversight board (e.g., IRB)^[If your lab/institution does not have a formal ethics oversight board, please refer to <a href="https://docs.google.com/document/d/e/2PACX-1vR2nv4Wy1soDS4cBBNy9QZOyewvvjP1ka1reBRhAIzcrNi0reJxgHuhGS7f7i2wE0ScQuppek8Al_21/pub" target="_blank">MB's general ethics guidance</a> and contact the Project Leads to confirm ethics compliance.]
 
 As this process can take time, it is a good idea to **get started on your ethics approval application as soon as possible**. Approvals must be in place and a copy submitted (via the process described below) before you can obtain a green light to collect data. {{< var email.contactus >}} if you need advice or help with obtaining ethics approval.
 
