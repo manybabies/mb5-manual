@@ -6,15 +6,13 @@ MB5 data collection is scheduled to run between the following dates:
 
 #### *End Date:* **2026-MM-DD** {.unnumbered}
 
-<br>
-
 It is essential that all participating labs do their best to collect data prior to the End Date. However, we understand that there may be disruptions to data collection for various reasons.
 
-**If you are having trouble meeting this deadline, please alert the leadership team (**{{< var email.support >}}**) as soon as possible to discuss options.**
+**If you are having trouble meeting this deadline, please alert the Project Leads (**{{< var email.support >}}**) as soon as possible to discuss options.**
 
-<br>
+***
 
-**Labs may join the MB5 project any time during the data collection period, provided:**
+**Labs may join the MB5 project any time during the data collection period, provided they:**
 
--   they commit to completing data collection by the specified end date, AND
--   a formal “Green Light” for testing is obtained from project leadership
+-   commit to completing data collection by the specified end date, AND
+-   obtain a formal “Green Light” for testing from the Project Leads (see @sec-greenlight)
