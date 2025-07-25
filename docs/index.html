@@ -272,7 +272,7 @@ div.csl-indent {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./during-data-collection.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">During data collection</span></a>
+ <span class="menu-text"><span class="chapter-number">16</span>&nbsp; <span class="chapter-title">During data collection</span></span></a>
   </div>
 </li>
       </ul>
@@ -289,7 +289,7 @@ div.csl-indent {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./data-reporting.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">16</span>&nbsp; <span class="chapter-title">Data Reporting Guidelines</span></span></a>
+ <span class="menu-text"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Data Reporting Guidelines</span></span></a>
   </div>
 </li>
       </ul>
@@ -331,7 +331,6 @@ div.csl-indent {
   <ul>
   <li><a href="#sec-preface" id="toc-sec-preface" class="nav-link active" data-scroll-target="#sec-preface">Preface</a>
   <ul class="collapse">
-  <li><a href="#important-this-lab-manual-is-still-under-development" id="toc-important-this-lab-manual-is-still-under-development" class="nav-link" data-scroll-target="#important-this-lab-manual-is-still-under-development">IMPORTANT! This lab manual is still UNDER DEVELOPMENT!</a></li>
   <li><a href="#thank-you-for-contributing-to-a-project-of" id="toc-thank-you-for-contributing-to-a-project-of" class="nav-link" data-scroll-target="#thank-you-for-contributing-to-a-project-of">Thank you for contributing to ManyBabies 5, a project of ManyBabies!</a></li>
   <li><a href="#manual-overview" id="toc-manual-overview" class="nav-link" data-scroll-target="#manual-overview">Manual Overview</a>
   <ul class="collapse">
@@ -379,15 +378,23 @@ div.csl-indent {
 <section id="sec-preface" class="level1 unnumbered">
 <h1 class="unnumbered">Preface</h1>
 <hr>
-<section id="important-this-lab-manual-is-still-under-development" class="level2 mark unnumbered border">
-<h2 class="mark unnumbered anchored" data-anchor-id="important-this-lab-manual-is-still-under-development">IMPORTANT! This lab manual is still UNDER DEVELOPMENT!</h2>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+IMPORTANT! This lab manual is still UNDER DEVELOPMENT!
+</div>
+</div>
+<div class="callout-body-container callout-body">
 <p>Bear with us as we finalize this document with all of the information your lab will need to successfully collect data for MB5. In the meantime, feel free to poke around and email us at <a href="mailto:mb5@manybabies.org"><strong>mb5@manybabies.org</strong></a> if you have any questions or need help.</p>
-</section>
-<p><br></p>
+</div>
+</div>
 <hr>
 <section id="thank-you-for-contributing-to-a-project-of" class="level3">
 <h3 class="anchored" data-anchor-id="thank-you-for-contributing-to-a-project-of">Thank you for contributing to <a href="https://manybabies.org/MB5/">ManyBabies 5</a>, a project of <a href="https://manybabies.org/">ManyBabies</a>!</h3>
-<p>MB5 is a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs.&nbsp;novelty preference through a collaboratively-designed “best test” of a popular model of infants’ visual preference for familiar and novel stimuli <span class="citation" data-cites="hunter1988">(<a href="references.html#ref-hunter1988" role="doc-biblioref">Hunter &amp; Ames, 1988</a>)</span>. More details about the background, design and hypotheses can be found in the <a href="https://doi.org/10.31234/osf.io/ck3vd">MB5 Stage 1 Registered Report</a> <span class="citation" data-cites="kosie">(<a href="references.html#ref-kosie" role="doc-biblioref">Kosie et al., n.d.</a>)</span>. In the following sections, we provide instructions for implementing the experiment in your lab and report data back to the project as a whole. Thanks for joining us!</p>
+<p>MB5 is a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs.&nbsp;novelty preference through a collaboratively-designed “best test” of a popular model of infants’ visual preference for familiar and novel stimuli <span class="citation" data-cites="hunter1988">(<a href="#ref-hunter1988" role="doc-biblioref">Hunter &amp; Ames, 1988</a>)</span>. More details about the background, design and hypotheses can be found in the <a href="https://doi.org/10.31234/osf.io/ck3vd">MB5 Stage 1 Registered Report</a> <span class="citation" data-cites="kosie">(<a href="#ref-kosie" role="doc-biblioref">Kosie et al., n.d.</a>)</span>. In the following sections, we provide instructions for implementing the experiment in your lab and report data back to the project as a whole. Thanks for joining us!</p>
 <div id="fig-hunterames" class="quarto-float quarto-figure quarto-figure-center anchored">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-hunterames-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
@@ -402,8 +409,20 @@ Figure&nbsp;1: Hunter and Ames model of infant attention (adapted from Bergmann 
 </section>
 <section id="manual-overview" class="level2">
 <h2 class="anchored" data-anchor-id="manual-overview">Manual Overview</h2>
-<p>This manual provides the information needed to participate in ManyBabies 5. The manual is divided into five sections (<a href="general-info.html">General information</a>, <a href="getting-started.html">Getting Started</a>, <a href="running-experiment.html">Setting up the experiment</a>, &amp; <a href="after-data-collection.html">After data collection</a>). Each section is divided into chapters, which you can jump to using the navigation panel on the left of the screen.</p>
-<p>If you find any errors or would like to suggest edits/improvements, you can let us know by creating an issue via the <a href="https://github.com/manybabies/mb5-manual">MB5 manual github</a> <i>(click on <code>Issues</code> then <code>New issue</code>)</i>. <br></p>
+<p>This manual provides the information needed to participate in ManyBabies 5. The manual is divided into five sections (<a href="#sec-generalinfo">General information</a>, <a href="#sec-gettingstarted">Getting Started</a>, <a href="#sec-running">Setting up the experiment</a>, &amp; <a href="#sec-aftercollection">After data collection</a>). Each section is divided into chapters, which you can jump to using the navigation panel on the left of the screen.</p>
+<div class="callout callout-style-default callout-caution callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Help us improve the manual!
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>If you find any errors or would like to suggest edits/improvements, we want to hear about it! You can let us know by creating an issue via the <a href="https://github.com/manybabies/mb5-manual">MB5 manual github</a> <i>(click on <code>Issues</code> then <code>New issue</code>)</i>.</p>
+</div>
+</div>
 <hr>
 <section id="acknowledgments" class="level3">
 <h3 class="anchored" data-anchor-id="acknowledgments">Acknowledgments</h3>
@@ -416,7 +435,7 @@ Figure&nbsp;1: Hunter and Ames model of infant attention (adapted from Bergmann 
 <hr>
 
 
-<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list" style="display: none">
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
 <div id="ref-hunter1988" class="csl-entry" role="listitem">
 Hunter, M. A., &amp; Ames, E. W. (1988). <em>A multifactor model of infant preferences for novel and familiar stimuli</em> (pp. 69–95). Ablex Publishing.
 </div>
