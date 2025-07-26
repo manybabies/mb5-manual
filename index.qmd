@@ -1,15 +1,16 @@
-![](images/mb-logo.png){width="18%"} ![](images/mb5-logo.png){width="18%"}
+<br>
+
+[![](images/mb-logo.png){width="35%"}](https://manybabies.org/) [![](images/mb5-logo.png){width="35%"}](https://manybabies.org/MB5)
 
 # Preface {#sec-preface .unnumbered}
 
 ------------------------------------------------------------------------
 
-::: {.callout-important}
+::: callout-important
 ## IMPORTANT! This lab manual is still UNDER DEVELOPMENT! {.mark .unnumbered}
 
 Bear with us as we finalize this document with all of the information your lab will need to successfully collect data for MB5. In the meantime, feel free to poke around and email us at {{< var email.support >}} if you have any questions or need help.
 :::
-
 
 ------------------------------------------------------------------------
 
@@ -25,8 +26,9 @@ MB5 is a cross-lab effort to provide an empirical basis for discussions of repli
 
 This manual provides the information needed to participate in ManyBabies 5. The manual is divided into five sections ([General information](#sec-generalinfo), [Getting Started](#sec-gettingstarted), [Setting up the experiment](#sec-running), & [After data collection](#sec-aftercollection)). Each section is divided into chapters, which you can jump to using the navigation panel on the left of the screen.
 
-::: {.callout-caution}
+::: callout-caution
 #### Help us improve the manual!
+
 If you find any errors or would like to suggest edits/improvements, we want to hear about it! You can let us know by creating an issue via the {{< var link.manualgithub >}} <i>(click on `Issues` then `New issue`)</i>.
 :::
 
