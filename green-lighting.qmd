@@ -7,4 +7,7 @@ All labs must complete a series of preparation steps, referred to by MB as the *
 -   submitting a **walkthrough video** of the lab's consent and testing procedure
 -   sucessfully running pilot data through the **MB Data Validator**
 
-#### IMPORTANT: <u>DO NOT</u> collect experimental data for MB5 until you have received a "green-light" from the MB5 Project Leads!{.mark}
+::: callout-important
+#### IMPORTANT: 
+<b><u>DO NOT</u> collect experimental data for MB5 until you have received a "green-light" from the MB5 Project Leads!</b>
+:::
