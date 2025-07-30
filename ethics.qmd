@@ -18,13 +18,13 @@ MB5 (like all ManyBabies projects) asks labs to collect a number of demographic 
 
 ## Permission to share video recordings
 
-We strongly encourage labs (where possible) to store and share video recordings of their testing sessions on [**Databrary**](https://nyu.databrary.org/), which is a secure site created for this purpose. Databrary allows for different levels of privacy: fully private (available only to the uploading research group), shared only with Databrary-approved researchers, or fully open. Storing/sharing videos via Databrary requires the following:
+We strongly encourage labs (where possible) to store and share video recordings of their testing sessions on {{< var link.databrary >}}, which is a secure site created for this purpose. Databrary allows for different levels of privacy: fully private (available only to the uploading research group), shared only with Databrary-approved researchers, or fully open. Storing/sharing videos via Databrary requires the following:
 
-(@) You will need to ensure that you have **ethics approval** in place to upload and/or share recordings, and 
-(@) You will need to **collect specific consent** for this purpose from your participants' parents/guardians. 
-(@) You will need to **become a member of Databrary**, which requires approval from your institution, so it’s helpful to start this process early. You can [begin the registration process for Databrary here](https://nyu.databrary.org/user/register?page=create). 
+(@) **Ethics approval** in place to upload and/or share recordings. 
+(@) **Specific consent** for this purpose collected from your participants' parents/guardians. 
+(@) **Databrary membership**, which requires approval from your institution. It’s helpful to start this process early! You can [begin the registration process for Databrary here](https://nyu.databrary.org/user/register?page=create). 
 
-We are aware that many laboratories, particularly those based in the region governed by GDPR, may not be allowed to use Databrary. In these circumstances we encourage labs to use alternative methods for sharing their videos where possible.
+We are aware that many laboratories, particularly those based in regions governed by GDPR, may not be allowed to use Databrary. In these circumstances, we encourage labs to use alternative methods for sharing their videos where possible ({{< var email.emailus >}} to discuss options).
 
 ## Uploading ethics approval documentation {#ethics-upload}
 

@@ -139,6 +139,17 @@
     ]
   },
   {
+    "objectID": "demographics.html#adaptations-and-translations",
+    "href": "demographics.html#adaptations-and-translations",
+    "title": "5  Demographics Questionnaire",
+    "section": "5.2 Adaptations and translations",
+    "text": "5.2 Adaptations and translations\nAs noted in Singh et al. (2024), the questionnaire was developed to query information pertaining to six contructs (biographical information, gestational status, health status, community of descent, caregiving environment, and socioeconomic status). We have added a few additional questions that are of particular interest to MB5 (e.g., family history of colorblindness).\nWe recognize that the specific questions/response options on the example template (which was developed for use in the United States) are not appropriate for all contexts.\nWe encourage labs to adapt the questionnaire template as needed, while keeping in mind the goal of querying the same constructs included in the original template to ensure consistency in reporting. For example, the question on race/ethnicity can be adapted to meet the norms of your region. If possible, please use racial/ethnic categories taken from local census categories. For countries where it is not considered socially or legally acceptable to inquire about ethnic background, please adapt to a more appropriate question (e.g., parent and child place of birth), if possible.\nIf you have any questions about adapting the questionnaire, please contact the leadership team (mb5@manybabies.org) to discuss your concerns. Let us know if any of the questions are unclear to you—it is important that you are able to answer any questions the participants may have.\nTranslations/adaptations of the MB5 Demographics Questionnaire will be available here as they are created.3\n3 Translations/adaptations of the MB-Demographics template are available via the MB-Demographics OSF repository.",
+    "crumbs": [
+      "Getting started",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Demographics Questionnaire</span>"
+    ]
+  },
+  {
     "objectID": "demographics.html#uploading-demographics-questionnaire",
     "href": "demographics.html#uploading-demographics-questionnaire",
     "title": "5  Demographics Questionnaire",
@@ -187,7 +198,7 @@
     "href": "ethics.html#permission-to-share-video-recordings",
     "title": "6  Ethics approval",
     "section": "6.3 Permission to share video recordings",
-    "text": "6.3 Permission to share video recordings\nWe strongly encourage labs (where possible) to store and share video recordings of their testing sessions on Databrary, which is a secure site created for this purpose. Databrary allows for different levels of privacy: fully private (available only to the uploading research group), shared only with Databrary-approved researchers, or fully open. Storing/sharing videos via Databrary requires the following:\n\nYou will need to ensure that you have ethics approval in place to upload and/or share recordings, and\nYou will need to collect specific consent for this purpose from your participants’ parents/guardians.\nYou will need to become a member of Databrary, which requires approval from your institution, so it’s helpful to start this process early. You can begin the registration process for Databrary here.\n\nWe are aware that many laboratories, particularly those based in the region governed by GDPR, may not be allowed to use Databrary. In these circumstances we encourage labs to use alternative methods for sharing their videos where possible.",
+    "text": "6.3 Permission to share video recordings\nWe strongly encourage labs (where possible) to store and share video recordings of their testing sessions on Databrary, which is a secure site created for this purpose. Databrary allows for different levels of privacy: fully private (available only to the uploading research group), shared only with Databrary-approved researchers, or fully open. Storing/sharing videos via Databrary requires the following:\n\nEthics approval in place to upload and/or share recordings.\nSpecific consent for this purpose collected from your participants’ parents/guardians.\nDatabrary membership, which requires approval from your institution. It’s helpful to start this process early! You can begin the registration process for Databrary here.\n\nWe are aware that many laboratories, particularly those based in regions governed by GDPR, may not be allowed to use Databrary. In these circumstances, we encourage labs to use alternative methods for sharing their videos where possible (email us to discuss options).",
     "crumbs": [
       "Getting started",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Ethics approval</span>"
@@ -461,7 +472,7 @@
     "href": "prior-to-data-coll-checklist.html",
     "title": "13  Prior to data collection checklist",
     "section": "",
-    "text": "The steps for getting started are tracked by the MB5 leadership team on the MB5 Project Tracker. You can check it to see what steps your lab has completed. If you have any questions or think your lab’s progress is not up-to-date, contact us (mb5@manybabies.org).\nAfter preparing your lab and BEFORE BEGINNING DATA COLLECTION you need to:\n\nComplete the Initial Sign-Up Form (if you have not already done so).\nConfirm ethics approval is uploaded: Make sure that a copy of your lab’s ethics approval is in this google drive folder. If you plan to share participant videos via Databrary, you should also make sure you are getting proper consent for video sharing (please include approval for video sharing in ethics upload).\nConfirm demographics form is uploaded: Make sure that a copy of your lab’s demographics formethics approval is in this google drive folder.\nConfirm walkthrough video is and demographics form uploaded (if needed): Make sure that a copy of your lab’s walkthrough video is in this google drive folder, and your laboratory demographics form in this google drive folder.\nComplete the Lab Questionnaire: Make sure someone from your lab has filled out the Lab Questionnaire with details about your laboratory. The leadership will be notified of your submission of the Lab Questionnaire after which they will start the approval/greenlighting process.\nConvert dummy or pilot data into the right format for submission (see details below) using the MB Data validator to check data validity; in case of questions, please contact the analysis team. This ensures that you will be ready to submit your lab’s data to the central analysis team!\nSend email to Jessica Kosie (jkosie@asu.edu) to let the leadership know that you are ready for ‘greenlighting’.\nWait until you receive an official go-ahead from Project Leads before you begin testing. We may have questions for you, e.g. about your planned protocol deviations. We will do our best to respond quickly, but Iif you don’t hear from us within a week of sending the email, please contact us again!.",
+    "text": "The steps for getting a “Green Light” to collect data are tracked by the MB5 Project Leads on the MB5 Project Tracker. You can check the tracker to see what steps your lab has completed. If you have any questions or think your lab’s progress is not up-to-date, email us.\nAs a reminder, BEFORE BEGINNING DATA COLLECTION your lab needs to:\n\nComplete the MB5 Sign-Up Form if your lab has not already done so\n\nNOTE: if your lab does not appear in the MB5 Project Tracker, you still need to do this!\n\nConfirm demographics form is uploaded (see Chapter 5)\nConfirm ethics approval is uploaded (see Chapter 6)\nConfirm walkthrough video is uploaded (see Chapter 7)\nComplete the Lab Questionnaire THIS DOESN’T EXIST YET\nValidate dummy or pilot data using the ManyBabies Data Validator and upload validated data using the MB5 Upload Form\nSend email to Project Leads (mb5@manybabies.org) to let us know that you are ready for “Geen-Lighting”\n\n\n\n\n\n\n\nWait until you receive an official go-ahead from Project Leads before you begin testing!\n\n\n\nWe may have questions for you (e.g., about any planned protocol deviations). We will do our best to respond quickly, but if you don’t hear from us within a week of sending the email, please contact us again!",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>Prior to data collection checklist</span>"
@@ -731,17 +742,6 @@
     "crumbs": [
       "Appendices",
       "<span class='chapter-number'>A</span>  <span class='chapter-title'>MB5 Collaboration Agreement</span>"
-    ]
-  },
-  {
-    "objectID": "demographics.html#adaptations-and-translations",
-    "href": "demographics.html#adaptations-and-translations",
-    "title": "5  Demographics Questionnaire",
-    "section": "5.2 Adaptations and translations",
-    "text": "5.2 Adaptations and translations\nAs noted in Singh et al. (2024), the questionnaire was developed to query information pertaining to six contructs (biographical information, gestational status, health status, community of descent, caregiving environment, and socioeconomic status). We have added a few additional questions that are of particular interest to MB5 (e.g., family history of colorblindness).\nWe recognize that the specific questions/response options on the example template (which was developed for use in the United States) are not appropriate for all contexts.\nWe encourage labs to adapt the questionnaire template as needed, while keeping in mind the goal of querying the same constructs included in the original template to ensure consistency in reporting. For example, the question on race/ethnicity can be adapted to meet the norms of your region. If possible, please use racial/ethnic categories taken from local census categories. For countries where it is not considered socially or legally acceptable to inquire about ethnic background, please adapt to a more appropriate question (e.g., parent and child place of birth), if possible.\nIf you have any questions about adapting the questionnaire, please contact the leadership team (mb5@manybabies.org) to discuss your concerns. Let us know if any of the questions are unclear to you—it is important that you are able to answer any questions the participants may have.\nTranslations/adaptations of the MB5 Demographics Questionnaire will be available here as they are created.3\n3 Translations/adaptations of the MB-Demographics template are available via the MB-Demographics OSF repository.",
-    "crumbs": [
-      "Getting started",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Demographics Questionnaire</span>"
     ]
   }
 ]
