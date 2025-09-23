@@ -1,4 +1,4 @@
-# Demographics Questionnaire {#sec-demographics}
+# Demographics questionnaire {#sec-demographics}
 
 ## Collecting participant information
 
