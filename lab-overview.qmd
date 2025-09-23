@@ -7,7 +7,7 @@ These are the steps that every data-collecting lab must follow to participate in
 (@)  <b>Read this manual start to finish</b> 
 (@)  Read the {{< var link.collaboration >}}
 (@)  Review the information in the {{< var link.generalmanual >}} regarding <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.22i70rxou3ha" target="_blank">ethical research</a>, <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.9ty2g48mpe0t" target="_blank">authorship</a>, <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.aunbjkpwxhf3" target="_blank">data sharing</a>, and <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.6h67zsyeiveg" target="_blank">data use</a>
-(@)  Complete the {{< var link.signup target="_blank">}}
+(@)  **Complete the {{< var link.signup target="_blank">}}**
 
 ### BEFORE you begin data collection: 
 
