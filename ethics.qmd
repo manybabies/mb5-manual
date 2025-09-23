@@ -4,30 +4,41 @@
 
 ### All data-collecting labs are required to obtain ethics approval from their local oversight board (e.g., IRB)^[If your lab/institution does not have a formal ethics oversight board, please refer to <a href="https://docs.google.com/document/d/e/2PACX-1vR2nv4Wy1soDS4cBBNy9QZOyewvvjP1ka1reBRhAIzcrNi0reJxgHuhGS7f7i2wE0ScQuppek8Al_21/pub" target="_blank">MB's general ethics guidance</a> and contact the Project Leads to confirm ethics compliance.]
 
-As this process can take time, it is a good idea to **get started on your ethics approval application as soon as possible**. Approvals must be in place and a copy submitted (via the process described below) before you can obtain a green light to collect data. {{< var email.contactus >}} if you need advice or help with obtaining ethics approval.
+As this process can take time, it is a good idea to **get started on your ethics approval application as soon as possible**. Approvals must be in place and a copy submitted (via the process described below) before you can obtain a Green-Light to collect data. [Contact us]({{< var email.mb5 >}}) if you need advice or help with obtaining ethics approval.
 
-> In some cases, labs will already have approval for MB5 under an “umbrella protocol” (i.e., a protocol that covers multiple studies in one lab). In these cases, the ethics form should still be uploaded as described below.
+::: callout-note
+## Umbrella protocols
+In some cases, labs will already have approval for MB5 under an “umbrella protocol” (i.e., a protocol that covers multiple studies in one lab). In these cases, the ethics approval should still be uploaded as described below.
+:::
 
 ## Permission to collect/share demographic data
 
-MB5 (like all ManyBabies projects) asks labs to collect a number of demographic background variables (e.g., gestational age, sex, parental education, community of descent) to be shared along with the main experimental data (after full de-identification is confirmed) (see @sec-demographics for more information). Not all of those variables are part of the main analysis. Even so, it is highly relevant to collect them for describing our sample, for follow-up and secondary analyses, and for checking the representativeness of the sample.
+MB5 (like all ManyBabies projects) asks labs to collect a number of demographic background variables (e.g., gestational age, sex, parental education, community of descent) to be shared along with the main experimental data after full de-identification is confirmed (see @sec-demographics for more information). Not all of those variables are part of the main planned analysis. Even so, it is highly relevant to collect them for describing our sample, for follow-up and secondary analyses, and for checking the representativeness of the sample.
+
+::: callout-important
+## Data sharing
 
 ### Please make sure you have permission to publicly share anonymized/de-identified raw data (including required demographic info), as this is a condition of participation. {.unnumbered}
 
 {{< var email.contactus >}} if your ethics board raises concerns about collecting and/or sharing these data.
+:::
 
 ## Permission to share video recordings
 
-We strongly encourage labs (where possible) to store and share video recordings of their testing sessions on {{< var link.databrary >}}, which is a secure site created for this purpose. Databrary allows for different levels of privacy: fully private (available only to the uploading research group), shared only with Databrary-approved researchers, or fully open. Storing/sharing videos via Databrary requires the following:
+We ***strongly encourage*** labs (where possible) to store and share video recordings of their testing sessions on {{< var link.databrary >}}, which is a secure site created for this purpose. Databrary allows for different levels of privacy: *fully private* (available only to the uploading research group), *shared only with Databrary-approved researchers*, or *fully open*. Storing/sharing videos via Databrary requires the following:
 
 (@) **Ethics approval** in place to upload and/or share recordings. 
-(@) **Specific consent** for this purpose collected from your participants' parents/guardians. 
+(@) **Specific consent** for this purpose collected from your participant's parent/guardian. 
 (@) **Databrary membership**, which requires approval from your institution. It’s helpful to start this process early! You can [begin the registration process for Databrary here](https://nyu.databrary.org/user/register?page=create). 
 
-We are aware that many laboratories, particularly those based in regions governed by GDPR, may not be allowed to use Databrary. In these circumstances, we encourage labs to use alternative methods for sharing their videos where possible ({{< var email.emailus >}} to discuss options).
+::: callout-warning
+## Databrary limitations
+
+We are aware that many laboratories, particularly those based in regions governed by GDPR, may not be allowed by their institutions to use Databrary. In these circumstances, we encourage labs to use alternative methods for sharing their videos where possible ([**email us**]({{< var email.mb5 >}}) to discuss options).
+:::
 
 ## Uploading ethics approval documentation {#ethics-upload}
 
-**Ethics documentation (e.g., proof of IRB approval) must be submitted prior to data collection via the {{< var link.upload >}}.**
+**Ethics documentation (e.g., proof of IRB approval) must be submitted prior to data collection via the [**MB5 Upload Form**]({{< var url.upload >}}){target="_blank"}.**
 
 Please ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g. `babylabPrinceton_ethics.pdf`). Check the list of {{< var link.labids >}} to confirm your lab's unique LabID before uploading.

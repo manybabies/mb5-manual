@@ -22,12 +22,12 @@ We recognize that the specific questions/response options on the example templat
 
 If you have any questions about adapting the questionnaire, please contact the leadership team ({{< var email.support >}}) to discuss your concerns. Let us know if any of the questions are unclear to you---it is important that you are able to answer any questions parents/guardians may have.
 
-**Translations/adaptations of the MB5 Demographics Questionnaire will be available [here]({{< var link.demographics >}})** as they are created.[^demographics-3]
+**Translations/adaptations of the MB5 Demographics Questionnaire** will be available [**here**]({{< var url.demographics >}}){target="_blank"} as they are created.[^demographics-3]
 
 [^demographics-3]: Existing translations/adaptations of the MB-Demographics template are available via the <a href="https://osf.io/nqc92/files/osfstorage" target="_blank">MB-Demographics OSF repository</a>.
 
 ## Uploading demographics questionnaire
 
-**All labs must upload a blank copy of the Demographics Questionnaire they will be using for MB5 via the** {{< var link.upload >}} *(even if you are using the provided template with no modifications!)*.
+**All labs must upload a blank copy of the Demographics Questionnaire they will be using for MB5** via the [**MB5 Upload Form**]({{< var url.upload >}}){target="_blank"} *(even if you are using the provided template with no modifications!)*.
 
 Please ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g. `babylabPrinceton_questionnaire.pdf`). Check the list of {{< var link.labids >}} to confirm your lab's unique LabID before uploading.
