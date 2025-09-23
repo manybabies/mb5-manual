@@ -6,6 +6,10 @@
 
 During the experiment, infants will be seated on their caregiver’s lap or in a high-chair or car seat (whichever option corresponds to a lab's standard procedure for testing infants, as reported in the pre-data-collection survey).
 
+::: callout-important
+PUT IN GRAPHIC SHOWING ROOM CONFIG
+:::
+
 Each baby will be presented with a series of 12 trials. Each trial is preceded by an attention-getter and made up of a **familiarization phase** followed by the **test phase** (see @fig-trial).
 
 #### There are two versions of the experiment:[^procedure-1]
@@ -22,7 +26,6 @@ Each baby will be presented with a series of 12 trials. Each trial is preceded b
 ## Trial initiation
 
 This phase draws infants’ attention (back) to the screen prior to the familiarization using the “laughing baby” stimulus. The trial is initiated when the infant fixates the screen (or a maximum of 10s has elapsed).
-
 
 ## Familiarization Phase {#sec-famphase}
 
@@ -57,13 +60,10 @@ If your lab is unable to run an infant-controlled design, then you will present 
 
 ## Test Phase
 
-Once the familiarization criterion has been reached (either via accumulated looking or fixed-length presentation), the infant will be presented with a central-fixation stimulus (looming circle). Once the infant fixates the screen (or a maximum of 5s has elapsed), the **test phase** will begin. 
+Once the familiarization criterion has been reached (either via accumulated looking or fixed-length presentation), the infant will be presented with a central-fixation stimulus (looming circle). Once the infant fixates the screen (or a maximum of 5s has elapsed), the **test phase** will begin.
 
 The **test phase** is made up of **two 5s test periods**. In each **test period**, the object seen during familiarization (the *familiar* object) is presented side-by-side with a previously-unseen *novel* object.[^procedure-3] The location (left/right) of the *familiar* and *novel* stimuli will be switched in the two test periods (e.g., if the *familiar* object appears on the left in the first test period, it will appear on the right in the second test period). A central fixation attention-getting stimulus (looming circle) will be presented on the screen between the first and second test periods.[^procedure-4]
 
 [^procedure-3]: The *novel* object on each trial will be from the same stimulus class (*Fribbuli* or *Fractals*) and complexity level (*low* or *high*) as the *familiar* object.
 
 [^procedure-4]: The attention-getter between test periods will be presented for either 750ms (Fixed-length procedure) or until the infant looks at the attention-getter for 500ms (Infant-controlled procedure)
-
-
-

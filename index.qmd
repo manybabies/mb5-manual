@@ -1,6 +1,6 @@
 <br>
 
-[![](images/mb-logo.png){width="35%"}](https://manybabies.org/) [![](images/mb5-logo.png){width="35%"}](https://manybabies.org/MB5)
+[![](images/mb-logo.png){width="25%"}](https://manybabies.org/) [![](images/mb5-logo.png){width="25%"}](https://manybabies.org/MB5)
 
 # Preface {#sec-preface .unnumbered}
 

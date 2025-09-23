@@ -6,13 +6,20 @@ The minimal equipment required to run this experiment is:
 
 -   Computer running experiment software (see below)
 -   Monitor/television for stimulus display
--   Camera for capturing infant looking behavior^[This can be a scene view embedded in an eye tracker.]
+-   Camera for capturing infant looking behavior[^apparatus-1]
 -   Mixer for syncing recording of infant with stimulus timing (or other method for doing so)
+
+[^apparatus-1]: This can be a scene view embedded in an eye tracker.
 
 Addional (optional) equipment:
 
 -   Eye tracker
 -   Blacked-out glasses for parent to wear during experiment
+
+::: callout-important
+PUT IN GRAPHIC SHOWING APPARATUS/SET-UP
+:::
+
 
 ## Software
 

@@ -1,5 +1,12 @@
 # Data collection period {#sec-testdates}
 
+::: callout-important
+## TEST DATES TO BE DETERMINED! {.mark .unnumbered}
+
+Testing start and end dates have not yet been finalized. 
+:::
+
+
 MB5 data collection is scheduled to run between the following dates:
 
 #### *Start Date:* **2025-MM-DD** {.unnumbered}
@@ -10,7 +17,7 @@ It is essential that all participating labs do their best to collect data prior 
 
 **If you are having trouble meeting this deadline, please alert the Project Leads (**{{< var email.support >}}**) as soon as possible to discuss options.**
 
-***
+------------------------------------------------------------------------
 
 **Labs may join the MB5 project any time during the data collection period, provided they:**
 
