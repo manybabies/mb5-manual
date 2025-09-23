@@ -1,1 +1,3 @@
-# Data Validation {#sec-validation}
+# Data validation {#sec-validation}
+
+{{< var link.validator >}}

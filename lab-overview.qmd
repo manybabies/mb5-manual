@@ -1,4 +1,4 @@
-# MB5 Lab Participation Overview {#sec-laboverview}
+# MB5 lab participation overview {#sec-laboverview}
 
 These are the steps that every data-collecting lab must follow to participate in MB5. This is just an overview of the process. More detail for each numbered item is available in the linked sections.
 
@@ -16,8 +16,8 @@ These are the steps that every data-collecting lab must follow to participate in
 (@)  Submit the version of the **demographics questionnaire** your lab will be using (see @sec-demographics), your lab's **ethics approval** (see @sec-ethics), and any other documentation/materials
 (@)  Create and submit your **walkthrough video** (see @sec-walkthrough)
 (@)  Run pilot sample through the {{< var link.validator >}} (see @sec-validation)
-(@)  Email the MB5 Project Leads ({{< var email.support >}}) to let them know that you are ready for “green-lighting” (`Subject: "MB5 GREEN-LIGHT REQUEST"`)
-(@) **WAIT for your official “green-light”** from the leadership team to begin data collection
+(@)  Email the MB5 Project Leads ({{< var email.support >}}) to let them know that you are ready for “Green-Lighting” (`Subject: "MB5 GREEN-LIGHT REQUEST"`)
+(@) **WAIT for your official “Green-Light”** from the leadership team to begin data collection
 
 :::{.callout-important}
 ### IMPORTANT!

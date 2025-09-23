@@ -1,8 +1,10 @@
-# Walkthrough Videos {#sec-walkthrough}
+# Walkthrough videos {#sec-walkthrough}
 
 > Note: These instructions were adapted slightly from the MB1 & MB3 walkthrough instructions
 
-Once the experiment is set up and people involved in data collection are trained, and BEFORE beginning data collection, we ask that you document how you run the MB5 study in your lab by creating a "Walkthrough" video.^[We *strongly* prefer videos, but if this is not possible for your lab, detailed photographs would be an option.]
+Once the experiment is set up and people involved in data collection are trained, and BEFORE beginning data collection, we ask that you document how you run the MB5 study in your lab by creating a "Walkthrough" video.[^walkthrough-1]
+
+[^walkthrough-1]: We *strongly* prefer videos, but if this is not possible for your lab, detailed photographs would be an option.
 
 **THIS DOES NOT NEED TO BE A PROFESSIONAL-QUALITY VIDEO!** The goal is to be informative, not flawless---it can have starts, stops, and disfluency.
 
@@ -72,6 +74,7 @@ Make sure your video covers the following components. We added questions you sho
 
 -   Video files are too large for us to collect via form, so you will be asked to provide a url (e.g., *google drive*, *dropbox*, etc.) for where we can access and download your video. If you do not have access to cloud storage, {{< var email.emailus >}} and we will provide an upload location.
 -   **Please ensure that your video is clearly labeled in the file name with your LabID** (e.g., `babylabPrinceton_walkthrough.mpg`). Check the list of {{< var link.labids >}} to confirm your lab's unique LabID before uploading.
--   You are welcome to view videos that have already been uploaded by other labs as examples <a href="https://drive.google.com/drive/folders/1mIQ2hWt9tI7AFDvnbcwfmtNhilH8AriD?usp=sharing" target="_blank">HERE</a>^[Note that these videos might not have been reviewed yet by Project Leads
-].
+-   You are welcome to view videos that have already been uploaded by other labs as examples <a href="https://drive.google.com/drive/folders/1mIQ2hWt9tI7AFDvnbcwfmtNhilH8AriD?usp=sharing" target="_blank">HERE</a>[^walkthrough-2].
 -   Walkthrough videos from MB1 are available to view <a href="https://nyu.databrary.org/volume/896" target="_blank">in this Databrary repository</a>.
+
+[^walkthrough-2]: Note that these videos might not have been reviewed yet by Project Leads

@@ -24,7 +24,7 @@
     "href": "general-info.html",
     "title": "General information",
     "section": "",
-    "text": "This section includes contact info, important links, data collection start and end dates, and the list of steps each lab must take to succcessfully collect and contribute data for MB5.\n\n1  Contact info and important links\n2  Data collection period\n3  MB5 Lab Participation Overview",
+    "text": "This section includes contact info, important links, data collection start and end dates, and the list of steps each lab must take to succcessfully collect and contribute data for MB5.\n\n1  Contact info and important links\n2  Data collection period\n3  MB5 lab participation overview",
     "crumbs": [
       "General information"
     ]
@@ -87,12 +87,12 @@
   {
     "objectID": "lab-overview.html",
     "href": "lab-overview.html",
-    "title": "3  MB5 Lab Participation Overview",
+    "title": "3  MB5 lab participation overview",
     "section": "",
-    "text": "These are the steps that every data-collecting lab must follow to participate in MB5. This is just an overview of the process. More detail for each numbered item is available in the linked sections.\n\nBEFORE you do ANYTHING else:\n\nRead this manual start to finish\nRead the MB5 Collaboration Agreement\nReview the information in the ManyBabies General Manual regarding ethical research, authorship, data sharing, and data use\nComplete the MB5 Sign-Up Form\n\n\n\nBEFORE you begin data collection:\n\nSet up the experiment in consultation with this lab manual (see Setting up the Experiment)\n\nCarefully record any needed deviations from the protocol using the MB5 Issue Tracking and Support Request Form\n\nSubmit the version of the demographics questionnaire your lab will be using (see Chapter 5), your lab’s ethics approval (see Chapter 6), and any other documentation/materials\nCreate and submit your walkthrough video (see Chapter 7)\nRun pilot sample through the ManyBabies Data Validator (see Chapter 8)\nEmail the MB5 Project Leads (mb5@manybabies.org) to let them know that you are ready for “green-lighting” (Subject: \"MB5 GREEN-LIGHT REQUEST\")\nWAIT for your official “green-light” from the leadership team to begin data collection\n\n\n\n\n\n\n\nIMPORTANT!\n\n\n\nDO NOT BEGIN DATA COLLECTION (other than piloting) until your lab has been explicitly given the “Green-Light” to do so by the Project Leads.\n\n\n\n\nData collection:\n\nCollect your data following the guidelines in the Running the experiment section!\n\n\n\nAFTER you finish data collection:\n\nCompile your participant and trial data files in consultation with data reporting guidelines (see Chapter 17)\nVerify your data files using the ManyBabies Data Validator (see Chapter 8)\nSubmit your data using the MB5 Upload Form\nReport individual contributions using the MB Contribution Reporting Form",
+    "text": "These are the steps that every data-collecting lab must follow to participate in MB5. This is just an overview of the process. More detail for each numbered item is available in the linked sections.\n\nBEFORE you do ANYTHING else:\n\nRead this manual start to finish\nRead the MB5 Collaboration Agreement\nReview the information in the ManyBabies General Manual regarding ethical research, authorship, data sharing, and data use\nComplete the MB5 Sign-Up Form\n\n\n\nBEFORE you begin data collection:\n\nSet up the experiment in consultation with this lab manual (see Setting up the Experiment)\n\nCarefully record any needed deviations from the protocol using the MB5 Issue Tracking and Support Request Form\n\nSubmit the version of the demographics questionnaire your lab will be using (see Chapter 5), your lab’s ethics approval (see Chapter 6), and any other documentation/materials\nCreate and submit your walkthrough video (see Chapter 7)\nRun pilot sample through the ManyBabies Data Validator (see Chapter 8)\nEmail the MB5 Project Leads (mb5@manybabies.org) to let them know that you are ready for “Green-Lighting” (Subject: \"MB5 GREEN-LIGHT REQUEST\")\nWAIT for your official “Green-Light” from the leadership team to begin data collection\n\n\n\n\n\n\n\nIMPORTANT!\n\n\n\nDO NOT BEGIN DATA COLLECTION (other than piloting) until your lab has been explicitly given the “Green-Light” to do so by the Project Leads.\n\n\n\n\nData collection:\n\nCollect your data following the guidelines in the Running the experiment section!\n\n\n\nAFTER you finish data collection:\n\nCompile your participant and trial data files in consultation with data reporting guidelines (see Chapter 17)\nVerify your data files using the ManyBabies Data Validator (see Chapter 8)\nSubmit your data using the MB5 Upload Form\nReport individual contributions using the MB Contribution Reporting Form",
     "crumbs": [
       "General information",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>MB5 Lab Participation Overview</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>MB5 lab participation overview</span>"
     ]
   },
   {
@@ -100,7 +100,7 @@
     "href": "getting-started.html",
     "title": "Getting started",
     "section": "",
-    "text": "This section covers some basic aspects of the project that you’ll need to know about BEFORE you set up and run the experiment. Use the arrows to continue to through the sections, or jump to a section using the links below.\n\n4  Green-lighting process\n5  Demographics Questionnaire\n6  Ethics approval\n7  Walkthrough Videos",
+    "text": "This section covers some basic aspects of the project that you’ll need to know about BEFORE you set up and run the experiment. Use the arrows to continue to through the sections, or jump to a section using the links below.\n\n4  Green-Lighting process\n5  Demographics Questionnaire\n6  Ethics approval\n7  Walkthrough videos",
     "crumbs": [
       "Getting started"
     ]
@@ -108,12 +108,12 @@
   {
     "objectID": "green-lighting.html",
     "href": "green-lighting.html",
-    "title": "4  Green-lighting process",
+    "title": "4  Green-Lighting process",
     "section": "",
-    "text": "All labs must complete a series of preparation steps, referred to by MB as the “green-lighting” process, before collecting data for any ManyBabies project. These steps are outlined in the MB5 Lab Participation Overview list and in detail throughout the following sections of this manual, but in essence this involves:\n\nproviding required documentation (e.g., ethics approval, lab-specific Demographics Questionnaire)\ndemonstrating correct implementation of the testing procedure\nsubmitting a walkthrough video of the lab’s consent and testing procedure\nsucessfully running pilot data through the MB Data Validator\n\n\n\n\n\n\n\nIMPORTANT:\n\n\n\nDO NOT collect experimental data for MB5 until you have received a “green-light” from the MB5 Project Leads!",
+    "text": "All labs must complete a series of preparation steps, referred to by MB as the “Green-Lighting” process, before collecting data for any ManyBabies project. These steps are outlined in the MB5 Lab Participation Overview list and in detail throughout the following sections of this manual, but in essence this involves:\n\nproviding required documentation (e.g., ethics approval, lab-specific Demographics Questionnaire)\ndemonstrating correct implementation of the testing procedure\nsubmitting a walkthrough video of the lab’s consent and testing procedure\nsuccessfully running pilot data through the MB Data Validator\n\n\n\n\n\n\n\nIMPORTANT:\n\n\n\nDO NOT collect experimental data for MB5 until you have received a “Green-Light” from the MB5 Project Leads!",
     "crumbs": [
       "Getting started",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Green-lighting process</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Green-Lighting process</span>"
     ]
   },
   {
@@ -218,67 +218,78 @@
   {
     "objectID": "walkthrough.html",
     "href": "walkthrough.html",
-    "title": "7  Walkthrough Videos",
+    "title": "7  Walkthrough videos",
     "section": "",
     "text": "7.1 Purpose\nOnce the experiment is set up and people involved in data collection are trained, and BEFORE beginning data collection, we ask that you document how you run the MB5 study in your lab by creating a “Walkthrough” video.1\nTHIS DOES NOT NEED TO BE A PROFESSIONAL-QUALITY VIDEO! The goal is to be informative, not flawless—it can have starts, stops, and disfluency.\nEven if you already provided a video for another ManyBabies project, a new video specifically showing how you run the MB5 project is requested.\nThe purpose walkthrough videos is two-fold:\nPlease rest assured that these videos will NOT be used by ManyBabies to critique individual researchers’ laboratory policies and procedures. This project is a community effort!",
     "crumbs": [
       "Getting started",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Walkthrough Videos</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Walkthrough videos</span>"
     ]
   },
   {
     "objectID": "walkthrough.html#purpose",
     "href": "walkthrough.html#purpose",
-    "title": "7  Walkthrough Videos",
+    "title": "7  Walkthrough videos",
     "section": "",
     "text": "Given the ManyBabies Consortium’s commitment to Open Science, we would like to have a full and accurate record of how the study was implemented in each laboratory.\nOne of the goals of ManyBabies is to study how methodological variation affects experimental outcomes in infant research. This video record may be used for analyses examining whether laboratories with different characteristics and procedures (e.g., larger or smaller test booths, white or black walls) differ in the effect size obtained in ManyBabies projects.",
     "crumbs": [
       "Getting started",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Walkthrough Videos</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Walkthrough videos</span>"
     ]
   },
   {
     "objectID": "walkthrough.html#method",
     "href": "walkthrough.html#method",
-    "title": "7  Walkthrough Videos",
+    "title": "7  Walkthrough videos",
     "section": "7.2 Method",
     "text": "7.2 Method\nThere are two possibilities to create a video documenting your process:\n\nFilming a pilot session with a participant (with parental approval and permission from your local ethics board). Please make sure you have consent to share this video publicly!!\nAsking a colleague to “play” parent and using a dummy (e.g., a doll) as a baby stand-in.",
     "crumbs": [
       "Getting started",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Walkthrough Videos</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Walkthrough videos</span>"
     ]
   },
   {
     "objectID": "walkthrough.html#consent",
     "href": "walkthrough.html#consent",
-    "title": "7  Walkthrough Videos",
+    "title": "7  Walkthrough videos",
     "section": "7.3 Consent",
     "text": "7.3 Consent\nNote that we plan to share the videos among the consortium via Databrary, our website, and/or YouTube. There should be no assumption of privacy, and no confidential or otherwise sensitive information should be included in the videos. Be sure that parental consent covers all these options when filming participants.",
     "crumbs": [
       "Getting started",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Walkthrough Videos</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Walkthrough videos</span>"
     ]
   },
   {
     "objectID": "walkthrough.html#sequence",
     "href": "walkthrough.html#sequence",
-    "title": "7  Walkthrough Videos",
+    "title": "7  Walkthrough videos",
     "section": "7.4 Sequence",
     "text": "7.4 Sequence\nMake sure your video covers the following components. We added questions you should answer for each step. It is not necessary to narrate your video (you can if you want); a silent observer is sufficient, but be sure to cover all details requested below. If your lab language is not English, we might add subtitles later on.\n\nGreeting\n\nWhere do you receive families? (Dedicated area, parking lot, general entrance)\nWho is there? (Parents, colleagues, assistants)\nWhat do you say and ask them? (Example: Do you check when the baby last ate/slept?)\nWhat do you do if a baby arrives asleep or fussy?\n\n\n\nConsenting, instructions\n\nWhat is your informed consenting process like? How do parents give consent? When do you typically obtain consent?\nHow detailed do you explain the procedure and aim of the study?\nWhat instructions do you give to the parents? Are there any specific instructions on how to behave, sit, hold the baby, etc?\n\n\n\nQuestionnaire(s)\n\nAt what point do you hand out/collect questionnaires (e.g., pre- or post-experiment)?\nDo you give any additional instructions for the questionnaire other than those listed on the form(s)?\n\n\n\nExperiment\n\nWhat does your testing room/booth look like (size, lay-out, etc.)? Try to film the entrance and complete interior of the test booth or room.\nWhere is the baby sitting (e.g., parent’s lap, high chair, etc.)? Film the seating arrangement before the baby is seating and with the baby.\nWhat does the stimulus display look like (size, distance to baby)? Where is the screen located?\nWhere is the experimenter located during testing (e.g., inside or outside the booth)? Show where the experimenter is sitting; if it is in the same room, capture both baby and experimenter.\nCan the baby see the experimenter during testing? How does the experimenter see the baby (e.g.,videofeed)?\nHow is the experimenter blinded to trial type during testing?\nHow is the parent blinded during testing (blacked-out glasses or something similar)?\nIf live-coding takes place: Show examples of what counts as a look/no look and/or videotape someone doing the coding together with the infant looks.\n\n\n\nDebrief after experiment\n\nWhat do you tell parents at the end of a study?\nAre there standard questions you ask them?",
     "crumbs": [
       "Getting started",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Walkthrough Videos</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Walkthrough videos</span>"
     ]
   },
   {
     "objectID": "walkthrough.html#upload-your-walkthrough-video",
     "href": "walkthrough.html#upload-your-walkthrough-video",
-    "title": "7  Walkthrough Videos",
+    "title": "7  Walkthrough videos",
     "section": "7.5 Upload your walkthrough video",
     "text": "7.5 Upload your walkthrough video\n\nShare your walkthrough video using the MB5 Upload Form\n\nVideo files are too large for us to collect via form, so you will be asked to provide a url (e.g., google drive, dropbox, etc.) for where we can access and download your video. If you do not have access to cloud storage, email us and we will provide an upload location.\nPlease ensure that your video is clearly labeled in the file name with your LabID (e.g., babylabPrinceton_walkthrough.mpg). Check the list of LabIDs to confirm your lab’s unique LabID before uploading.\nYou are welcome to view videos that have already been uploaded by other labs as examples HERE2.\nWalkthrough videos from MB1 are available to view in this Databrary repository.\n\n\n\n2 Note that these videos might not have been reviewed yet by Project Leads",
     "crumbs": [
       "Getting started",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Walkthrough Videos</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Walkthrough videos</span>"
+    ]
+  },
+  {
+    "objectID": "data-validation.html",
+    "href": "data-validation.html",
+    "title": "8  Data validation",
+    "section": "",
+    "text": "ManyBabies Data Validator",
+    "crumbs": [
+      "Getting started",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Data validation</span>"
     ]
   },
   {
@@ -286,7 +297,7 @@
     "href": "experiment-overview.html",
     "title": "Setting up the experiment",
     "section": "",
-    "text": "This section explains the experimental method in detail. Please follow the instructions as closely as possible, and report any deviations from the protocol using the MB5 issue tracker form.\n\n9  Participants and recruitment\n10  Stimuli\n11  Procedure\n12  Apparatus\n8  Data Validation",
+    "text": "This section explains the experimental method in detail. Please follow the instructions as closely as possible, and report any deviations from the protocol using the MB5 issue tracker form.\n\n9  Participants and recruitment\n10  Stimuli\n11  Procedure\n12  Apparatus\n8  Data validation",
     "crumbs": [
       "Setting up the experiment"
     ]
