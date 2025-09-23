@@ -7,10 +7,10 @@ Please use the {{< var link.demographics >}}[^demographics-1] to collect informa
 [^demographics-1]: This questionnaire is adapted from the template(s) created by the <a href="https://manybabies.org/MB-Demographics/" target="_blank">MB-Demographics</a> group. Please see @Singh2024 for more information on the development of the template.
 
 ::: callout-important
-While parents/guardians can choose to not respond to individual questions, please **check the form BEFORE THE RESPONDANT LEAVES YOUR LAB** to avoid accidental blank responses/missing data.[^demographics-2]
+While parents/guardians can choose to not respond to individual questions, please **CHECK THE FORM BEFORE THE RESPONDANT LEAVES YOUR LAB** to avoid accidental blank responses/missing data.[^demographics-2]
+:::
 
 [^demographics-2]: In other words, please confirm that blank items are intentional non-responses rather than mistakes (e.g., respondant didn't understand what the question was asking, didn't know the questionnaire form was two-sided, etc.).
-:::
 
 ## Adaptations and translations
 
