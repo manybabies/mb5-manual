@@ -504,7 +504,7 @@
     "href": "general-lab-practices.html",
     "title": "14  General Lab Practices",
     "section": "",
-    "text": "14.1 Training research assistants\nYou are responsible for implementing rigorous training practices. Research assistants should be held to the same high standards for ManyBabies as they would be for your main studies. You are free to have any number of research assistants conduct the test sessions, but please aim for as much coding consistency as possible and document which research assistant coded a given baby (using code names such as RA1, RA2, etc. if you wish). You will be asked to report about your standard training practices (e.g., how/when do you determine it’s okay for a research assistant to test real babies). Online Coding. If you are using a central screen to gather accumulated looking data for infant-controlled familiarization, then research assistants will need to be properly trained in coding online looking behaviors. Offline Coding. If you are not using an eyetracker to gather data, then you will need to code the test trials offline.",
+    "text": "14.1 Training research assistants\nYou are responsible for implementing rigorous training practices. Research assistants should be held to the same high standards for a ManyBabies project as they would be for you own lab’s studies. You are free to have any number of research assistants conduct the test sessions, but please aim for as much coding consistency as possible and document which research assistant tested and/or coded a given baby (using code names such as RA1, RA2, etc. if you wish). You will be asked to report about your standard training practices (e.g., how/when do you determine it’s okay for a research assistant to test real babies).",
     "crumbs": [
       "Running the experiment",
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>General Lab Practices</span>"
@@ -526,7 +526,7 @@
     "href": "general-lab-practices.html#compensating-families",
     "title": "14  General Lab Practices",
     "section": "14.3 Compensating families",
-    "text": "14.3 Compensating families\nYou can use your lab’s standard, IRB-approved method for compensating families. This can include providinge small gifts, cash, travel reimbursement, taxi rides, or other incentives for participation as you normally would. Participating labs are responsible for compensating their own participants.",
+    "text": "14.3 Compensating families\nYou can use your lab’s standard, IRB-approved method for compensating families. This can include providing small gifts, cash, travel reimbursement, taxi rides, or other incentives for participation as you normally would. Participating labs are responsible for compensating their own participants.",
     "crumbs": [
       "Running the experiment",
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>General Lab Practices</span>"
@@ -753,6 +753,17 @@
     "crumbs": [
       "Appendices",
       "<span class='chapter-number'>A</span>  <span class='chapter-title'>MB5 Collaboration Agreement</span>"
+    ]
+  },
+  {
+    "objectID": "general-lab-practices.html#training-research-assistants",
+    "href": "general-lab-practices.html#training-research-assistants",
+    "title": "14  General Lab Practices",
+    "section": "",
+    "text": "Online Coding\nIf you are using a central screen to gather accumulated looking data for infant-controlled familiarization, then research assistants will need to be properly trained in coding online looking behaviors.\n\n\nOffline Coding\nIf you are not using an eyetracker to gather data, then you will need to code the test trials offline.",
+    "crumbs": [
+      "Running the experiment",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>General Lab Practices</span>"
     ]
   }
 ]
