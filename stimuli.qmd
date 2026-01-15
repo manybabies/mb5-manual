@@ -9,6 +9,8 @@
 We are still finalizing study materials based on community feedback. We will notify everyone when final study materials are available via an announcement to the {{< var link.listserv >}}.
 :::
 
+TEST EDIT TO CHECK UPDATES.
+
 Because the sample size possible in ManyBabies projects provides a unique opportunity to test generalizability across multiple stimulus types, we chose two different categories of stimuli: **Fribbuli**[^stimuli-1] and **Fractals**. These two classes of stimuli were chosen because:
 
 [^stimuli-1]: "Fribbuli" is a portmenteau combining the words "Fribble" and "stimuli". These stimuli were inspired by the *Fribbles* stimulus set [@barry2014]
