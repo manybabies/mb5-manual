@@ -384,7 +384,7 @@
     "href": "stimuli.html#overview",
     "title": "10  Stimuli",
     "section": "",
-    "text": "All materials are available in the MB5 materials directory.\n\n\n1 “Fribbuli” is a portmenteau combining the words “Fribble” and “stimuli”. These stimuli were inspired by the Fribbles stimulus set (Barry et al., 2014)\nthey allow for variation in stimulus complexity within the same stimulus category (i.e., by manipulating the number of features)\ninfants are unlikely to have previous experience with either set of stimuli\nthe inclusion of two stimulus sets allow us to begin examining the generalizability of any observed effect\n\n\n\nManyFribbuli2\nFribbuli are colorful, computer-generated models of 3D figures. All Fribbuli are made up of one of twelve possible body shapes and one (low-complexity) or four (high-complexity) appendages.\nADD MORE INFO ABOUT COLOR SELECTION, SIZING, ETC\n\n2 We’re calling our custom sets of stimuli “ManyFribbuli” and “ManyFractals” because… well, it’s fun.\nManyFractals\nFractals are geometric shapes in which the same structure is repeated iteratively at different levels of scale.\nADD MORE INFO ABOUT FRACTAL GENERATION\n\n\n\nTable 10.1: \n\n\n\n\n\n\n\n\n\n\n\n\nManyFribbuli\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nManyFractals\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAttention-getter stimuli\n\nBetween Trials: Please use the provided “laughing baby” stimulus to re-center babies between each trial (i.e., before familiarization begins). If your lab uses a different attention-getting stimulus that you feel is more appropriate for your community, please check with us.\nWithin Trial: Please use the the “Hoehle circle with chimes” stimulus to re-center babies within each trial (i.e., between familiarization and test and between test phases 1 and 2).\n\n\n\n\n\nBarry, T. J., Griffith, J. W., De Rossi, S., & Hermans, D. (2014). Meet the fribbles: Novel stimuli for use within behavioural research. Frontiers in Psychology, 5. https://doi.org/10.3389/fpsyg.2014.00103",
+    "text": "All (in development) materials are available in the MB5 materials directory.\n\n\n\n\n\n\n\nPlease note that these are not final versions!\n\n\n\nWe are still finalizing study materials based on community feedback. We will notify everyone when final study materials are available via an announcement to the MB5 listserv.\n\n\n\n1 “Fribbuli” is a portmenteau combining the words “Fribble” and “stimuli”. These stimuli were inspired by the Fribbles stimulus set (Barry et al., 2014)\nthey allow for variation in stimulus complexity within the same stimulus category (i.e., by manipulating the number of features)\ninfants are unlikely to have previous experience with either set of stimuli\nthe inclusion of two stimulus sets allow us to begin examining the generalizability of any observed effect\n\n\n\nManyFribbuli2\nFribbuli are colorful, computer-generated models of 3D figures. All Fribbuli are made up of one of twelve possible body shapes and one (low-complexity) or four (high-complexity) appendages.\nADD MORE INFO ABOUT COLOR SELECTION, SIZING, ETC\n\n2 We’re calling our custom sets of stimuli “ManyFribbuli” and “ManyFractals” because… well, it’s fun.\nManyFractals\nFractals are geometric shapes in which the same structure is repeated iteratively at different levels of scale.\nADD MORE INFO ABOUT FRACTAL GENERATION\n\n\n\nTable 10.1: \n\n\n\n\n\n\n\n\n\n\n\n\nManyFribbuli\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nManyFractals\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAttention-getter stimuli\n\nBetween Trials: Please use the provided “laughing baby” stimulus to re-center babies between each trial (i.e., before familiarization begins). If your lab uses a different attention-getting stimulus that you feel is more appropriate for your community, please check with us.\nWithin Trial: Please use the the “Hoehle circle with chimes” stimulus to re-center babies within each trial (i.e., between familiarization and test and between test phases 1 and 2).\n\n\n\n\n\nBarry, T. J., Griffith, J. W., De Rossi, S., & Hermans, D. (2014). Meet the fribbles: Novel stimuli for use within behavioural research. Frontiers in Psychology, 5. https://doi.org/10.3389/fpsyg.2014.00103",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Stimuli</span>"
@@ -504,7 +504,18 @@
     "href": "general-lab-practices.html",
     "title": "14  General Lab Practices",
     "section": "",
-    "text": "14.1 Training research assistants\nYou are responsible for implementing rigorous training practices. Research assistants should be held to the same high standards for a ManyBabies project as they would be for you own lab’s studies. You are free to have any number of research assistants conduct the test sessions, but please aim for as much coding consistency as possible and document which research assistant tested and/or coded a given baby (using code names such as RA1, RA2, etc. if you wish). You will be asked to report about your standard training practices (e.g., how/when do you determine it’s okay for a research assistant to test real babies).",
+    "text": "14.1 Training research assistants\nYou are responsible for implementing rigorous training practices. Research assistants should be held to the same high standards for a ManyBabies project as they would be for your own lab’s studies. You are free to have any number of research assistants conduct the test sessions, but please aim for as much coding consistency as possible and document which research assistant tested and/or coded a given baby (using code names such as RA1, RA2, etc. if you wish). You will be asked to report about your standard training practices (e.g., how/when do you determine it’s okay for a research assistant to test real babies).",
+    "crumbs": [
+      "Running the experiment",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>General Lab Practices</span>"
+    ]
+  },
+  {
+    "objectID": "general-lab-practices.html#training-research-assistants",
+    "href": "general-lab-practices.html#training-research-assistants",
+    "title": "14  General Lab Practices",
+    "section": "",
+    "text": "Online Coding\nIf you are using a central screen to gather accumulated looking data for infant-controlled familiarization, then research assistants will need to be properly trained in coding online looking behaviors.\n\n\nOffline Coding\nIf you are not using an eyetracker to gather data, then you will need to code the test trials offline.",
     "crumbs": [
       "Running the experiment",
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>General Lab Practices</span>"
@@ -753,17 +764,6 @@
     "crumbs": [
       "Appendices",
       "<span class='chapter-number'>A</span>  <span class='chapter-title'>MB5 Collaboration Agreement</span>"
-    ]
-  },
-  {
-    "objectID": "general-lab-practices.html#training-research-assistants",
-    "href": "general-lab-practices.html#training-research-assistants",
-    "title": "14  General Lab Practices",
-    "section": "",
-    "text": "Online Coding\nIf you are using a central screen to gather accumulated looking data for infant-controlled familiarization, then research assistants will need to be properly trained in coding online looking behaviors.\n\n\nOffline Coding\nIf you are not using an eyetracker to gather data, then you will need to code the test trials offline.",
-    "crumbs": [
-      "Running the experiment",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>General Lab Practices</span>"
     ]
   }
 ]

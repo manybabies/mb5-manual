@@ -2,7 +2,7 @@
 
 ## Training research assistants
 
-You are responsible for implementing rigorous training practices. Research assistants should be held to the same high standards for a ManyBabies project as they would be for you own lab's studies. You are free to have any number of research assistants conduct the test sessions, but please aim for as much coding consistency as possible and document which research assistant tested and/or coded a given baby (using code names such as RA1, RA2, etc. if you wish). You will be asked to report about your standard training practices (e.g., how/when do you determine it’s okay for a research assistant to test real babies).
+You are responsible for implementing rigorous training practices. Research assistants should be held to the same high standards for a ManyBabies project as they would be for your own lab's studies. You are free to have any number of research assistants conduct the test sessions, but please aim for as much coding consistency as possible and document which research assistant tested and/or coded a given baby (using code names such as RA1, RA2, etc. if you wish). You will be asked to report about your standard training practices (e.g., how/when do you determine it’s okay for a research assistant to test real babies).
 
 ### Online Coding
 

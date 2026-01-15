@@ -2,7 +2,12 @@
 
 ## Overview
 
-> All materials are available in the [**MB5 materials directory**](https://drive.google.com/drive/folders/1ces1jzHYVV0Wx29JAtdfGAZx_pDAAh5l?usp=sharing).
+> All (in development) materials are available in the {{< var link.materials >}}.
+
+::: callout-important
+## Please note that these are not final versions! {.mark .unnumbered}
+We are still finalizing study materials based on community feedback. We will notify everyone when final study materials are available via an announcement to the {{< var link.listserv >}}.
+:::
 
 Because the sample size possible in ManyBabies projects provides a unique opportunity to test generalizability across multiple stimulus types, we chose two different categories of stimuli: **Fribbuli**[^stimuli-1] and **Fractals**. These two classes of stimuli were chosen because:
 
@@ -14,12 +19,11 @@ Because the sample size possible in ManyBabies projects provides a unique opport
 
 We created 12 unique Fribbuli and 12 unique Fractals. Within each stimulus type, 6 items were designed to be *low-complexity* and 6 were designed to be *high-complexity*. ***Complexity*** is operationalized as the number of features present (these features are appendages in the case of Fribbuli and iterations of the same structure for Fractals; see @tbl-stimuli
 
-### ManyFribbuli[^stimuli-3]
+### ManyFribbuli[^stimuli-2]
 
-[^stimuli-3]: We're calling our custom sets of stimuli "ManyFribbuli" and "ManyFractals" because... well, it's fun.
+[^stimuli-2]: We're calling our custom sets of stimuli "ManyFribbuli" and "ManyFractals" because... well, it's fun.
 
 Fribbuli are colorful, computer-generated models of 3D figures. All Fribbuli are made up of one of twelve possible body shapes and one (low-complexity) or four (high-complexity) appendages.
-
 
 **ADD MORE INFO ABOUT COLOR SELECTION, SIZING, ETC**
 
@@ -66,13 +70,7 @@ Fractals are geometric shapes in which the same structure is repeated iterativel
     </tr>
   </tbody>
 </table>
-
 ```
-
-
-
-
-
 
 ### Attention-getter stimuli
 
