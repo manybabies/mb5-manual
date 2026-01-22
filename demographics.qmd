@@ -2,6 +2,10 @@
 
 ## Collecting participant information
 
+::: callout-important
+We are finalizing the questionnaire template and will make an announcmement via the MB5 listserv when it is accessible via the directory linked below Thank you for your patience! 
+:::
+
 Please use the {{< var link.demographics >}}[^demographics-1] to collect information about participants and their families.
 
 [^demographics-1]: This questionnaire is adapted from the template(s) created by the <a href="https://manybabies.org/MB-Demographics/" target="_blank">MB-Demographics</a> group. Please see @Singh2024 for more information on the development of the template.
