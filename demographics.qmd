@@ -2,10 +2,6 @@
 
 ## Collecting participant information
 
-::: callout-important
-We are finalizing the questionnaire template and will make an announcmement via the MB5 listserv when it is accessible via the directory linked below. Thank you for your patience! 
-:::
-
 Please use the {{< var link.demographics >}}[^demographics-1] to collect information about participants and their families.
 
 [^demographics-1]: This questionnaire is adapted from the template(s) created by the <a href="https://manybabies.org/MB-Demographics/" target="_blank">MB-Demographics</a> group. Please see @Singh2024 for more information on the development of the template.
@@ -18,9 +14,9 @@ While parents/guardians can choose to not respond to individual questions, pleas
 
 ## Adaptations and translations
 
-As noted in @Singh2024, the MB demographics questionnaire template was developed to query information pertaining to six constructs (biographical information, gestational status, health status, community of descent, caregiving environment, and socioeconomic status). We have added a few additional questions that are of particular interest to MB5 (e.g., family history of colorblindness).
+As noted in @Singh2024, the MB Demographics Questionnaire template was developed to query information pertaining to six constructs (*biographical information*, *gestational status*, *health status*, *community of descent*, *caregiving environment*, and *socioeconomic status*). We have added a few additional questions that are of particular interest to MB5 (e.g., family history of colorblindness).
 
-We recognize that the specific questions/response options on the example template (which was developed in English for use in the United States) are not appropriate for all contexts.
+> We recognize that the specific questions/response options in the example template (which was developed in English for use in the United States) are not appropriate for all contexts.
 
 **We encourage labs to translate and adapt the questionnaire template as needed**, while keeping in mind the goal of querying the same constructs included in the original template to ensure consistency in reporting. For example, the question on race/ethnicity can be adapted to meet the norms of your region. If possible, please use racial/ethnic categories taken from local census categories. For countries where it is not considered socially or legally acceptable to inquire about ethnic background, please adapt to a more appropriate question (e.g., parent and child place of birth), if possible.
 
@@ -28,7 +24,7 @@ If you have any questions about adapting the questionnaire, please contact the l
 
 **Translations/adaptations of the MB5 Demographics Questionnaire** will be available [**here**]({{< var url.demographics >}}){target="_blank"} as they are created.[^demographics-3]
 
-[^demographics-3]: Existing translations/adaptations of the MB-Demographics template are available via the <a href="https://osf.io/nqc92/files/osfstorage" target="_blank">MB-Demographics OSF repository</a>.
+[^demographics-3]: Existing translations/adaptations of the original MB-Demographics template are available via the <a href="https://osf.io/nqc92/files/osfstorage" target="_blank">MB-Demographics OSF repository</a>.
 
 ## Uploading demographics questionnaire
 
