@@ -12,6 +12,12 @@
 Bear with us as we finalize this document with all of the information your lab will need to successfully collect data for MB5. In the meantime, feel free to poke around and email us at {{< var email.support >}} if you have any questions or need help.
 :::
 
+::: callout-important
+# MB5 DATA COLLECTION HAS NOT YET STARTED! {.unnumbered}
+
+# DO NOT BEGIN DATA COLLECTION FOR MB5 UNTIL TESTING DATES HAVE BEEN ANNOUNCED AND PROJECT LEADS GIVE YOUR LAB A "GREEN-LIGHT"!! {.unnumbered}
+:::
+
 ------------------------------------------------------------------------
 
 ### Thank you for contributing to {{< var link.mb5dotorg >}}, a project of {{< var link.mbdotorg >}}!
