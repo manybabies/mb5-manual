@@ -3,9 +3,11 @@
 ::: callout-important
 ## TEST DATES TO BE DETERMINED! {.mark .unnumbered}
 
-# Testing start and end dates have not yet been finalized! {.unnumbered}
+# MB5 DATA COLLECTION HAS NOT YET STARTED! {.unnumbered}
 
-# DO NOT BEGIN DATA COLLECTION FOR MB5 UNTIL PROJECT LEADS GIVE YOUR LAB A "GREEN-LIGHT"!! {.unnumbered}
+## Testing start and end dates have not yet been finalized! {.unnumbered}
+
+# DO NOT BEGIN DATA COLLECTION FOR MB5 UNTIL TESTING DATES HAVE BEEN ANNOUNCED AND PROJECT LEADS GIVE YOUR LAB A "GREEN-LIGHT"!! {.unnumbered}
 :::
 
 MB5 data collection is scheduled to run between the following dates:
