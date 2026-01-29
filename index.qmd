@@ -1,6 +1,6 @@
 <br>
 
-[![](images/mb-logo.png){width="25%"}](https://manybabies.org/) [![](images/mb5-logo.png){width="20%"}](https://manybabies.org/MB5)
+[![](images/mb-logo.png){width="20%"}](https://manybabies.org/) [![](images/mb5-logo.png){width="15%"}](https://manybabies.org/MB5)
 
 # Preface {#sec-preface .unnumbered}
 
@@ -22,7 +22,16 @@ Bear with us as we finalize this document with all of the information your lab w
 
 ### Thank you for contributing to {{< var link.mb5dotorg >}}, a project of {{< var link.mbdotorg >}}!
 
-MB5 is a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs. novelty preference through a collaboratively-designed “best test” of a popular model of infants’ visual preference for familiar and novel stimuli [@hunter1988]. More details about the background, design and hypotheses can be found in the {{< var link.stage1rr >}} [@kosie]. In the following sections, we provide instructions for implementing the experiment in your lab and report data back to the project as a whole. Thanks for joining us!
+::: callout-warning
+# IMPORTANT {.unnumbered}
+
+## PLEASE REVIEW ALL OF THE MATERIAL IN THIS MANUAL CAREFULLY BEFORE DOING ANYTHING ELSE! {.unnumbered}
+:::
+
+<br>
+
+## MB5 Overview
+MB5 is a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs. novelty preference through a collaboratively-designed “best test” of a popular model of infants’ visual preference for familiar and novel stimuli [@hunter1988]. More details about the background, design and hypotheses can be found in the {{< var link.stage1rr >}} [@kosie]. In the following sections, we provide instructions for getting ready to run the experiment, implementing the experiment in your lab, and reporting data back to the project as a whole.  Thanks for joining us!
 
 ![Hunter and Ames model of infant attention (adapted from Bergmann and Cristia, 2016)](images/HunterAmesFig.png){#fig-hunterames}
 
