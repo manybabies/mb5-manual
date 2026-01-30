@@ -1,16 +1,22 @@
 <br>
 
+::: callout-important
+# IMPORTANT! {.mark .unnumbered}
+
+# This lab manual is still UNDER DEVELOPMENT! {.unnumbered}
+
+Bear with us as we finalize this document with all of the information your lab will need to successfully collect data for MB5. In the meantime, feel free to poke around and email us at {{< var email.support >}} if you have any questions or need help.
+:::
+
+***
+
 [![](images/mb-logo.png){width="20%"}](https://manybabies.org/) [![](images/mb5-logo.png){width="15%"}](https://manybabies.org/MB5)
 
 # Preface {#sec-preface .unnumbered}
 
 ------------------------------------------------------------------------
 
-::: callout-important
-## IMPORTANT! This lab manual is still UNDER DEVELOPMENT! {.mark .unnumbered}
 
-Bear with us as we finalize this document with all of the information your lab will need to successfully collect data for MB5. In the meantime, feel free to poke around and email us at {{< var email.support >}} if you have any questions or need help.
-:::
 
 ::: callout-important
 # MB5 DATA COLLECTION HAS NOT YET STARTED! {.unnumbered}
