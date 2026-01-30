@@ -1,32 +1,38 @@
 # MB5 lab participation overview {#sec-laboverview}
 
-These are the steps that every data-collecting lab must follow to participate in MB5. This is just an overview of the process. More detail for each numbered item is available in the linked sections.
+::: callout-important
+# IMPORTANT
+
+### These are the steps that every data-collecting lab must follow to participate in MB5. This is just an overview of the process. More detail for each numbered item is available in the linked sections.
+:::
 
 ### BEFORE you do ANYTHING else: 
 
 (@)  <b>Read this manual</b> start to finish 
-(@)  Read the [**MB5 Collaboration Agreement**]({{< var url.collaboration >}}){target="_blank"}
-(@)  Review the information in the [**ManyBabies General Manual**]({{< var link.generalmanual >}}){target="_blank"} regarding <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.22i70rxou3ha" target="_blank">ethical research</a>, <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.9ty2g48mpe0t" target="_blank">authorship</a>, <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.aunbjkpwxhf3" target="_blank">data sharing</a>, and <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.6h67zsyeiveg" target="_blank">data use</a>
+(@)  Read the {{< var link.codeofconduct >}}
+(@)  Read the [MB5 Collaboration Agreement]({{< var url.collaboration >}}){target="_blank"}. **By participating in this project, you agree to abide by the terms outlined in this agreement.**
+(@)  Review the information in the [ManyBabies General Manual]({{< var link.generalmanual >}}){target="_blank"} regarding <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.22i70rxou3ha" target="_blank">ethical research</a>, <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.9ty2g48mpe0t" target="_blank">authorship</a>, <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.aunbjkpwxhf3" target="_blank">data sharing</a>, and <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.6h67zsyeiveg" target="_blank">data use</a>
 (@)  **Complete the **[**MB5 Sign-Up Form**]({{< var url.signup >}}){target="_blank"}
 
 ### BEFORE you begin data collection: 
 
-(@)  Set up the experiment in consultation with this lab manual (see [Setting up the Experiment](#sec-setup)) 
+(@)  **Set up the experiment** in consultation with this lab manual (see [Setting up the Experiment](#sec-setup)) 
     i) Carefully record any needed deviations from the protocol using the {{< var link.issue >}}
 (@)  Submit the version of the **demographics questionnaire** your lab will be using (see @sec-demographics), your lab's **ethics approval** (see @sec-ethics), and any other documentation/materials
 (@)  Create and submit your **walkthrough video** (see @sec-walkthrough)
-(@)  Run pilot sample through the {{< var link.validator >}} (see @sec-validation)
+(@)  Run pilot data through the {{< var link.validator >}} (see @sec-validation)
 (@)  Email the MB5 Project Leads ({{< var email.support >}}) to let them know that you are ready for “Green-Lighting” (`Subject: "MB5 GREEN-LIGHT REQUEST"`)
 (@) **WAIT for your official “Green-Light”** from the leadership team to begin data collection
 
 :::{.callout-important}
-### IMPORTANT!
-**DO NOT BEGIN DATA COLLECTION (other than piloting) until your lab has been explicitly given the “Green-Light” to do so by the Project Leads.**
+# IMPORTANT!
+
+### DO NOT BEGIN DATA COLLECTION (other than piloting) until your lab has been explicitly given the “Green-Light” to do so by the Project Leads.
 :::
 
 ### Data collection: 
 
-(@) Collect your data following the guidelines in the [Running the experiment](#sec-running) section!
+(@) **ONLY AFTER YOUR LAB HAS BEEN GIVEN A "GREEN-LIGHT":** Collect your data following the guidelines in the [Running the experiment](#sec-running) section!
 
 ### AFTER you finish data collection: 
 

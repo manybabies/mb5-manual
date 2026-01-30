@@ -42,7 +42,7 @@ This manual provides the information needed to participate in ManyBabies 5. The 
 ::: callout-caution
 #### Help us improve the manual!
 
-If you find any errors or would like to suggest edits/improvements, we want to hear about it! You can let us know by creating an issue via the {{< var link.manualgithub >}} <i>(click on `Issues` then `New issue`)</i>.
+If you find any errors (big or small!) or would like to suggest edits/improvements, we want to hear about it! You can let us know by creating an issue via the {{< var link.manualgithub >}} <i>(click on `Issues` then `New issue`)</i>.
 :::
 
 <br>
