@@ -12,7 +12,7 @@ Bear with us as we finalize this document with all of the information your lab w
 
 [![](images/mb-logo.png){width="20%"}](https://manybabies.org/) [![](images/mb5-logo.png){width="15%"}](https://manybabies.org/MB5)
 
-***
+
 
 ::: callout-important
 # MB5 DATA COLLECTION HAS NOT YET STARTED! {.unnumbered}
@@ -33,8 +33,8 @@ Bear with us as we finalize this document with all of the information your lab w
 :::
 
 <br>
+<br>
 
-***
 ## Manual Overview
 
 This manual provides the information needed to participate in ManyBabies 5. The manual is divided into five sections ([General information](#sec-generalinfo), [Getting Started](#sec-gettingstarted), [Setting up the experiment](#sec-running), & [After data collection](#sec-aftercollection)). Each section is divided into chapters, which you can jump to using the navigation panel on the left of the screen.
@@ -46,18 +46,17 @@ If you find any errors or would like to suggest edits/improvements, we want to h
 :::
 
 <br>
+<br>
 
-***
 ## MB5 Overview
 
 MB5 is a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs. novelty preference through a collaboratively-designed “best test” of a popular model of infants’ visual preference for familiar and novel stimuli [@hunter1988]. More details about the background, design and hypotheses can be found in the {{< var link.stage1rr >}} [@kosie]. In the following sections, we provide instructions for getting ready to run the experiment, implementing the experiment in your lab, and reporting data back to the project as a whole. Thanks for joining us!
 
 ![Hunter and Ames model of infant attention (adapted from Bergmann and Cristia, 2016)](images/HunterAmesFig.png){#fig-hunterames}
 
+
 <br>
-
-
-***
+<br>
 
 ### Acknowledgments
 
