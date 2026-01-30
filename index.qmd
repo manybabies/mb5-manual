@@ -12,11 +12,7 @@ Bear with us as we finalize this document with all of the information your lab w
 
 [![](images/mb-logo.png){width="20%"}](https://manybabies.org/) [![](images/mb5-logo.png){width="15%"}](https://manybabies.org/MB5)
 
-# Preface {#sec-preface .unnumbered}
-
-------------------------------------------------------------------------
-
-
+***
 
 ::: callout-important
 # MB5 DATA COLLECTION HAS NOT YET STARTED! {.unnumbered}
@@ -24,26 +20,21 @@ Bear with us as we finalize this document with all of the information your lab w
 # DO NOT BEGIN DATA COLLECTION FOR MB5 UNTIL TESTING DATES HAVE BEEN ANNOUNCED AND PROJECT LEADS GIVE YOUR LAB A "GREEN-LIGHT"!! {.unnumbered}
 :::
 
-------------------------------------------------------------------------
+***
+
+# Preface {#sec-preface .unnumbered}
 
 ### Thank you for contributing to {{< var link.mb5dotorg >}}, a project of {{< var link.mbdotorg >}}!
 
 ::: callout-warning
 # IMPORTANT {.unnumbered}
 
-## PLEASE REVIEW ALL OF THE MATERIAL IN THIS MANUAL CAREFULLY BEFORE DOING ANYTHING ELSE! {.unnumbered}
+### PLEASE REVIEW ALL OF THE MATERIAL IN THIS MANUAL CAREFULLY BEFORE DOING ANYTHING ELSE! {.unnumbered}
 :::
 
 <br>
 
-## MB5 Overview
-
-MB5 is a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs. novelty preference through a collaboratively-designed “best test” of a popular model of infants’ visual preference for familiar and novel stimuli [@hunter1988]. More details about the background, design and hypotheses can be found in the {{< var link.stage1rr >}} [@kosie]. In the following sections, we provide instructions for getting ready to run the experiment, implementing the experiment in your lab, and reporting data back to the project as a whole. Thanks for joining us!
-
-![Hunter and Ames model of infant attention (adapted from Bergmann and Cristia, 2016)](images/HunterAmesFig.png){#fig-hunterames}
-
-<br>
-
+***
 ## Manual Overview
 
 This manual provides the information needed to participate in ManyBabies 5. The manual is divided into five sections ([General information](#sec-generalinfo), [Getting Started](#sec-gettingstarted), [Setting up the experiment](#sec-running), & [After data collection](#sec-aftercollection)). Each section is divided into chapters, which you can jump to using the navigation panel on the left of the screen.
@@ -54,20 +45,34 @@ This manual provides the information needed to participate in ManyBabies 5. The 
 If you find any errors or would like to suggest edits/improvements, we want to hear about it! You can let us know by creating an issue via the {{< var link.manualgithub >}} <i>(click on `Issues` then `New issue`)</i>.
 :::
 
-------------------------------------------------------------------------
+<br>
+
+***
+## MB5 Overview
+
+MB5 is a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs. novelty preference through a collaboratively-designed “best test” of a popular model of infants’ visual preference for familiar and novel stimuli [@hunter1988]. More details about the background, design and hypotheses can be found in the {{< var link.stage1rr >}} [@kosie]. In the following sections, we provide instructions for getting ready to run the experiment, implementing the experiment in your lab, and reporting data back to the project as a whole. Thanks for joining us!
+
+![Hunter and Ames model of infant attention (adapted from Bergmann and Cristia, 2016)](images/HunterAmesFig.png){#fig-hunterames}
+
+<br>
+
+
+***
 
 ### Acknowledgments
 
 Much of this manual was adapted from the lab manuals created by the MB1, MB2, MB3, and MB4 teams.
 
-------------------------------------------------------------------------
+***
 
 This is a Quarto book.
 
 To learn more about Quarto books visit <https://quarto.org/docs/books>.
 
-------------------------------------------------------------------------
+***
+
+### License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" style="border-width:0"/></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
-------------------------------------------------------------------------
+***

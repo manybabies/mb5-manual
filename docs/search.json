@@ -14,7 +14,17 @@
     "href": "index.html#manual-overview",
     "title": "ManyBabies 5: Hunter & Ames Model of Infant Attention - Lab Manual",
     "section": "Manual Overview",
-    "text": "Manual Overview\nThis manual provides the information needed to participate in ManyBabies 5. The manual is divided into five sections (General information, Getting Started, Setting up the experiment, & After data collection). Each section is divided into chapters, which you can jump to using the navigation panel on the left of the screen.\n\n\n\n\n\n\nHelp us improve the manual!\n\n\n\nIf you find any errors or would like to suggest edits/improvements, we want to hear about it! You can let us know by creating an issue via the MB5 manual github (click on Issues then New issue).\n\n\n\n\nAcknowledgments\nMuch of this manual was adapted from the lab manuals created by the MB1, MB2, MB3, and MB4 teams.\n\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\nThis work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.\n\n\n\n\n\nHunter, M. A., & Ames, E. W. (1988). A multifactor model of infant preferences for novel and familiar stimuli (pp. 69–95). Ablex Publishing.\n\n\nKosie, J., Zettersten, M., Abu-Zhaya, R., Amso, D., Babineau, M., Baumgartner, H., Bazhydai, M., Belia, M., Benavides, S., Bergmann, C., Berteletti, I., Black, A. K., Borges, P., Borovsky, A., Byers-Heinlein, K., Cabrera, L., Calignano, G., Cao, A., Cox, C. M. M., … Lew-Williams, C. (n.d.). ManyBabies 5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time. https://doi.org/10.31234/osf.io/ck3vd",
+    "text": "Manual Overview\nThis manual provides the information needed to participate in ManyBabies 5. The manual is divided into five sections (General information, Getting Started, Setting up the experiment, & After data collection). Each section is divided into chapters, which you can jump to using the navigation panel on the left of the screen.\n\n\n\n\n\n\nHelp us improve the manual!\n\n\n\nIf you find any errors or would like to suggest edits/improvements, we want to hear about it! You can let us know by creating an issue via the MB5 manual github (click on Issues then New issue).",
+    "crumbs": [
+      "IMPORTANT!"
+    ]
+  },
+  {
+    "objectID": "index.html#mb5-overview",
+    "href": "index.html#mb5-overview",
+    "title": "ManyBabies 5: Hunter & Ames Model of Infant Attention - Lab Manual",
+    "section": "MB5 Overview",
+    "text": "MB5 Overview\nMB5 is a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs. novelty preference through a collaboratively-designed “best test” of a popular model of infants’ visual preference for familiar and novel stimuli (Hunter & Ames, 1988). More details about the background, design and hypotheses can be found in the MB5 Stage 1 Registered Report (Kosie et al., n.d.). In the following sections, we provide instructions for getting ready to run the experiment, implementing the experiment in your lab, and reporting data back to the project as a whole. Thanks for joining us!\n\n\n\n\n\n\nFigure 1: Hunter and Ames model of infant attention (adapted from Bergmann and Cristia, 2016)\n\n\n\n\n\n\nAcknowledgments\nMuch of this manual was adapted from the lab manuals created by the MB1, MB2, MB3, and MB4 teams.\n\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n\n\nLicense\nThis work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.\n\n\n\n\n\nHunter, M. A., & Ames, E. W. (1988). A multifactor model of infant preferences for novel and familiar stimuli (pp. 69–95). Ablex Publishing.\n\n\nKosie, J., Zettersten, M., Abu-Zhaya, R., Amso, D., Babineau, M., Baumgartner, H., Bazhydai, M., Belia, M., Benavides, S., Bergmann, C., Berteletti, I., Black, A. K., Borges, P., Borovsky, A., Byers-Heinlein, K., Cabrera, L., Calignano, G., Cao, A., Cox, C. M. M., … Lew-Williams, C. (n.d.). ManyBabies 5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time. https://doi.org/10.31234/osf.io/ck3vd",
     "crumbs": [
       "IMPORTANT!"
     ]
@@ -24,7 +34,7 @@
     "href": "general-info.html",
     "title": "General information",
     "section": "",
-    "text": "This section includes contact info, important links, data collection start and end dates, and the list of steps each lab must take to succcessfully collect and contribute data for MB5.\n\n?sec-contactinfo\n2  Data collection period\n3  MB5 lab participation overview",
+    "text": "This section includes contact info, important links, data collection start and end dates, and the list of steps each lab must take to succcessfully collect and contribute data for MB5.\n\n1  Contact info and important links\n2  Data collection period\n3  MB5 lab participation overview",
     "crumbs": [
       "General information"
     ]
@@ -100,7 +110,7 @@
     "href": "lab-overview.html",
     "title": "3  MB5 lab participation overview",
     "section": "",
-    "text": "These are the steps that every data-collecting lab must follow to participate in MB5. This is just an overview of the process. More detail for each numbered item is available in the linked sections.\n\nBEFORE you do ANYTHING else:\n\nRead this manual start to finish\nRead the MB5 Collaboration Agreement\nReview the information in the ManyBabies General Manual regarding ethical research, authorship, data sharing, and data use\nComplete the MB5 Sign-Up Form\n\n\n\nBEFORE you begin data collection:\n\nSet up the experiment in consultation with this lab manual (see Setting up the Experiment)\n\nCarefully record any needed deviations from the protocol using the MB5 Issue Tracking and Support Request Form\n\nSubmit the version of the demographics questionnaire your lab will be using (see ?sec-demographics), your lab’s ethics approval (see Chapter 6), and any other documentation/materials\nCreate and submit your walkthrough video (see Chapter 7)\nRun pilot sample through the ManyBabies Data Validator (see ?sec-validation)\nEmail the MB5 Project Leads (mb5@manybabies.org) to let them know that you are ready for “Green-Lighting” (Subject: \"MB5 GREEN-LIGHT REQUEST\")\nWAIT for your official “Green-Light” from the leadership team to begin data collection\n\n\n\n\n\n\n\nIMPORTANT!\n\n\n\nDO NOT BEGIN DATA COLLECTION (other than piloting) until your lab has been explicitly given the “Green-Light” to do so by the Project Leads.\n\n\n\n\nData collection:\n\nCollect your data following the guidelines in the Running the experiment section!\n\n\n\nAFTER you finish data collection:\n\nCompile your participant and trial data files in consultation with data reporting guidelines (see ?sec-datareporting)\nVerify your data files using the ManyBabies Data Validator (see ?sec-validation)\nSubmit your data using the MB5 Upload Form\nReport individual contributions using the MB Contribution Reporting Form",
+    "text": "These are the steps that every data-collecting lab must follow to participate in MB5. This is just an overview of the process. More detail for each numbered item is available in the linked sections.\n\nBEFORE you do ANYTHING else:\n\nRead this manual start to finish\nRead the MB5 Collaboration Agreement\nReview the information in the ManyBabies General Manual regarding ethical research, authorship, data sharing, and data use\nComplete the MB5 Sign-Up Form\n\n\n\nBEFORE you begin data collection:\n\nSet up the experiment in consultation with this lab manual (see Setting up the Experiment)\n\nCarefully record any needed deviations from the protocol using the MB5 Issue Tracking and Support Request Form\n\nSubmit the version of the demographics questionnaire your lab will be using (see Chapter 5), your lab’s ethics approval (see Chapter 6), and any other documentation/materials\nCreate and submit your walkthrough video (see Chapter 7)\nRun pilot sample through the ManyBabies Data Validator (see Chapter 8)\nEmail the MB5 Project Leads (mb5@manybabies.org) to let them know that you are ready for “Green-Lighting” (Subject: \"MB5 GREEN-LIGHT REQUEST\")\nWAIT for your official “Green-Light” from the leadership team to begin data collection\n\n\n\n\n\n\n\nIMPORTANT!\n\n\n\nDO NOT BEGIN DATA COLLECTION (other than piloting) until your lab has been explicitly given the “Green-Light” to do so by the Project Leads.\n\n\n\n\nData collection:\n\nCollect your data following the guidelines in the Running the experiment section!\n\n\n\nAFTER you finish data collection:\n\nCompile your participant and trial data files in consultation with data reporting guidelines (see Chapter 17)\nVerify your data files using the ManyBabies Data Validator (see Chapter 8)\nSubmit your data using the MB5 Upload Form\nReport individual contributions using the MB Contribution Reporting Form",
     "crumbs": [
       "General information",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>MB5 lab participation overview</span>"
@@ -111,7 +121,7 @@
     "href": "getting-started.html",
     "title": "Getting started",
     "section": "",
-    "text": "This section covers some basic aspects of the project that you’ll need to know about BEFORE you set up and run the experiment. Use the arrows to continue to through the sections, or jump to a section using the links below.\n\n4  Green-Lighting process\n?sec-demographics\n6  Ethics approval\n7  Walkthrough videos",
+    "text": "This section covers some basic aspects of the project that you’ll need to know about BEFORE you set up and run the experiment. Use the arrows to continue to through the sections, or jump to a section using the links below.\n\n4  Green-Lighting process\n5  Demographics questionnaire\n6  Ethics approval\n7  Walkthrough videos",
     "crumbs": [
       "Getting started"
     ]
@@ -198,7 +208,7 @@
     "href": "ethics.html#permission-to-collectshare-demographic-data",
     "title": "6  Ethics approval",
     "section": "6.2 Permission to collect/share demographic data",
-    "text": "6.2 Permission to collect/share demographic data\nMB5 (like all ManyBabies projects) asks labs to collect a number of demographic background variables (e.g., gestational age, sex, parental education, community of descent) to be shared along with the main experimental data after full de-identification is confirmed (see ?sec-demographics for more information). Not all of those variables are part of the main planned analysis. Even so, it is highly relevant to collect them for describing our sample, for follow-up and secondary analyses, and for checking the representativeness of the sample.\n\n\n\n\n\n\nData sharing\n\n\n\nPlease make sure you have permission to publicly share anonymized/de-identified raw data (including required demographic info), as this is a condition of participation.\nContact us if your ethics board raises concerns about collecting and/or sharing these data.",
+    "text": "6.2 Permission to collect/share demographic data\nMB5 (like all ManyBabies projects) asks labs to collect a number of demographic background variables (e.g., gestational age, sex, parental education, community of descent) to be shared along with the main experimental data after full de-identification is confirmed (see Chapter 5 for more information). Not all of those variables are part of the main planned analysis. Even so, it is highly relevant to collect them for describing our sample, for follow-up and secondary analyses, and for checking the representativeness of the sample.\n\n\n\n\n\n\nData sharing\n\n\n\nPlease make sure you have permission to publicly share anonymized/de-identified raw data (including required demographic info), as this is a condition of participation.\nContact us if your ethics board raises concerns about collecting and/or sharing these data.",
     "crumbs": [
       "Getting started",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Ethics approval</span>"
@@ -308,7 +318,7 @@
     "href": "experiment-overview.html",
     "title": "Setting up the experiment",
     "section": "",
-    "text": "This section explains the experimental method in detail. Please follow the instructions as closely as possible, and report any deviations from the protocol using the MB5 issue tracker form.\n\n9  Participants and recruitment\n10  Stimuli\n11  Procedure\n?sec-apparatus\n?sec-validation",
+    "text": "This section explains the experimental method in detail. Please follow the instructions as closely as possible, and report any deviations from the protocol using the MB5 issue tracker form.\n\n9  Participants and recruitment\n10  Stimuli\n11  Procedure\n12  Apparatus\n8  Data validation",
     "crumbs": [
       "Setting up the experiment"
     ]
@@ -351,7 +361,7 @@
     "href": "participants.html#eligibility-and-exclusions",
     "title": "9  Participants and recruitment",
     "section": "9.3 Eligibility and Exclusions",
-    "text": "9.3 Eligibility and Exclusions\n\nThe only requirements for inclusion in MB5 are:\n\nAge: the infant’s age falls within the 3- to 15-month age range\nNo known visual processing impairment: the infant has no known issues that would directly impede their ability to process visual stimuli\n\nInfants with other characteristics that are commonly used as exclusion criteria in developmental studies (e.g., hearing impairment, premature birth, bilingual, etc.) can be included in the sample. Note that the inclusion criteria for MB5 are much more inclusive than typical in-lab studies.\nPlease determine participants’ eligibility on the phone prior to scheduling them in the ManyBabies study to avoid testing ineligible participants. Participants who participate in the study but are subsequently determined to be ineligible based on the criteria above should still be reported in the sample but clearly marked as ‘ineligible’ based on age or visual processing impairment (see ?sec-datareporting for more info).",
+    "text": "9.3 Eligibility and Exclusions\n\nThe only requirements for inclusion in MB5 are:\n\nAge: the infant’s age falls within the 3- to 15-month age range\nNo known visual processing impairment: the infant has no known issues that would directly impede their ability to process visual stimuli\n\nInfants with other characteristics that are commonly used as exclusion criteria in developmental studies (e.g., hearing impairment, premature birth, bilingual, etc.) can be included in the sample. Note that the inclusion criteria for MB5 are much more inclusive than typical in-lab studies.\nPlease determine participants’ eligibility on the phone prior to scheduling them in the ManyBabies study to avoid testing ineligible participants. Participants who participate in the study but are subsequently determined to be ineligible based on the criteria above should still be reported in the sample but clearly marked as ‘ineligible’ based on age or visual processing impairment (see Chapter 17 for more info).",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Participants and recruitment</span>"
@@ -362,7 +372,7 @@
     "href": "participants.html#first-sessionsecond-session-policy",
     "title": "9  Participants and recruitment",
     "section": "9.4 ‘First Session’/‘Second Session’ policy",
-    "text": "9.4 ‘First Session’/‘Second Session’ policy\nSome laboratories have the practice of testing babies in more than one study during the same visit.\n\n‘First Session’ refers to babies tested soon upon arrival to the lab, prior to participating in any other studies.\n‘Second Session’ refers to any testing that is done after the first session.\n\nPlease contribute ‘First Session’ babies when possible. It is possible that second session babies will contribute worse/weaker/different data with respect to the larger goals of determining effect sizes.\nLabel ‘Second Session’ babies appropriately if infants were run in a different study on the same visit prior to their participation in MB5. Please also document the nature of the study run prior to MB5 for all ‘Second Session’ participants (e.g., “7 minute study of object categorization using eye-tracking”). See ?sec-datareporting for more info.",
+    "text": "9.4 ‘First Session’/‘Second Session’ policy\nSome laboratories have the practice of testing babies in more than one study during the same visit.\n\n‘First Session’ refers to babies tested soon upon arrival to the lab, prior to participating in any other studies.\n‘Second Session’ refers to any testing that is done after the first session.\n\nPlease contribute ‘First Session’ babies when possible. It is possible that second session babies will contribute worse/weaker/different data with respect to the larger goals of determining effect sizes.\nLabel ‘Second Session’ babies appropriately if infants were run in a different study on the same visit prior to their participation in MB5. Please also document the nature of the study run prior to MB5 for all ‘Second Session’ participants (e.g., “7 minute study of object categorization using eye-tracking”). See Chapter 17 for more info.",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Participants and recruitment</span>"
@@ -494,7 +504,7 @@
     "href": "prior-to-data-coll-checklist.html",
     "title": "13  Prior to data collection checklist",
     "section": "",
-    "text": "The steps for getting a “Green Light” to collect data are tracked by the MB5 Project Leads on the MB5 Project Tracker. You can check the tracker to see what steps your lab has completed. If you have any questions or think your lab’s progress is not up-to-date, email us.\nAs a reminder, BEFORE BEGINNING DATA COLLECTION your lab needs to:\n\nComplete the MB5 Sign-Up Form if your lab has not already done so\n\nNOTE: if your lab does not appear in the MB5 Project Tracker, you still need to do this!\n\nConfirm demographics form is uploaded (see ?sec-demographics)\nConfirm ethics approval is uploaded (see Chapter 6)\nConfirm walkthrough video is uploaded (see Chapter 7)\nComplete the Lab Questionnaire THIS DOESN’T EXIST YET\nValidate dummy or pilot data using the ManyBabies Data Validator and upload validated data using the MB5 Upload Form\nSend email to Project Leads (mb5@manybabies.org) to let us know that you are ready for “Geen-Lighting”\n\n\n\n\n\n\n\nWait until you receive an official go-ahead from Project Leads before you begin testing!\n\n\n\nWe may have questions for you (e.g., about any planned protocol deviations). We will do our best to respond quickly, but if you don’t hear from us within a week of sending the email, please contact us again!",
+    "text": "The steps for getting a “Green Light” to collect data are tracked by the MB5 Project Leads on the MB5 Project Tracker. You can check the tracker to see what steps your lab has completed. If you have any questions or think your lab’s progress is not up-to-date, email us.\nAs a reminder, BEFORE BEGINNING DATA COLLECTION your lab needs to:\n\nComplete the MB5 Sign-Up Form if your lab has not already done so\n\nNOTE: if your lab does not appear in the MB5 Project Tracker, you still need to do this!\n\nConfirm demographics form is uploaded (see Chapter 5)\nConfirm ethics approval is uploaded (see Chapter 6)\nConfirm walkthrough video is uploaded (see Chapter 7)\nComplete the Lab Questionnaire THIS DOESN’T EXIST YET\nValidate dummy or pilot data using the ManyBabies Data Validator and upload validated data using the MB5 Upload Form\nSend email to Project Leads (mb5@manybabies.org) to let us know that you are ready for “Geen-Lighting”\n\n\n\n\n\n\n\nWait until you receive an official go-ahead from Project Leads before you begin testing!\n\n\n\nWe may have questions for you (e.g., about any planned protocol deviations). We will do our best to respond quickly, but if you don’t hear from us within a week of sending the email, please contact us again!",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>Prior to data collection checklist</span>"
@@ -775,26 +785,6 @@
     "crumbs": [
       "Appendices",
       "<span class='chapter-number'>A</span>  <span class='chapter-title'>MB5 Collaboration Agreement</span>"
-    ]
-  },
-  {
-    "objectID": "index.html#mb5-overview",
-    "href": "index.html#mb5-overview",
-    "title": "ManyBabies 5: Hunter & Ames Model of Infant Attention - Lab Manual",
-    "section": "MB5 Overview",
-    "text": "MB5 Overview\nMB5 is a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs. novelty preference through a collaboratively-designed “best test” of a popular model of infants’ visual preference for familiar and novel stimuli (Hunter & Ames, 1988). More details about the background, design and hypotheses can be found in the MB5 Stage 1 Registered Report (Kosie et al., n.d.). In the following sections, we provide instructions for getting ready to run the experiment, implementing the experiment in your lab, and reporting data back to the project as a whole. Thanks for joining us!\n\n\n\n\n\n\nFigure 1: Hunter and Ames model of infant attention (adapted from Bergmann and Cristia, 2016)",
-    "crumbs": [
-      "IMPORTANT!"
-    ]
-  },
-  {
-    "objectID": "index.html#please-review-all-of-the-material-in-this-manual-carefully-before-doing-anything-else",
-    "href": "index.html#please-review-all-of-the-material-in-this-manual-carefully-before-doing-anything-else",
-    "title": "ManyBabies 5: Hunter & Ames Model of Infant Attention - Lab Manual",
-    "section": "PLEASE REVIEW ALL OF THE MATERIAL IN THIS MANUAL CAREFULLY BEFORE DOING ANYTHING ELSE!",
-    "text": "PLEASE REVIEW ALL OF THE MATERIAL IN THIS MANUAL CAREFULLY BEFORE DOING ANYTHING ELSE!",
-    "crumbs": [
-      "IMPORTANT!"
     ]
   }
 ]
