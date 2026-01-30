@@ -121,7 +121,7 @@
     "href": "getting-started.html",
     "title": "Getting started",
     "section": "",
-    "text": "This section covers some basic aspects of the project and steps that your lab will need to complete BEFORE you set up and run the experiment.\n\n\n\n\n\n\nGreen-Lighting\n\n\n\nAll labs (regardless of experience) must complete the green-lighting process outlined in the following sections and be given EXPLICIT approval by project leads to begin official data collection.1\n\n\n1 Labs are welcome and encouraged to collect pilot data as part of the set-up process before being completing the “green-lighting” process, but this data will not be included in the analyses.Use the arrows to continue to through the sections, or jump to a section using the links below.\n\n4  Green-Lighting process\n5  Demographics questionnaire\n6  Ethics approval\n7  Walkthrough videos",
+    "text": "This section covers some basic aspects of the project and steps that your lab will need to complete BEFORE you set up and run the experiment.\n\n\n\n\n\n\nGreen-Lighting\n\n\n\nAll labs (regardless of experience) must complete the green-lighting process outlined in the following sections and be given EXPLICIT approval by project leads to begin official data collection.1\n\n\n1 Labs are welcome and encouraged to collect pilot data as part of the set-up process before being completing the “green-lighting” process, but this data will not be included in the analyses.Use the arrows to continue to through the sections, or jump to a section using the links below.\n\n4  Green-Lighting process overview\n5  Demographics questionnaire\n6  Ethics approval\n7  Walkthrough videos",
     "crumbs": [
       "Getting started"
     ]
@@ -129,12 +129,12 @@
   {
     "objectID": "green-lighting.html",
     "href": "green-lighting.html",
-    "title": "4  Green-Lighting process",
+    "title": "4  Green-Lighting process overview",
     "section": "",
     "text": "All labs must complete a series of preparation steps, referred to by MB as the “Green-Lighting” process, before collecting data for any ManyBabies project. These steps are outlined in the MB5 lab participation overview list and in detail throughout the following sections of this manual, but in essence this involves:\n\nproviding required documentation (e.g., ethics approval, lab-specific Demographics Questionnaire)\ndemonstrating correct implementation of the testing procedure\nsubmitting a walkthrough video of the lab’s consent and testing procedure\nsuccessfully running pilot data through the MB Data Validator\n\n\n\n\n\n\n\nIMPORTANT:\n\n\n\nDO NOT collect experimental data for MB5 until you have received a “Green-Light” from the MB5 Project Leads!",
     "crumbs": [
       "Getting started",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Green-Lighting process</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Green-Lighting process overview</span>"
     ]
   },
   {
