@@ -47,6 +47,7 @@ book:
       chapters: 
         - green-lighting.qmd
         - demographics.qmd
+        - objects.qmd
         - ethics.qmd
         - walkthrough.qmd
         - data-validation.qmd

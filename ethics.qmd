@@ -2,9 +2,11 @@
 
 ## Overview
 
-### All data-collecting labs are required to obtain ethics approval from their local oversight board (e.g., IRB)^[If your lab/institution does not have a formal ethics oversight board, please refer to <a href="https://docs.google.com/document/d/e/2PACX-1vR2nv4Wy1soDS4cBBNy9QZOyewvvjP1ka1reBRhAIzcrNi0reJxgHuhGS7f7i2wE0ScQuppek8Al_21/pub" target="_blank">MB's general ethics guidance</a> and contact the Project Leads to confirm ethics compliance.]
+### All data-collecting labs are required to obtain ethics approval from their local oversight board (e.g., IRB)^[If your lab/institution does not have a formal ethics oversight board, please refer to <a href="https://docs.google.com/document/d/e/2PACX-1vR2nv4Wy1soDS4cBBNy9QZOyewvvjP1ka1reBRhAIzcrNi0reJxgHuhGS7f7i2wE0ScQuppek8Al_21/pub" target="_blank">MB's general ethics guidance</a> and contact the Project Leads to confirm ethics compliance.] to collect data for MB5.
 
-As this process can take time, it is a good idea to **get started on your ethics approval application as soon as possible**. Approvals must be in place and a copy submitted (via the process described below) before you can obtain a Green-Light to collect data. [Contact us]({{< var email.mb5 >}}) if you need advice or help with obtaining ethics approval.
+As this process can take time, it is a good idea to **get started on your ethics approval application as soon as possible**. Approvals must be in place and a copy submitted (via the process described below) before you can obtain a Green-Light to collect data. An **example ethics protocol** can be viewed [here](https://docs.google.com/document/d/e/2PACX-1vRA7WJbMr-NCoqQ7eFfE9nthZPsLFlTw9_mTAX1PY2nAqLfec77MJn-Phq1zwGX4w/pub).^[This protocol was prepared for the ethics board at Arizona State University in the United States, and therefore some of the information might not be applicable for all contexts.] Additional protocols shared with us can be found in the {{< var link.tracker >}}.^[Scroll to the right to view the "Ethics protocol" column] 
+
+[Contact us]({{< var email.mb5 >}}) if you need advice or help with obtaining ethics approval.
 
 ::: callout-note
 ## Umbrella protocols
@@ -13,7 +15,7 @@ In some cases, labs will already have approval for MB5 under an “umbrella prot
 
 ## Permission to collect/share demographic data
 
-MB5 (like all ManyBabies projects) asks labs to collect a number of demographic background variables (e.g., gestational age, sex, parental education, community of descent) to be shared along with the main experimental data after full de-identification is confirmed (see @sec-demographics for more information). Not all of those variables are part of the main planned analysis. Even so, it is highly relevant to collect them for describing our sample, for follow-up and secondary analyses, and for checking the representativeness of the sample.
+MB5 (like all ManyBabies projects) asks labs to collect a number of demographic background variables (e.g., *gestational age*, *sex*, *parental education*, *community of descent*) to be shared along with the main experimental data after full de-identification is confirmed (see @sec-demographics for more information). Not all of those variables are part of the main planned analysis. Even so, it is highly relevant to collect them for describing our sample, for follow-up and secondary analyses, and for checking the representativeness of the sample.
 
 ::: callout-important
 ## Data sharing
@@ -39,6 +41,8 @@ We are aware that many laboratories, particularly those based in regions governe
 
 ## Uploading ethics approval documentation {#ethics-upload}
 
-**Ethics documentation (e.g., proof of IRB approval) must be submitted prior to data collection via the [**MB5 Upload Form**]({{< var url.upload >}}){target="_blank"}.**
+**Documentation of your lab's ethics approval must be submitted prior to data collection via the [**MB5 Upload Form**]({{< var url.upload >}}){target="_blank"}.**
+
+We also encourage labs to share **ethics application materials** and **consent forms**, but this is not a requirement of participation. 
 
 Please ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g. `babylabPrinceton_ethics.pdf`). Check the list of {{< var link.labids >}} to confirm your lab's unique LabID before uploading.

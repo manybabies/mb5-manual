@@ -7,6 +7,8 @@ All labs must complete a series of preparation steps, referred to by MB as the *
 -   submitting a **walkthrough video** of the lab's consent and testing procedure
 -   successfully running pilot data through the **MB Data Validator**
 
+<br>
+
 ::: callout-important
 # IMPORTANT: {.unnumbered}
 
