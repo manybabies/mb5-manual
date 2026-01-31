@@ -1,6 +1,13 @@
 # Setting up the experiment {#sec-setup .unnumbered}
 
-This section explains the experimental method in detail. Please follow the instructions as closely as possible, and report any deviations from the protocol using the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXoKjJo3XgGuXCLhWhzEDz0UrJ7tmio-70SoS24g4vqc4Utg/viewform?usp=sf_link" target="_blank"><b>MB5 issue tracker form</b></a>.
+::: callout-important
+# Experiment materials are still in development!
+
+### We are still finalizing study materials (stimuli, experiment files, data templates, etc.). We will make an announcment via the MB5 listserv when final study materials are ready!
+:::
+
+
+This section explains the experimental method in detail. Please follow the instructions as closely as possible, and report any deviations from the protocol using the {{< var link.issue >}}.
 
 -   @sec-participants
 -   @sec-stimuli
