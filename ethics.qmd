@@ -29,9 +29,9 @@ MB5 (like all ManyBabies projects) asks labs to collect a number of demographic 
 
 We ***strongly encourage*** labs (where possible) to store and share video recordings of their testing sessions on {{< var link.databrary >}}, which is a secure site created for this purpose. Databrary allows for different levels of privacy: *fully private* (available only to the uploading research group), *shared only with Databrary-approved researchers*, or *fully open*. Storing/sharing videos via Databrary requires the following:
 
+(@) **Databrary membership**, which requires approval from your institution. It’s helpful to start this process early! You can [begin the registration process for Databrary here](https://nyu.databrary.org/user/register?page=create). 
 (@) **Ethics approval** in place to upload and/or share recordings. 
 (@) **Specific consent** for this purpose collected from your participant's parent/guardian. 
-(@) **Databrary membership**, which requires approval from your institution. It’s helpful to start this process early! You can [begin the registration process for Databrary here](https://nyu.databrary.org/user/register?page=create). 
 
 ::: callout-warning
 ## Databrary limitations

@@ -2,37 +2,35 @@
 
 > Note: These instructions were adapted slightly from the MB1 & MB3 walkthrough instructions
 
-Once the experiment is set up and people involved in data collection are trained, and BEFORE beginning data collection, we ask that you document how you run the MB5 study in your lab by creating a "Walkthrough" video.[^walkthrough-1]
+Once the experiment is set up and people involved in data collection are trained, and BEFORE beginning data collection, we ask that you document how you run the MB5 study in your lab by creating a "Walkthrough" video.^[We *strongly* prefer videos, but if this is not possible for your lab, detailed photographs would be an option.]
 
-[^walkthrough-1]: We *strongly* prefer videos, but if this is not possible for your lab, detailed photographs would be an option.
-
-**THIS DOES NOT NEED TO BE A PROFESSIONAL-QUALITY VIDEO!** The goal is to be informative, not flawless---it can have starts, stops, and disfluency.
+**THIS DOES NOT NEED TO BE A PROFESSIONAL-QUALITY VIDEO!** The goal is to be informative, not flawless---it can have starts, stops, and disfluency. Please rest assured that these videos will NOT be used by ManyBabies to critique individual researchers’ laboratory policies and procedures. As long as you do your best to implement the study according to the instructions in this manual, we are happy! 
 
 **Even if you already provided a video for another ManyBabies project, a new video specifically showing how you run the MB5 project is requested.**
 
 ## Purpose
 
-The purpose walkthrough videos is two-fold:
+The purpose of walkthrough videos is two-fold:
 
-1.  Given the ManyBabies Consortium’s commitment to Open Science, we would like to have a full and accurate record of how the study was implemented in each laboratory.
-2.  One of the goals of ManyBabies is to study how methodological variation affects experimental outcomes in infant research. This video record may be used for analyses examining whether laboratories with different characteristics and procedures (e.g., larger or smaller test booths, white or black walls) differ in the effect size obtained in ManyBabies projects.
+1.  The videos will help project leads ensure that your lab is implementing the study according to the guidelines and maximize the probability of your lab collecting usable data.
+2.  Given the ManyBabies Consortium’s commitment to Open Science, we would like to have a full and accurate record of how the study was implemented in each laboratory.
+3.  One of the goals of ManyBabies is to study how methodological variation affects experimental outcomes in infant research. This video record may be used for analyses examining whether laboratories with different characteristics and procedures (e.g., larger or smaller test booths, white or black walls) differ in the effect size obtained in ManyBabies projects.
 
-Please rest assured that these videos will NOT be used by ManyBabies to critique individual researchers’ laboratory policies and procedures. This project is a community effort!
 
 ## Method
 
 There are two possibilities to create a video documenting your process:
 
-1.  Filming a pilot session with a participant (with parental approval and permission from your local ethics board). **Please make sure you have consent to share this video publicly!!**
-2.  Asking a colleague to "play" parent and using a dummy (e.g., a doll) as a baby stand-in.
+1.  Filming a pilot session with a real-life human participant and their parent (with parental consent and permission from your local ethics board). **Please make sure you have consent to share this video publicly!!**
+2.  Asking a colleague or lab member to "play" parent and using a dummy (e.g., a doll) as a baby stand-in.
 
 ## Consent
 
-Note that we plan to share the videos among the consortium via Databrary, our website, and/or YouTube. **There should be no assumption of privacy, and no confidential or otherwise sensitive information should be included in the videos.** Be sure that parental consent covers all these options when filming participants.
+Note that we plan to share the videos among the consortium via Databrary, our website, and/or YouTube. **There should be no assumption of privacy, and no confidential or otherwise personal/sensitive information should be included in the videos.** Be sure that parental consent covers all these options when using a real participant for this purpose.
 
 ## Sequence
 
-Make sure your video covers the following components. We added questions you should answer for each step. It is not necessary to narrate your video (you can if you want); a silent observer is sufficient, but be sure to cover all details requested below. If your lab language is not English, we might add subtitles later on.
+Make sure your video covers the following components. We added questions that someone watching your video should be able to answer for each step. It is not necessary to narrate your video (you can if you want); a silent observer is sufficient, but be sure to cover all details requested below. If your lab language is not English, we might add subtitles later on.
 
 ### Greeting
 
@@ -44,19 +42,19 @@ Make sure your video covers the following components. We added questions you sho
 ### Consenting, instructions
 
 -   What is your informed consenting process like? How do parents give consent? When do you typically obtain consent?
--   How detailed do you explain the procedure and aim of the study?
--   What instructions do you give to the parents? Are there any specific instructions on how to behave, sit, hold the baby, etc?
+-   How detailed is your explanation of the procedure and aim of the study?
+-   What instructions do you give to the parents? Are there any specific instructions given on how to behave, sit, hold the baby, etc? What do you tell parents to do if their baby gets fussy or inattentive during the study?
 
 ### Questionnaire(s)
 
 -   At what point do you hand out/collect questionnaires (e.g., pre- or post-experiment)?
--   Do you give any additional instructions for the questionnaire other than those listed on the form(s)?
+-   Do you give any additional instructions for questionnaires other than those listed on the form(s)?
 
 ### Experiment
 
 -   What does your testing room/booth look like (size, lay-out, etc.)? Try to film the entrance and complete interior of the test booth or room.
--   Where is the baby sitting (e.g., parent's lap, high chair, etc.)? Film the seating arrangement before the baby is seating and with the baby.
--   What does the stimulus display look like (size, distance to baby)? Where is the screen located?
+-   Where is the baby sitting (e.g., parent's lap, high chair, etc.)? Film the seating arrangement both before the baby is seating and with the baby in place.
+-   What does the stimulus display look like (e.g., size, distance to baby)? Where is the screen located?
 -   Where is the experimenter located during testing (e.g., inside or outside the booth)? Show where the experimenter is sitting; if it is in the same room, capture both baby and experimenter.
 -   Can the baby see the experimenter during testing? How does the experimenter see the baby (e.g.,videofeed)?
 -   How is the experimenter blinded to trial type during testing?
@@ -66,7 +64,7 @@ Make sure your video covers the following components. We added questions you sho
 ### Debrief after experiment
 
 -   What do you tell parents at the end of a study?
--   Are there standard questions you ask them?
+-   Are there standard questions you ask parents after the study is complete?
 
 ## Upload your walkthrough video
 
@@ -75,6 +73,6 @@ Make sure your video covers the following components. We added questions you sho
 -   Video files are too large for us to collect via form, so you will be asked to provide a url (e.g., *google drive*, *dropbox*, etc.) for where we can access and download your video. If you do not have access to cloud storage, {{< var email.emailus >}} and we will provide an upload location.
 -   **Please ensure that your video is clearly labeled in the file name with your LabID** (e.g., `babylabPrinceton_walkthrough.mpg`). Check the list of {{< var link.labids >}} to confirm your lab's unique LabID before uploading.
 -   You are welcome to view videos that have already been uploaded by other labs as examples <a href="https://drive.google.com/drive/folders/1mIQ2hWt9tI7AFDvnbcwfmtNhilH8AriD?usp=sharing" target="_blank">HERE</a>[^walkthrough-2].
--   Walkthrough videos from MB1 are available to view <a href="https://nyu.databrary.org/volume/896" target="_blank">in this Databrary repository</a>.
+-   Walkthrough videos from MB1 (for example purposes) are available to view <a href="https://nyu.databrary.org/volume/896" target="_blank">in this Databrary repository</a>.
 
 [^walkthrough-2]: Note that these videos might not have been reviewed yet by Project Leads
