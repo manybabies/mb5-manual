@@ -5,7 +5,7 @@
 
 # This lab manual is still UNDER DEVELOPMENT! {.unnumbered}
 
-Bear with us as we finalize this document with all of the information your lab will need to successfully collect data for MB5. In the meantime, feel free to poke around and email us at {{< var email.support >}} if you have any questions or need help.
+Bear with us as we finalize this document with all of the information your lab will need to successfully collect data for {{< var project.number >}}. In the meantime, feel free to poke around and email us at {{< var email.support >}} if you have any questions or need help.
 :::
 
 ***
@@ -15,16 +15,16 @@ Bear with us as we finalize this document with all of the information your lab w
 
 
 ::: callout-important
-# MB5 DATA COLLECTION HAS NOT YET STARTED! {.unnumbered}
+# {{< var project.number >}} DATA COLLECTION HAS NOT YET STARTED! {.unnumbered}
 
-# DO NOT BEGIN DATA COLLECTION FOR MB5 UNTIL TESTING DATES HAVE BEEN ANNOUNCED AND PROJECT LEADS GIVE YOUR LAB A "GREEN-LIGHT"!! {.unnumbered}
+# DO NOT BEGIN DATA COLLECTION FOR {{< var project.number >}} UNTIL TESTING DATES HAVE BEEN ANNOUNCED AND PROJECT LEADS GIVE YOUR LAB A "GREEN-LIGHT"!! {.unnumbered}
 :::
 
 ***
 
 # Preface {#sec-preface .unnumbered}
 
-### Thank you for contributing to {{< var link.mb5dotorg >}}, a project of {{< var link.mbdotorg >}}!
+### Thank you for contributing to {{< var link.projectwebsite >}}, a project of {{< var link.mbdotorg >}}!
 
 ::: callout-warning
 # IMPORTANT {.unnumbered}
@@ -37,7 +37,7 @@ Bear with us as we finalize this document with all of the information your lab w
 
 ## Manual Overview
 
-This manual provides the information needed to participate in ManyBabies 5. The manual is divided into five sections ([General information](#sec-generalinfo), [Getting Started](#sec-gettingstarted), [Setting up the experiment](#sec-running), & [After data collection](#sec-aftercollection)). Each section is divided into chapters, which you can jump to using the navigation panel on the left of the screen.
+This manual provides the information needed to participate in {{< var project.name >}}. The manual is divided into five sections ([General information](#sec-generalinfo), [Getting Started](#sec-gettingstarted), [Setting up the experiment](#sec-running), & [After data collection](#sec-aftercollection)). Each section is divided into chapters, which you can jump to using the navigation panel on the left of the screen.
 
 ::: callout-caution
 #### Help us improve the manual!
@@ -48,9 +48,9 @@ If you find any errors (big or small!) or would like to suggest edits/improvemen
 <br>
 <br>
 
-## MB5 Overview
+## {{< var project.name >}} Overview
 
-MB5 is a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs. novelty preference through a collaboratively-designed “best test” of a popular model of infants’ visual preference for familiar and novel stimuli [@hunter1988]. More details about the background, design and hypotheses can be found in the {{< var link.stage1rr >}} [@kosie]. In the following sections, we provide instructions for getting ready to run the experiment, implementing the experiment in your lab, and reporting data back to the project as a whole. Thanks for joining us!
+{{< var project.number >}} is a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs. novelty preference through a collaboratively-designed “best test” of a popular model of infants’ visual preference for familiar and novel stimuli [@hunter1988]. More details about the background, design and hypotheses can be found in the {{< var link.stage1rr >}} [@kosie]. In the following sections, we provide instructions for getting ready to run the experiment, implementing the experiment in your lab, and reporting data back to the project as a whole. Thanks for joining us!
 
 ![Hunter and Ames model of infant attention (adapted from Bergmann and Cristia, 2016)](images/HunterAmesFig.png){#fig-hunterames}
 

@@ -1,0 +1,18 @@
+# Green-Lighting process overview {#sec-greenlight}
+
+All labs must complete a series of preparation steps, referred to by ManyBabies as the **"Green-Lighting" process**, before collecting data for any MB project. These steps are outlined in the [{{< var project.number >}} lab participation overview](#sec-laboverview) list and explained in detail throughout the following sections of this manual, but in essence this involves:
+
+-   providing **required documentation** (e.g., ethics approval, lab-specific Demographics Questionnaire)
+-   demonstrating **correct implementation of the testing procedure**
+-   submitting a **walkthrough video** of the lab's consent and testing procedure
+-   successfully running pilot data through the **MB Data Validator**
+
+<br>
+
+::: callout-important
+# IMPORTANT: {.unnumbered}
+
+## <u>DO NOT</u> collect experimental data for {{< var project.number >}} until your lab has completed this process and received a "Green-Light" from the {{< var project.number >}} Project Leads! {.unnumbered}
+
+### You can check the {{< var link.tracker >}} at any time to view your lab's status.
+:::

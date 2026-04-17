@@ -1,5 +1,0 @@
-# Object Familiarity questionnaire {#sec-objects}
-
-::: callout-important
-# MORE INFO COMING SOON
-:::
