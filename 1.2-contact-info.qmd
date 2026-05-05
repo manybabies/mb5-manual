@@ -26,16 +26,18 @@
 
 -   **ManyBabies website:** {{< var link.mbwebsite >}}
 
--   **{{< var project.number >}} project website**: {{< var link.projecturl >}}
+-   <b>{{< var project.number >}} project website</b>: {{< var link.projecturl >}}
 
--   **MB5 Stage 1 Registered Report**: {{< var link.stage1rr >}}
+-   {{< var link.stage1rr >}}
 
--   **MB5 Lab Manual** (this document): {{< var link.projectmanual >}}
+-   **{{< var link.projectmanual >}}** *(this document)*
 
--   **MB5 collaboration agreement**: {{< var link.collaboration >}} *(note: the MB5 collaboration agreement can also be found in the Appendix of this manual, see @sec-collaboration)*
+-   **{{< var link.collaboration >}}** *(note: the MB5 Collaboration Agreement can also be found in the Appendix of this manual)*
 
--   **To report issues (e.g., with data collection, deviations from protocol, etc.) or to request support:** {{< var link.issue >}}
+-   **{{< var link.tracker >}}**: Information about the status of data-collecting labs
 
--   **To upload materials** (e.g., ethics approval, questionnaire, pilot data): {{< var link.greenlight >}}
+-   **{{< var link.issue >}}**: To report issues (e.g., with data collection, deviations from protocol, etc.) or to request support 
 
--   **To upload experimental data**: {{< var link.upload >}}
+-   **{{< var link.greenlight >}}**: To upload materials required to get a "green light" for data collection (e.g., ethics approval, questionnaire, pilot data)
+
+-   **{{< var link.upload >}}**: To upload experimental data 
