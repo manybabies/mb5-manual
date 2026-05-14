@@ -67,6 +67,8 @@ book:
     - part: 5-after-data-collection.qmd
       chapters:
         - 5.1-data-reporting.qmd
+        - 5.2-data-templates.qmd
+        - 5.3-data-submission.qmd
     - references.qmd
   page-footer: 
     left: "ManyBabies5 Lab Manual"
