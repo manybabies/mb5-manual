@@ -1,3 +1,10 @@
 # Data validation {#sec-validation}
 
-{{< var link.validator >}}
+
+
+::: callout-important
+The MB5 data dictionary and validation tool are under development. Thank you for your patience!
+:::
+
+
+<h1>{{< var link.validator >}}</h1>

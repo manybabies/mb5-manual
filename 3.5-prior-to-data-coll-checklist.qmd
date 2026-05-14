@@ -9,7 +9,7 @@ As a reminder, **BEFORE BEGINNING DATA COLLECTION** your lab needs to:
 -   Confirm demographics form is uploaded (see @sec-demographics)
 -   Confirm ethics approval is uploaded (see @sec-ethics)
 -   Confirm walkthrough video is uploaded (see @sec-walkthrough)
--   **Complete the Lab Questionnaire** THIS DOESN'T EXIST YET 
+-   **Complete the Lab Questionnaire** THIS DOESN'T EXIST YET
 -   Validate dummy or pilot data using the {{< var link.validator >}} and upload validated data using the {{< var link.upload >}}
 -   Send email to Project Leads ({{< var email.support >}}) to let us know that you are ready for "Geen-Lighting"
 
