@@ -316,7 +316,7 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#data-overview" id="toc-data-overview" class="nav-link active" data-scroll-target="#data-overview"><span class="header-section-number">20.1</span> Data overview</a></li>
-  <li><a href="#mb5-data-dictionary" id="toc-mb5-data-dictionary" class="nav-link" data-scroll-target="#mb5-data-dictionary"><span class="header-section-number">20.2</span> MB5 Data dictionary</a></li>
+  <li><a href="#mb5-data-dictionary" id="toc-mb5-data-dictionary" class="nav-link" data-scroll-target="#mb5-data-dictionary"><span class="header-section-number">20.2</span> MB5 Data Dictionary</a></li>
   <li><a href="#mb5-data-templates" id="toc-mb5-data-templates" class="nav-link" data-scroll-target="#mb5-data-templates"><span class="header-section-number">20.3</span> MB5 Data templates</a>
   <ul class="collapse">
   <li><a href="#participant-data" id="toc-participant-data" class="nav-link" data-scroll-target="#participant-data">Participant Data</a></li>
@@ -349,12 +349,29 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="data-overview" class="level2" data-number="20.1">
 <h2 data-number="20.1" class="anchored" data-anchor-id="data-overview"><span class="header-section-number">20.1</span> Data overview</h2>
-<p>The primary deliverables for the project are two data files: - <strong>Participant data</strong>: 1 row per partcipant - <strong>Trial data</strong>: 1 row per trial</p>
+<p>The primary deliverables for the project are two data files:</p>
+<ul>
+<li><strong>Participant data</strong>: 1 row per participant</li>
+<li><strong>Trial data</strong>: 1 row per trial</li>
+</ul>
 <p>In addition, labs using eye trackers are asked to submit raw gaze data (either as a single file or 1 file/participant).</p>
 </section>
 <section id="mb5-data-dictionary" class="level2" data-number="20.2">
-<h2 data-number="20.2" class="anchored" data-anchor-id="mb5-data-dictionary"><span class="header-section-number">20.2</span> MB5 Data dictionary</h2>
-<p>The MB5 Data Dictionary lists all of the variables that need to go into the Participant Data and Trial Data files. Each row contains a variable and that variable’s specified format (e.g., string, integer), set of example values, and description. It is important that your lab’s data follows these specifications exactly in order to allow for data harmonization with the full dataset.</p>
+<h2 data-number="20.2" class="anchored" data-anchor-id="mb5-data-dictionary"><span class="header-section-number">20.2</span> MB5 Data Dictionary</h2>
+<p>The MB5 Data Dictionary lists all of the variables that should be included in the Participant Data and Trial Data files. Each row contains a variable and that variable’s specified format (e.g., string, integer), set of example values, and description. It is important that your lab’s data follows these specifications exactly in order to allow for data harmonization with the full dataset.</p>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Important
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>The MB5 Data Dictionary is under development.</p>
+</div>
+</div>
 </section>
 <section id="mb5-data-templates" class="level2" data-number="20.3">
 <h2 data-number="20.3" class="anchored" data-anchor-id="mb5-data-templates"><span class="header-section-number">20.3</span> MB5 Data templates</h2>
@@ -364,21 +381,57 @@ ul.task-list li input[type="checkbox"] {
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Caution
+IMPORTANT NOTE #1
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>IMPORTANT NOTE 1: These two files must use identical, anonymous subject identifiers (‘participant_id’). We must be able to link participant- and trial-level data across files! You can use your lab’s normal participant numbering convention (e.g., 001, 002, 003, etc.), as long as participant IDs DO NOT include any private information (e.g., initials, birth date, gender).</p>
+<p>These two files must use <strong>identical, anonymous subject identifiers (<code>participant_id</code>)</strong>. We must be able to link participant- and trial-level data across files! You can use your lab’s normal participant numbering convention (e.g., 001, 002, 003, etc.), as long as <strong><code>participant_ID</code> DOES NOT include any private information</strong> (e.g., initials, birth date).</p>
 </div>
 </div>
-<p>IMPORTANT NOTE 2: These files must contain de-identified data ONLY. All potentially identifying information should be stripped from your data file before submission. For example, you SHOULD NOT include birth date and test date in your Participant Data file. Instead, use an age calculating tool (e.g., https://www.calculator.net/age-calculator.html) to calculate each participant’s age in days, and report that value in the ‘participant_age_days’ variable. If you have any questions about ensuring your data is de-identified, email contact@manybabies.org.</p>
-<p>IMPORTANT NOTE 3: It’s really important to remember that these files are designed to be read by a computer program, not a person. So anything that violates the template (e.g., variables that aren’t of the specified type, formatting, comments, etc.) will not work. For example, cells in the column “lang1_exposure” in the participant data file should contain numbers. If you write “80 to 90” this will cause errors because it contains characters in addition to numbers (note: please check questionnaire responses before participants leave the lab to avoid NA responses). If you have questions, comments, or calculations, please communicate directly with the analysis team, rather than embedding them in the data.</p>
-<p>IMPORTANT NOTE 4: Please do not leave any fields blank. If something does not logically have an answer, or if you did not collect this information, please mark it as “NA”. Language. If you collect data from children who are learning more than one language, please provide an approximate percentage of exposure to each language, either by parental report, or if it is standard practice in your lab, using a day-in-the-life style questionnaire administered by the RA. The total should add up to 100%.</p>
+<div class="callout callout-style-default callout-caution callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+IMPORTANT NOTE #2
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>These files must contain <strong>de-identified data ONLY</strong>. All potentially identifying information should be stripped from your data file before submission. For example, you SHOULD NOT include birth date and test date in your Participant Data file. Instead, use an age calculating tool (e.g., https://www.calculator.net/age-calculator.html) to calculate each participant’s age in days, and report that value in the <code>age_days</code> variable. If you have any questions about ensuring your data is de-identified, <a href="mailto:mb5@manybabies.org"><strong>email us</strong></a>.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-caution callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+IMPORTANT NOTE #3
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>It’s really important to remember that these files are designed to be read by a computer program, not a person. So anything that violates the template (e.g., variables that aren’t of the specified type, formatting, comments, etc.) will not work. For example, cells in the column <code>lang1_exposure</code> in the participant data file should contain numbers. If you write “80 to 90” this will cause errors because it contains characters in addition to numbers <em>(note: please check questionnaire responses before participants leave the lab to avoid NA responses)</em>. If you have questions, comments, or calculations, please communicate directly with the analysis team, rather than embedding them in the data.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-caution callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+IMPORTANT NOTE #4
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Please <strong>do not leave any fields blank</strong>. If something does not logically have an answer, or if you did not collect this information, please mark it as “NA”.</p>
+</div>
+</div>
 <p>Please download a copy of each template and use them as guides for formatting your lab’s data.</p>
 <p>Files must be in CSV (comma separated values) format. PLEASE NOTE that saving in this format will remove any formulas or other non-plain-text features of your spreadsheet (e.g,. color fills, formatting); all information should be captured in the text within each cell.</p>
 <section id="participant-data" class="level3">
 <h3 class="anchored" data-anchor-id="participant-data">Participant Data</h3>
-<p>A .csv file with one row for each participant, and with columns showing participant-level variables (e.g., subject number, age, demographic information, notes on the session, etc.</p>
+<p>A .csv file with one row for each participant, and with columns showing participant-level variables (e.g., <code>participant_id</code>, age, demographic information, notes on the session, etc.</p>
 <div class="callout callout-style-default callout-important callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -395,7 +448,7 @@ Important
 </section>
 <section id="trial-data" class="level3">
 <h3 class="anchored" data-anchor-id="trial-data">Trial Data</h3>
-<p>A .csv file with one row for each trial, and with columns showing the participant’s subject number, trial number, trial type, looking time, etc.</p>
+<p>A .csv file with one row for each trial, and with columns showing <code>participant_id</code> and trial level variables (e.g., trial number, trial type, looking time, etc.)</p>
 <div class="callout callout-style-default callout-important callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">

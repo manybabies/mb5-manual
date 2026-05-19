@@ -14,30 +14,30 @@
 
 ## Project listserv and Slack channels {.unnumbered}
 
--   **{{< var project.number >}} project listserv**: {{< var email.listserv >}} *Note: sending an email to this address will send it to everyone subscribed to the {{< var project.number >}} list; please use judiciously!*
+-   {{< var project.number >}} **project listserv**: {{< var email.listserv >}} *Note: sending an email to this address will send it to everyone subscribed to the* {{< var project.number >}} *list; please use judiciously!*
 
-    -   **SUBSCRIBE** to the {{< var link.listserv >}} *(click on "Join group" using a google-linked account, or fill out the* <a href="https://docs.google.com/forms/d/e/1FAIpQLSewvzsv3YAwPKCAJmut_X6eVlu7P7TxbGe6vAWwG0CInI4YqA/viewform" target="_blank">MB listserv form</a> *to request to join)*
-    
+    -   **SUBSCRIBE** to the {{< var link.listserv >}} *(click on `Join group` using a google-linked account, or fill out the* <a href="https://docs.google.com/forms/d/e/1FAIpQLSewvzsv3YAwPKCAJmut_X6eVlu7P7TxbGe6vAWwG0CInI4YqA/viewform" target="_blank">MB listserv form</a> *to request to join)*
+
 -   **ManyBabies Slack workspace**: {{< var link.slack >}}
 
-    -   **BROWSE CHANNELS** and join *#mb5-general*, *#mb5-data-collection, and any other relevant channels.
+    -   Join [*`#mb5-general`*](https://manybabies.slack.com/archives/C03U2J2GZ2A), [*`#mb5-data-collection`*](https://manybabies.slack.com/archives/C0AUKJ27YQG), and any other relevant channels (Click on `Add channels` in the left-hand menu).
 
 ## Important links {.unnumbered}
 
--   **ManyBabies website:** {{< var link.mbwebsite >}}
+-   {{< var link.mbwebsite >}}: ManyBabies website
 
--   <b>{{< var project.number >}} project website</b>: {{< var link.projecturl >}}
+-   {{< var link.projecturl >}}: {{< var project.number >}} project website
 
--   {{< var link.stage1rr >}}
+-   {{< var link.stage1rr >}}: Peer-reviewed manuscript of study justification and planned procedure/analysis plan (given *In Principle Acceptance* by *Nature Human Behaviour* in March 2024)
 
--   **{{< var link.projectmanual >}}** *(this document)*
+-   {{< var link.projectmanual >}}: This document
 
--   **{{< var link.collaboration >}}** *(note: the MB5 Collaboration Agreement can also be found in the Appendix of this manual)*
+-   {{< var link.collaboration >}}: Outlines roles/responsibilities, authorship info, and other info all contributors agree to abide by *(can also be found in @sec-collaboration)*
 
--   **{{< var link.tracker >}}**: Information about the status of data-collecting labs
+-   {{< var link.tracker >}}: Information about the status of data-collecting labs
 
--   **{{< var link.issue >}}**: To report issues (e.g., with data collection, deviations from protocol, etc.) or to request support 
+-   {{< var link.issue >}}: To report issues (e.g., with data collection, deviations from protocol, etc.) or to request support
 
--   **{{< var link.greenlight >}}**: To upload materials required to get a "green light" for data collection (e.g., ethics approval, questionnaire, pilot data)
+-   {{< var link.greenlight >}}: To upload materials required to get a "green light" for data collection (e.g., ethics approval, questionnaire, pilot data)
 
--   **{{< var link.upload >}}**: To upload experimental data 
+-   {{< var link.upload >}}: To upload experimental data
