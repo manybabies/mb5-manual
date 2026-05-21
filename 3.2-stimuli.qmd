@@ -5,28 +5,24 @@
 ::: callout-important
 # Stimulus alert {.mark .unnumbered}
 
-## Please note that stimuli have not yet been finalized! {.unnumbered}
+## Please note that stimuli have not yet been finalized! {.unnfumbered}
 
 We are still finalizing study materials based on community feedback. We will notify everyone when final study materials are available via an announcement to the {{< var link.listserv >}}.
 :::
 
 > All (in development) materials are available in the {{< var link.materials >}}.
 
-Because the sample size possible in ManyBabies projects provides a unique opportunity to test generalizability across multiple stimulus types, we chose two different categories of stimuli: **ManyFribbles**[^3.2-stimuli-1] and **ManyFractals**[^3.2-stimuli-2]. These two classes of stimuli were chosen because:
-
-[^3.2-stimuli-1]: These stimuli were inspired by the *Fribbles* stimulus set [@barry2014]. We are calling the stimlus set developed for MB5 "ManyFribbles" to distinguish them from the original Fribbles.
-
-[^3.2-stimuli-2]: We're calling our custom sets of stimuli "ManyFribbles" and "ManyFractals" because... well, it's fun.
+Because the sample size possible in ManyBabies projects provides a unique opportunity to test generalizability across multiple stimulus types, we chose two different categories of stimuli: **ManyFribbles**^[These stimuli were inspired by the *Fribbles* stimulus set [@barry2014]. We are calling the stimlus set developed for MB5 "ManyFribbles" to distinguish them from the original Fribbles.] and **ManyFractals**^[We're calling our custom sets of stimuli "ManyFribbles" and "ManyFractals" because... well, it's fun.]. These two classes of stimuli were chosen because:
 
 -   they allow for **variation in complexity** within the same stimulus category (i.e., by manipulating the number of features)
--   infants are unlikely to have previous experience with either set of stimuli
--   the inclusion of two stimulus sets allow us to begin examining the generalizability of any observed effect
+-   infants are **unlikely to have previous experience** with either set of stimuli
+-   the inclusion of two stimulus sets allow us to begin examining the **generalizability** of any observed effect
 
-We created 12 unique ManyFribbles and 12 unique ManyFractals. Within each stimulus type, 6 items were designed to be *low-complexity* and 6 were designed to be *high-complexity*. ***Complexity*** is operationalized as the number of features present (these features are appendages in the case of ManyFribbles and iterations of the same structure for ManyFractals; see @tbl-stimuli
+We created 12 unique ManyFribbles and 12 unique ManyFractals. Within each stimulus type, six items were designed to be relatively *low-complexity* and six were designed to be relatively *high-complexity*. ***Complexity* is operationalized here as the number of features present** (*appendages* in the case of ManyFribbles and *iterations of the same structure* for ManyFractals; see @tbl-stimuli)
 
 ### ManyFribbles
 
-ManyFribbles are colorful, computer-generated models of 3D figures. All ManyFribbles are made up of one of twelve possible body shapes and one (low-complexity) or four (high-complexity) appendages.
+ManyFribbles are colorful, computer-generated models of 3D figures. All ManyFribbles are made up of one base body shape and one (low-complexity) or four (high-complexity) appendages.
 
 **ADD MORE INFO ABOUT COLOR SELECTION, SIZING, ETC**
 
@@ -42,13 +38,13 @@ ManyFractals are geometric shapes in which the same structure is repeated iterat
   <thead>
     <tr>
       <th></th>
-      <th colspan="3"><span data-qmd="_Low-complexity_"></span></th>
-      <th colspan="3"><span data-qmd="_High-complexity_"></span></th>
+      <th colspan="3">Low-complexity</th>
+      <th colspan="3">High-complexity</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-        <td rowspan="4"><b><i>ManyFribbles</i></b></td><td><img src="images/fribble-low.png" height="50"/></img></td><td><img src="images/fribble-low.png" height="50"/></img></td><td><img src="images/fribble-low.png" height="50"/></img></td><td><img src="images/fribble-high.png" height="50"/></img></td><td><img src="images/fribble-high.png" height="50"/></img></td><td><img src="images/fribble-high.png" height="50"/></img></td>
+        <td rowspan="4"><b>ManyFribbles</b></td><td><img src="images/fribble-low.png" height="50"/></img></td><td><img src="images/fribble-low.png" height="50"/></img></td><td><img src="images/fribble-low.png" height="50"/></img></td><td><img src="images/fribble-high.png" height="50"/></img></td><td><img src="images/fribble-high.png" height="50"/></img></td><td><img src="images/fribble-high.png" height="50"/></img></td>
     </tr>
     <tr>
         <td><img src="images/fribble-low.png" height="50"/></img></td><td><img src="images/fribble-low.png" height="50"/></img></td><td><img src="images/fribble-low.png" height="50"/></img></td><td><img src="images/fribble-high.png" height="50"/></img></td><td><img src="images/fribble-high.png" height="50"/></img></td><td><img src="images/fribble-high.png" height="50"/></img></td>
@@ -60,7 +56,7 @@ ManyFractals are geometric shapes in which the same structure is repeated iterat
         <td><img src="images/fribble-low.png" height="50"/></img></td><td><img src="images/fribble-low.png" height="50"/></img></td><td><img src="images/fribble-low.png" height="50"/></img></td><td><img src="images/fribble-high.png" height="50"/></img></td><td><img src="images/fribble-high.png" height="50"/></img></td><td><img src="images/fribble-high.png" height="50"/></img></td>
     </tr>
     <tr>
-        <td rowspan="4"><b><i>ManyFractals</i></b></td><td><img src="images/fractal-low.png" height="50"/></img></td><td><img src="images/fractal-low.png" height="50"/></img></td><td><img src="images/fractal-low.png" height="50"/></img></td><td><img src="images/fractal-high.png" height="50"/></img></td><td><img src="images/fractal-high.png" height="50"/></img></td><td><img src="images/fractal-high.png" height="50"/></img></td>
+        <td rowspan="4"><b>ManyFractals</b></td><td><img src="images/fractal-low.png" height="50"/></img></td><td><img src="images/fractal-low.png" height="50"/></img></td><td><img src="images/fractal-low.png" height="50"/></img></td><td><img src="images/fractal-high.png" height="50"/></img></td><td><img src="images/fractal-high.png" height="50"/></img></td><td><img src="images/fractal-high.png" height="50"/></img></td>
     </tr>
     <tr>
         <td><img src="images/fractal-low.png" height="50"/></img></td><td><img src="images/fractal-low.png" height="50"/></img></td><td><img src="images/fractal-low.png" height="50"/></img></td><td><img src="images/fractal-high.png" height="50"/></img></td><td><img src="images/fractal-high.png" height="50"/></img></td><td><img src="images/fractal-high.png" height="50"/></img></td>
