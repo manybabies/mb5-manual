@@ -12,7 +12,9 @@ All labs must complete a series of preparation steps, referred to by ManyBabies 
 ::: callout-important
 # IMPORTANT: {.unnumbered}
 
-## <u>DO NOT</u> collect experimental data for {{< var project.number >}} until your lab has completed this process and received a "Green-Light" from the {{< var project.number >}} Project Leads! {.unnumbered}
+## 🚫 <u>DO NOT</u> collect experimental data for {{< var project.number >}} until your lab has completed this process and received a "Green-Light" from the {{< var project.number >}} Project Leads! 🚫 {.unnumbered}
+
+## ‼️ WE REALLY MEAN IT ‼️ {.unnumbered}
 
 ### You can check the {{< var link.tracker >}} at any time to view your lab's status.
 :::

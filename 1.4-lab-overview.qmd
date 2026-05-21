@@ -21,7 +21,7 @@
 (@)  Submit the version of the **demographics questionnaire** your lab will be using (see @sec-demographics), your lab's **ethics approval** (see @sec-ethics), and any other documentation/materials using the {{< var link.greenlight >}}
 (@)  Create and submit your **walkthrough video** (see @sec-walkthrough)
 (@)  Run pilot data through the {{< var link.validator >}} (see @sec-validation)
-(@)  Email the {{< var project.number >}} Project Leads ({{< var email.support >}}) to let them know that you are ready for “Green-Lighting” (`Subject: "MB5 GREEN-LIGHT REQUEST"`)
+(@)  Email the {{< var project.number >}} Project Leads ({{< var email.support >}}) to let them know that you are ready for “Green-Lighting” [`Subject: "MB5 GREEN-LIGHT REQUEST"`]
 (@) **WAIT for your official “Green-Light”** from the leadership team to begin data collection
 
 :::{.callout-important}
