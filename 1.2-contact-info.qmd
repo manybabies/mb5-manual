@@ -1,6 +1,6 @@
 # Contact info and important links {#sec-contactinfo}
 
-## Contact info {.unnumbered}
+## Contact Info
 
 -   **General inquiries**: {{< var email.support >}}
 
@@ -12,9 +12,11 @@
 
 -   **Heidi Baumgartner** (MB Exec. Director & MB5 Coordinator): {{< var email.heidi >}}
 
-## Project listserv and Slack channels {.unnumbered}
+## Group Communication
 
--   {{< var project.number >}} **project listserv**: {{< var email.listserv >}} *Note: sending an email to this address will send it to everyone subscribed to the* {{< var project.number >}} *list; please use judiciously!*
+-   **{{< var project.number >}} Project Listserv**: {{< var email.listserv >}}
+
+    -   ***CAUTION**: sending an email to this address will send it to everyone subscribed to the {{< var project.number >}} list; please use judiciously!*
 
     -   **SUBSCRIBE** to the {{< var link.listserv >}} *(click on `Join group` using a google-linked account, or fill out the* <a href="https://docs.google.com/forms/d/e/1FAIpQLSewvzsv3YAwPKCAJmut_X6eVlu7P7TxbGe6vAWwG0CInI4YqA/viewform" target="_blank">MB listserv form</a> *to request to join)*
 
@@ -22,7 +24,7 @@
 
     -   Join [*`#mb5-general`*](https://manybabies.slack.com/archives/C03U2J2GZ2A), [*`#mb5-data-collection`*](https://manybabies.slack.com/archives/C0AUKJ27YQG), and any other relevant channels (Click on `Add channels` in the left-hand menu).
 
-## Important links {.unnumbered}
+## Important Links
 
 -   {{< var link.mbwebsite >}}: ManyBabies website
 
