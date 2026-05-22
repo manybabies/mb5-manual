@@ -14,7 +14,15 @@ Because the sample size possible in ManyBabies projects provides a unique opport
 
 We created 12 unique ManyFribbles and 12 unique ManyFractals. Within each stimulus type, six items were designed to be relatively *low-complexity* and six were designed to be relatively *high-complexity*. ***Complexity*** **is operationalized here as the number of features present** (*appendages* in the case of ManyFribbles and *iterations of the same structure* for ManyFractals; see @tbl-stimuli)
 
-### ManyFribbles
+<!-- Table of example stimuli for each condition -->
+|                  | Low complexity                                         |  High complexity                                        |
+|------------------|:------------------------------------------------------:|:-------------------------------------------------------:|
+| **ManyFribbles** | <img src="images/fribble-low.png" height="200"/></img> | <img src="images/fribble-high.png" height="200"/></img> |
+| **ManyFractals** | <img src="images/fractal-low.png" height="200"/></img> | <img src="images/fractal-high.png" height="200"/></img> |
+
+: MB5 stimulus examples {#tbl-stimuli}
+
+## ManyFribbles
 
 ManyFribbles are colorful, computer-generated models of 3D figures. All ManyFribbles are made up of one base body shape and one (low-complexity) or four (high-complexity) appendages.
 
@@ -22,7 +30,7 @@ ManyFribbles are colorful, computer-generated models of 3D figures. All ManyFrib
 **ADD MORE INFO ABOUT COLOR SELECTION, SIZING, ETC**
 :::
 
-### ManyFractals
+## ManyFractals
 
 ManyFractals are geometric shapes in which the same structure is repeated iteratively at different levels of scale.
 
@@ -30,39 +38,11 @@ ManyFractals are geometric shapes in which the same structure is repeated iterat
 **ADD MORE INFO ABOUT FRACTAL GENERATION**
 :::
 
+## Attention-getter stimuli
 
-```{=html}
-<table id="tbl-stimuli">
-  <caption><span data-qmd="MB5 stimuli"></span></caption>
-  <thead>
-    <title>Example MB5 stimuli</title>
-    <tr>
-      <th></th>
-      <th>Low-complexity</th>
-      <th>High-complexity</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row" style="vertical-align: middle"><b>ManyFribbles</b></th>
-      <td><img src="images/fribble-low.png" height="200"/></img></td>
-      <td><img src="images/fribble-high.png" height="200"/></img></td>
-    </tr>
-    <tr>
-      <th scope="row"><b>ManyFractals</b></th>
-      <td><img src="images/fractal-low.png" height="200"/></img></td>
-      <td><img src="images/fractal-high.png" height="200"/></img></td>
-    </tr>
-  </tbody>
-</table>
-```
+-   **Between Trials:** Please use the provided `laughing baby` stimulus to re-center babies between each trial (i.e., before familiarization begins). If your lab uses a different attention-getting stimulus that you feel is more appropriate for your community, please check with us.
+-   **Within Trial:** Please use the `Hoehle circle with chimes` stimulus to re-center babies within each trial (i.e., between familiarization and test and between test phases 1 and 2).
 
-
-### Attention-getter stimuli
-
--   **Between Trials:** Please use the provided "laughing baby" stimulus to re-center babies between each trial (i.e., before familiarization begins). If your lab uses a different attention-getting stimulus that you feel is more appropriate for your community, please check with us.
--   **Within Trial:** Please use the the "Hoehle circle with chimes" stimulus to re-center babies within each trial (i.e., between familiarization and test and between test phases 1 and 2).
-
-### \>\> [{{< var project.number >}} Stimulus directory]({{< var link.stimuli >}}) \<\<
+# \>\> [{{< var project.number >}} Stimulus directory]({{< var link.stimuli >}}) \<\< {.unnumbered}
 
 <br>
