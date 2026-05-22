@@ -6,28 +6,35 @@ We are finalizing the questionnaire template and will make an announcmement via 
 
 ## Collecting participant information
 
-**Please use an appropriate version of the {{< var project.number >}} Demographics Questionnaire**^[See below for more information on adapting/translating the template] to collect information about participants and their families/caregivers.
+**Please use an appropriate version of the** {{< var project.number >}} **Demographics Questionnaire**[^2.2-demographics-1] to collect information about participants and their families/caregivers.
 
-### >> [MB5 Demographics Questionnaire directory]({{< var link.demographics >}}) <<
+[^2.2-demographics-1]: See below for more information on adapting/translating the template
+
+### \>\> [MB5 Demographics Questionnaire directory]({{< var link.demographics >}}) \<\<
+
 <br>
 
-This questionnaire is adapted from the template(s) created by the <a href="https://manybabies.org/MB-Demographics/" target="_blank">MB-Demographics</a> group.^[See @Singh2024 for more information on the development of the template] As noted in @Singh2024, the MB Demographics Questionnaire template was developed to **query information pertaining to six constructs** (*biographical information*, *gestational status*, *health status*, *community of descent*, *caregiving environment*, and *socioeconomic status*). We have added a few additional questions that are of particular interest to MB5 (e.g., family history of colorblindness) to create the {{< var project.number >}} Demographics Questionnaire template.
+This questionnaire is adapted from the template(s) created by the <a href="https://manybabies.org/MB-Demographics/" target="_blank">MB-Demographics</a> group.[^2.2-demographics-2] As noted in @Singh2024, the MB Demographics Questionnaire template was developed to **query information pertaining to six constructs** (*biographical information*, *gestational status*, *health status*, *community of descent*, *caregiving environment*, and *socioeconomic status*). We have added a few additional questions that are of particular interest to MB5 (e.g., family history of colorblindness) to create the {{< var project.number >}} Demographics Questionnaire template.
+
+[^2.2-demographics-2]: See @Singh2024 for more information on the development of the template
 
 ::: callout-warning
 # CHECK FOR MISSING DATA
 
-While parents/guardians can choose to not respond to individual questions, please **CHECK THE FORM BEFORE THE RESPONDANT LEAVES YOUR LAB** to avoid accidental blank responses/missing data.^[In other words, please confirm that blank items are **intentional non-responses** rather than mistakes (e.g., respondent didn't understand what the question was asking, didn't know the questionnaire form continued on the next page, etc.).]
+While parents/guardians can choose to not respond to individual questions, please **CHECK THE FORM BEFORE THE RESPONDANT LEAVES YOUR LAB** to avoid accidental blank responses/missing data.[^2.2-demographics-3]
 :::
 
+[^2.2-demographics-3]: In other words, please confirm that blank items are **intentional non-responses** rather than mistakes (e.g., respondent didn't understand what the question was asking, didn't know the questionnaire form continued on the next page, etc.).
 
 ## Adaptations and translations
 
 ::: callout-note
 # MB5 Demographics Questionnaire directory
 
-Translations/adaptations of the MB5 Demographics Questionnaire will be available [**here**]({{< var url.demographics >}}){target="_blank"} as they become available.^[Existing translations/adaptations of the original MB-Demographics template are available via the <a href="https://osf.io/nqc92/files/osfstorage" target="_blank">MB-Demographics OSF repository</a>.]
+Translations/adaptations of the MB5 Demographics Questionnaire will be available [**here**]({{< var url.demographics >}}){target="_blank"} as they become available.[^2.2-demographics-4]
 :::
 
+[^2.2-demographics-4]: Existing translations/adaptations of the original MB-Demographics template are available via the <a href="https://osf.io/nqc92/files/osfstorage" target="_blank">MB-Demographics OSF repository</a>.
 
 #### We recognize that the specific questions/response options in the example template (which was developed in English for use in the United States) are not appropriate for all contexts.
 

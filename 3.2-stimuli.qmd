@@ -2,16 +2,6 @@
 
 ## Overview
 
-::: callout-important
-# Stimulus alert {.mark .unnumbered}
-
-## Please note that stimuli have not yet been finalized! {.unnfumbered}
-
-We are still finalizing study materials based on community feedback. We will notify everyone when final study materials are available via an announcement to the {{< var link.listserv >}}.
-:::
-
-> All (in development) materials are available in the {{< var link.materials >}}.
-
 Because the sample size possible in ManyBabies projects provides a unique opportunity to test generalizability across multiple stimulus types, we chose two different categories of stimuli: **ManyFribbles**^[These stimuli were inspired by the *Fribbles* stimulus set [@barry2014]. We are calling the stimlus set developed for MB5 "ManyFribbles" to distinguish them from the original Fribbles.] and **ManyFractals**^[We're calling our custom sets of stimuli "ManyFribbles" and "ManyFractals" because... well, it's fun.]. These two classes of stimuli were chosen because:
 
 -   they allow for **variation in complexity** within the same stimulus category (i.e., by manipulating the number of features)
@@ -24,13 +14,17 @@ We created 12 unique ManyFribbles and 12 unique ManyFractals. Within each stimul
 
 ManyFribbles are colorful, computer-generated models of 3D figures. All ManyFribbles are made up of one base body shape and one (low-complexity) or four (high-complexity) appendages.
 
+::: callout-important
 **ADD MORE INFO ABOUT COLOR SELECTION, SIZING, ETC**
+:::
 
 ### ManyFractals
 
 ManyFractals are geometric shapes in which the same structure is repeated iteratively at different levels of scale.
 
+::: callout-important
 **ADD MORE INFO ABOUT FRACTAL GENERATION**
+:::
 
 ```{=html}
 <table id="tbl-stimuli">
@@ -75,3 +69,8 @@ ManyFractals are geometric shapes in which the same structure is repeated iterat
 
 -   **Between Trials:** Please use the provided "laughing baby" stimulus to re-center babies between each trial (i.e., before familiarization begins). If your lab uses a different attention-getting stimulus that you feel is more appropriate for your community, please check with us.
 -   **Within Trial:** Please use the the "Hoehle circle with chimes" stimulus to re-center babies within each trial (i.e., between familiarization and test and between test phases 1 and 2).
+
+
+### \>\> [{{< var project.number >}} Stimulus directory]({{< var link.stimuli >}}) \<\<
+<br>
+
