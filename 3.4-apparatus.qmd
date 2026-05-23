@@ -1,15 +1,20 @@
 # Apparatus {#sec-apparatus}
 
+## Room Set-Up
+
+During the experiment, infants will be seated on their caregiver’s lap or in a high-chair or car seat (whichever option corresponds to a lab's standard procedure for testing infants, as reported in the pre-data-collection survey).^[See @sec-apparatus for more detail.]
+
+
 ## Equipment
 
 The minimal equipment required to run this experiment is:
 
 -   Computer running experiment software (see below)
 -   Monitor/television for stimulus display
--   Camera for capturing infant looking behavior[^apparatus-1]
+-   Camera for capturing infant looking behavior[^3.4-apparatus-1]
 -   Mixer for syncing recording of infant with stimulus timing (or other method for doing so)
 
-[^apparatus-1]: This can be a scene view embedded in an eye tracker.
+[^3.4-apparatus-1]: This can be a scene view embedded in an eye tracker.
 
 Addional (optional) equipment:
 
@@ -19,7 +24,6 @@ Addional (optional) equipment:
 ::: callout-important
 PUT IN GRAPHIC SHOWING APPARATUS/SET-UP
 :::
-
 
 ## Software
 

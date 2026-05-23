@@ -460,7 +460,7 @@
     "href": "3.2-stimuli.html#manyfribbles",
     "title": "12  Stimuli",
     "section": "12.2 ManyFribbles",
-    "text": "12.2 ManyFribbles\nManyFribbles are colorful, computer-generated models of 3D figures. All ManyFribbles are made up of one base body shape and one (low-complexity) or four (high-complexity) appendages.\n\n\n\n\n\n\nImportant\n\n\n\nADD MORE INFO ABOUT COLOR SELECTION, SIZING, ETC",
+    "text": "12.2 ManyFribbles\nManyFribbles are colorful, computer-generated models of 3D figures. All ManyFribbles are made up of one base body shape and one (low-complexity) or four (high-complexity) appendages.\n\n\n\n\n\n\nIn development\n\n\n\nADD MORE INFO ABOUT COLOR SELECTION, SIZING, ETC",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Stimuli</span>"
@@ -471,7 +471,7 @@
     "href": "3.2-stimuli.html#manyfractals",
     "title": "12  Stimuli",
     "section": "12.3 ManyFractals",
-    "text": "12.3 ManyFractals\nManyFractals are geometric shapes in which the same structure is repeated iteratively at different levels of scale.\n\n\n\n\n\n\nImportant\n\n\n\nADD MORE INFO ABOUT FRACTAL GENERATION",
+    "text": "12.3 ManyFractals\nManyFractals are geometric shapes in which the same structure is repeated iteratively at different levels of scale.\n\n\n\n\n\n\nIn development\n\n\n\nADD MORE INFO ABOUT FRACTAL GENERATION",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Stimuli</span>"
@@ -493,7 +493,7 @@
     "href": "3.3-procedure.html",
     "title": "13  Procedure",
     "section": "",
-    "text": "13.1 Overview\nDuring the experiment, infants will be seated on their caregiver’s lap or in a high-chair or car seat (whichever option corresponds to a lab’s standard procedure for testing infants, as reported in the pre-data-collection survey).\nEach baby will be presented with a series of 12 trials. Each trial is preceded by an attention-getter and made up of a familiarization phase followed by the test phase (see Figure 13.1).",
+    "text": "13.1 Overview\nEach baby will be presented with a series of 12 trials. Each trial is preceded by an attention-getter and made up of a familiarization phase followed by the test phase (see Figure 13.1).\nThere are a total of 12 familiarization events for each infant that vary across three dimensions (see Table 13.1):",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>Procedure</span>"
@@ -504,40 +504,29 @@
     "href": "3.3-procedure.html#overview",
     "title": "13  Procedure",
     "section": "",
-    "text": "Important\n\n\n\nPUT IN GRAPHIC SHOWING ROOM CONFIG\n\n\n\n\nThere are two versions of the experiment:1\n\nFixed-length, in which the duration of the familiarization phase is pre-established (5s, 10s or 15s)\nInfant-controlled, in which the familiarization phase lasts until the infant accumulates the specified looking time (5s, 10s, or 15s). In both versions, the duration of each test phase is fixed at 5s.\n\n\n1 Participating labs are encouraged to use an infant-controlled procedure, if possible. See Section 13.3 for more info.\nTrial schematic:\n\n\n\n\n\n\nFigure 13.1: This figure depicts the design of an example trial. At familiarization, a single image is shown for 5, 10, or 15s. After the specified familiarization time is reached (based on the infant-controlled or fixed-length design criteria), infants are presented with a central fixation stimulus for 500ms. During the two test periods (5s each), infants view the same image to which they were familiarized paired with a new stimulus from the same set (e.g., Fribbuli or Fractals) and the same level of complexity (low or high). The side on which the familiar and novel images are presented is counterbalanced across test phases within a trial, but the images remain the same.",
+    "text": "Stimulus class (Fribbuli or Fractals)\nComplexity level (low or high); and\nFamiliarization time (5s, 10s, or 15s)\n\n\nThere are two versions of the experiment:1\n\nInfant-controlled design, in which the familiarization phase of each trial lasts until the infant accumulates the target familiarization looking time (5s, 10s, or 15s), or until the max trial duration (2x target familiarlization time) is reached.\nFixed-length design, in which the duration of the familiarization phase is pre-established (5s, 10s, or 15s) regardless of infant looking time.\n\nIn both versions, the duration of each test period is fixed at 5s (10s total per trial).\n\n1 Participating labs are encouraged to use an infant-controlled design, if possible. See Section 13.2.2 for more info.",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>Procedure</span>"
     ]
   },
   {
-    "objectID": "3.3-procedure.html#trial-initiation",
-    "href": "3.3-procedure.html#trial-initiation",
+    "objectID": "3.3-procedure.html#trial-structure",
+    "href": "3.3-procedure.html#trial-structure",
     "title": "13  Procedure",
-    "section": "13.2 Trial initiation",
-    "text": "13.2 Trial initiation\nThis phase draws infants’ attention (back) to the screen prior to the familiarization using the “laughing baby” stimulus. The trial is initiated when the infant fixates the screen (or a maximum of 10s has elapsed).",
+    "section": "13.2 Trial Structure",
+    "text": "13.2 Trial Structure\n\n\n\n\n\n\nFigure 13.1: This figure depicts the design of an example trial. During familiarization, a single image is shown until the specified familiarization time is reached (based on the infant-controlled or fixed-length design criteria; 5, 10, or 15s). During the two test periods (5s each), infants view the same image they saw during familiarization paired with a new stimulus from the same set (e.g., ManyFribbles or ManyFractals) and the same level of complexity (low or high). The side on which the familiar and novel images are presented is counterbalanced across test phases within a trial, but the images remain the same.\n\n\n\n\nPre-Trial Attention-Getter\nInfants’ attention is drawn to the center of the screen using the laughing baby stimulus. An experimenter initiates the trial via key press when the infant fixates the screen (or a maximum of 10s has elapsed).2\n2 This maximum duration is to allow the experiment to proceed and not get “stuck” on the attention-getting stimulus for too long, even if the baby is inattentive.\n\nFamiliarization Phase\nOnce the trial has been initiated, one familiarization stimulus is presented centrally on the screen and is accompanied by music that plays continuously during the familiarization phase.3\n3 Pilot testing indicated that music helped infants stay engaged in the task4 Criterion depends on fixed-length or infant-controlled designThe familiarization stimulus remains on the screen until the familarization criterion4 has been met:\n\nFixed-length design: The familiarization time has elapsed.\nInfant-controlled design: The infant has accumulated the target duration of looking (as determined by automated gaze detection by an eye-tracker or by an experimenter coding infant looking in real time) OR the maximum trial length (2x the target duration of looking) has elapsed.\n\nNOTE: Familliarization looking does not have to be continuous. Infants may accumulate the required familiarization time across multiple looks (e.g., “infant looks to the screen for 3s, looks away for 2s, looks back for 2s” would satisfy the familiarization criteria for a 5s trial).\n\n\n\n\nPre-Test Attention-Getter\nOnce the familiarization criterion has been reached (either via fixed-length presentation, accumulated looking, or maximum trial duration), the infant is presented with a central-fixation stimulus (looming circle). An experimenter initiates the test phase via key press when the infant fixates the screen (or a maximum of 5s has elapsed).\n\n\n\n\n\n\nCaution\n\n\n\nCONFIRM AG MAX DURATION OF 5s\n\n\n\n\nTest Phase\nThe test phase is made up of two test periods. Each test period lasts for a fixed duration of 5s (regardless of design5 or infant looking).\n5 *fixed-length or infant-controlledIn the first test period, the stimulus seen during familiarization (the familiar stimulus) is presented side-by-side with a previously-unseen novel stimulus. The novel stimulus will be from the same stimulus class (Fribbles or Fractals) and complexity level (low or high) as the familiar stimulus.\nFollowing the first test period, the fixation stimulus (`looking circle’) is again presented in the center of the screen for a fixed duration of 750ms. This attention-getter is followed by the second test period.\n\n\n\n\n\n\nCaution\n\n\n\nCONFIRM AG DURATION OF 750ms\n\n\nThe second test period is identical to the first with the exception that the familiar and novel stimuli switch sides. For example, if the familiar stimulus appeared on the left side of the screen in the first test period, it will appear on the right side of the screen in the second test period.\nFollowing the conclusion of the second test period, the Pre-Trial Attention-Getter (laughing baby) re-appears on the screen until the initiation of the the next trial.",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>Procedure</span>"
     ]
   },
   {
-    "objectID": "3.3-procedure.html#sec-famphase",
-    "href": "3.3-procedure.html#sec-famphase",
+    "objectID": "3.3-procedure.html#trial-orders",
+    "href": "3.3-procedure.html#trial-orders",
     "title": "13  Procedure",
-    "section": "13.3 Familiarization Phase",
-    "text": "13.3 Familiarization Phase\nIn the familiarization phase, one stimulus is presented centrally on the screen and is accompanied by music that plays continuously during the familiarization phase. There are a total of 12 familiarization events for each infant that vary across three dimensions (see Table 13.1):\n\nStimulus class (Fribbuli or Fractals)\nComplexity level (low or high); and\nFamiliarization time (5s, 10s, or 15s)2\n\n2 Familiarization time specifies the duration of the familiarization phase (fixed-length design), or the duration of accumulated looking time needed to end the familiarization phase (infant-controlled design)The order of these trials will be counterbalanced along a number of dimensions across participants and labs.\n\n\n\nTable 13.1: Familarization events (Note: Order of events will be counterbalanced across pariticipants)\n\n\n\n\n\n\n\n\n\n\n\n\nEvent\nFamiliarization Time (s)\nStimulus Class\nComplexity Level\nExample Stimulus\n\n\n\n\n1  2  3\n5  10  15\n Fribbuli\n Low\n\n\n\n4  5  6\n5  10  15\n Fribbuli\n High\n\n\n\n7  8  9\n5  10  15\n Fractals\n Low\n\n\n\n10  11  12\n5  10  15\n Fractals\n High\n\n\n\n\n\n\n\n\nInfant-Controlled Familiarization\nIf your lab is running the infant-controlled version of the study, infants may accumulate the required familiarization time across multiple looks before advancing to the test phase. The familiarization stimulus will remain on the screen until the infant has looked at the stimulus for the specified duration (as determined by an experimenter coding infant looking in real time).\nWe will additionally implement a maximum trial length criterion: if infants do not accumulate the required looking time within twice the specified familiarization duration (i.e., 10, 20, or 30s), the familiarization phase will end.\n\n\nFixed-Length Familiarization\nIf your lab is unable to run an infant-controlled design, then you will present the familiarization stimulus for a specified duration (5, 10, or 20s) before advancing to the test phases.",
-    "crumbs": [
-      "Setting up the experiment",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Procedure</span>"
-    ]
-  },
-  {
-    "objectID": "3.3-procedure.html#test-phase",
-    "href": "3.3-procedure.html#test-phase",
-    "title": "13  Procedure",
-    "section": "13.4 Test Phase",
-    "text": "13.4 Test Phase\nOnce the familiarization criterion has been reached (either via accumulated looking or fixed-length presentation), the infant will be presented with a central-fixation stimulus (looming circle). Once the infant fixates the screen (or a maximum of 5s has elapsed), the test phase will begin.\nThe test phase is made up of two 5s test periods. In each test period, the object seen during familiarization (the familiar object) is presented side-by-side with a previously-unseen novel object.3 The location (left/right) of the familiar and novel stimuli will be switched in the two test periods (e.g., if the familiar object appears on the left in the first test period, it will appear on the right in the second test period). A central fixation attention-getting stimulus (looming circle) will be presented on the screen between the first and second test periods.4\n\n\n3 The novel object on each trial will be from the same stimulus class (Fribbuli or Fractals) and complexity level (low or high) as the familiar object.4 The attention-getter between test periods will be presented for either 750ms (Fixed-length procedure) or until the infant looks at the attention-getter for 500ms (Infant-controlled procedure)",
+    "section": "13.3 Trial Orders",
+    "text": "13.3 Trial Orders\nEach infant will view both stimulus sets (ManyFribbles and ManyFractals), with presentation blocked by stimulus set and presentation order (ie.g., Fribbles first or Fractals first) and counterbalanced across infants. Additionally, within each stimulus set, infants will experience all combinations of complexity level (low, high) and familiarization time (5s, 10s, 15s). Table 13.1 provides an example list of the 12 trial types that an infant would see, with example stimuli for each trial type shown in the right-most columns.\nProject Leads have generated a set of XXX order lists which counterbalance many variables (e.g., block order, stimulus x complexity level x familiarization time combinations, novel side during test periods) both within and across labs. Each lab will be assigned a set of 16 orders at the time of “Green-Lighting” to use for testing. For labs collecting sample sizes larger than 16, orders can be used more than once.\n\n\n\n\n\n\nPLEASE USE THE ORDERS ASSIGNED TO YOUR LAB!\n\n\n\nIt is VERY IMPORTANT FOR COUNTERBALANCING PURPOSES that each lab use the orders assigned to them by Project Leads. If you are having difficultly implementing assigned orders, please EMAIL US as soon as possible so that we can assist you. Thank you!\n\n\n\n\n\n\nTable 13.1: Example trial information for a participant\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrial\nFamiliarization Time (s)\nStimulus Class\nComplexity Level\nFamiliarization Stimulus\nTest Stimulus (novel)\n\n\n\n\n1  2  3\n5  10  15\n ManyFribbles\n Low\n\n\n\n\n4  5  6\n5  10  15\n ManyFribbles\n High\n\n\n\n\n7  8  9\n5  10  15\n ManyFractals\n Low\n\n\n\n\n10  11  12\n5  10  15\n ManyFractals\n High\n\n\n\n\n\n\n\n\n\nNote: The order of blocks and trials will be counterbalanced along a number of dimensions across participants and labs.",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>Procedure</span>"
@@ -548,7 +537,18 @@
     "href": "3.4-apparatus.html",
     "title": "14  Apparatus",
     "section": "",
-    "text": "14.1 Equipment\nThe minimal equipment required to run this experiment is:\nAddional (optional) equipment:",
+    "text": "14.1 Room Set-Up\nDuring the experiment, infants will be seated on their caregiver’s lap or in a high-chair or car seat (whichever option corresponds to a lab’s standard procedure for testing infants, as reported in the pre-data-collection survey).1",
+    "crumbs": [
+      "Setting up the experiment",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Apparatus</span>"
+    ]
+  },
+  {
+    "objectID": "3.4-apparatus.html#room-set-up",
+    "href": "3.4-apparatus.html#room-set-up",
+    "title": "14  Apparatus",
+    "section": "",
+    "text": "1 See Chapter 14 for more detail.",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>Apparatus</span>"
@@ -558,8 +558,8 @@
     "objectID": "3.4-apparatus.html#equipment",
     "href": "3.4-apparatus.html#equipment",
     "title": "14  Apparatus",
-    "section": "",
-    "text": "Computer running experiment software (see below)\nMonitor/television for stimulus display\nCamera for capturing infant looking behavior1\nMixer for syncing recording of infant with stimulus timing (or other method for doing so)\n\n1 This can be a scene view embedded in an eye tracker.\n\nEye tracker\nBlacked-out glasses for parent to wear during experiment\n\n\n\n\n\n\n\nImportant\n\n\n\nPUT IN GRAPHIC SHOWING APPARATUS/SET-UP",
+    "section": "14.2 Equipment",
+    "text": "14.2 Equipment\nThe minimal equipment required to run this experiment is:\n\nComputer running experiment software (see below)\nMonitor/television for stimulus display\nCamera for capturing infant looking behavior2\nMixer for syncing recording of infant with stimulus timing (or other method for doing so)\n\n2 This can be a scene view embedded in an eye tracker.Addional (optional) equipment:\n\nEye tracker\nBlacked-out glasses for parent to wear during experiment\n\n\n\n\n\n\n\nImportant\n\n\n\nPUT IN GRAPHIC SHOWING APPARATUS/SET-UP",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>Apparatus</span>"
@@ -569,8 +569,8 @@
     "objectID": "3.4-apparatus.html#software",
     "href": "3.4-apparatus.html#software",
     "title": "14  Apparatus",
-    "section": "14.2 Software",
-    "text": "14.2 Software\nWe assume you will use an experimental software (e.g. Matlab, Habit, E-Prime, Psychopy, OpenSesame or custom software) to run the study and one of three settings to record looking times:\n\nOffline Video recording\nEye-tracker (e.g. Tobii, EyeLink, SMI, ASL, or a different company) with appropriate software from the eye-tracker or custom software\nEye-tracker + video recording.\n\nWe also assume you know how to set up looking-time studies on your equipment. If that is not the case, or if you need help, support is available from the following people:\n\nPsychoPy:\nPyHab:\nTobii:\nEyelink:\nOther systems: email us (mb5@manybabies.org) and we’ll do our best to help out",
+    "section": "14.3 Software",
+    "text": "14.3 Software\nWe assume you will use an experimental software (e.g. Matlab, Habit, E-Prime, Psychopy, OpenSesame or custom software) to run the study and one of three settings to record looking times:\n\nOffline Video recording\nEye-tracker (e.g. Tobii, EyeLink, SMI, ASL, or a different company) with appropriate software from the eye-tracker or custom software\nEye-tracker + video recording.\n\nWe also assume you know how to set up looking-time studies on your equipment. If that is not the case, or if you need help, support is available from the following people:\n\nPsychoPy:\nPyHab:\nTobii:\nEyelink:\nOther systems: email us (mb5@manybabies.org) and we’ll do our best to help out",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>Apparatus</span>"

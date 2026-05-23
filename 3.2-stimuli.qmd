@@ -26,16 +26,18 @@ We created 12 unique ManyFribbles and 12 unique ManyFractals. Within each stimul
 
 ManyFribbles are colorful, computer-generated models of 3D figures. All ManyFribbles are made up of one base body shape and one (low-complexity) or four (high-complexity) appendages.
 
-::: callout-important
-**ADD MORE INFO ABOUT COLOR SELECTION, SIZING, ETC**
+::: callout-caution
+## In development
+ADD MORE INFO ABOUT COLOR SELECTION, SIZING, ETC
 :::
 
 ## ManyFractals
 
 ManyFractals are geometric shapes in which the same structure is repeated iteratively at different levels of scale.
 
-::: callout-important
-**ADD MORE INFO ABOUT FRACTAL GENERATION**
+::: callout-caution
+## In development
+ADD MORE INFO ABOUT FRACTAL GENERATION
 :::
 
 ## Attention-getter stimuli
