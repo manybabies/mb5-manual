@@ -88,4 +88,4 @@ It is **VERY IMPORTANT FOR COUNTERBALANCING PURPOSES** that each lab use the ord
 
 : Example trial information for a participant  {#tbl-familiarization}
 
-> *Note:* The order of blocks and trials will be counterbalanced along a number of dimensions across participants and labs.
+> *Note:* The order of blocks and trials will be counterbalanced along a number of dimensions across participants and labs. 
