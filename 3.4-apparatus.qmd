@@ -2,36 +2,43 @@
 
 ## Room Set-Up
 
-During the experiment, infants will be seated on their caregiver’s lap or in a high-chair or car seat (whichever option corresponds to a lab's standard procedure for testing infants, as reported in the pre-data-collection survey).^[See @sec-apparatus for more detail.]
+During the experiment, infants will be seated on their caregiver’s lap or in a high-chair or car seat^[Whichever option corresponds to a lab's standard procedure for testing infants, as reported in the pre-data-collection survey] in front of a screen. The optimal distance between the infant and the screen will depend on the size of the screen.
 
+::: callout-caution
+ADD IN VISUAL ANGLE CALCULATOR INSTRUCTIONS
+:::
+
+We encourage labs to follow their normal procedure for ensuring that parents do not influence their infant's behavior during the experiment. This can include asking parents to wear blacked-out sunglasses, close their eyes, or look down at the infant (and not at the screen). 
+
+Stimlui will be presented on the screen according to the specifications in @sec-procedure.
 
 ## Equipment
 
-The minimal equipment required to run this experiment is:
+#### The minimal equipment required to run this experiment is:
 
 -   Computer running experiment software (see below)
--   Monitor/television for stimulus display
--   Camera for capturing infant looking behavior[^3.4-apparatus-1]
--   Mixer for syncing recording of infant with stimulus timing (or other method for doing so)
+-   Monitor/television for stimulus display (with audio capability to play music/attention-getter sounds)^[Can be a laptop screen, if needed (a large external screen is preferable)]
+-   Camera for capturing infant looking behavior[^3.4-apparatus-2]
+-   Mixer for syncing recording of infant looking with stimulus timing (or other method for doing so)
 
-[^3.4-apparatus-1]: This can be a scene view embedded in an eye tracker.
+[^3.4-apparatus-2]: This can be a scene view embedded in an eye tracker, or a webcam from a laptop.
 
-Addional (optional) equipment:
+#### Addional (optional) equipment:
 
 -   Eye tracker
 -   Blacked-out glasses for parent to wear during experiment
 
-::: callout-important
+::: callout-caution
 PUT IN GRAPHIC SHOWING APPARATUS/SET-UP
 :::
 
 ## Software
 
-We assume you will use an experimental software (e.g. Matlab, Habit, E-Prime, Psychopy, OpenSesame or custom software) to run the study and one of three settings to record looking times:
+We assume labs will use an experimental software (e.g. Matlab, Habit, E-Prime, PsychoPy, OpenSesame or custom software) to run the study and one of three settings to record looking times:
 
 1.  Offline Video recording
-2.  Eye-tracker (e.g. Tobii, EyeLink, SMI, ASL, or a different company) with appropriate software from the eye-tracker or custom software
-3.  Eye-tracker + video recording.
+2.  Eye-tracker (e.g. Tobii, EyeLink, or a different company) with appropriate software from the eye-tracker or custom software
+3.  Eye-tracker + video recording
 
 We also assume you know how to set up looking-time studies on your equipment. If that is not the case, or if you need help, support is available from the following people:
 
