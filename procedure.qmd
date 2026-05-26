@@ -3,23 +3,25 @@
 ::: callout-important
 ## LABS SHOULD ADHERE TO THESE SPECIFICATIONS AS CLOSELY AS POSSIBLE
 
-**If any of the following technical specifications are not possible for your lab**, please contact the MB5 leadership team ({{< var email.support >}}) as soon as possible and **BEFORE BEGINNING DATA COLLECTION** to inform us of your planned deviation and the reason for it.
+We will do our best to support labs' efforts to set up the experiment. **If any of the following technical specifications are not possible for your lab**, please contact the MB5 leadership team ({{< var email.support >}}) as soon as possible and **BEFORE BEGINNING DATA COLLECTION** to inform us of your planned deviation and the reason for it.
 :::
 
 ## Overview
 
-Each baby will be presented with a series of 12 trials. Each trial is preceded by an attention-getter and made up of a **familiarization phase** followed by the **test phase** (see @fig-trial).
+Each baby will be presented with a series of 12 trials. Each trial is preceded by an attention-getter and made up of a **familiarization phase** followed by a **test phase** (see @fig-trial).
 
 There are a total of 12 familiarization events for each infant that vary across three dimensions (see @tbl-familiarization):
 
-1.  **Stimulus class** (*Fribbuli* or *Fractals*)
-2.  **Complexity level** (*low* or *high*); and
+1.  **Stimulus class** (*ManyFribbles* or *ManyFractals*)
+2.  **Complexity level** (*low* or *high*)
 3.  **Familiarization time** (*5s*, *10s*, or *15s*)
 
-#### There are two versions of the experiment:^[Participating labs are encouraged to use an infant-controlled design, if possible. See @sec-famphase for more info.]
+#### There are two experimental designs:[^procedure-1]
 
-1.  ***Infant-controlled design***, in which the familiarization phase of each trial lasts until the infant accumulates the target familiarization looking time (5s, 10s, or 15s), or until the max trial duration *(2x target familiarlization time)* is reached.
-2.  ***Fixed-length design***, in which the duration of the familiarization phase is pre-established (5s, 10s, or 15s) regardless of infant looking time.
+[^procedure-1]: Participating labs are encouraged to use an infant-controlled design, if possible. See @sec-famphase for more info.
+
+1.  ***Infant-controlled design***, in which the familiarization phase of each trial lasts until the infant accumulates the target familiarization looking time *(5s, 10s, or 15s)* as determined by an experimenter key press or eye-tracker automated gaze detection, OR until the max trial duration *(2x target familiarlization time)* is reached.
+2.  ***Fixed-length design***, in which the duration of the familiarization phase is pre-established *(5s, 10s, or 15s)* regardless of infant looking time.
 
 In both versions, the duration of each test period is fixed at 5s (10s total per trial).
 
@@ -29,19 +31,21 @@ In both versions, the duration of each test period is fixed at 5s (10s total per
 
 ### Pre-Trial Attention-Getter
 
-Infants’ attention is drawn to the center of the screen using the `laughing baby` stimulus. An experimenter initiates the trial via key press when the infant fixates the screen (or a maximum of 10s has elapsed).[^3.3-procedure-2]
+Infants’ attention is drawn to the center of the screen using the `laughing baby` stimulus. An experimenter initiates the trial via key press when the infant fixates the screen (or a maximum of 10s has elapsed).[^procedure-2]
 
-[^3.3-procedure-2]: This maximum duration is to allow the experiment to proceed and not get "stuck" on the attention-getting stimulus for too long, even if the baby is inattentive.
+[^procedure-2]: This maximum duration is to allow the experiment to proceed and not get "stuck" on the attention-getting stimulus for too long, even if the baby is inattentive.
 
 ### Familiarization Phase {#sec-famphase}
 
-Once the trial has been initiated, one *familiarization* stimulus is presented centrally on the screen and is accompanied by music that plays continuously during the familiarization phase.[^3.3-procedure-3]
+Once the trial has been initiated, one *familiar* stimulus is presented centrally on the screen and is accompanied by music that plays continuously during the familiarization phase.[^procedure-3]
 
-[^3.3-procedure-3]: Pilot testing indicated that music helped infants stay engaged in the task
+[^procedure-3]: Pilot testing indicated that music helped infants stay engaged in the task
 
-The familiarization stimulus remains on the screen until the familarization criterion[^3.3-procedure-4] has been met:
+The familiar stimulus remains on the screen until the familarization criterion[^procedure-4] has been met.
 
-[^3.3-procedure-4]: Criterion depends on *fixed-length* or *infant-controlled* design
+[^procedure-4]: Criterion depends on fixed-length or *infant-controlled* design
+
+#### Familiarization criterion:
 
 -   ***Fixed-length design:*** The familiarization time has elapsed.
 -   ***Infant-controlled design:*** The infant has accumulated the target duration of looking (as determined by automated gaze detection by an eye-tracker or by an experimenter coding infant looking in real time) ***OR*** the maximum trial length *(2x the target duration of looking)* has elapsed.
@@ -57,9 +61,9 @@ CONFIRM AG MAX DURATION OF 5s
 
 ### Test Phase {#sec-testphase}
 
-The **test phase** is made up of **two test periods**. Each test period lasts for a fixed duration of 5s (regardless of design[^3.3-procedure-5] or infant looking).
+The **test phase** is made up of **two test periods**. Each test period lasts for a fixed duration of 5s (regardless of design[^procedure-5] or infant looking).
 
-[^3.3-procedure-5]: \*fixed-length* or *infant-controlled*
+[^procedure-5]: *fixed-length* or *infant-controlled*
 
 In the **first test period**, the stimulus seen during familiarization (the *familiar* stimulus) is presented side-by-side with a previously-unseen *novel* stimulus. The *novel* stimulus will be from the same stimulus class (*Fribbles* or *Fractals*) and complexity level (*low* or *high*) as the *familiar* stimulus.
 
@@ -79,7 +83,9 @@ Following the conclusion of the second test period, the Pre-Trial Attention-Gett
 
 Each infant will view both stimulus sets (*ManyFribbles* and *ManyFractals*), with presentation blocked by stimulus set and presentation order (ie.g., Fribbles first or Fractals first) and counterbalanced across infants. Additionally, within each stimulus set, infants will experience all combinations of complexity level (*low*, *high*) and familiarization time (*5s*, *10s*, *15s*). @tbl-familiarization provides an example list of the 12 trial types that an infant would see, with example stimuli for each trial type shown in the right-most columns.
 
-Project Leads have generated a set of **XXX** order lists which counterbalance many variables (e.g., *block order*, *stimulus* x *complexity level* x *familiarization time* combinations, *novel side during test periods*) both within and across labs. **Each lab will be assigned a set of 16 orders at the time of "Green-Lighting" to use for testing.** For labs collecting sample sizes larger than 16, orders can be used more than once.
+Project Leads have generated a set of **XXX**^[INSERT TOTAL NUMBER WHEN READY] order lists which counterbalance many variables (e.g., *block order*, *stimulus* x *complexity level* x *familiarization time* combinations, *novel side during test periods*) both within and across labs. **Labs will be provided with a "pilot order" and corresponding stimuli** for the purposes of experimental set-up and pilot testing. 
+
+**Each lab will be assigned a set of 16 orders at the time of "Green-Lighting" to use for testing.** For labs collecting sample sizes larger than 16, orders can be used more than once.
 
 ::: callout-important
 ## PLEASE USE THE ORDERS ASSIGNED TO YOUR LAB!

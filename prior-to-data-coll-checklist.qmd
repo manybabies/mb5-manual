@@ -9,12 +9,11 @@ As a reminder, **BEFORE BEGINNING DATA COLLECTION** your lab needs to:
 -   Confirm demographics form is uploaded (see @sec-demographics)
 -   Confirm ethics approval is uploaded (see @sec-ethics)
 -   Confirm walkthrough video is uploaded (see @sec-walkthrough)
--   **Complete the Lab Questionnaire** THIS DOESN'T EXIST YET
 -   Validate dummy or pilot data using the {{< var link.validator >}} and upload validated data using the {{< var link.upload >}}
--   Send email to Project Leads ({{< var email.support >}}) to let us know that you are ready for "Geen-Lighting"
+-   Complete the Pre-Test Questionnaire (COMING SOON!) to let us know that you are ready for "Geen-Lighting"
 
 ::: callout-important
 ## Wait until you receive an official go-ahead from Project Leads before you begin testing! {.unnumbered}
 
-We may have questions for you (e.g., about any planned protocol deviations). We will do our best to respond quickly, but if you don’t hear from us within a week of sending the email, please contact us again!
+We may have questions for you (e.g., about any planned protocol deviations). We will do our best to respond quickly, but if you don’t hear from us within a week of submitting the Pre-Test Questionnaire, please {{< var email.emailus >}} again!
 :::
