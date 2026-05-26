@@ -1,9 +1,7 @@
 # MB5 Collaboration Agreement {#sec-collaboration}
 
 ::: callout-important
-# IMPORTANT! {.mark .unnumbered}
-
-### By participating in {{< var project.name >}}, you agree to abide by the {{< var project.number >}} Collaboration Agreement.
+# By participating in {{< var project.name >}}, you agree to abide by the {{< var project.number >}} Collaboration Agreement. {.mark .unnumbered}
 :::
 
 All ManyBabies projects have a **Collaboration Agreement**, which is a document that outlines the anticipated products, roles and responsibilities, and planned authorship model for publications. This agreement is intended to provide clarity and transparency for all contributors. If you have questions about this agreement or would like to suggest an amendment, please [contact the Project Leads]({{< var email.mailto >}}).

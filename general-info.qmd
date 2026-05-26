@@ -3,6 +3,7 @@
 This section includes contact info, important links, data collection start and end dates, and the list of steps each lab must take to succcessfully collect and contribute data for MB5.
 
 -   @sec-collaboration
+-   @sec-tracker
 -   @sec-contactinfo
 -   @sec-testdates
 -   @sec-laboverview

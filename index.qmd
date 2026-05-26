@@ -8,31 +8,24 @@
 Bear with us as we finalize this document with all of the information your lab will need to successfully collect data for {{< var project.number >}}. In the meantime, feel free to poke around and email us at {{< var email.support >}} if you have any questions or need help.
 :::
 
-***
+------------------------------------------------------------------------
 
 [![](images/mb-logo.png){width="20%"}](https://manybabies.org/) [![](images/mb5-logo.png){width="15%"}](https://manybabies.org/MB5)
 
-
-
 ::: callout-important
-# {{< var project.number >}} DATA COLLECTION HAS NOT YET STARTED! {.unnumbered}
-
-# DO NOT BEGIN DATA COLLECTION FOR {{< var project.number >}} UNTIL TESTING DATES HAVE BEEN ANNOUNCED AND PROJECT LEADS GIVE YOUR LAB A "GREEN-LIGHT"!! {.unnumbered}
+# DO NOT BEGIN DATA COLLECTION FOR {{< var project.number >}} UNTIL PROJECT LEADS GIVE YOUR LAB A "GREEN-LIGHT"!! {.unnumbered}
 :::
 
-***
+------------------------------------------------------------------------
 
 # Preface {#sec-preface .unnumbered}
 
 ### Thank you for contributing to {{< var link.projectwebsite >}}, a project of {{< var link.mbdotorg >}}!
 
 ::: callout-warning
-# IMPORTANT {.unnumbered}
-
-### PLEASE REVIEW ALL OF THE MATERIAL IN THIS MANUAL CAREFULLY BEFORE DOING ANYTHING ELSE! {.unnumbered}
+# PLEASE REVIEW ALL OF THE MATERIAL IN THIS MANUAL CAREFULLY BEFORE DOING ANYTHING ELSE! {.unnumbered}
 :::
 
-<br>
 <br>
 
 ## Manual Overview
@@ -45,8 +38,7 @@ This manual provides the information needed to participate in {{< var project.na
 If you find any errors (big or small!) or would like to suggest edits/improvements, we want to hear about it! You can let us know by creating an issue via the {{< var link.manualgithub >}} <i>(click on `Issues` then `New issue`)</i>.
 :::
 
-<br>
-<br>
+<br> <br>
 
 ## {{< var project.name >}} Overview
 
@@ -54,24 +46,22 @@ If you find any errors (big or small!) or would like to suggest edits/improvemen
 
 ![Hunter and Ames model of infant attention (adapted from Bergmann and Cristia, 2016)](images/HunterAmesFig.png){#fig-hunterames}
 
-
-<br>
-<br>
+<br> <br>
 
 ### Acknowledgments
 
 Much of this manual was adapted from the lab manuals created by the MB1, MB2, MB3, and MB4 teams.
 
-***
+------------------------------------------------------------------------
 
 This is a Quarto book.
 
 To learn more about Quarto books visit <https://quarto.org/docs/books>.
 
-***
+------------------------------------------------------------------------
 
 ### License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" style="border-width:0"/></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
-***
+------------------------------------------------------------------------
