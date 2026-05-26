@@ -12,9 +12,7 @@ Bear with us as we finalize this document with all of the information your lab w
 
 [![](images/mb-logo.png){width="20%"}](https://manybabies.org/) [![](images/mb5-logo.png){width="15%"}](https://manybabies.org/MB5)
 
-::: callout-important
-# DO NOT BEGIN DATA COLLECTION FOR {{< var project.number >}} UNTIL PROJECT LEADS GIVE YOUR LAB A "GREEN-LIGHT"!! {.unnumbered}
-:::
+
 
 ------------------------------------------------------------------------
 
@@ -26,11 +24,15 @@ Bear with us as we finalize this document with all of the information your lab w
 # PLEASE REVIEW ALL OF THE MATERIAL IN THIS MANUAL CAREFULLY BEFORE DOING ANYTHING ELSE! {.unnumbered}
 :::
 
+::: callout-important
+# DO NOT BEGIN DATA COLLECTION FOR {{< var project.number >}} UNTIL PROJECT LEADS GIVE YOUR LAB A "GREEN-LIGHT"!! {.unnumbered}
+:::
+
 <br>
 
 ## Manual Overview
 
-This manual provides the information needed to participate in {{< var project.name >}}. The manual is divided into five sections ([General information](#sec-generalinfo), [Getting Started](#sec-gettingstarted), [Setting up the experiment](#sec-running), & [After data collection](#sec-aftercollection)). Each section is divided into chapters, which you can jump to using the navigation panel on the left of the screen.
+This manual provides the information needed to participate in {{< var project.name >}}. The manual is divided into five sections ([General information](#sec-generalinfo), [Getting Started](#sec-gettingstarted), [Setting up the experiment](#sec-setup), [Running the experiment](#sec-running) & [After data collection](#sec-aftercollection)). Each section is divided into chapters, which you can jump to using the navigation panel on the left of the screen.
 
 ::: callout-caution
 #### Help us improve the manual!
