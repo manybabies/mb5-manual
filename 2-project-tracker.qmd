@@ -1,3 +1,0 @@
-# MB5 Project Tracker {#sec-tracker}
-
-## >> <a href="{{< var url.tracker >}}" target="_blank">VIEW THE MB5 PROJECT TRACKER</a> <<

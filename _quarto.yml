@@ -40,36 +40,36 @@ book:
     - index.qmd
     - part: general-info.qmd
       chapters:
-        - 1-collab-agreement.qmd
-        - 2-project-tracker.qmd
-        - 3-contact-info.qmd
-        - 4-test-dates.qmd
-        - 5-lab-overview.qmd
+        - collab-agreement.qmd
+        - project-tracker.qmd
+        - contact-info.qmd
+        - test-dates.qmd
+        - lab-overview.qmd
     - part: getting-started.qmd
       chapters: 
-        - 2.1-green-lighting.qmd
-        - 2.2-demographics.qmd
-        - 2.3-objects.qmd
-        - 2.4-ethics.qmd
-        - 2.5-walkthrough.qmd
-        - 2.6-data-validation.qmd
-    - part: 3-experiment-overview.qmd
+        - green-lighting.qmd
+        - demographics.qmd
+        - objects.qmd
+        - ethics.qmd
+        - walkthrough.qmd
+        - data-validation.qmd
+    - part: experiment-overview.qmd
       chapters: 
-        - 3.1-participants.qmd
-        - 3.2-stimuli.qmd
-        - 3.3-procedure.qmd
-        - 3.4-apparatus.qmd
-        - 3.5-prior-to-data-coll-checklist.qmd
-    - part: 4-running-experiment.qmd
+        - participants.qmd
+        - stimuli.qmd
+        - procedure.qmd
+        - apparatus.qmd
+        - prior-to-data-coll-checklist.qmd
+    - part: running-experiment.qmd
       chapters:
-        - 4.1-general-lab-practices.qmd
-        - 4.2-test-conditions.qmd
-        - 4.3-during-data-collection.qmd
-    - part: 5-after-data-collection.qmd
+        - general-lab-practices.qmd
+        - test-conditions.qmd
+        - during-data-collection.qmd
+    - part: after-data-collection.qmd
       chapters:
-        - 5.1-data-reporting.qmd
-        - 5.2-data-templates.qmd
-        - 5.3-data-submission.qmd
+        - data-reporting.qmd
+        - data-templates.qmd
+        - data-submission.qmd
     - references.qmd
   page-footer: 
     left: "ManyBabies5 Lab Manual"
