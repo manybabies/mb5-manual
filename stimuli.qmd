@@ -2,11 +2,11 @@
 
 ## Overview
 
-Because the sample size possible in ManyBabies projects provides a unique opportunity to test generalizability across multiple stimulus types, we chose two different categories of stimuli: **ManyFribbles**[^3.2-stimuli-1] and **ManyFractals**[^3.2-stimuli-2]. These two classes of stimuli were chosen because:
+Because the sample size possible in ManyBabies projects provides a unique opportunity to test generalizability across multiple stimulus types, we chose two different categories of stimuli: **ManyFribbles**[^stimuli-1] and **ManyFractals**[^stimuli-2]. These two classes of stimuli were chosen because:
 
-[^3.2-stimuli-1]: These stimuli were inspired by the *Fribbles* stimulus set [@barry2014]. We are calling the stimlus set developed for MB5 "ManyFribbles" to distinguish them from the original Fribbles.
+[^stimuli-1]: These stimuli were inspired by the *Fribbles* stimulus set [@barry2014]. We are calling the brand-new stimlus set developed for MB5 "ManyFribbles" to distinguish them from the original Fribbles.
 
-[^3.2-stimuli-2]: We're calling our custom sets of stimuli "ManyFribbles" and "ManyFractals" because... well, it's fun.
+[^stimuli-2]: We're calling our custom sets of stimuli "ManyFribbles" and "ManyFractals" because... well, it's fun.
 
 -   they allow for **variation in complexity** within the same stimulus category (i.e., by manipulating the number of features)
 -   infants are **unlikely to have previous experience** with either set of stimuli
@@ -15,8 +15,9 @@ Because the sample size possible in ManyBabies projects provides a unique opport
 We created 12 unique ManyFribbles and 12 unique ManyFractals. Within each stimulus type, six items were designed to be relatively *low-complexity* and six were designed to be relatively *high-complexity*. ***Complexity*** **is operationalized here as the number of features present** (*appendages* in the case of ManyFribbles and *iterations of the same structure* for ManyFractals; see @tbl-stimuli)
 
 <!-- Table of example stimuli for each condition -->
-|                  | Low complexity                                         |  High complexity                                        |
-|------------------|:------------------------------------------------------:|:-------------------------------------------------------:|
+
+|   | Low complexity | High complexity |
+|----------------|:--------------------------:|:--------------------------:|
 | **ManyFribbles** | <img src="images/fribble-low.png" height="200"/></img> | <img src="images/fribble-high.png" height="200"/></img> |
 | **ManyFractals** | <img src="images/fractal-low.png" height="200"/></img> | <img src="images/fractal-high.png" height="200"/></img> |
 
@@ -24,10 +25,11 @@ We created 12 unique ManyFribbles and 12 unique ManyFractals. Within each stimul
 
 ## ManyFribbles
 
-ManyFribbles are colorful, computer-generated models of 3D figures. All ManyFribbles are made up of one base body shape and one (low-complexity) or four (high-complexity) appendages.
+ManyFribbles are colorful, computer-generated models of 3D figures. All ManyFribbles are made up of one base body shape and one appendage (low-complexity) or four appendages (high-complexity).
 
 ::: callout-caution
 ## In development
+
 ADD MORE INFO ABOUT COLOR SELECTION, SIZING, ETC
 :::
 
@@ -37,6 +39,7 @@ ManyFractals are geometric shapes in which the same structure is repeated iterat
 
 ::: callout-caution
 ## In development
+
 ADD MORE INFO ABOUT FRACTAL GENERATION
 :::
 
@@ -45,6 +48,6 @@ ADD MORE INFO ABOUT FRACTAL GENERATION
 -   **Between Trials:** Please use the provided `laughing baby` stimulus to re-center babies between each trial (i.e., before familiarization begins). If your lab uses a different attention-getting stimulus that you feel is more appropriate for your community, please check with us.
 -   **Within Trial:** Please use the `Hoehle circle with chimes` stimulus to re-center babies within each trial (i.e., between familiarization and test and between test phases 1 and 2).
 
-# \>\> [{{< var project.number >}} Stimulus directory]({{< var link.stimuli >}}) \<\< {.unnumbered}
+# \>\> [{{< var project.number >}} Stimulus directory]({{< var url.stimuli >}}) \<\< {.unnumbered}
 
 <br>

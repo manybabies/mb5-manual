@@ -4,9 +4,9 @@ All labs must complete a series of preparation steps, referred to by ManyBabies 
 
 -   providing **required documentation** (e.g., ethics approval, lab-specific Demographics Questionnaire)
 -   demonstrating **correct implementation of the testing procedure**
--   submitting a **walkthrough video** of the lab's consent and testing procedure
 -   successfully running pilot data through the **MB Data Validator**
 
+### Check the {{< var link.tracker >}} to view your lab's status
 <br>
 
 ::: callout-important
@@ -15,6 +15,4 @@ All labs must complete a series of preparation steps, referred to by ManyBabies 
 ## 🚫 <u>DO NOT</u> collect experimental data for {{< var project.number >}} until your lab has completed this process and received a "Green-Light" from the {{< var project.number >}} Project Leads! 🚫 {.unnumbered}
 
 ## ‼️ WE REALLY MEAN IT ‼️ {.unnumbered}
-
-### You can check the {{< var link.tracker >}} at any time to view your lab's status.
 :::
