@@ -1,7 +1,7 @@
 # Demographics questionnaire {#sec-demographics}
 
 ::: callout-important
-We are finalizing the questionnaire template and will make an announcmement via the {{< var project.number >}} listserv when the final version is accessible via the directory linked below. Thank you for your patience!
+We are finalizing the questionnaire template and will make an announcement via the {{< var project.number >}} listserv when the final version is accessible via the directory linked below. Thank you for your patience!
 :::
 
 ## Collecting participant information
@@ -10,7 +10,7 @@ We are finalizing the questionnaire template and will make an announcmement via 
 
 [^2.2-demographics-1]: See below for more information on adapting/translating the template
 
-### \>\> [MB5 Demographics Questionnaire directory]({{< var link.demographics >}}) \<\<
+### \>\> [MB5 Demographics Questionnaire directory]({{< var url.demographics >}}) \<\<
 
 <br>
 
