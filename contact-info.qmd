@@ -14,9 +14,9 @@
 
 ## Group Communication
 
--   **{{< var project.number >}} Project Listserv**: {{< var email.listserv >}}
+-   {{< var project.number >}} **Project Listserv**: {{< var email.listserv >}}
 
-    -   ***CAUTION**: sending an email to this address will send it to everyone subscribed to the {{< var project.number >}} list; please use judiciously!*
+    -   ***CAUTION**: sending an email to this address will send it to everyone subscribed to the* {{< var project.number >}} *list; please use judiciously!*
 
     -   **SUBSCRIBE** to the {{< var link.listserv >}} *(click on `Join group` using a google-linked account, or fill out the* <a href="https://docs.google.com/forms/d/e/1FAIpQLSewvzsv3YAwPKCAJmut_X6eVlu7P7TxbGe6vAWwG0CInI4YqA/viewform" target="_blank">MB listserv form</a> *to request to join)*
 

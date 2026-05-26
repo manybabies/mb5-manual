@@ -12,8 +12,6 @@ Bear with us as we finalize this document with all of the information your lab w
 
 [![](images/mb-logo.png){width="20%"}](https://manybabies.org/) [![](images/mb5-logo.png){width="15%"}](https://manybabies.org/MB5)
 
-
-
 ------------------------------------------------------------------------
 
 # Preface {#sec-preface .unnumbered}
@@ -28,6 +26,9 @@ Bear with us as we finalize this document with all of the information your lab w
 # DO NOT BEGIN DATA COLLECTION FOR {{< var project.number >}} UNTIL PROJECT LEADS GIVE YOUR LAB A "GREEN-LIGHT"!! {.unnumbered}
 :::
 
+::: callout-caution
+# TO REPORT AN ISSUE AND/OR SUBMIT A HELP REQUEST, use the {{< var link.issue >}}
+:::
 <br>
 
 ## Manual Overview
