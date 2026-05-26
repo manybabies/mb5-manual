@@ -38,13 +38,14 @@ book:
     footer: license.qmd
   chapters:
     - index.qmd
-    - part: 1-general-info.qmd
+    - part: general-info.qmd
       chapters:
-        - 1.1-collab-agreement.qmd
-        - 1.2-contact-info.qmd
-        - 1.3-test-dates.qmd
-        - 1.4-lab-overview.qmd
-    - part: 2-getting-started.qmd
+        - 1-collab-agreement.qmd
+        - 2-project-tracker.qmd
+        - 3-contact-info.qmd
+        - 4-test-dates.qmd
+        - 5-lab-overview.qmd
+    - part: getting-started.qmd
       chapters: 
         - 2.1-green-lighting.qmd
         - 2.2-demographics.qmd
