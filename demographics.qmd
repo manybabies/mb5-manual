@@ -2,7 +2,7 @@
 
 ## Collecting participant information
 
-**Please use an appropriate version of the {{< var project.number >}} Demographics Questionnaire**[^demographics-1] to collect information about participants and their families/caregivers.
+**Please use an appropriate version of the** {{< var project.number >}} **Demographics Questionnaire**[^demographics-1] to collect information about participants and their families/caregivers.
 
 [^demographics-1]: See below for more information on adapting/translating the template
 
@@ -26,11 +26,12 @@ While parents/guardians can choose to not respond to individual questions, pleas
 
 ## Adaptations and translations
 
-We have created an English-language version template that is suited for a United States context. If you are collecting data in a language other than English, please do your best to translate the questionnaire so that you are querying the same *construct* as the template item. 
+We have created an English-language version template that is suited for a United States context. If you are collecting data in a language other than English, please do your best to translate the questionnaire so that you are querying the same *construct* as the template item.
 
 ::: callout-note
 # MB5 Demographics Questionnaire directory
-Translations/adaptations of the MB5 Demographics Questionnaire will be available [**here**]({{< var url.demographics >}}){target="_blank"} as they become available.[^demographics-4] 
+
+Translations/adaptations of the MB5 Demographics Questionnaire will be available [**here**]({{< var url.demographics >}}){target="_blank"} as they become available.[^demographics-4]
 
 > We are unable to centrally verify the accuracy of all translations/adaptations. Labs are responsible for reviewing adaptations to ensure that they are appropriate for their context and query the constructs in the original template (`mb5_demographics-questionnaire_english-US-template`). Labs are encouraged to work with others in their geographic region to create context-appropriate versions of the questionnaire.
 :::
