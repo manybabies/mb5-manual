@@ -44,7 +44,7 @@
     "href": "collab-agreement.html",
     "title": "1  MB5 Collaboration Agreement",
     "section": "",
-    "text": "By participating in ManyBabies 5, you agree to abide by the MB5 Collaboration Agreement.\n\n\n\n\n\n\nAll ManyBabies projects have a Collaboration Agreement, which is a document that outlines the anticipated products, roles and responsibilities, and planned authorship model for publications. This agreement is intended to provide clarity and transparency for all contributors. If you have questions about this agreement or would like to suggest an amendment, please contact the Project Leads.\n\nChanges to this Collaboration Agreement\nAs the project evolves, changes may be made to this collaboration agreement. In those instances, all collaborators will be notified of the change via project listserv and a list of recent changes will be listed at the top of the document. Contributors will have one week from the time of notice to object to changes, and all reasonable efforts will be made by Project Leads to address any concerns/objections. If such concerns/objectives cannot be resolved through discussion and/or mediation, the MB Governing Board will have final discretion.\n\n\n\nManyBabies 5 Collaboration Agreement\n\nView the Collaboration Agreement in a browser",
+    "text": "By participating in ManyBabies 5, you agree to abide by the MB5 Collaboration Agreement.\n\n\n\n\n\n\nAll ManyBabies projects have a Collaboration Agreement, which is a document that outlines the anticipated products, roles and responsibilities, and planned authorship model for publications. This agreement is intended to provide clarity and transparency for all contributors. If you have questions about this agreement or would like to suggest an amendment, please contact the Project Leads.\n\nChanges to this Collaboration Agreement\nAs the project evolves, changes may be made to this collaboration agreement. In those instances, all collaborators will be notified of the change via project listserv and a list of recent changes will be listed at the top of the document. Contributors will have one week from the time of notice to object to changes, and all reasonable efforts will be made by Project Leads to address any concerns/objections. If such concerns/objectives cannot be resolved through discussion and/or mediation, the MB Governing Board will have final discretion.\n\n\n\nManyBabies 5 Collaboration Agreement\n\nView the MB5 Collaboration Agreement in a browser",
     "crumbs": [
       "General information",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>MB5 Collaboration Agreement</span>"
@@ -55,7 +55,18 @@
     "href": "project-tracker.html",
     "title": "2  MB5 Project Tracker",
     "section": "",
-    "text": "&gt;&gt; VIEW THE MB5 PROJECT TRACKER &lt;&lt;",
+    "text": "MB5 PROJECT TRACKER\nVIEW THE MB5 PROJECT TRACKER ON THE MB5 WEBSITE or FULL SCREEN\nNote: Default view is alphabetical by “LabID”. You can filter, sort, or search records using the icons in the toolbar. Scroll to the right to view all columns.",
+    "crumbs": [
+      "General information",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>MB5 Project Tracker</span>"
+    ]
+  },
+  {
+    "objectID": "project-tracker.html#mb5-project-tracker",
+    "href": "project-tracker.html#mb5-project-tracker",
+    "title": "2  MB5 Project Tracker",
+    "section": "",
+    "text": "MB5 Lab Sign-Up form: Sign up for MB5 data collection or update planned testing info\nMB5 Green-Lighting form: Upload study materials (e.g., ethics approval, walkthrough video)\nMB5 Data Upload form: Upload data\n\n\nNote: Responses to these forms are moderated, so updates might not appear on the tracker immediately. Thank you for your patience!",
     "crumbs": [
       "General information",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>MB5 Project Tracker</span>"

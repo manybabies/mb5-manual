@@ -14,7 +14,7 @@ As the project evolves, changes may be made to this collaboration agreement. In 
 
 ### {{< var project.name >}} Collaboration Agreement
 
-> View the {{< var link.collaboration >}} in a browser
+> View the {{< var project.number >}} {{< var link.collaboration >}} in a browser
 
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vQsLk557N0kBYSLtx9-bvtIkIiUD8H-zY0GqN3u64cQITwK4c85Xv82n6vzZzZcIBPVGPUobeQCCeqk/pub?embedded=true" width="100%" height="650">
 
