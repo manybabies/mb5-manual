@@ -11,9 +11,9 @@ Bear with us as we finalize this document with all of the information your lab w
 ------------------------------------------------------------------------
 
 ::: {layout-ncol=2}
-[![](https://manybabies.org/assets/img/avatar-icon-2022.png)](https://manybabies.org)
+[![](https://manybabies.org/assets/img/avatar-icon-2022.png){height=210px fig-align="center"}](https://manybabies.org)
 
-[![](https://manybabies.org/assets/img/mb5-logo.png)](https://manybabies.org/MB5)
+[![](https://manybabies.org/assets/img/mb5-logo.png){height=200px fig-align="center"}](https://manybabies.org/MB5)
 :::
 
 ------------------------------------------------------------------------
