@@ -46,4 +46,4 @@ Translations/adaptations of the MB5 Demographics Questionnaire will be available
 
 **All labs must upload a blank copy of the Demographics Questionnaire they will be using for MB5** via the {{< var link.greenlight >}} *(even if you are using the provided template with no modifications!)*.
 
-Please ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g. `babylabPrinceton_questionnaire.pdf`). Check the list of {{< var link.labids >}} to confirm your lab's unique LabID before uploading.
+Please ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g. `mb5_babylabPrinceton_demographics.pdf`). Check the list of {{< var link.labids >}} to confirm your lab's unique LabID before uploading.
