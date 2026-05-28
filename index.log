@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2026.5.14)  14 MAY 2026 14:09
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2026.5.27)  27 MAY 2026 17:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -375,31 +375,25 @@ Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
 \extratabsurround=\skip73
 \backup@length=\skip74
 \ar@cellbox=\box63
-) (/Users/heidib/Library/TinyTeX/texmf-dist/tex/latex/multirow/multirow.sty
-Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
-\multirow@colwidth=\skip75
-\multirow@cntb=\count309
-\multirow@dima=\skip76
-\bigstrutjot=\dimen178
 ) (/Users/heidib/Library/TinyTeX/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count310
-\calc@Bcount=\count311
-\calc@Adimen=\dimen179
-\calc@Bdimen=\dimen180
-\calc@Askip=\skip77
-\calc@Bskip=\skip78
+\calc@Acount=\count309
+\calc@Bcount=\count310
+\calc@Adimen=\dimen178
+\calc@Bdimen=\dimen179
+\calc@Askip=\skip75
+\calc@Bskip=\skip76
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count312
-\calc@Cskip=\skip79
+\calc@Ccount=\count311
+\calc@Cskip=\skip77
 ) (/Users/heidib/Library/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count313
+\etb@tempcnta=\count312
 ) (/Users/heidib/Library/TinyTeX/texmf-dist/tex/latex/mdwtools/footnote.sty
 Package: footnote 1997/01/28 1.13 Save footnotes around boxes
 \fn@notes=\box64
-\fn@width=\dimen181
+\fn@width=\dimen180
 ) (/Users/heidib/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 (/Users/heidib/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
@@ -411,12 +405,12 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: xetex.def on input line 106.
 )
-\Gin@req@height=\dimen182
-\Gin@req@width=\dimen183
+\Gin@req@height=\dimen181
+\Gin@req@width=\dimen182
 )
 \pandoc@box=\box65
-\cslhangindent=\skip80
-\csllabelwidth=\skip81
+\cslhangindent=\skip78
+\csllabelwidth=\skip79
 
 ! LaTeX Error: File `tcolorbox.sty' not found.
 
@@ -427,13 +421,13 @@ Enter file name:
 ! Emergency stop.
 <read *> 
          
-l.148 \@ifpackageloaded
+l.147 \@ifpackageloaded
                        {fontawesome5}{}{\usepackage{fontawesome5}}^^M 
 Here is how much of TeX's memory you used:
- 13156 strings out of 475964
- 275491 string characters out of 5776972
+ 13088 strings out of 475964
+ 274267 string characters out of 5776972
  996216 words of memory out of 5000000
- 35897 multiletter control sequences out of 15000+600000
+ 35833 multiletter control sequences out of 15000+600000
  558085 words of font info for 38 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  108i,1n,107p,10919b,271s stack positions out of 10000i,1000n,20000p,200000b,200000s
