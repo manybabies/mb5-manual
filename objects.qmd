@@ -1,4 +1,4 @@
-# Object Familiarity questionnaire {#sec-objects}
+# Object Experience questionnaire {#sec-objects}
 
 <br> Although the visual stimuli for this study are completely novel, we would like to get a measure of if infants have any experience with objects similar to the *ManyFractals* and *ManyFribbles* used in the experiment.
 
@@ -15,7 +15,7 @@ Just like the Demographics Questionnaire, please **CHECK THE FORM BEFORE THE RES
 We have created an English-language version of the Object Experience Questionnaire (`mb5_obj-exp-questionnaire_english`). If you are collecting data in a language other than English, please do your best to translate the questionnaire so that you are querying the same *constructs* as the template.
 
 ::: callout-note
-# MB5 Object Experience directory
+# Note about translations/adaptations
 
 Translations/adaptations of the {{< var project.number >}} Object Experience Questionnaire will be available in the Object Experience Questionnaire Directory (below) as they become available.
 
@@ -24,12 +24,12 @@ Translations/adaptations of the {{< var project.number >}} Object Experience Que
 
 If you have any questions about translating the questionnaire, please {{< var email.emailus >}} to discuss your concerns. Let us know if any of the questions are unclear to you---it is important that you are able to answer any questions parents/guardians may have.
 
-## [MB5 Object Experience Questionnaire Directory]({{< var url.obj-exp >}}){target="_blank"}
+## [**{{< var project.number >}} Object Experience Questionnaire Directory**]({{< var url.obj-exp >}}){target="_blank"}
 
 > We have provided the template (`mb5_obj-exp-questionnaire_english`) as a document and as a Google form.
 
 ## Uploading the Object Experience Questionnaire
 
-**If you make any changes to the provided template, please upload a blank copy of the Object Experience Questionnaire your lab will be using** via the {{< var link.greenlight >}}. *(If you do not upload a version of the questionnaire, we will assume you are using `mb5_obj-exp-questionnaire_english`)*.
+**If you make ANY changes to the provided template, please upload a blank copy of the Object Experience Questionnaire your lab will be using** via the {{< var link.greenlight >}}. *(If you do not upload a version of the questionnaire, we will assume you are using `mb5_obj-exp-questionnaire_english`)*.
 
 Please ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g. `mb5_babylabPrinceton_obj-exp-questionnaire.pdf`). Check the list of {{< var link.labids >}} to confirm your lab's unique LabID before uploading.

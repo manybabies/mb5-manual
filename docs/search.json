@@ -143,7 +143,7 @@
     "href": "getting-started.html",
     "title": "Getting started",
     "section": "",
-    "text": "This section covers some basic aspects of the project and steps that your lab will need to complete BEFORE you set up and run the experiment.\n\n\n\n\n\n\nGreen-Lighting\n\n\n\nAll labs (regardless of experience) must complete the green-lighting process outlined in the following sections and be given EXPLICIT approval by project leads to begin official data collection.1\n\n\n1 Labs are welcome and encouraged to collect pilot data as part of the set-up process before completing the “green-lighting” process, but this data will not be included in the main analyses.Use the arrows to continue through the sections, or jump to a section using the links below.\n\n6  Green-Lighting process overview\n7  Demographics questionnaire\n8  Object Familiarity questionnaire\n9  Ethics approval\n10  Walkthrough videos",
+    "text": "This section covers some basic aspects of the project and steps that your lab will need to complete BEFORE you set up and run the experiment.\n\n\n\n\n\n\nGreen-Lighting\n\n\n\nAll labs (regardless of experience) must complete the green-lighting process outlined in the following sections and be given EXPLICIT approval by project leads to begin official data collection.1\n\n\n1 Labs are welcome and encouraged to collect pilot data as part of the set-up process before completing the “green-lighting” process, but this data will not be included in the main analyses.Use the arrows to continue through the sections, or jump to a section using the links below.\n\n6  Green-Lighting process overview\n7  Demographics questionnaire\n8  Object Experience questionnaire\n9  Ethics approval\n10  Walkthrough videos",
     "crumbs": [
       "Getting started"
     ]
@@ -239,45 +239,45 @@
   {
     "objectID": "objects.html",
     "href": "objects.html",
-    "title": "8  Object Familiarity questionnaire",
+    "title": "8  Object Experience questionnaire",
     "section": "",
     "text": "8.1 Adaptations and translations\nAlthough the visual stimuli for this study are completely novel, we would like to get a measure of if infants have any experience with objects similar to the ManyFractals and ManyFribbles used in the experiment.\nPlease use an appropriate version of the MB5 Object Experience Questionnaire to collect information about participants’ experience with objects similar to the visual stimuli used in the study.\nWe have created an English-language version of the Object Experience Questionnaire (mb5_obj-exp-questionnaire_english). If you are collecting data in a language other than English, please do your best to translate the questionnaire so that you are querying the same constructs as the template.\nIf you have any questions about translating the questionnaire, please email us to discuss your concerns. Let us know if any of the questions are unclear to you—it is important that you are able to answer any questions parents/guardians may have.",
     "crumbs": [
       "Getting started",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Object Familiarity questionnaire</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Object Experience questionnaire</span>"
     ]
   },
   {
     "objectID": "objects.html#adaptations-and-translations",
     "href": "objects.html#adaptations-and-translations",
-    "title": "8  Object Familiarity questionnaire",
+    "title": "8  Object Experience questionnaire",
     "section": "",
-    "text": "MB5 Object Experience directory\n\n\n\nTranslations/adaptations of the MB5 Object Experience Questionnaire will be available in the Object Experience Questionnaire Directory (below) as they become available.\n\nWe are unable to centrally verify the accuracy of all translations/adaptations. Labs are responsible for reviewing adaptations to ensure that they are appropriate for their context and query the constructs in the original template. Labs are encouraged to work with others in their geographic region to create a context-appropriate version of the questionnaire.",
+    "text": "Note about translations/adaptations\n\n\n\nTranslations/adaptations of the MB5 Object Experience Questionnaire will be available in the Object Experience Questionnaire Directory (below) as they become available.\n\nWe are unable to centrally verify the accuracy of all translations/adaptations. Labs are responsible for reviewing adaptations to ensure that they are appropriate for their context and query the constructs in the original template. Labs are encouraged to work with others in their geographic region to create a context-appropriate version of the questionnaire.",
     "crumbs": [
       "Getting started",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Object Familiarity questionnaire</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Object Experience questionnaire</span>"
     ]
   },
   {
-    "objectID": "objects.html#mb5-object-experience-questionnaire-directory",
-    "href": "objects.html#mb5-object-experience-questionnaire-directory",
-    "title": "8  Object Familiarity questionnaire",
+    "objectID": "objects.html#object-experience-questionnaire-directory",
+    "href": "objects.html#object-experience-questionnaire-directory",
+    "title": "8  Object Experience questionnaire",
     "section": "8.2 MB5 Object Experience Questionnaire Directory",
     "text": "8.2 MB5 Object Experience Questionnaire Directory\n\nWe have provided the template (mb5_obj-exp-questionnaire_english) as a document and as a Google form.",
     "crumbs": [
       "Getting started",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Object Familiarity questionnaire</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Object Experience questionnaire</span>"
     ]
   },
   {
     "objectID": "objects.html#uploading-the-object-experience-questionnaire",
     "href": "objects.html#uploading-the-object-experience-questionnaire",
-    "title": "8  Object Familiarity questionnaire",
+    "title": "8  Object Experience questionnaire",
     "section": "8.3 Uploading the Object Experience Questionnaire",
-    "text": "8.3 Uploading the Object Experience Questionnaire\nIf you make any changes to the provided template, please upload a blank copy of the Object Experience Questionnaire your lab will be using via the MB5 Green-Lighting Form. (If you do not upload a version of the questionnaire, we will assume you are using mb5_obj-exp-questionnaire_english).\nPlease ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g. mb5_babylabPrinceton_obj-exp-questionnaire.pdf). Check the list of LabIDs to confirm your lab’s unique LabID before uploading.",
+    "text": "8.3 Uploading the Object Experience Questionnaire\nIf you make ANY changes to the provided template, please upload a blank copy of the Object Experience Questionnaire your lab will be using via the MB5 Green-Lighting Form. (If you do not upload a version of the questionnaire, we will assume you are using mb5_obj-exp-questionnaire_english).\nPlease ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g. mb5_babylabPrinceton_obj-exp-questionnaire.pdf). Check the list of LabIDs to confirm your lab’s unique LabID before uploading.",
     "crumbs": [
       "Getting started",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Object Familiarity questionnaire</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Object Experience questionnaire</span>"
     ]
   },
   {
