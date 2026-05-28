@@ -226,11 +226,11 @@
     ]
   },
   {
-    "objectID": "demographics.html#uploading-demographics-questionnaire",
-    "href": "demographics.html#uploading-demographics-questionnaire",
+    "objectID": "demographics.html#uploading-the-demographics-questionnaire",
+    "href": "demographics.html#uploading-the-demographics-questionnaire",
     "title": "7  Demographics questionnaire",
-    "section": "7.4 Uploading demographics questionnaire",
-    "text": "7.4 Uploading demographics questionnaire\nAll labs must upload a blank copy of the Demographics Questionnaire they will be using for MB5 via the MB5 Green-Lighting Form (even if you are using the provided template with no modifications!).\nPlease ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g. mb5_babylabPrinceton_demographics.pdf). Check the list of LabIDs to confirm your lab’s unique LabID before uploading.\n\n\n\n\nSingh, L., Barokova, M. D., Baumgartner, H. A., Lopera-Perez, D. C., Omane, P. O., Sheskin, M., Yuen, F. L., Wu, Y., Alcock, K. J., Altmann, E. C., Bazhydai, M., Carstensen, A., Chan, K. C. J., Chuan-Peng, H., Dal Ben, R., Franchin, L., Kosie, J. E., Lew-Williams, C., Okocha, A., … Frank, M. C. (2024). A unified approach to demographic data collection for research with young children across diverse cultures. Developmental Psychology, 60. https://doi.org/10.1037/dev0001623",
+    "section": "7.4 Uploading the demographics questionnaire",
+    "text": "7.4 Uploading the demographics questionnaire\nAll labs must upload a blank copy of the Demographics Questionnaire they will be using for MB5 via the MB5 Green-Lighting Form (even if you are using the provided template with no modifications!).\nPlease ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g. mb5_babylabPrinceton_demographics.pdf). Check the list of LabIDs to confirm your lab’s unique LabID before uploading.\n\n\n\n\nSingh, L., Barokova, M. D., Baumgartner, H. A., Lopera-Perez, D. C., Omane, P. O., Sheskin, M., Yuen, F. L., Wu, Y., Alcock, K. J., Altmann, E. C., Bazhydai, M., Carstensen, A., Chan, K. C. J., Chuan-Peng, H., Dal Ben, R., Franchin, L., Kosie, J. E., Lew-Williams, C., Okocha, A., … Frank, M. C. (2024). A unified approach to demographic data collection for research with young children across diverse cultures. Developmental Psychology, 60. https://doi.org/10.1037/dev0001623",
     "crumbs": [
       "Getting started",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Demographics questionnaire</span>"
@@ -241,7 +241,7 @@
     "href": "objects.html",
     "title": "8  Object Familiarity questionnaire",
     "section": "",
-    "text": "&gt;&gt; Object Experience Questionnaire &lt;&lt;\nPlease use an appropriate version of the MB5 Object Experience Questionnaire to collect information about participants’ experience with objects similar to the visual stimuli used in the study.",
+    "text": "8.1 Adaptations and translations\nAlthough the visual stimuli for this study are completely novel, we would like to get a measure of if infants have any experience with objects similar to the ManyFractals and ManyFribbles used in the experiment.\nPlease use an appropriate version of the MB5 Object Experience Questionnaire to collect information about participants’ experience with objects similar to the visual stimuli used in the study.\nWe have created an English-language version of the Object Experience Questionnaire (mb5_obj-exp-questionnaire_english). If you are collecting data in a language other than English, please do your best to translate the questionnaire so that you are querying the same constructs as the template.\nIf you have any questions about translating the questionnaire, please email us to discuss your concerns. Let us know if any of the questions are unclear to you—it is important that you are able to answer any questions parents/guardians may have.",
     "crumbs": [
       "Getting started",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Object Familiarity questionnaire</span>"
@@ -251,8 +251,30 @@
     "objectID": "objects.html#adaptations-and-translations",
     "href": "objects.html#adaptations-and-translations",
     "title": "8  Object Familiarity questionnaire",
-    "section": "8.1 Adaptations and translations",
-    "text": "8.1 Adaptations and translations\nWe have created an English-language version template that is suited for a United States context. If you are collecting data in a language other than English, please do your best to translate the questionnaire so that you are querying the same construct as the template item.\n\n\n\n\n\n\nMB5 Object Experience directory\n\n\n\nTranslations/adaptations of the MB5 Object Experience Questionnaire will be available here as they become available.\n\nWe are unable to centrally verify the accuracy of all translations/adaptations. Labs are responsible for reviewing adaptations to ensure that they are appropriate for their context and query the constructs in the original template (mb5_object-experience-questionnaire_english). Labs are encouraged to work with others in their geographic region to create context-appropriate versions of the questionnaire.\n\n\n\nIf you have any questions about translating the questionnaire, please email us to discuss your concerns. Let us know if any of the questions are unclear to you—it is important that you are able to answer any questions parents/guardians may have.",
+    "section": "",
+    "text": "MB5 Object Experience directory\n\n\n\nTranslations/adaptations of the MB5 Object Experience Questionnaire will be available in the Object Experience Questionnaire Directory (below) as they become available.\n\nWe are unable to centrally verify the accuracy of all translations/adaptations. Labs are responsible for reviewing adaptations to ensure that they are appropriate for their context and query the constructs in the original template. Labs are encouraged to work with others in their geographic region to create a context-appropriate version of the questionnaire.",
+    "crumbs": [
+      "Getting started",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Object Familiarity questionnaire</span>"
+    ]
+  },
+  {
+    "objectID": "objects.html#mb5-object-experience-questionnaire-directory",
+    "href": "objects.html#mb5-object-experience-questionnaire-directory",
+    "title": "8  Object Familiarity questionnaire",
+    "section": "8.2 >> MB5 Object Experience Questionnaire Directory",
+    "text": "8.2 &gt;&gt; MB5 Object Experience Questionnaire Directory\n\nWe have provided the template (mb5_obj-exp-questionnaire_english) as a document and as a Google form.",
+    "crumbs": [
+      "Getting started",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Object Familiarity questionnaire</span>"
+    ]
+  },
+  {
+    "objectID": "objects.html#uploading-the-object-experience-questionnaire",
+    "href": "objects.html#uploading-the-object-experience-questionnaire",
+    "title": "8  Object Familiarity questionnaire",
+    "section": "8.3 Uploading the Object Experience Questionnaire",
+    "text": "8.3 Uploading the Object Experience Questionnaire\nIf you make any changes to the provided template, please upload a blank copy of the Object Experience Questionnaire your lab will be using via the MB5 Green-Lighting Form. (If you do not upload a version of the questionnaire, we will assume you are using mb5_obj-exp-questionnaire_english).\nPlease ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g. mb5_babylabPrinceton_obj-exp-questionnaire.pdf). Check the list of LabIDs to confirm your lab’s unique LabID before uploading.",
     "crumbs": [
       "Getting started",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Object Familiarity questionnaire</span>"

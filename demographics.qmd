@@ -42,7 +42,7 @@ Translations/adaptations of the MB5 Demographics Questionnaire will be available
 
 > Please refer to the "README" file in this directory for more information on using/translating/adapting templates.
 
-## Uploading demographics questionnaire
+## Uploading the demographics questionnaire
 
 **All labs must upload a blank copy of the Demographics Questionnaire they will be using for MB5** via the {{< var link.greenlight >}} *(even if you are using the provided template with no modifications!)*.
 
