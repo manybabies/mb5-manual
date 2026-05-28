@@ -38,7 +38,7 @@ Translations/adaptations of the MB5 Demographics Questionnaire will be available
 
 [^demographics-5]: Existing translations/adaptations of the original MB-Demographics template are available via the <a href="https://osf.io/nqc92/files/osfstorage" target="_blank">MB-Demographics OSF repository</a>.
 
-## \>\> [MB5 Demographics Questionnaire Directory]({{< var url.demographics >}}){target="_blank"} \<\<
+## [**{{< var project.number >}} Demographics Questionnaire Directory**]({{< var url.demographics >}}){target="_blank"}
 
 > Please refer to the "README" file in this directory for more information on using/translating/adapting templates.
 

@@ -215,11 +215,11 @@
     ]
   },
   {
-    "objectID": "demographics.html#mb5-demographics-questionnaire-directory",
-    "href": "demographics.html#mb5-demographics-questionnaire-directory",
+    "objectID": "demographics.html#demographics-questionnaire-directory",
+    "href": "demographics.html#demographics-questionnaire-directory",
     "title": "7  Demographics questionnaire",
-    "section": "7.3 >> MB5 Demographics Questionnaire Directory <<",
-    "text": "7.3 &gt;&gt; MB5 Demographics Questionnaire Directory &lt;&lt;\n\nPlease refer to the “README” file in this directory for more information on using/translating/adapting templates.",
+    "section": "7.3 MB5 Demographics Questionnaire Directory",
+    "text": "7.3 MB5 Demographics Questionnaire Directory\n\nPlease refer to the “README” file in this directory for more information on using/translating/adapting templates.",
     "crumbs": [
       "Getting started",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Demographics questionnaire</span>"
@@ -262,8 +262,8 @@
     "objectID": "objects.html#mb5-object-experience-questionnaire-directory",
     "href": "objects.html#mb5-object-experience-questionnaire-directory",
     "title": "8  Object Familiarity questionnaire",
-    "section": "8.2 >> MB5 Object Experience Questionnaire Directory",
-    "text": "8.2 &gt;&gt; MB5 Object Experience Questionnaire Directory\n\nWe have provided the template (mb5_obj-exp-questionnaire_english) as a document and as a Google form.",
+    "section": "8.2 MB5 Object Experience Questionnaire Directory",
+    "text": "8.2 MB5 Object Experience Questionnaire Directory\n\nWe have provided the template (mb5_obj-exp-questionnaire_english) as a document and as a Google form.",
     "crumbs": [
       "Getting started",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Object Familiarity questionnaire</span>"
@@ -549,6 +549,17 @@
     "title": "13  Stimuli",
     "section": "13.4 Attention-getter stimuli",
     "text": "13.4 Attention-getter stimuli\n\nBetween Trials: Please use the provided laughing baby stimulus to re-center babies between each trial (i.e., before familiarization begins). If your lab uses a different attention-getting stimulus that you feel is more appropriate for your community, please check with us.\nWithin Trial: Please use the Hoehle circle with chimes stimulus to re-center babies within each trial (i.e., between familiarization and test and between test phases 1 and 2).",
+    "crumbs": [
+      "Setting up the experiment",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Stimuli</span>"
+    ]
+  },
+  {
+    "objectID": "stimuli.html#stimulus-directory",
+    "href": "stimuli.html#stimulus-directory",
+    "title": "13  Stimuli",
+    "section": "13.5 MB5 Stimulus Directory",
+    "text": "13.5 MB5 Stimulus Directory\n\n\n\n\n\nBarry, T. J., Griffith, J. W., De Rossi, S., & Hermans, D. (2014). Meet the fribbles: Novel stimuli for use within behavioural research. Frontiers in Psychology, 5. https://doi.org/10.3389/fpsyg.2014.00103",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>Stimuli</span>"
