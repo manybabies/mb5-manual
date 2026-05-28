@@ -12,7 +12,7 @@ Once the experiment is set up and people involved in data collection are trained
 
 ## Purpose
 
-The purpose of walkthrough videos is two-fold:
+The purpose of walkthrough videos is three-fold:
 
 1.  The videos will help project leads ensure that your lab is implementing the study according to the guidelines and maximize the probability of your lab collecting usable data.
 2.  Given the ManyBabies Consortium’s commitment to Open Science, we would like to have a full and accurate record of how the study was implemented in each laboratory.
@@ -22,12 +22,14 @@ The purpose of walkthrough videos is two-fold:
 
 There are two possibilities to create a video documenting your process:
 
-* Filming a pilot session with a real-life human participant^[In other words, a baby] and their parent (with parental consent and permission from your local ethics board). **Please make sure you have consent to share this video publicly!!**
-* Asking a colleague or lab member to "play" parent and using a dummy (e.g., a doll) as a baby stand-in.
+-   Filming a pilot session with a real-life human participant[^walkthrough-2] and their parent (with parental consent and permission from your local ethics board). **Please make sure you have consent to share this video publicly!!**
+-   Asking a colleague or lab member to "play" parent and using a dummy (e.g., a doll or stuffed animal) as a baby stand-in.
+
+[^walkthrough-2]: In other words, a baby
 
 ## Consent
 
-Note that we plan to share the walkthrough videos among the consortium via Databrary, our website, and/or YouTube. **There should be no assumption of privacy, and no confidential or otherwise personal/sensitive information should be included in the videos.** Be sure that parental consent covers all these options when using a real participant for this purpose.
+Note that we plan to share the walkthrough videos among the consortium via Databrary, our website, and/or YouTube. **There should be no assumption of privacy, and no confidential or otherwise personal/sensitive information should be included in the videos.** Be sure that parental consent covers all these options when using a real baby for this purpose.
 
 ## Sequence
 
@@ -57,7 +59,7 @@ Make sure your video covers the following components. We added questions that so
 -   Where is the baby sitting (e.g., parent's lap, high chair, etc.)? Film the seating arrangement both before the baby is seating and with the baby in place.
 -   What does the stimulus display look like (e.g., size, distance to baby)? Where is the screen located?
 -   Where is the experimenter located during testing (e.g., inside or outside the booth)? Show where the experimenter is sitting; if it is in the same room, capture both baby and experimenter.
--   Can the baby see the experimenter during testing? How does the experimenter see the baby (e.g.,videofeed)?
+-   Can the baby see the experimenter during testing? How does the experimenter see the baby (e.g., a video feed on a monitor with the exerimental software or a separate monitor)?
 -   How is the experimenter blinded to trial type during testing?
 -   How is the parent blinded during testing (blacked-out glasses or something similar)?
 -   If live-coding takes place: Show examples of what counts as a look/no look and/or videotape someone doing the coding together with the infant looks.
@@ -67,13 +69,19 @@ Make sure your video covers the following components. We added questions that so
 -   What do you tell parents at the end of a study?
 -   Are there standard questions you ask parents after the study is complete?
 
-## Upload your walkthrough video
+## Example walkthrough videos
 
-### Share your walkthrough video using the {{< var link.greenlight >}}
+-   You are welcome to view videos that have already been uploaded by other labs for {{< var project.number >}} <a href="https://drive.google.com/drive/folders/1mIQ2hWt9tI7AFDvnbcwfmtNhilH8AriD?usp=sharing" target="_blank">HERE</a>[^walkthrough-3] or via the links available in the {{< var link.tracker >}}.
+-   Walkthrough videos from MB1 (for example purposes) are available to view <a href="https://nyu.databrary.org/volume/896" target="_blank">in this Databrary repository</a> *(Note that labs were given slightly different instructions for the creation of these videos, so use them for inspirational purposes)*. 
 
--   Video files are too large for us to collect via form, so you will be asked to provide a link to where we can access and download your video (e.g., *google drive*, *dropbox*, etc.). If you do not have access to cloud storage, {{< var email.emailus >}} and we will provide an upload location.
--   **Please ensure that your video is clearly labeled in the file name with your LabID** (e.g., `mb5_babylabPrinceton_walkthrough.mpg`). Check the list of {{< var link.labids >}} to confirm your lab's unique LabID before uploading.
--   You are welcome to view videos that have already been uploaded by other labs as examples <a href="https://drive.google.com/drive/folders/1mIQ2hWt9tI7AFDvnbcwfmtNhilH8AriD?usp=sharing" target="_blank">HERE</a>[^walkthrough-2] or via the links available in the {{< var link.tracker >}}.
--   Walkthrough videos from MB1 (for example purposes) are available to view <a href="https://nyu.databrary.org/volume/896" target="_blank">in this Databrary repository</a>.
+[^walkthrough-3]: Note that these videos might not have been reviewed yet by Project Leads
 
-[^walkthrough-2]: Note that these videos might not have been reviewed yet by Project Leads
+
+## Uploading walkthrough video
+
+Share your walkthrough video with Project Leads using the {{< var link.greenlight >}}.
+
+> *NOTE:* Video files are too large for us to collect via form, so **you will be asked to provide a link to where we can access and download your video** (e.g., *google drive*, *dropbox*, etc.). If you do not have access to cloud storage, {{< var email.emailus >}} and we will provide an upload location.
+
+**Please ensure that your video is clearly labeled in the file name with your LabID** (e.g., `mb5_babylabPrinceton_walkthrough.mpg`). Check the list of {{< var link.labids >}} to confirm your lab's unique LabID before uploading the link to your video.
+

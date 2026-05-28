@@ -41,8 +41,8 @@ We are aware that many laboratories, particularly those based in regions governe
 
 ## Uploading ethics approval documentation {#ethics-upload}
 
-**Documentation of your lab's ethics approval must be submitted prior to data collection via the [**{{< var project.number >}} Upload Form**]({{< var url.upload >}}){target="_blank"}.**
+**Documentation of your lab's ethics approval must be submitted prior to data collection via the {{< var link.greenlight >}}.**
 
 We also encourage labs to share **ethics application materials** and **consent forms**, but this is not a requirement of participation. 
 
-Please ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g. `babylabPrinceton_ethics.pdf`). Check the list of {{< var link.labids >}} to confirm your lab's unique LabID before uploading.
+Please ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g. `mb5_babylabPrinceton_ethics.pdf`). Check the list of {{< var link.labids >}} to confirm your lab's unique LabID before uploading.
