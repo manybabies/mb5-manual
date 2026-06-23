@@ -10,10 +10,10 @@ Bear with us as we finalize this document with all of the information your lab w
 
 ------------------------------------------------------------------------
 
-::: {layout-ncol=2}
-[![](https://manybabies.org/assets/img/avatar-icon-2022.png){width=260px fig-align="center"}](https://manybabies.org)
+::: {layout-ncol="2"}
+[![](https://manybabies.org/assets/img/avatar-icon-2022.png){width="260px" fig-align="center"}](https://manybabies.org)
 
-[![](https://manybabies.org/assets/img/mb5-logo.png){width=250px fig-align="center"}](https://manybabies.org/MB5)
+[![](https://manybabies.org/assets/img/mb5-logo.png){width="250px" fig-align="center"}](https://manybabies.org/MB5)
 :::
 
 ------------------------------------------------------------------------
@@ -62,8 +62,7 @@ Much of this manual was adapted from the lab manuals created by the MB1, MB2, MB
 
 ------------------------------------------------------------------------
 
-This is a
-[![](https://quarto.org/quarto.png){width="20%"}](https://quarto.org/docs/books) book.
+This is a [![](https://quarto.org/quarto.png){width="20%"}](https://quarto.org/docs/books) book.
 
 To learn more about Quarto books visit <https://quarto.org/docs/books>.
 

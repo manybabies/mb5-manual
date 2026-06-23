@@ -13,10 +13,9 @@
 (@)  **Complete the **[**{{< var project.number >}} Sign-Up Form**]({{< var url.signup >}}){target="_blank"}
 
 ### BEFORE you begin data collection: 
-
+(@)  Submit the version of the **demographics questionnaire** your lab will be using (see @sec-demographics), your lab's **ethics approval** (see @sec-ethics), and any other documentation/materials using the {{< var link.greenlight >}}
 (@)  **Set up the experiment** in consultation with this lab manual (see [Setting up the Experiment](#sec-setup)) 
     i) Carefully record any needed deviations from the protocol using the {{< var link.issue >}}
-(@)  Submit the version of the **demographics questionnaire** your lab will be using (see @sec-demographics), your lab's **ethics approval** (see @sec-ethics), and any other documentation/materials using the {{< var link.greenlight >}}
 (@)  Create and submit your **walkthrough video** (see @sec-walkthrough)
 (@)  Run pilot data through the {{< var link.validator >}} (see @sec-validation)
 (@)  Email the {{< var project.number >}} Project Leads ({{< var email.support >}}) to let them know that you are ready for “Green-Lighting” [`Subject: "MB5 GREEN-LIGHT REQUEST"`]
