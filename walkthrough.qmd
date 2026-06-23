@@ -5,7 +5,6 @@
 We want to see how the experiment is displayed as an infant participant would see it. Thanks for your patience!
 :::
 
-
 > Note: These instructions were adapted slightly from the MB1 & MB3 walkthrough instructions
 
 Once the experiment is set up and people involved in data collection are trained, and BEFORE beginning data collection, we ask that you document how you run the {{< var project.number >}} study in your lab by creating a "Walkthrough" video.[^walkthrough-1]
