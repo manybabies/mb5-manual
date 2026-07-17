@@ -44,13 +44,14 @@ PUT IN GRAPHIC SHOWING APPARATUS/SET-UP
 
 To maximize accuracy, we encourage labs to use one of the following supported hardware/software options to run the experiment:
 
--   **Eyetracking (Eyelink):** Experiment Builder
--   **Eyetracking (Tobii):** PsychoPy
+-   **Eyetracking (Eyelink):** Experiment Builder *[IN DEVELOPMENT, est. release date: early August 2026]*
+-   **Eyetracking (Tobii):** PsychoPy *[IN DEVELOPMENT, est. release date: early August 2026]*
 -   **Offline coding:** <a href="https://drive.google.com/drive/folders/18MByu_o8v1WKOEly_snZJlt8-Ip8xtYG?usp=drive_link" target="_blank">PsychoPy</a> *(<a href="https://docs.google.com/document/d/1nxaWc40bQQCJFkOsAn3B-46irecrmignpF-HhiVqKWM/edit?usp=drive_link" target="_blank">manual</a>)*
 
 Click on the software option you would like to use to access experiment and set-up order files. Let us know as soon as possible if you plan to use an alternative experiment program version not listed above.
 
 ::: callout-important
-# Eye-tracking experiment files are in final development & testing. 
-Estimated release date: August, 2026
+# TECH SUPPORT 
+To get help with experiment set-up issues or to report technical issues, please use the 
+## {{< var link.issue >}}
 :::

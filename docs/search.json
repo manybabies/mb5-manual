@@ -636,7 +636,7 @@
     "href": "apparatus.html#software",
     "title": "14  Apparatus",
     "section": "14.3 Software",
-    "text": "14.3 Software\nTo maximize accuracy, we encourage labs to use one of the following supported hardware/software options to run the experiment:\n\nEyetracking (Eyelink): Experiment Builder\nEyetracking (Tobii): PsychoPy\nOffline coding: PsychoPy (manual)\n\nClick on the software option you would like to use to access experiment and set-up order files. Let us know as soon as possible if you plan to use an alternative experiment program version not listed above.\n\n\n\n\n\n\nEye-tracking experiment files are in final development & testing.\n\n\n\nEstimated release date: August, 2026",
+    "text": "14.3 Software\nTo maximize accuracy, we encourage labs to use one of the following supported hardware/software options to run the experiment:\n\nEyetracking (Eyelink): Experiment Builder [IN DEVELOPMENT, est. release date: early August 2026]\nEyetracking (Tobii): PsychoPy [IN DEVELOPMENT, est. release date: early August 2026]\nOffline coding: PsychoPy (manual)\n\nClick on the software option you would like to use to access experiment and set-up order files. Let us know as soon as possible if you plan to use an alternative experiment program version not listed above.\n\n\n\n\n\n\nTECH SUPPORT\n\n\n\nTo get help with experiment set-up issues or to report technical issues, please use the ## MB5 Issue Tracking and Support Request Form",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>Apparatus</span>"
