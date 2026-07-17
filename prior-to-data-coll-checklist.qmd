@@ -1,4 +1,4 @@
-# "Prior to Data Collection" checklist {#sec-prior-checklist}
+# Prior to Data Collection checklist {#sec-prior-checklist}
 
 The steps for getting a "Green-Light" to collect data are tracked by the MB5 Project Leads on the {{< var link.tracker >}}. You can check the tracker to see what steps your lab has completed. If you have any questions or think your lab’s progress is not up-to-date, {{< var email.emailus >}}.
 
