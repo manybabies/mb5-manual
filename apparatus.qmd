@@ -46,7 +46,7 @@ To maximize accuracy, we encourage labs to use one of the following supported ha
 
 -   **Eyetracking (Eyelink):** Experiment Builder
 -   **Eyetracking (Tobii):** PsychoPy
--   **Offline coding:** [PsychoPy](https://drive.google.com/drive/folders/18MByu_o8v1WKOEly_snZJlt8-Ip8xtYG?usp=drive_link) *([manual](https://docs.google.com/document/d/1nxaWc40bQQCJFkOsAn3B-46irecrmignpF-HhiVqKWM/edit?usp=drive_link))*
+-   **Offline coding:** <a href="https://drive.google.com/drive/folders/18MByu_o8v1WKOEly_snZJlt8-Ip8xtYG?usp=drive_link" target="_blank">PsychoPy</a> *(<a href="https://docs.google.com/document/d/1nxaWc40bQQCJFkOsAn3B-46irecrmignpF-HhiVqKWM/edit?usp=drive_link" target="_blank">manual</a>)*
 
 Click on the software option you would like to use to access experiment and set-up order files. Let us know as soon as possible if you plan to use an alternative experiment program version not listed above.
 
