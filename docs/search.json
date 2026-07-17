@@ -636,7 +636,7 @@
     "href": "apparatus.html#software",
     "title": "14  Apparatus",
     "section": "14.3 Software",
-    "text": "14.3 Software\nTo maximize accuracy, we encourage labs to use one of the following supported hardware/software options to run the experiment:\n\nEyetracking (Eyelink): Experiment Builder [IN DEVELOPMENT, est. release date: early August 2026]\nEyetracking (Tobii): PsychoPy [IN DEVELOPMENT, est. release date: early August 2026]\nOffline coding: PsychoPy (manual)\n\nClick on the software option you would like to use to access experiment and set-up order files. Let us know as soon as possible if you plan to use an alternative experiment program version not listed above.\n\n\n\n\n\n\nTECH SUPPORT\n\n\n\nTo get help with experiment set-up issues or to report technical issues, please use the ## MB5 Issue Tracking and Support Request Form",
+    "text": "14.3 Software\nTo maximize accuracy, we encourage labs to use one of the following supported hardware/software options to run the experiment:\n\nEyetracking (Eyelink): Experiment Builder [IN DEVELOPMENT, est. release date: early August 2026]\nEyetracking (Tobii): PsychoPy [IN DEVELOPMENT, est. release date: early August 2026]\nOffline coding: PsychoPy (manual)\n\nClick on the software option you would like to use to access experiment and set-up order files. Let us know as soon as possible if you plan to use an alternative experiment program version not listed above.\n\n\n\n\n\n\nTECH SUPPORT\n\n\n\n\nWe encourage you to check the MB5 Issue Tracker table and the #mb5-data-collection channel in the MB Slack workspace to see if other labs have experienced the same issue and if there is a solution provided.\n\n\n&gt; To get help with experiment set-up issues or to report technical issues to Project Leads, please use the MB5 Issue Tracking and Support Request Form\n\n\n&gt; To discuss issues and crowdsource support from fellow data-collecting labs, post about your issue in the #mb5-data-collection Slack channel\n\nPlease be as detailed as possible in your request so that we can help you solve your issue!",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>Apparatus</span>"
@@ -879,6 +879,61 @@
     "text": "Barry, T. J., Griffith, J. W., De Rossi, S., & Hermans, D. (2014).\nMeet the fribbles: Novel stimuli for use within behavioural research.\nFrontiers in Psychology, 5. https://doi.org/10.3389/fpsyg.2014.00103\n\n\nHunter, M. A., & Ames, E. W. (1988). A multifactor model of\ninfant preferences for novel and familiar stimuli (pp. 69–95).\nAblex Publishing.\n\n\nKosie, J., Zettersten, M., Abu-Zhaya, R., Amso, D., Babineau, M.,\nBaumgartner, H., Bazhydai, M., Belia, M., Benavides, S., Bergmann, C.,\nBerteletti, I., Black, A. K., Borges, P., Borovsky, A., Byers-Heinlein,\nK., Cabrera, L., Calignano, G., Cao, A., Cox, C. M. M., … Lew-Williams,\nC. (n.d.). ManyBabies 5: A large-scale investigation of the proposed\nshift from familiarity preference to novelty preference in infant\nlooking time. https://doi.org/10.31234/osf.io/ck3vd\n\n\nSingh, L., Barokova, M. D., Baumgartner, H. A., Lopera-Perez, D. C.,\nOmane, P. O., Sheskin, M., Yuen, F. L., Wu, Y., Alcock, K. J., Altmann,\nE. C., Bazhydai, M., Carstensen, A., Chan, K. C. J., Chuan-Peng, H., Dal\nBen, R., Franchin, L., Kosie, J. E., Lew-Williams, C., Okocha, A., …\nFrank, M. C. (2024). A unified approach to demographic data collection\nfor research with young children across diverse cultures.\nDevelopmental Psychology, 60. https://doi.org/10.1037/dev0001623",
     "crumbs": [
       "References"
+    ]
+  },
+  {
+    "objectID": "apparatus.html#to-get-help-with-experiment-set-up-issues-or-to-report-technical-issues-please-use-the",
+    "href": "apparatus.html#to-get-help-with-experiment-set-up-issues-or-to-report-technical-issues-please-use-the",
+    "title": "14  Apparatus",
+    "section": "To get help with experiment set-up issues or to report technical issues, please use the MB5 Issue Tracking and Support Request Form",
+    "text": "To get help with experiment set-up issues or to report technical issues, please use the MB5 Issue Tracking and Support Request Form\nPlease be as detailed as possible in your request so that we can help you solve your issue!\nYou can also check the MB5 Issue Tracker table and the #mb5-data-collection channel in the MB Slack workspace",
+    "crumbs": [
+      "Setting up the experiment",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Apparatus</span>"
+    ]
+  },
+  {
+    "objectID": "apparatus.html#to-get-help-from-project-leadswith-experiment-set-up-issues-or-to-report-technical-issues-please-use-the",
+    "href": "apparatus.html#to-get-help-from-project-leadswith-experiment-set-up-issues-or-to-report-technical-issues-please-use-the",
+    "title": "14  Apparatus",
+    "section": "To get help from Project Leadswith experiment set-up issues or to report technical issues, please use the MB5 Issue Tracking and Support Request Form",
+    "text": "To get help from Project Leadswith experiment set-up issues or to report technical issues, please use the MB5 Issue Tracking and Support Request Form",
+    "crumbs": [
+      "Setting up the experiment",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Apparatus</span>"
+    ]
+  },
+  {
+    "objectID": "apparatus.html#to-discuss-issues-and-crowdsource-support-from-fellow-data-collecting-labs-post-about-your-issue-in-the",
+    "href": "apparatus.html#to-discuss-issues-and-crowdsource-support-from-fellow-data-collecting-labs-post-about-your-issue-in-the",
+    "title": "14  Apparatus",
+    "section": "To discuss issues and crowdsource support from fellow data-collecting labs, post about your issue in the #mb5-data-collection",
+    "text": "To discuss issues and crowdsource support from fellow data-collecting labs, post about your issue in the #mb5-data-collection\nPlease be as detailed as possible in your request so that we can help you solve your issue!\nWe also encourage you to check the MB5 Issue Tracker table and the #mb5-data-collection channel in the MB Slack workspace to see if other labs have experienced the same issue and if there is a solution listed.",
+    "crumbs": [
+      "Setting up the experiment",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Apparatus</span>"
+    ]
+  },
+  {
+    "objectID": "apparatus.html#to-get-help-with-experiment-set-up-issues-or-to-report-technical-issues-to-project-leads-please-use-the",
+    "href": "apparatus.html#to-get-help-with-experiment-set-up-issues-or-to-report-technical-issues-to-project-leads-please-use-the",
+    "title": "14  Apparatus",
+    "section": "> To get help with experiment set-up issues or to report technical issues to Project Leads, please use the MB5 Issue Tracking and Support Request Form",
+    "text": "&gt; To get help with experiment set-up issues or to report technical issues to Project Leads, please use the MB5 Issue Tracking and Support Request Form",
+    "crumbs": [
+      "Setting up the experiment",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Apparatus</span>"
+    ]
+  },
+  {
+    "objectID": "apparatus.html#to-discuss-issues-and-crowdsource-support-from-fellow-data-collecting-labs-post-about-your-issue-in-the-slack-channel",
+    "href": "apparatus.html#to-discuss-issues-and-crowdsource-support-from-fellow-data-collecting-labs-post-about-your-issue-in-the-slack-channel",
+    "title": "14  Apparatus",
+    "section": "> To discuss issues and crowdsource support from fellow data-collecting labs, post about your issue in the #mb5-data-collection Slack channel",
+    "text": "&gt; To discuss issues and crowdsource support from fellow data-collecting labs, post about your issue in the #mb5-data-collection Slack channel\n\nPlease be as detailed as possible in your request so that we can help you solve your issue!",
+    "crumbs": [
+      "Setting up the experiment",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Apparatus</span>"
     ]
   }
 ]

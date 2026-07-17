@@ -52,6 +52,11 @@ Click on the software option you would like to use to access experiment and set-
 
 ::: callout-important
 # TECH SUPPORT 
-To get help with experiment set-up issues or to report technical issues, please use the 
-## {{< var link.issue >}}
+#### We encourage you to check the <a href="https://airtable.com/appRoqMKzcK3NsXt4/shr1IgPxsHgYfuyIJ/tbl8ERsO85K9HEgrb" target="_blank">MB5 Issue Tracker table</a> and the {{< var link.slack-data >}} channel in the [MB Slack workspace](https://join.slack.com/t/manybabies/shared_invite/zt-3hv85sl5d-JWzJYourJw8kCttK46l~kw){target='_blank'} to see if other labs have experienced the same issue and if there is a solution provided.
+
+## > To get help with experiment set-up issues or to report technical issues to Project Leads, please use the {{< var link.issue >}} {.unnumbered}
+
+## > To discuss issues and crowdsource support from fellow data-collecting labs, post about your issue in the {{< var link.slack-data >}} Slack channel {.unnumbered}
+
+#### Please be as detailed as possible in your request so that we can help you solve your issue!
 :::

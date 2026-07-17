@@ -2,15 +2,15 @@
 
 ## Contact Info
 
--   <img src="https://manybabies.org/assets/img/mb5-logo.png" width="100px"> **General inquiries**: {{< var email.support >}}
+-   <img src="https://manybabies.org/assets/img/mb5-logo.png" width="100px"/> **General inquiries**: {{< var email.support >}}
 
--   <img src="/images/kosie.png" width="100px" style="border-radius:50%;"> **Jessica Kosie** (MB5 Project Lead): {{< var email.jessica >}}
+-   <img src="/images/kosie.png" width="100px" style="border-radius:50%;"/> **Jessica Kosie** (MB5 Project Lead): {{< var email.jessica >}}
 
--   <img src="/images/zettersten.jpeg" width="100px" style="border-radius:50%;"> **Martin Zettersten** (MB5 Project Lead): {{< var email.martin >}}
+-   <img src="/images/zettersten.jpeg" width="100px" style="border-radius:50%;"/> **Martin Zettersten** (MB5 Project Lead): {{< var email.martin >}}
 
--   <img src="/images/lew-williams.jpeg" width="100px" style="border-radius:50%;"> **Casey Lew-Williams** (MB5 Project Lead): {{< var email.casey >}}
+-   <img src="/images/lew-williams.jpeg" width="100px" style="border-radius:50%;"/> **Casey Lew-Williams** (MB5 Project Lead): {{< var email.casey >}}
 
--   <img src="/images/baumgartner.png" width="100px" style="border-radius:50%;"> **Heidi Baumgartner** (MB Exec. Director & MB5 Coordinator): {{< var email.heidi >}}
+-   <img src="/images/baumgartner.png" width="100px" style="border-radius:50%;"/> **Heidi Baumgartner** (MB Exec. Director & MB5 Coordinator): {{< var email.heidi >}}
 
 ## Group Communication
 
