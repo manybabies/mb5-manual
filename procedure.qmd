@@ -79,7 +79,7 @@ Following the conclusion of the second test period, the Pre-Trial Attention-Gett
 
 ------------------------------------------------------------------------
 
-## Trial Orders {@sec-orders}
+## Trial Orders {#sec-orders}
 
 Each infant will view both stimulus sets (*ManyFribbles* and *ManyFractals*), with presentation blocked by stimulus set and presentation order (ie.g., Fribbles first or Fractals first) and counterbalanced across infants. Additionally, within each stimulus set, infants will experience all combinations of complexity level (*low*, *high*) and familiarization time (*5s*, *10s*, *15s*). @tbl-familiarization provides an example list of the 12 trial types that an infant would see, with example stimuli for each trial type shown in the right-most columns.
 
@@ -99,10 +99,10 @@ It is **VERY IMPORTANT FOR COUNTERBALANCING PURPOSES** that each lab use the ord
 
 | Trial | Familiarization Time (s) | Stimulus Class | Complexity Level | Familiarization Stimulus | Test Stimulus (novel) |
 |------------|------------|------------|------------|------------|------------|
-| **1** <br> 2 <br> 3 | 5 <br> 10 <br> 15 | <br> ManyFribbles | <br> Low | <img src="images/fribble-low.png" height="75"/></img> | <img src="images/fribble-low2.png" height="75"/></img> |
-| **4** <br> 5 <br> 6 | 5 <br> 10 <br> 15 | <br> ManyFribbles | <br> High | <img src="images/fribble-high.png" height="75"/></img> | <img src="images/fribble-high2.png" height="75"/></img> |
-| **7** <br> 8 <br> 9 | 5 <br> 10 <br> 15 | <br> ManyFractals | <br> Low | <img src="images/fractal-low.png" height="75"/></img> | <img src="images/fractal-low2.png" height="75"/></img> |
-| **10** <br> 11 <br> 12 | 5 <br> 10 <br> 15 | <br> ManyFractals | <br> High | <img src="images/fractal-high.png" height="75"/></img> | <img src="images/fractal-high2.png" height="75"/></img> |
+| <b>1 <br> 2 <br> 3</b> | 5 <br> 10 <br> 15 | <br> ManyFribbles | <br> Low | <img src="images/fribble-low.png" height="75"/></img> | <img src="images/fribble-low2.png" height="75"/></img> |
+| <b>4 <br> 5 <br> 6</b> | 5 <br> 10 <br> 15 | <br> ManyFribbles | <br> High | <img src="images/fribble-high.png" height="75"/></img> | <img src="images/fribble-high2.png" height="75"/></img> |
+| <b>7 <br> 8 <br> 9</b> | 5 <br> 10 <br> 15 | <br> ManyFractals | <br> Low | <img src="images/fractal-low.png" height="75"/></img> | <img src="images/fractal-low2.png" height="75"/></img> |
+| <b>10 <br> 11 <br> 12</b> | 5 <br> 10 <br> 15 | <br> ManyFractals | <br> High | <img src="images/fractal-high.png" height="75"/></img> | <img src="images/fractal-high2.png" height="75"/></img> |
 
 : Example trial information for a participant {#tbl-familiarization}
 
