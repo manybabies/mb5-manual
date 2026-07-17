@@ -406,7 +406,7 @@
     "href": "experiment-overview.html",
     "title": "Setting up the experiment",
     "section": "",
-    "text": "This section explains the experimental method in detail. Please follow the instructions as closely as possible, and report any deviations from the protocol using the MB5 Issue Tracking and Support Request Form.\n\n11  Participants and recruitment\n12  Stimuli\n13  Procedure\n14  Apparatus\n15  Data validation",
+    "text": "This section explains the experimental method in detail. Please follow the instructions as closely as possible, and report any issues and/or deviations from the protocol using the MB5 Issue Tracking and Support Request Form.\n\n11  Participants and recruitment\n12  Stimuli\n13  Procedure\n14  Apparatus\n15  Data validation\n\nOnce you have completed experiment set-up and data validation, make sure you have completed the steps in 16  “Prior to Data Collection” checklist to request a “Green-Light” from Project Leads for data collection.",
     "crumbs": [
       "Setting up the experiment"
     ]
@@ -733,23 +733,23 @@
   {
     "objectID": "prior-to-data-coll-checklist.html",
     "href": "prior-to-data-coll-checklist.html",
-    "title": "16  Prior to data collection checklist",
+    "title": "16  “Prior to Data Collection” checklist",
     "section": "",
     "text": "The steps for getting a “Green-Light” to collect data are tracked by the MB5 Project Leads on the MB5 Project Tracker. You can check the tracker to see what steps your lab has completed. If you have any questions or think your lab’s progress is not up-to-date, email us.\nAs a reminder, BEFORE BEGINNING DATA COLLECTION your lab needs to:",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Prior to data collection checklist</span>"
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>\"Prior to Data Collection\" checklist</span>"
     ]
   },
   {
     "objectID": "prior-to-data-coll-checklist.html#wait-until-you-receive-an-official-green-light-from-project-leads-before-you-begin-testing",
     "href": "prior-to-data-coll-checklist.html#wait-until-you-receive-an-official-green-light-from-project-leads-before-you-begin-testing",
-    "title": "16  Prior to data collection checklist",
+    "title": "16  “Prior to Data Collection” checklist",
     "section": "Wait until you receive an official “Green-Light” from Project Leads before you begin testing!",
     "text": "Wait until you receive an official “Green-Light” from Project Leads before you begin testing!\nIf your lab’s status in the MB5 Project Tracker is not Green-Light for testing then you have NOT been approved to begin collecting data and your data will not be included in the analyses/publication.\nWe may have questions for you (e.g., about any planned protocol deviations). We will do our best to respond quickly, but if you don’t hear from us within a week of submitting the Pre-Test Questionnaire, please email us again!",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Prior to data collection checklist</span>"
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>\"Prior to Data Collection\" checklist</span>"
     ]
   },
   {

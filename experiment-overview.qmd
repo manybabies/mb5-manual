@@ -1,9 +1,11 @@
 # Setting up the experiment {#sec-setup .unnumbered}
 
-This section explains the experimental method in detail. Please follow the instructions as closely as possible, and report any deviations from the protocol using the {{< var link.issue >}}.
+This section explains the experimental method in detail. Please follow the instructions as closely as possible, and **report any issues and/or deviations from the protocol** using the {{< var link.issue >}}.
 
 -   @sec-participants
 -   @sec-stimuli
 -   @sec-procedure
 -   @sec-apparatus
 -   @sec-validation
+
+Once you have completed experiment set-up and data validation, make sure you have completed the steps in @sec-prior-checklist to request a "Green-Light" from Project Leads for data collection.

@@ -1,4 +1,4 @@
-# Prior to data collection checklist
+# "Prior to Data Collection" checklist {#sec-prior-checklist}
 
 The steps for getting a "Green-Light" to collect data are tracked by the MB5 Project Leads on the {{< var link.tracker >}}. You can check the tracker to see what steps your lab has completed. If you have any questions or think your lab’s progress is not up-to-date, {{< var email.emailus >}}.
 
@@ -14,6 +14,7 @@ As a reminder, **BEFORE BEGINNING DATA COLLECTION** your lab needs to:
 
 ::: callout-important
 # DO NOT BEGIN TESTING UNTIL YOU HAVE BEEN GIVEN A "GREEN-LIGHT"!
+
 ## Wait until you receive an official "Green-Light" from Project Leads before you begin testing! {.unnumbered}
 
 If your lab's status in the {{< var link.tracker >}} is not `Green-Light for testing` then you have NOT been approved to begin collecting data and your data will not be included in the analyses/publication.
