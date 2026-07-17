@@ -52,13 +52,13 @@ book:
         - objects.qmd
         - ethics.qmd
         - walkthrough.qmd
-        - data-validation.qmd
     - part: experiment-overview.qmd
       chapters: 
         - participants.qmd
         - stimuli.qmd
         - procedure.qmd
         - apparatus.qmd
+        - data-validation.qmd
         - prior-to-data-coll-checklist.qmd
     - part: running-experiment.qmd
       chapters:

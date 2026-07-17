@@ -132,7 +132,7 @@
     "href": "lab-overview.html",
     "title": "5  Lab participation overview",
     "section": "",
-    "text": "These are the steps that every data-collecting lab must follow to participate in MB5. This is just an overview of the process. More detail for each numbered item is available in the linked sections.\n\n\n\n\n\n\n\nBEFORE you do ANYTHING else:\n\nRead this manual start to finish\nRead the ManyBabies Code of Conduct\nRead the MB5 Collaboration Agreement. By participating in this project, you agree to abide by the terms outlined in this agreement.\nReview the information in the ManyBabies General Manual regarding ethical research, authorship, data sharing, and data use\nComplete the MB5 Sign-Up Form\n\n\n\nBEFORE you begin data collection:\n\nSubmit the version of the demographics questionnaire your lab will be using (see Chapter 7), your lab’s ethics approval (see Chapter 9), and any other documentation/materials using the MB5 Green-Lighting Form\nSet up the experiment in consultation with this lab manual (see Setting up the Experiment)\n\nCarefully record any needed deviations from the protocol using the MB5 Issue Tracking and Support Request Form\n\nCreate and submit your walkthrough video (see Chapter 10)\nRun pilot data through the ManyBabies Data Validator (see Chapter 11)\nEmail the MB5 Project Leads (mb5@manybabies.org) to let them know that you are ready for “Green-Lighting” [Subject: \"MB5 GREEN-LIGHT REQUEST\"]\nWAIT for your official “Green-Light” from the leadership team to begin data collection\n\n\n\n\n\n\n\nDO NOT BEGIN DATA COLLECTION (other than piloting) until your lab has been explicitly given the “Green-Light” to do so by the Project Leads.\n\n\n\n\n\n\n\n\nData collection:\n\nONLY AFTER YOUR LAB HAS BEEN GIVEN A “GREEN-LIGHT”: Collect your data following the guidelines in the Running the experiment section!\n\n\n\nAFTER you finish data collection:\n\nCompile your participant and trial data files in consultation with data reporting guidelines (see Chapter 20)\nVerify your data files using the ManyBabies Data Validator (see Chapter 11)\nSubmit your data using the MB5 Data Upload Form\nReport individual contributions using the MB Contribution Reporting Form",
+    "text": "These are the steps that every data-collecting lab must follow to participate in MB5. This is just an overview of the process. More detail for each numbered item is available in the linked sections.\n\n\n\n\n\n\n\nBEFORE you do ANYTHING else:\n\nRead this manual start to finish\nRead the ManyBabies Code of Conduct\nRead the MB5 Collaboration Agreement. By participating in this project, you agree to abide by the terms outlined in this agreement.\nReview the information in the ManyBabies General Manual regarding ethical research, authorship, data sharing, and data use\nComplete the MB5 Sign-Up Form\n\n\n\nBEFORE you begin data collection:\n\nSubmit the version of the demographics questionnaire your lab will be using (see Chapter 7), your lab’s ethics approval (see Chapter 9), and any other documentation/materials using the MB5 Green-Lighting Form\nSet up the experiment in consultation with this lab manual (see Setting up the Experiment)\n\nCarefully record any needed deviations from the protocol using the MB5 Issue Tracking and Support Request Form\n\nCreate and submit your walkthrough video (see Chapter 10)\nRun pilot data through the ManyBabies Data Validator (see Chapter 15)\nEmail the MB5 Project Leads (mb5@manybabies.org) to let them know that you are ready for “Green-Lighting” [Subject: \"MB5 GREEN-LIGHT REQUEST\"]\nWAIT for your official “Green-Light” from the leadership team to begin data collection\n\n\n\n\n\n\n\nDO NOT BEGIN DATA COLLECTION (other than piloting) until your lab has been explicitly given the “Green-Light” to do so by the Project Leads.\n\n\n\n\n\n\n\n\nData collection:\n\nONLY AFTER YOUR LAB HAS BEEN GIVEN A “GREEN-LIGHT”: Collect your data following the guidelines in the Running the experiment section!\n\n\n\nAFTER you finish data collection:\n\nCompile your participant and trial data files in consultation with data reporting guidelines (see Chapter 20)\nVerify your data files using the ManyBabies Data Validator (see Chapter 15)\nSubmit your data using the MB5 Data Upload Form\nReport individual contributions using the MB Contribution Reporting Form",
     "crumbs": [
       "General information",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Lab participation overview</span>"
@@ -413,22 +413,11 @@
     ]
   },
   {
-    "objectID": "data-validation.html",
-    "href": "data-validation.html",
-    "title": "11  Data validation",
-    "section": "",
-    "text": "Important\n\n\n\nThe MB5 data dictionary and validation tool are under development. Thank you for your patience!\n\n\n\nManyBabies Data Validator",
-    "crumbs": [
-      "Getting started",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data validation</span>"
-    ]
-  },
-  {
     "objectID": "experiment-overview.html",
     "href": "experiment-overview.html",
     "title": "Setting up the experiment",
     "section": "",
-    "text": "This section explains the experimental method in detail. Please follow the instructions as closely as possible, and report any deviations from the protocol using the MB5 Issue Tracking and Support Request Form.\n\n12  Participants and recruitment\n13  Stimuli\n14  Procedure\n15  Apparatus\n11  Data validation",
+    "text": "This section explains the experimental method in detail. Please follow the instructions as closely as possible, and report any deviations from the protocol using the MB5 Issue Tracking and Support Request Form.\n\n11  Participants and recruitment\n12  Stimuli\n13  Procedure\n14  Apparatus\n15  Data validation",
     "crumbs": [
       "Setting up the experiment"
     ]
@@ -436,221 +425,232 @@
   {
     "objectID": "participants.html",
     "href": "participants.html",
-    "title": "12  Participants and recruitment",
+    "title": "11  Participants and recruitment",
     "section": "",
-    "text": "12.1 Sample size\nThe expected lab contribution is a full sample of 32 babies (preferred, if possible) or a half sample of 16 babies (minimum).\nWhile we encourage as much participation as you can spare, it is crucial to the success of the project that you treat our study with the same care as you would any other study in your lab with respect to recruitment procedures, timing of data collection, and RAs/RA training. Please do not commit to providing data to ManyBabies if this level of care is not possible.",
+    "text": "11.1 Sample size\nThe expected lab contribution is a full sample of 32 babies (preferred, if possible) or a half sample of 16 babies (minimum).\nWhile we encourage as much participation as you can spare, it is crucial to the success of the project that you treat our study with the same care as you would any other study in your lab with respect to recruitment procedures, timing of data collection, and RAs/RA training. Please do not commit to providing data to ManyBabies if this level of care is not possible.",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Participants and recruitment</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Participants and recruitment</span>"
     ]
   },
   {
     "objectID": "participants.html#sample-size",
     "href": "participants.html#sample-size",
-    "title": "12  Participants and recruitment",
+    "title": "11  Participants and recruitment",
     "section": "",
     "text": "Notes about sample size:\n\nA lab’s sample size contribution includes any infant who enters the laboratory, even if they are eventually excluded (e.g., due to fussiness, experimenter error, too young or too old, etc.).\nIn situations where labs intend to collect the minimum contribution (16 babies) but are unable to do so, lab members will still be eligible for authorship. Additional contributions may be requested by the Project Leads in these circumstances.",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Participants and recruitment</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Participants and recruitment</span>"
     ]
   },
   {
     "objectID": "participants.html#age-of-participants",
     "href": "participants.html#age-of-participants",
-    "title": "12  Participants and recruitment",
-    "section": "12.2 Age of participants",
-    "text": "12.2 Age of participants\n\nMinimum age: 3 months, 0 days\n\n\nMaximum age: 15 months, 0 days\nFor example, on a testing date of 2025-04-15, eligible infants would have birthdays on or between 2024-01-15 and 2025-01-15. \nYou can use an online tool such as this Age Calculator to use an infant’s date of birth and testing date to calculate age in days, which is the required format for age reporting.\n\n\nNotes about age:\n\nTry to distribute participants across the full range of ages, if possible.\nIf your lab will only be testing infants from a subset of the age range (e.g., 3-9 months), try to distribute participants across that range and make sure to inform the leadership team.",
+    "title": "11  Participants and recruitment",
+    "section": "11.2 Age of participants",
+    "text": "11.2 Age of participants\n\nMinimum age: 3 months, 0 days\n\n\nMaximum age: 15 months, 0 days\nFor example, on a testing date of 2025-04-15, eligible infants would have birthdays on or between 2024-01-15 and 2025-01-15. \nYou can use an online tool such as this Age Calculator to use an infant’s date of birth and testing date to calculate age in days, which is the required format for age reporting.\n\n\nNotes about age:\n\nTry to distribute participants across the full range of ages, if possible.\nIf your lab will only be testing infants from a subset of the age range (e.g., 3-9 months), try to distribute participants across that range and make sure to inform the leadership team.",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Participants and recruitment</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Participants and recruitment</span>"
     ]
   },
   {
     "objectID": "participants.html#eligibility-and-exclusions",
     "href": "participants.html#eligibility-and-exclusions",
-    "title": "12  Participants and recruitment",
-    "section": "12.3 Eligibility and Exclusions",
-    "text": "12.3 Eligibility and Exclusions\n\nThe only requirements for inclusion in MB5 are:\n\nAge: the infant’s age falls within the 3.0- to 15.0-month age range\nNo known visual processing impairment: the infant has no known issues that would directly impede their ability to process visual stimuli\n\n\n\n\n\n\n\nInfants with other characteristics that are commonly used as exclusion criteria in developmental studies (e.g., hearing impairment, premature birth, bilingual, etc.) can be included in the sample.\n\n\n\nNote that the inclusion criteria for MB5 are much more inclusive than previous ManyBabies projects and typical in-lab studies.\n\n\nPlease determine participants’ eligibility on the phone prior to scheduling them in the ManyBabies study to avoid testing ineligible participants. Babies who participate in the study but are subsequently determined to be ineligible based on the criteria above should still be reported in the sample but clearly marked as ‘ineligible’ based on age or visual processing impairment (see Chapter 20 for more info).",
+    "title": "11  Participants and recruitment",
+    "section": "11.3 Eligibility and Exclusions",
+    "text": "11.3 Eligibility and Exclusions\n\nThe only requirements for inclusion in MB5 are:\n\nAge: the infant’s age falls within the 3.0- to 15.0-month age range\nNo known visual processing impairment: the infant has no known issues that would directly impede their ability to process visual stimuli\n\n\n\n\n\n\n\nInfants with other characteristics that are commonly used as exclusion criteria in developmental studies (e.g., hearing impairment, premature birth, bilingual, etc.) can be included in the sample.\n\n\n\nNote that the inclusion criteria for MB5 are much more inclusive than previous ManyBabies projects and typical in-lab studies.\n\n\nPlease determine participants’ eligibility on the phone prior to scheduling them in the ManyBabies study to avoid testing ineligible participants. Babies who participate in the study but are subsequently determined to be ineligible based on the criteria above should still be reported in the sample but clearly marked as ‘ineligible’ based on age or visual processing impairment (see Chapter 20 for more info).",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Participants and recruitment</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Participants and recruitment</span>"
     ]
   },
   {
     "objectID": "participants.html#first-sessionsecond-session-policy",
     "href": "participants.html#first-sessionsecond-session-policy",
-    "title": "12  Participants and recruitment",
-    "section": "12.4 ‘First Session’/‘Second Session’ policy",
-    "text": "12.4 ‘First Session’/‘Second Session’ policy\nSome laboratories have the practice of testing babies in more than one study during the same visit.\n\n‘First Session’ refers to babies tested soon upon arrival to the lab, prior to participating in any other studies.\n‘Second Session’ refers to any testing that is done after the first session.\n\nPlease contribute ‘First Session’ babies when possible. It is possible that ‘second session’ babies will contribute worse/weaker/different data with respect to the larger goals of determining effect sizes.\nLabel ‘Second Session’ babies appropriately if infants were run in a different study on the same visit prior to their participation in MB5. Please also document the nature of the study run prior to MB5 for all ‘Second Session’ participants (e.g., “7 minute study of object categorization using eye-tracking”). See Chapter 20 for more info.",
+    "title": "11  Participants and recruitment",
+    "section": "11.4 ‘First Session’/‘Second Session’ policy",
+    "text": "11.4 ‘First Session’/‘Second Session’ policy\nSome laboratories have the practice of testing babies in more than one study during the same visit.\n\n‘First Session’ refers to babies tested soon upon arrival to the lab, prior to participating in any other studies.\n‘Second Session’ refers to any testing that is done after the first session.\n\nPlease contribute ‘First Session’ babies when possible. It is possible that ‘second session’ babies will contribute worse/weaker/different data with respect to the larger goals of determining effect sizes.\nLabel ‘Second Session’ babies appropriately if infants were run in a different study on the same visit prior to their participation in MB5. Please also document the nature of the study run prior to MB5 for all ‘Second Session’ participants (e.g., “7 minute study of object categorization using eye-tracking”). See Chapter 20 for more info.",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Participants and recruitment</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Participants and recruitment</span>"
     ]
   },
   {
     "objectID": "participants.html#peeking-and-stopping-rules",
     "href": "participants.html#peeking-and-stopping-rules",
-    "title": "12  Participants and recruitment",
-    "section": "12.5 Peeking and stopping rules",
-    "text": "12.5 Peeking and stopping rules\nWe will ask you to document your lab’s recruitment practices, initial plan regarding how many babies you will run, and stopping rule (e.g., stop when we reach the specified N, stop when the study data collection period ends) via the Pre-Test Form. It is important to document any changes to your recruitment/stopping rule with a submission of the MB5 Issue Tracking and Support Request Form.\n\n\n\n\n\n\nIt is critical for the integrity of the data analysis that you NOT make any decisions about how many babies to test based on:\n\n\n\n\nthe data being generated in your lab, or\nthe number of participant exclusions\n\n\n\nLaboratories should stick with their original “stopping rule”—whether based on a number of participants or testing time frame. However, we recognize that this may not always be possible. In extraordinary circumstances, decisions about changes to the sample size and stopping rule must be made by someone who has NOT viewed the emerging data.\nYou can look at data (if absolutely necessary, e.g., to support a student interim report) but you MUST NOT change your recruitment goals and strategy based on your view of the data. Doing this will compromise the goals of the project! If you change your recruitment based on the data, that invalidates the statistical inferences we want to make and introduces exactly the kinds of biases into the data that this project was designed to avoid. If your lab is running pre-specified pilot participants (e.g., to practice the procedure), you may make minor procedural adjustments during that period only.",
+    "title": "11  Participants and recruitment",
+    "section": "11.5 Peeking and stopping rules",
+    "text": "11.5 Peeking and stopping rules\nWe will ask you to document your lab’s recruitment practices, initial plan regarding how many babies you will run, and stopping rule (e.g., stop when we reach the specified N, stop when the study data collection period ends) via the Pre-Test Form. It is important to document any changes to your recruitment/stopping rule with a submission of the MB5 Issue Tracking and Support Request Form.\n\n\n\n\n\n\nIt is critical for the integrity of the data analysis that you NOT make any decisions about how many babies to test based on:\n\n\n\n\nthe data being generated in your lab, or\nthe number of participant exclusions\n\n\n\nLaboratories should stick with their original “stopping rule”—whether based on a number of participants or testing time frame. However, we recognize that this may not always be possible. In extraordinary circumstances, decisions about changes to the sample size and stopping rule must be made by someone who has NOT viewed the emerging data.\nYou can look at data (if absolutely necessary, e.g., to support a student interim report) but you MUST NOT change your recruitment goals and strategy based on your view of the data. Doing this will compromise the goals of the project! If you change your recruitment based on the data, that invalidates the statistical inferences we want to make and introduces exactly the kinds of biases into the data that this project was designed to avoid. If your lab is running pre-specified pilot participants (e.g., to practice the procedure), you may make minor procedural adjustments during that period only.",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Participants and recruitment</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Participants and recruitment</span>"
     ]
   },
   {
     "objectID": "stimuli.html",
     "href": "stimuli.html",
-    "title": "13  Stimuli",
+    "title": "12  Stimuli",
     "section": "",
-    "text": "13.1 Overview\nBecause the sample size possible in ManyBabies projects provides a unique opportunity to test generalizability across multiple stimulus types, we chose two different categories of stimuli: ManyFribbles1 and ManyFractals2. These two classes of stimuli were chosen because:\nWe created 12 unique ManyFribbles and 12 unique ManyFractals. Within each stimulus type, six items were designed to be relatively low-complexity and six were designed to be relatively high-complexity. Complexity is operationalized here as the number of features present (appendages in the case of ManyFribbles and iterations of the same structure for ManyFractals; see Table 13.1)",
+    "text": "12.1 Overview\nBecause the sample size possible in ManyBabies projects provides a unique opportunity to test generalizability across multiple stimulus types, we chose two different categories of stimuli: ManyFribbles1 and ManyFractals2. These two classes of stimuli were chosen because:\nWe created 12 unique ManyFribbles and 12 unique ManyFractals. Within each stimulus type, six items were designed to be relatively low-complexity and six were designed to be relatively high-complexity. Complexity is operationalized here as the number of features present (appendages in the case of ManyFribbles and iterations of the same structure for ManyFractals; see Table 12.1)",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Stimuli</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Stimuli</span>"
     ]
   },
   {
     "objectID": "stimuli.html#overview",
     "href": "stimuli.html#overview",
-    "title": "13  Stimuli",
+    "title": "12  Stimuli",
     "section": "",
-    "text": "1 These stimuli were inspired by the Fribbles stimulus set (Barry et al., 2014). We are calling the brand-new stimlus set developed for MB5 “ManyFribbles” to distinguish them from the original Fribbles.2 We’re calling our custom sets of stimuli “ManyFribbles” and “ManyFractals” because… well, it’s fun.\nthey allow for variation in complexity within the same stimulus category (i.e., by manipulating the number of features)\ninfants are unlikely to have previous experience with either set of stimuli\nthe inclusion of two stimulus sets allow us to begin examining the generalizability of any observed effect\n\n\n\n\n\n\nTable 13.1: MB5 stimulus examples\n\n\n\n\n\n\n\n\n\n\n\nLow complexity\nHigh complexity\n\n\n\n\nManyFribbles\n\n\n\n\nManyFractals",
+    "text": "1 These stimuli were inspired by the Fribbles stimulus set (Barry et al., 2014). We are calling the brand-new stimlus set developed for MB5 “ManyFribbles” to distinguish them from the original Fribbles.2 We’re calling our custom sets of stimuli “ManyFribbles” and “ManyFractals” because… well, it’s fun.\nthey allow for variation in complexity within the same stimulus category (i.e., by manipulating the number of features)\ninfants are unlikely to have previous experience with either set of stimuli\nthe inclusion of two stimulus sets allow us to begin examining the generalizability of any observed effect\n\n\n\n\n\n\nTable 12.1: MB5 stimulus examples\n\n\n\n\n\n\n\n\n\n\n\nLow complexity\nHigh complexity\n\n\n\n\nManyFribbles\n\n\n\n\nManyFractals",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Stimuli</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Stimuli</span>"
     ]
   },
   {
     "objectID": "stimuli.html#manyfribbles",
     "href": "stimuli.html#manyfribbles",
-    "title": "13  Stimuli",
-    "section": "13.2 ManyFribbles",
-    "text": "13.2 ManyFribbles\nManyFribbles are colorful, computer-generated models of 3D figures. All ManyFribbles are made up of one base body shape and one appendage (low-complexity) or four appendages (high-complexity).\n\n\n\n\n\n\nIn development\n\n\n\nADD MORE INFO ABOUT COLOR SELECTION, SIZING, ETC",
+    "title": "12  Stimuli",
+    "section": "12.2 ManyFribbles",
+    "text": "12.2 ManyFribbles\nManyFribbles are colorful, computer-generated models of 3D figures. All ManyFribbles are made up of one base body shape and one appendage (low-complexity) or four appendages (high-complexity).\n\n\n\n\n\n\nIn development\n\n\n\nADD MORE INFO ABOUT COLOR SELECTION, SIZING, ETC",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Stimuli</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Stimuli</span>"
     ]
   },
   {
     "objectID": "stimuli.html#manyfractals",
     "href": "stimuli.html#manyfractals",
-    "title": "13  Stimuli",
-    "section": "13.3 ManyFractals",
-    "text": "13.3 ManyFractals\nManyFractals are geometric shapes in which the same structure is repeated iteratively at different levels of scale.\n\n\n\n\n\n\nIn development\n\n\n\nADD MORE INFO ABOUT FRACTAL GENERATION",
+    "title": "12  Stimuli",
+    "section": "12.3 ManyFractals",
+    "text": "12.3 ManyFractals\nManyFractals are geometric shapes in which the same structure is repeated iteratively at different levels of scale.\n\n\n\n\n\n\nIn development\n\n\n\nADD MORE INFO ABOUT FRACTAL GENERATION",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Stimuli</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Stimuli</span>"
     ]
   },
   {
     "objectID": "stimuli.html#attention-getter-stimuli",
     "href": "stimuli.html#attention-getter-stimuli",
-    "title": "13  Stimuli",
-    "section": "13.4 Attention-getter stimuli",
-    "text": "13.4 Attention-getter stimuli\n\nBetween Trials: Please use the provided laughing baby stimulus to re-center babies between each trial (i.e., before familiarization begins). If your lab uses a different attention-getting stimulus that you feel is more appropriate for your community, please check with us.\nWithin Trial: Please use the Hoehle circle with chimes stimulus to re-center babies within each trial (i.e., between familiarization and test and between test phases 1 and 2).",
+    "title": "12  Stimuli",
+    "section": "12.4 Attention-getter stimuli",
+    "text": "12.4 Attention-getter stimuli\n\nBetween Trials: Please use the provided laughing baby stimulus to re-center babies between each trial (i.e., before familiarization begins). If your lab uses a different attention-getting stimulus that you feel is more appropriate for your community, please check with us.\nWithin Trial: Please use the Hoehle circle with chimes stimulus to re-center babies within each trial (i.e., between familiarization and test and between test phases 1 and 2).",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Stimuli</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Stimuli</span>"
     ]
   },
   {
     "objectID": "stimuli.html#stimulus-directory",
     "href": "stimuli.html#stimulus-directory",
-    "title": "13  Stimuli",
-    "section": "13.5 MB5 Stimulus Directory",
-    "text": "13.5 MB5 Stimulus Directory\n\n\n\n\n\nBarry, T. J., Griffith, J. W., De Rossi, S., & Hermans, D. (2014). Meet the fribbles: Novel stimuli for use within behavioural research. Frontiers in Psychology, 5. https://doi.org/10.3389/fpsyg.2014.00103",
+    "title": "12  Stimuli",
+    "section": "12.5 MB5 Stimulus Directory",
+    "text": "12.5 MB5 Stimulus Directory\n\n\n\n\n\nBarry, T. J., Griffith, J. W., De Rossi, S., & Hermans, D. (2014). Meet the fribbles: Novel stimuli for use within behavioural research. Frontiers in Psychology, 5. https://doi.org/10.3389/fpsyg.2014.00103",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Stimuli</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Stimuli</span>"
     ]
   },
   {
     "objectID": "procedure.html",
     "href": "procedure.html",
-    "title": "14  Procedure",
+    "title": "13  Procedure",
     "section": "",
-    "text": "14.1 Overview\nEach baby will be presented with a series of 12 trials. Each trial is preceded by an attention-getter and made up of a familiarization phase followed by a test phase (see Figure 14.1).\nThere are a total of 12 familiarization events for each infant that vary across three dimensions (see Table 14.1):",
+    "text": "13.1 Overview\nEach baby will be presented with a series of 12 trials. Each trial is preceded by an attention-getter and made up of a familiarization phase followed by a test phase (see Figure 13.1).\nThere are a total of 12 familiarization events for each infant that vary across three dimensions (see Table 13.1):",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Procedure</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Procedure</span>"
     ]
   },
   {
     "objectID": "procedure.html#overview",
     "href": "procedure.html#overview",
-    "title": "14  Procedure",
+    "title": "13  Procedure",
     "section": "",
-    "text": "Stimulus class (ManyFribbles or ManyFractals)\nComplexity level (low or high)\nFamiliarization time (5s, 10s, or 15s)\n\n\nThere are two experimental designs:1\n\nInfant-controlled design, in which the familiarization phase of each trial lasts until the infant accumulates the target familiarization looking time (5s, 10s, or 15s) as determined by an experimenter key press or eye-tracker automated gaze detection, OR until the max trial duration (2x target familiarlization time) is reached.\nFixed-length design, in which the duration of the familiarization phase is pre-established (5s, 10s, or 15s) regardless of infant looking time.\n\nIn both versions, the duration of each test period is fixed at 5s (10s total per trial).\n\n1 Participating labs are encouraged to use an infant-controlled design, if possible. See Section 14.2.2 for more info.",
+    "text": "Stimulus class (ManyFribbles or ManyFractals)\nComplexity level (low or high)\nFamiliarization time (5s, 10s, or 15s)\n\n\nThere are two experimental designs:1\n\nInfant-controlled design, in which the familiarization phase of each trial lasts until the infant accumulates the target familiarization looking time (5s, 10s, or 15s) as determined by an experimenter key press or eye-tracker automated gaze detection, OR until the max trial duration (2x target familiarlization time) is reached.\nFixed-length design, in which the duration of the familiarization phase is pre-established (5s, 10s, or 15s) regardless of infant looking time.\n\nIn both versions, the duration of each test period is fixed at 5s (10s total per trial).\n\n1 Participating labs are encouraged to use an infant-controlled design, if possible. See Section 13.2.2 for more info.",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Procedure</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Procedure</span>"
     ]
   },
   {
     "objectID": "procedure.html#trial-structure",
     "href": "procedure.html#trial-structure",
-    "title": "14  Procedure",
-    "section": "14.2 Trial Structure",
-    "text": "14.2 Trial Structure\n\n\n\n\n\n\nFigure 14.1: This figure depicts the design of an example trial. During familiarization, a single image is shown until the specified familiarization time is reached (based on the infant-controlled or fixed-length design criteria; 5, 10, or 15s). During the two test periods (5s each), infants view the same image they saw during familiarization paired with a new stimulus from the same set (e.g., ManyFribbles or ManyFractals) and the same level of complexity (low or high). The side on which the familiar and novel images are presented is counterbalanced across test phases within a trial, but the images remain the same.\n\n\n\n\nPre-Trial Attention-Getter\nInfants’ attention is drawn to the center of the screen using the laughing baby stimulus. An experimenter initiates the trial via key press when the infant fixates the screen (or a maximum of 10s has elapsed).2\n2 This maximum duration is to allow the experiment to proceed and not get “stuck” on the attention-getting stimulus for too long, even if the baby is inattentive.\n\nFamiliarization Phase\nOnce the trial has been initiated, one familiar stimulus is presented centrally on the screen and is accompanied by music that plays continuously during the familiarization phase.3\n3 Pilot testing indicated that music helped infants stay engaged in the task4 Criterion depends on fixed-length or infant-controlled designThe familiar stimulus remains on the screen until the familarization criterion4 has been met.\n\nFamiliarization criterion:\n\nFixed-length design: The familiarization time has elapsed.\nInfant-controlled design: The infant has accumulated the target duration of looking (as determined by automated gaze detection by an eye-tracker or by an experimenter coding infant looking in real time) OR the maximum trial length (2x the target duration of looking) has elapsed.\n\nNOTE: Familliarization looking does not have to be continuous. Infants may accumulate the required familiarization time across multiple looks (e.g., “infant looks to the screen for 3s, looks away for 2s, looks back for 2s” would satisfy the familiarization criteria for a 5s trial).\n\n\n\n\n\nPre-Test Attention-Getter\nOnce the familiarization criterion has been reached (either via fixed-length presentation, accumulated looking, or maximum trial duration), the infant is presented with a central-fixation stimulus (looming circle). An experimenter initiates the test phase via key press when the infant fixates the screen (or a maximum of 5s has elapsed).\n\n\n\n\n\n\nCaution\n\n\n\nCONFIRM AG MAX DURATION OF 5s\n\n\n\n\nTest Phase\nThe test phase is made up of two test periods. Each test period lasts for a fixed duration of 5s (regardless of design5 or infant looking).\n5 fixed-length or infant-controlledIn the first test period, the stimulus seen during familiarization (the familiar stimulus) is presented side-by-side with a previously-unseen novel stimulus. The novel stimulus will be from the same stimulus class (Fribbles or Fractals) and complexity level (low or high) as the familiar stimulus.\nFollowing the first test period, the fixation stimulus (`looking circle’) is again presented in the center of the screen for a fixed duration of 750ms. This attention-getter is followed by the second test period.\n\n\n\n\n\n\nCaution\n\n\n\nCONFIRM AG DURATION OF 750ms\n\n\nThe second test period is identical to the first with the exception that the familiar and novel stimuli switch sides. For example, if the familiar stimulus appeared on the left side of the screen in the first test period, it will appear on the right side of the screen in the second test period.\nFollowing the conclusion of the second test period, the Pre-Trial Attention-Getter (laughing baby) re-appears on the screen until the initiation of the the next trial.",
+    "title": "13  Procedure",
+    "section": "13.2 Trial Structure",
+    "text": "13.2 Trial Structure\n\n\n\n\n\n\nFigure 13.1: This figure depicts the design of an example trial. During familiarization, a single image is shown until the specified familiarization time is reached (based on the infant-controlled or fixed-length design criteria; 5, 10, or 15s). During the two test periods (5s each), infants view the same image they saw during familiarization paired with a new stimulus from the same set (e.g., ManyFribbles or ManyFractals) and the same level of complexity (low or high). The side on which the familiar and novel images are presented is counterbalanced across test phases within a trial, but the images remain the same.\n\n\n\n\nPre-Trial Attention-Getter\nInfants’ attention is drawn to the center of the screen using the laughing baby stimulus. An experimenter initiates the trial via key press when the infant fixates the screen (or a maximum of 10s has elapsed).2\n2 This maximum duration is to allow the experiment to proceed and not get “stuck” on the attention-getting stimulus for too long, even if the baby is inattentive.\n\nFamiliarization Phase\nOnce the trial has been initiated, one familiar stimulus is presented centrally on the screen and is accompanied by music that plays continuously during the familiarization phase.3\n3 Pilot testing indicated that music helped infants stay engaged in the task4 Criterion depends on fixed-length or infant-controlled designThe familiar stimulus remains on the screen until the familarization criterion4 has been met.\n\nFamiliarization criterion:\n\nFixed-length design: The familiarization time has elapsed.\nInfant-controlled design: The infant has accumulated the target duration of looking (as determined by automated gaze detection by an eye-tracker or by an experimenter coding infant looking in real time) OR the maximum trial length (2x the target duration of looking) has elapsed.\n\nNOTE: Familliarization looking does not have to be continuous. Infants may accumulate the required familiarization time across multiple looks (e.g., “infant looks to the screen for 3s, looks away for 2s, looks back for 2s” would satisfy the familiarization criteria for a 5s trial).\n\n\n\n\n\nPre-Test Attention-Getter\nOnce the familiarization criterion has been reached (either via fixed-length presentation, accumulated looking, or maximum trial duration), the infant is presented with a central-fixation stimulus (looming circle). An experimenter initiates the test phase via key press when the infant fixates the screen (or a maximum of 5s has elapsed).\n\n\n\n\n\n\nCaution\n\n\n\nCONFIRM AG MAX DURATION OF 5s\n\n\n\n\nTest Phase\nThe test phase is made up of two test periods. Each test period lasts for a fixed duration of 5s (regardless of design5 or infant looking).\n5 fixed-length or infant-controlledIn the first test period, the stimulus seen during familiarization (the familiar stimulus) is presented side-by-side with a previously-unseen novel stimulus. The novel stimulus will be from the same stimulus class (Fribbles or Fractals) and complexity level (low or high) as the familiar stimulus.\nFollowing the first test period, the fixation stimulus (`looking circle’) is again presented in the center of the screen for a fixed duration of 750ms. This attention-getter is followed by the second test period.\n\n\n\n\n\n\nCaution\n\n\n\nCONFIRM AG DURATION OF 750ms\n\n\nThe second test period is identical to the first with the exception that the familiar and novel stimuli switch sides. For example, if the familiar stimulus appeared on the left side of the screen in the first test period, it will appear on the right side of the screen in the second test period.\nFollowing the conclusion of the second test period, the Pre-Trial Attention-Getter (laughing baby) re-appears on the screen until the initiation of the the next trial.",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Procedure</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Procedure</span>"
     ]
   },
   {
     "objectID": "procedure.html#trial-orders",
     "href": "procedure.html#trial-orders",
-    "title": "14  Procedure",
-    "section": "14.3 Trial Orders",
-    "text": "14.3 Trial Orders\nEach infant will view both stimulus sets (ManyFribbles and ManyFractals), with presentation blocked by stimulus set and presentation order (ie.g., Fribbles first or Fractals first) and counterbalanced across infants. Additionally, within each stimulus set, infants will experience all combinations of complexity level (low, high) and familiarization time (5s, 10s, 15s). Table 14.1 provides an example list of the 12 trial types that an infant would see, with example stimuli for each trial type shown in the right-most columns.\nProject Leads have generated a set of XXX6 order lists which counterbalance many variables (e.g., block order, stimulus x complexity level x familiarization time combinations, novel side during test periods) both within and across labs. Labs will be provided with a “pilot order” and corresponding stimuli for the purposes of experimental set-up and pilot testing.\n6 INSERT TOTAL NUMBER WHEN READYEach lab will be assigned a set of 16 orders at the time of “Green-Lighting” to use for testing. For labs collecting sample sizes larger than 16, orders can be used more than once.\n\n\n\n\n\n\nPLEASE USE THE ORDERS ASSIGNED TO YOUR LAB!\n\n\n\nIt is VERY IMPORTANT FOR COUNTERBALANCING PURPOSES that each lab use the orders assigned to them by Project Leads. If you are having difficultly implementing assigned orders, please EMAIL US as soon as possible so that we can assist you. Thank you!\n\n\n\n\n\n\nTable 14.1: Example trial information for a participant\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrial\nFamiliarization Time (s)\nStimulus Class\nComplexity Level\nFamiliarization Stimulus\nTest Stimulus (novel)\n\n\n\n\n1  2  3\n5  10  15\n ManyFribbles\n Low\n\n\n\n\n4  5  6\n5  10  15\n ManyFribbles\n High\n\n\n\n\n7  8  9\n5  10  15\n ManyFractals\n Low\n\n\n\n\n10  11  12\n5  10  15\n ManyFractals\n High\n\n\n\n\n\n\n\n\n\nNote: The order of blocks and trials will be counterbalanced along a number of dimensions across participants and labs.",
+    "title": "13  Procedure",
+    "section": "13.3 Trial Orders",
+    "text": "13.3 Trial Orders\nEach infant will view both stimulus sets (ManyFribbles and ManyFractals), with presentation blocked by stimulus set and presentation order (ie.g., Fribbles first or Fractals first) and counterbalanced across infants. Additionally, within each stimulus set, infants will experience all combinations of complexity level (low, high) and familiarization time (5s, 10s, 15s). Table 13.1 provides an example list of the 12 trial types that an infant would see, with example stimuli for each trial type shown in the right-most columns.\nProject Leads have generated a set of XXX6 order lists which counterbalance many variables (e.g., block order, stimulus x complexity level x familiarization time combinations, novel side during test periods) both within and across labs. Labs will be provided with a “pilot order” and corresponding stimuli for the purposes of experimental set-up and pilot testing.\n6 INSERT TOTAL NUMBER WHEN READYEach lab will be assigned a set of 16 orders at the time of “Green-Lighting” to use for testing. For labs collecting sample sizes larger than 16, orders can be used more than once.\n\n\n\n\n\n\nPLEASE USE THE ORDERS ASSIGNED TO YOUR LAB!\n\n\n\nIt is VERY IMPORTANT FOR COUNTERBALANCING PURPOSES that each lab use the orders assigned to them by Project Leads. If you are having difficultly implementing assigned orders, please EMAIL US as soon as possible so that we can assist you. Thank you!\n\n\n\n\n\n\nTable 13.1: Example trial information for a participant\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrial\nFamiliarization Time (s)\nStimulus Class\nComplexity Level\nFamiliarization Stimulus\nTest Stimulus (novel)\n\n\n\n\n1  2  3\n5  10  15\n ManyFribbles\n Low\n\n\n\n\n4  5  6\n5  10  15\n ManyFribbles\n High\n\n\n\n\n7  8  9\n5  10  15\n ManyFractals\n Low\n\n\n\n\n10  11  12\n5  10  15\n ManyFractals\n High\n\n\n\n\n\n\n\n\n\nNote: The order of blocks and trials will be counterbalanced along a number of dimensions across participants and labs.",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Procedure</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Procedure</span>"
     ]
   },
   {
     "objectID": "apparatus.html",
     "href": "apparatus.html",
-    "title": "15  Apparatus",
+    "title": "14  Apparatus",
     "section": "",
-    "text": "15.1 Room Set-Up\nDuring the experiment, infants will be seated on their caregiver’s lap or in a high-chair or car seat1 in front of a screen. The optimal distance between the infant and the screen will depend on the size of the screen, and labs should use their normal testing set-up (if applicable).\nFor labs unaccustomed to testing infants in a procedure like this, you can use a visual angle calculator to determine an optimal distance from the screen2.\nWe encourage labs to follow their normal procedure for ensuring that parents do not influence their infant’s behavior during the experiment. This can include asking parents to wear blacked-out sunglasses, close their eyes, or look down at the infant (and not at the screen).\nStimlui will be presented on the screen according to the specifications in Chapter 14.",
+    "text": "14.1 Room Set-Up\nDuring the experiment, infants will be seated on their caregiver’s lap or in a high-chair or car seat1 in front of a screen. The optimal distance between the infant and the screen will depend on the size of the screen, and labs should use their normal testing set-up (if applicable).\nFor labs unaccustomed to testing infants in a procedure like this, you can use a visual angle calculator to determine an optimal distance from the screen2.\nWe encourage labs to follow their normal procedure for ensuring that parents do not influence their infant’s behavior during the experiment. This can include asking parents to wear blacked-out sunglasses, close their eyes, or look down at the infant (and not at the screen).\nStimlui will be presented on the screen according to the specifications in Chapter 13.",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Apparatus</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Apparatus</span>"
     ]
   },
   {
     "objectID": "apparatus.html#room-set-up",
     "href": "apparatus.html#room-set-up",
-    "title": "15  Apparatus",
+    "title": "14  Apparatus",
     "section": "",
     "text": "1 Whichever option corresponds to a lab’s standard procedure for testing infants, as reported in the pre-data-collection survey2 Please email us if you need guidance.\n\n\n\n\n\n\nCaution\n\n\n\nADD IN VISUAL ANGLE CALCULATOR INSTRUCTIONS",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Apparatus</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Apparatus</span>"
     ]
   },
   {
     "objectID": "apparatus.html#equipment",
     "href": "apparatus.html#equipment",
-    "title": "15  Apparatus",
-    "section": "15.2 Equipment",
-    "text": "15.2 Equipment\n\nThe minimal equipment required to run this experiment is:\n\nComputer running experiment software (see below)\nMonitor/television for stimulus display (with audio capability to play music/attention-getter sounds)3\nCamera for capturing infant looking behavior4\nMixer for syncing recording of infant looking with stimulus timing (or other method for doing so)\n\n3 Can be a laptop screen, if needed (a large external screen is preferable)4 This can be a scene view embedded in an eye tracker, or a webcam from a laptop.\n\nAddional (optional) equipment:\n\nEye tracker\nBlacked-out glasses for parent to wear during experiment\n\n\n\n\n\n\n\nCaution\n\n\n\nPUT IN GRAPHIC SHOWING APPARATUS/SET-UP",
+    "title": "14  Apparatus",
+    "section": "14.2 Equipment",
+    "text": "14.2 Equipment\n\nThe minimal equipment required to run this experiment is:\n\nComputer running experiment software (see below)\nMonitor/television for stimulus display (with audio capability to play music/attention-getter sounds)3\nCamera for capturing infant looking behavior4\nMixer for syncing recording of infant looking with stimulus timing (or other method for doing so)\n\n3 Can be a laptop screen, if needed (a large external screen is preferable)4 This can be a scene view embedded in an eye tracker, or a webcam from a laptop.\n\nAddional (optional) equipment:\n\nEye tracker\nBlacked-out glasses for parent to wear during experiment\n\n\n\n\n\n\n\nCaution\n\n\n\nPUT IN GRAPHIC SHOWING APPARATUS/SET-UP",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Apparatus</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Apparatus</span>"
     ]
   },
   {
     "objectID": "apparatus.html#software",
     "href": "apparatus.html#software",
-    "title": "15  Apparatus",
-    "section": "15.3 Software",
-    "text": "15.3 Software\nTo maximize accuracy, we encourage labs to use one of the following supported hardware/software options to run the experiment:\n\nEyetracking (Eyelink): Experiment Builder\nEyetracking (Tobii): PsychoPy\nOffline coding: PsychoPy\n\nWe will provide experiment and order files to support these options. Let us know as soon as possible if you plan to use an alternative experiment program version not listed above.\n\n\n\n\n\n\nExperiment files are in final development & testing\n\n\n\nThe estimated release date is June 15, 2026. Thank you for your patience!",
+    "title": "14  Apparatus",
+    "section": "14.3 Software",
+    "text": "14.3 Software\nTo maximize accuracy, we encourage labs to use one of the following supported hardware/software options to run the experiment:\n\nEyetracking (Eyelink): Experiment Builder\nEyetracking (Tobii): PsychoPy\nOffline coding: PsychoPy (manual)\n\nClick on the software option you would like to use to access experiment and set-up order files. Let us know as soon as possible if you plan to use an alternative experiment program version not listed above.\n\n\n\n\n\n\nEye-tracking experiment files are in final development & testing.\n\n\n\nEstimated release date: August, 2026",
     "crumbs": [
       "Setting up the experiment",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Apparatus</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Apparatus</span>"
+    ]
+  },
+  {
+    "objectID": "data-validation.html",
+    "href": "data-validation.html",
+    "title": "15  Data validation",
+    "section": "",
+    "text": "Important\n\n\n\nThe MB5 data dictionary and validation tool are under development. Thank you for your patience!\n\n\n\nManyBabies Data Validator",
+    "crumbs": [
+      "Setting up the experiment",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Data validation</span>"
     ]
   },
   {
