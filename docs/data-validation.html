@@ -73,7 +73,7 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-sidebar docked quarto-light">
+<body class="nav-sidebar docked slimcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -316,11 +316,21 @@ ul.task-list li input[type="checkbox"] {
 </div></div></nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#all-labs" id="toc-all-labs" class="nav-link active" data-scroll-target="#all-labs"><span class="header-section-number">15.1</span> ALL LABS</a></li>
+  <li><a href="#labs-not-using-eye-trackers" id="toc-labs-not-using-eye-trackers" class="nav-link" data-scroll-target="#labs-not-using-eye-trackers"><span class="header-section-number">15.2</span> Labs NOT using Eye Trackers</a></li>
+  <li><a href="#labs-using-eye-trackers" id="toc-labs-using-eye-trackers" class="nav-link" data-scroll-target="#labs-using-eye-trackers"><span class="header-section-number">15.3</span> Labs using Eye Trackers</a></li>
+  <li><a href="#validate-your-pilot-data" id="toc-validate-your-pilot-data" class="nav-link" data-scroll-target="#validate-your-pilot-data"><span class="header-section-number">15.5</span> Validate your pilot data</a></li>
+  <li><a href="#pilot-upload" id="toc-pilot-upload" class="nav-link" data-scroll-target="#pilot-upload"><span class="header-section-number">15.6</span> Uploading validated pilot data</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./experiment-overview.html">Setting up the experiment</a></li><li class="breadcrumb-item"><a href="./data-validation.html"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Data validation</span></a></li></ol></nav>
 <div class="quarto-title">
@@ -347,17 +357,57 @@ ul.task-list li input[type="checkbox"] {
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Important
+IMPORTANT
 </div>
 </div>
-<div class="callout-body-container callout-body">
-<p>The MB5 data dictionary and validation tool are under development. Thank you for your patience!</p>
+<section id="the-mb5-data-dictionary-and-validation-tool-are-under-development.-thank-you-for-your-patience-as-we-finalize-these-resources" class="level2 unnumbered callout-body-container callout-body">
+<h2 class="unnumbered anchored" data-anchor-id="the-mb5-data-dictionary-and-validation-tool-are-under-development.-thank-you-for-your-patience-as-we-finalize-these-resources">The MB5 data dictionary and validation tool are under development. Thank you for your patience as we finalize these resources!</h2>
+</section>
+</div>
+<p>In order to confirm that all labs have implemented the experiment correctly and in a way that will produce analyzable data, we ask each lab to run <strong>pilot data</strong> for one or more “participants”<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> through the MB5 Data Validator. The validator checks data files against our data templates to ensure that all required variables are present and that data is in the expected format (e.g., integer, numeric, string) and response range. Examples:</p>
+<div class="no-row-height column-margin column-container"><div id="fn1"><p><sup>1</sup>&nbsp;This data can be generated in any way you’d like: the “participant(s)” can be a real (consented) baby, a research assistant, the lab PI, a local celebrity, etc. It just can’t be data that will be included in the final analysis!</p></div></div><ul>
+<li><code>participant_age_days</code> should contain an integer between 90 and 455</li>
+<li><code>lab_id</code> should be a string that matches an entry in the <a href="https://manybabies.org/mb5-tracker" target="_blank">MB5 Project Tracker</a></li>
+<li><code>preterm</code> should be one of the options in the set {‘preterm’, ‘not_preterm’}</li>
+<li><code>test_looking_time_novel</code> should be an integer between 0 and 10000 (looking time in ms)</li>
+</ul>
+<section id="all-labs" class="level2" data-number="15.1">
+<h2 data-number="15.1" class="anchored" data-anchor-id="all-labs"><span class="header-section-number">15.1</span> ALL LABS</h2>
+<p>All labs, regardless of data collection apparatus or procedure, will need to validate a <strong>participant data file</strong>. This file should consist of 1 row per participant, with columns for each participant-level variable (e.g., <code>participant_id</code>, <code>participant_age_days</code>, <code>participant_sex</code>, <code>parent1_education</code>).</p>
+</section>
+<section id="labs-not-using-eye-trackers" class="level2" data-number="15.2">
+<h2 data-number="15.2" class="anchored" data-anchor-id="labs-not-using-eye-trackers"><span class="header-section-number">15.2</span> Labs NOT using Eye Trackers</h2>
+<p>Labs not using eye trackers to automatically detect gaze coordinates will also need to validate a <strong>trial data file</strong>. This file should consist of 1 row per trial per participant (i.e., 12 rows per participant), with columns for participant identifier and each trial-level variable (e.g., <code>participant_id</code>, <code>trial_num</code>)</p>
+</section>
+<section id="labs-using-eye-trackers" class="level2" data-number="15.3">
+<h2 data-number="15.3" class="anchored" data-anchor-id="labs-using-eye-trackers"><span class="header-section-number">15.3</span> Labs using Eye Trackers</h2>
+<p>Labs using eye trackers are asked to provide <strong>raw gaze data</strong> for all participants (either as a single file or 1 file/participant). This file (or files) should consist of 1 row per sampling period, with each row marked by <code>participant_id</code>, <code>trial_num</code>, and sample-level variables including <code>x_gaze</code>, <code>y_gaze</code>, and <code>pupil_diameter</code>.</p>
+<hr>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+MB5 Data Dictionaries and Templates
 </div>
 </div>
-<h1>
-<p><a href="https://manybabies.org/validator/" target="_blank">ManyBabies Data Validator</a></p>
-</h1>
+<section id="please-refer-to-sec-datatemplates-for-more-information-about-about-data-formatting-and-to-viewdownload-the-mb5-data-dictionary-and-templates" class="level2 callout-body-container callout-body" data-number="15.4">
+<h2 data-number="15.4" class="anchored" data-anchor-id="please-refer-to-sec-datatemplates-for-more-information-about-about-data-formatting-and-to-viewdownload-the-mb5-data-dictionary-and-templates"><span class="header-section-number">15.4</span> Please refer to <a href="data-templates.html" class="quarto-xref"><span>Chapter 21</span></a> for more information about about data formatting and to view/download the MB5 Data Dictionary and Templates</h2>
+</section>
+</div>
+</section>
+<section id="validate-your-pilot-data" class="level2" data-number="15.5">
+<h2 data-number="15.5" class="anchored" data-anchor-id="validate-your-pilot-data"><span class="header-section-number">15.5</span> Validate your pilot data</h2>
+<p>Once you have your participant and trial data files ready to go, run them through the <a href="https://manybabies.org/validator/" target="_blank">ManyBabies Data Validator</a>. (Refer to the manual linked on the validator page for complete instructions).</p>
+</section>
+<section id="pilot-upload" class="level2" data-number="15.6">
+<h2 data-number="15.6" class="anchored" data-anchor-id="pilot-upload"><span class="header-section-number">15.6</span> Uploading validated pilot data</h2>
+<p><strong>Please submit your lab’s validated pilot data using the <a href="https://airtable.com/appRoqMKzcK3NsXt4/pagPm3MXnFExsz1Ti/form" target="_blank">MB5 Green-Lighting Form</a>.</strong></p>
+<p>Please ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g.&nbsp;<code>mb5_babylabPrinceton_pilot-participant-data.csv</code>; <code>mb5_babylabPrinceton_pilot-trial-data.csv</code>). Check the list of <a href="https://manybabies.org/labids/" target="_blank">LabIDs</a> to confirm your lab’s unique LabID before uploading.</p>
 
+
+</section>
 
 
 </main> <!-- /main -->

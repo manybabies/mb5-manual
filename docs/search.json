@@ -669,7 +669,73 @@
     "href": "data-validation.html",
     "title": "15  Data validation",
     "section": "",
-    "text": "Important\n\n\n\nThe MB5 data dictionary and validation tool are under development. Thank you for your patience!\n\n\n\nManyBabies Data Validator",
+    "text": "15.1 ALL LABS\nIn order to confirm that all labs have implemented the experiment correctly and in a way that will produce analyzable data, we ask each lab to run pilot data for one or more “participants”1 through the MB5 Data Validator. The validator checks data files against our data templates to ensure that all required variables are present and that data is in the expected format (e.g., integer, numeric, string) and response range. Examples:\nAll labs, regardless of data collection apparatus or procedure, will need to validate a participant data file. This file should consist of 1 row per participant, with columns for each participant-level variable (e.g., participant_id, participant_age_days, participant_sex, parent1_education).",
+    "crumbs": [
+      "Setting up the experiment",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Data validation</span>"
+    ]
+  },
+  {
+    "objectID": "data-validation.html#the-mb5-data-dictionary-and-validation-tool-are-under-development.-thank-you-for-your-patience-as-we-finalize-these-resources",
+    "href": "data-validation.html#the-mb5-data-dictionary-and-validation-tool-are-under-development.-thank-you-for-your-patience-as-we-finalize-these-resources",
+    "title": "15  Data validation",
+    "section": "The MB5 data dictionary and validation tool are under development. Thank you for your patience as we finalize these resources!",
+    "text": "The MB5 data dictionary and validation tool are under development. Thank you for your patience as we finalize these resources!",
+    "crumbs": [
+      "Setting up the experiment",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Data validation</span>"
+    ]
+  },
+  {
+    "objectID": "data-validation.html#labs-not-using-eye-trackers",
+    "href": "data-validation.html#labs-not-using-eye-trackers",
+    "title": "15  Data validation",
+    "section": "15.2 Labs NOT using Eye Trackers",
+    "text": "15.2 Labs NOT using Eye Trackers\nLabs not using eye trackers to automatically detect gaze coordinates will also need to validate a trial data file. This file should consist of 1 row per trial per participant (i.e., 12 rows per participant), with columns for participant identifier and each trial-level variable (e.g., participant_id, trial_num)",
+    "crumbs": [
+      "Setting up the experiment",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Data validation</span>"
+    ]
+  },
+  {
+    "objectID": "data-validation.html#labs-using-eye-trackers",
+    "href": "data-validation.html#labs-using-eye-trackers",
+    "title": "15  Data validation",
+    "section": "15.3 Labs using Eye Trackers",
+    "text": "15.3 Labs using Eye Trackers\nLabs using eye trackers are asked to provide raw gaze data for all participants (either as a single file or 1 file/participant). This file (or files) should consist of 1 row per sampling period, with each row marked by participant_id, trial_num, and sample-level variables including x_gaze, y_gaze, and pupil_diameter.\n\n\n\n\n\n\n\nMB5 Data Dictionaries and Templates\n\n\n\n15.4 Please refer to Chapter 21 for more information about about data formatting and to view/download the MB5 Data Dictionary and Templates",
+    "crumbs": [
+      "Setting up the experiment",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Data validation</span>"
+    ]
+  },
+  {
+    "objectID": "data-validation.html#please-refer-to-sec-datatemplates-for-more-information-about-about-data-formatting-and-to-viewdownload-the-mb5-data-dictionary-and-templates",
+    "href": "data-validation.html#please-refer-to-sec-datatemplates-for-more-information-about-about-data-formatting-and-to-viewdownload-the-mb5-data-dictionary-and-templates",
+    "title": "15  Data validation",
+    "section": "15.4 Please refer to Chapter 21 for more information about about data formatting and to view/download the MB5 Data Dictionary and Templates",
+    "text": "15.4 Please refer to Chapter 21 for more information about about data formatting and to view/download the MB5 Data Dictionary and Templates",
+    "crumbs": [
+      "Setting up the experiment",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Data validation</span>"
+    ]
+  },
+  {
+    "objectID": "data-validation.html#validate-your-pilot-data",
+    "href": "data-validation.html#validate-your-pilot-data",
+    "title": "15  Data validation",
+    "section": "15.5 Validate your pilot data",
+    "text": "15.5 Validate your pilot data\nOnce you have your participant and trial data files ready to go, run them through the ManyBabies Data Validator. (Refer to the manual linked on the validator page for complete instructions).",
+    "crumbs": [
+      "Setting up the experiment",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Data validation</span>"
+    ]
+  },
+  {
+    "objectID": "data-validation.html#pilot-upload",
+    "href": "data-validation.html#pilot-upload",
+    "title": "15  Data validation",
+    "section": "15.6 Uploading validated pilot data",
+    "text": "15.6 Uploading validated pilot data\nPlease submit your lab’s validated pilot data using the MB5 Green-Lighting Form.\nPlease ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g. mb5_babylabPrinceton_pilot-participant-data.csv; mb5_babylabPrinceton_pilot-trial-data.csv). Check the list of LabIDs to confirm your lab’s unique LabID before uploading.",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>15</span>  <span class='chapter-title'>Data validation</span>"
@@ -680,7 +746,18 @@
     "href": "prior-to-data-coll-checklist.html",
     "title": "16  Prior to data collection checklist",
     "section": "",
-    "text": "The steps for getting a “Green Light” to collect data are tracked by the MB5 Project Leads on the MB5 Project Tracker. You can check the tracker to see what steps your lab has completed. If you have any questions or think your lab’s progress is not up-to-date, email us.\nAs a reminder, BEFORE BEGINNING DATA COLLECTION your lab needs to:\n\nComplete the MB5 Sign-Up Form if your lab has not already done so\n\nNOTE: if your lab does not appear in the MB5 Project Tracker, you still need to do this!\n\nConfirm demographics form is uploaded (see Chapter 7)\nConfirm ethics approval is uploaded (see Chapter 9)\nConfirm walkthrough video is uploaded (see Chapter 10)\nValidate dummy or pilot data using the ManyBabies Data Validator and upload validated data using the MB5 Data Upload Form\nComplete the Pre-Test Questionnaire (COMING SOON!) to let us know that you are ready for “Geen-Lighting”\n\n\n\n\n\n\n\nWait until you receive an official go-ahead from Project Leads before you begin testing!\n\n\n\nWe may have questions for you (e.g., about any planned protocol deviations). We will do our best to respond quickly, but if you don’t hear from us within a week of submitting the Pre-Test Questionnaire, please email us again!",
+    "text": "The steps for getting a “Green-Light” to collect data are tracked by the MB5 Project Leads on the MB5 Project Tracker. You can check the tracker to see what steps your lab has completed. If you have any questions or think your lab’s progress is not up-to-date, email us.\nAs a reminder, BEFORE BEGINNING DATA COLLECTION your lab needs to:",
+    "crumbs": [
+      "Setting up the experiment",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Prior to data collection checklist</span>"
+    ]
+  },
+  {
+    "objectID": "prior-to-data-coll-checklist.html#wait-until-you-receive-an-official-green-light-from-project-leads-before-you-begin-testing",
+    "href": "prior-to-data-coll-checklist.html#wait-until-you-receive-an-official-green-light-from-project-leads-before-you-begin-testing",
+    "title": "16  Prior to data collection checklist",
+    "section": "Wait until you receive an official “Green-Light” from Project Leads before you begin testing!",
+    "text": "Wait until you receive an official “Green-Light” from Project Leads before you begin testing!\nIf your lab’s status in the MB5 Project Tracker is not Green-Light for testing then you have NOT been approved to begin collecting data and your data will not be included in the analyses/publication.\nWe may have questions for you (e.g., about any planned protocol deviations). We will do our best to respond quickly, but if you don’t hear from us within a week of submitting the Pre-Test Questionnaire, please email us again!",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Prior to data collection checklist</span>"
