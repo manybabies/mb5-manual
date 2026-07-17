@@ -8,4 +8,9 @@ This section explains the experimental method in detail. Please follow the instr
 -   @sec-apparatus
 -   @sec-validation
 
-Once you have completed experiment set-up and data validation, make sure you have completed the steps in @sec-prior-checklist to request a "Green-Light" from Project Leads for data collection.
+<br>
+
+::: callout-important
+# Request a "Green-Light" for testing
+### Once you have completed experiment set-up and data validation, make sure you have completed the steps in @sec-prior-checklist to request a "Green-Light" from Project Leads for data collection.
+:::
