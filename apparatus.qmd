@@ -50,6 +50,12 @@ To maximize accuracy, we encourage labs to use one of the following supported ha
 
 Click on the software option you would like to use to access experiment and set-up order files. Let us know as soon as possible if you plan to use an alternative experiment program version not listed above.
 
+### Order files
+
+Each experiment package linked above includes one SET-UP ONLY trial list that your lab should use to set up the experiment and collect pilot/dummy data for green-lighting purposes. As discussed in @sec-orders, each lab will be provided with a custom set of trial orders to use for testing actual participants when that lab has been given a "Green-Light" for tetsing.
+
+
+
 ::: callout-important
 # TECH SUPPORT 
 #### We encourage you to check the <a href="https://airtable.com/appRoqMKzcK3NsXt4/shr1IgPxsHgYfuyIJ/tbl8ERsO85K9HEgrb" target="_blank">MB5 Issue Tracker table</a> and the {{< var link.slack-data >}} channel in the [MB Slack workspace](https://join.slack.com/t/manybabies/shared_invite/zt-3hv85sl5d-JWzJYourJw8kCttK46l~kw){target='_blank'} to see if other labs have experienced the same issue and if there is a solution provided.

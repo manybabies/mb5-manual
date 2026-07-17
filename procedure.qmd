@@ -79,11 +79,13 @@ Following the conclusion of the second test period, the Pre-Trial Attention-Gett
 
 ------------------------------------------------------------------------
 
-## Trial Orders
+## Trial Orders {@sec-orders}
 
 Each infant will view both stimulus sets (*ManyFribbles* and *ManyFractals*), with presentation blocked by stimulus set and presentation order (ie.g., Fribbles first or Fractals first) and counterbalanced across infants. Additionally, within each stimulus set, infants will experience all combinations of complexity level (*low*, *high*) and familiarization time (*5s*, *10s*, *15s*). @tbl-familiarization provides an example list of the 12 trial types that an infant would see, with example stimuli for each trial type shown in the right-most columns.
 
-Project Leads have generated a set of **XXX**^[INSERT TOTAL NUMBER WHEN READY] order lists which counterbalance many variables (e.g., *block order*, *stimulus* x *complexity level* x *familiarization time* combinations, *novel side during test periods*) both within and across labs. **Labs will be provided with a "pilot order" and corresponding stimuli** for the purposes of experimental set-up and pilot testing. 
+Project Leads have generated a set of **XXX**[^procedure-6] order lists which counterbalance many variables (e.g., *block order*, *stimulus* x *complexity level* x *familiarization time* combinations, *novel side during test periods*) both within and across labs. **Labs will be provided with a "pilot order" and corresponding stimuli** for the purposes of experimental set-up and pilot testing.
+
+[^procedure-6]: INSERT TOTAL NUMBER WHEN READY
 
 **Each lab will be assigned a set of 16 orders at the time of "Green-Lighting" to use for testing.** For labs collecting sample sizes larger than 16, orders can be used more than once.
 
