@@ -1,46 +1,46 @@
 # Data validation {#sec-validation}
 
 ::: callout-important
-# IMPORTANT 
+# IMPORTANT
+
 ## The MB5 data dictionary and validation tool are under development. Thank you for your patience as we finalize these resources! {.unnumbered}
 :::
 
-In order to confirm that all labs have implemented the experiment correctly and in a way that will produce analyzable data, we ask each lab to run **pilot data** for one or more "participants"^[This data can be generated in any way you'd like: the "participant(s)" can be a real (consented) baby, a research assistant, the lab PI, a local celebrity, etc. It just can't be data that will be included in the final analysis!] through the MB5 Data Validator. The validator checks data files against our data templates to ensure that all required variables are present and that data is in the expected format (e.g., integer, numeric, string) and response range. Examples: 
+In order to confirm that all labs have implemented the experiment correctly and in a way that will produce analyzable data, we ask each lab to run **pilot data** for one or more "participants"[^data-validation-1] through the MB5 Data Validator. The validator checks data files against our data templates to ensure that all required variables are present and that data is in the expected format (e.g., integer, numeric, string) and response range. Examples:
 
-* `participant_age_days` should contain an integer between 90 and 455
-* `lab_id` should be a string that matches an entry in the {{< var link.tracker >}}
-* `preterm` should be one of the options in the set {'preterm', 'not_preterm'}
-* `test_looking_time_novel` should be an integer between 0 and 10000 (looking time in ms)
+[^data-validation-1]: This data can be generated in any way you'd like: the "participant(s)" can be a real (consented) baby, a research assistant, the lab PI, a local celebrity, etc. It just can't be data that will be included in the final analysis!
+
+-   `participant_age_days` should contain an integer between 90 and 455
+-   `lab_id` should be a string that matches an entry in the {{< var link.tracker >}}
+-   `preterm` should be one of the options in the set {'preterm', 'not_preterm'}
+-   `test_looking_time_novel` should be an integer between 0 and 10000 (looking time in ms)
 
 ## ALL LABS
 
-All labs, regardless of data collection apparatus or procedure, will need to validate a **participant data file**. This file should consist of 1 row per participant, with columns for each participant-level variable (e.g., `participant_id`, `participant_age_days`, `participant_sex`, `parent1_education`). 
+All labs, regardless of data collection apparatus or procedure, will need to validate a **participant data file** (1 row per participant, with columns for each participant-level variable (e.g., `participant_id`, `participant_age_days`, `participant_sex`, `parent1_education`) and a **trial data file** (3 rows per trial/36 rows per participant, with columns for trial and trial-phase level data; e.g., trial condition, looking time, presentation time). See @sec-datatemplates for more details and instructions. 
 
 ## Labs NOT using Eye Trackers
 
-Labs not using eye trackers to automatically detect gaze coordinates will also need to validate a **trial data file**. This file should consist of 1 row per trial per participant (i.e., 12 rows per participant), with columns for participant identifier and each trial-level variable (e.g., `participant_id`, `trial_num`)
+Labs not using eye trackers are asked to submit **raw output files** from PsychoPy or whatever stimulus-presentation software your lab uses. These file should include stimulus and timing info for trials and key presses. 
 
 ## Labs using Eye Trackers
 
-Labs using eye trackers are asked to provide **raw gaze data** for all participants (either as a single file or 1 file/participant). This file (or files) should consist of 1 row per sampling period, with each row marked by `participant_id`, `trial_num`, and sample-level variables including `x_gaze`, `y_gaze`, and `pupil_diameter`. 
+Labs using eye trackers are asked to provide **raw gaze data** for all participants (either as a single file or 1 file/participant). This file (or files) should consist of 1 row per sampling period, with each row marked by `participant_id`, `trial_num`, and sample-level variables including `x_gaze`, `y_gaze`, and `pupil_diameter`.
 
-***
+------------------------------------------------------------------------
 
 ::: callout-important
 # MB5 Data Dictionaries and Templates
+
 ## Please refer to @sec-datatemplates for more information about about data formatting and to view/download the MB5 Data Dictionary and Templates
 :::
-
 
 ## Validate your pilot data
 
 Once you have your participant and trial data files ready to go, run them through the {{< var link.validator >}}. (Refer to the manual linked on the validator page for complete instructions).
 
-
 ## Uploading validated pilot data {#pilot-upload}
 
-**Please submit your lab's validated pilot data using the {{< var link.greenlight >}}.**
+**Please submit your lab's validated pilot data using the** {{< var link.greenlight >}}**.**
 
 Please ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g. `mb5_babylabPrinceton_pilot-participant-data.csv`; `mb5_babylabPrinceton_pilot-trial-data.csv`). Check the list of {{< var link.labids >}} to confirm your lab's unique LabID before uploading.
-
-
