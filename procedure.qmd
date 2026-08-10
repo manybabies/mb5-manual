@@ -55,9 +55,6 @@ The familiar stimulus remains on the screen until the familarization criterion[^
 
 Once the familiarization criterion has been reached (either via fixed-length presentation, accumulated looking, or maximum trial duration), the infant is presented with a central-fixation stimulus (`looming circle`). An experimenter initiates the test phase via key press when the infant fixates the screen (or a maximum of 5s has elapsed).
 
-::: callout-caution
-CONFIRM AG MAX DURATION OF 5s
-:::
 
 ### Test Phase {#sec-testphase}
 
@@ -69,9 +66,6 @@ In the **first test period**, the stimulus seen during familiarization (the *fam
 
 Following the first test period, the fixation stimulus (\`looking circle') is again presented in the center of the screen for a **fixed duration of 750ms**. This attention-getter is followed by the second test period.
 
-::: callout-caution
-CONFIRM AG DURATION OF 750ms
-:::
 
 The **second test period** is identical to the first with the exception that the *familiar* and *novel* stimuli switch sides. For example, if the *familiar* stimulus appeared on the left side of the screen in the first test period, it will appear on the right side of the screen in the second test period.
 
