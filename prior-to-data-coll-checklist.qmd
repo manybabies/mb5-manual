@@ -10,7 +10,7 @@ As a reminder, **BEFORE BEGINNING DATA COLLECTION** your lab needs to:
 -   Confirm ethics approval is uploaded (see @sec-ethics)
 -   Confirm walkthrough video is uploaded (see @sec-walkthrough)
 -   Validate dummy or pilot data using the {{< var link.validator >}} and upload validated data using the {{< var link.greenlight >}}
--   Complete the {{< var link.pretest >}} to let us know that you are ready for "Green-Lighting"
+-   **Complete the {{< var link.pretest >}} to let us know that you are ready for "Green-Lighting"**
 
 ::: callout-important
 # DO NOT BEGIN TESTING UNTIL YOU HAVE BEEN GIVEN A "GREEN-LIGHT"!
