@@ -5,13 +5,14 @@ All labs must complete a series of preparation steps, referred to by ManyBabies 
 -   providing **required documentation** (e.g., ethics approval, lab-specific Demographics Questionnaire)
 -   demonstrating **correct implementation of the testing procedure**
 -   successfully running pilot data through the **MB Data Validator**
-
-### Check the {{< var link.tracker >}} to view your lab's status
-
-<br>
+-   filling out the {{< var link.pretest >}} to provide lab-level info
 
 ::: callout-important
 # IMPORTANT: {.unnumbered}
 
 ## 🚫 <u>DO NOT</u> collect experimental data for {{< var project.number >}} until your lab has completed this process and received a "Green-Light" from the {{< var project.number >}} Project Leads! 🚫 {.unnumbered}
+
+### Check the {{< var link.tracker >}} to view your lab's status
+#### DO NOT begin testing unless your lab's status is <code style="background-color:green; color:white; border-radius: 10px">Green-Light for data collection</code>
+
 :::
