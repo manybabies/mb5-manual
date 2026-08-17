@@ -42,4 +42,6 @@
 
 -   {{< var link.greenlight >}}: To upload materials required to get a "green light" for data collection (e.g., ethics approval, questionnaire, pilot data)
 
+-   {{< var link.pretest >}}: To upload materials required to get a "green light" for data collection (e.g., ethics approval, questionnaire, pilot data)
+
 -   {{< var link.upload >}}: To upload experimental data
