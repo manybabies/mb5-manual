@@ -17,11 +17,11 @@ In order to confirm that all labs have implemented the experiment correctly and 
 
 ## ALL LABS
 
-All labs, regardless of data collection apparatus or procedure, will need to validate a **participant data file** (1 row per participant, with columns for each participant-level variable (e.g., `participant_id`, `participant_age_days`, `participant_sex`, `parent1_education`) and a **trial data file** (3 rows per trial/36 rows per participant, with columns for trial and trial-phase level data; e.g., trial condition, looking time, presentation time). See @sec-datatemplates for more details and instructions. 
+All labs, regardless of data collection apparatus or procedure, will need to validate a **participant data file** (1 row per participant, with columns for each participant-level variable (e.g., `participant_id`, `participant_age_days`, `participant_sex`, `parent1_education`) and a **trial data file** (3 rows per trial/36 rows per participant, with columns for trial and trial-phase level data; e.g., trial condition, looking time, presentation time). See @sec-datatemplates for more details and instructions.
 
 ## Labs NOT using Eye Trackers
 
-Labs not using eye trackers are asked to submit **raw output files** from PsychoPy or whatever stimulus-presentation software your lab uses. These file should include stimulus and timing info for trials and key presses. 
+Labs not using eye trackers are asked to submit **raw output files** from PsychoPy or whatever stimulus-presentation software your lab uses. These file should include stimulus and timing info for trials and key presses.
 
 ## Labs using Eye Trackers
 

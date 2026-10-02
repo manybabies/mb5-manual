@@ -40,11 +40,11 @@ book:
     - index.qmd
     - part: general-info.qmd
       chapters:
+        - lab-overview.qmd
         - collab-agreement.qmd
         - contact-info.qmd
         - project-tracker.qmd
         - test-dates.qmd
-        - lab-overview.qmd
     - part: getting-started.qmd
       chapters: 
         - green-lighting.qmd
@@ -59,7 +59,7 @@ book:
         - procedure.qmd
         - apparatus.qmd
         - data-validation.qmd
-        - prior-to-data-coll-checklist.qmd
+        - request-greenlight.qmd
     - part: running-experiment.qmd
       chapters:
         - general-lab-practices.qmd

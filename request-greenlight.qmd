@@ -1,0 +1,28 @@
+# "Green-Light" request {#sec-requestgreenlight}
+
+The steps for getting a "Green-Light" to collect data are tracked by the MB5 Project Leads on the {{< var link.tracker >}}. You can check the tracker to see what steps your lab has completed. If you have any questions or think your lab’s progress is not up-to-date, {{< var email.emailus >}}.
+
+As a reminder, **TO GET A "GREEN-LIGHT" FOR DATA COLLECTION** your lab needs to:
+
+-   Complete the {{< var link.signup >}}
+    -   *NOTE: if your lab does not appear in the* {{< var link.tracker >}}*, you still need to do this!*
+-   Confirm demographics questionnaire is uploaded (see @sec-demographics)
+-   Confirm ethics approval is uploaded (see @sec-ethics)
+-   Confirm walkthrough video is uploaded (see @sec-walkthrough)
+-   Confirm validated pilot data is uploaded (see @sec-validation)
+
+## Complete the {{< var link.pretest >}} to let us know that you are ready for "Green-Lighting"
+
+**DO NOT BEGIN TESTING UNTIL YOU HAVE BEEN GIVEN A "GREEN-LIGHT"!**
+
+We may have questions for you (e.g., things we noticed in your walkthrough video or pilot data). We will do our best to respond quickly, but if you don’t hear from us within a week of submitting the Pre-Test Form, please {{< var email.emailus >}} again!
+
+::: callout-important
+# IMPORTANT: {.unnumbered}
+
+## 🚫 <u>DO NOT</u> collect experimental data for {{< var project.number >}} until your lab has completed this process and received a "Green-Light" from the {{< var project.number >}} Project Leads! 🚫 {.unnumbered}
+
+### Check the {{< var link.tracker >}} to view your lab's status
+
+#### DO NOT begin testing unless your lab's status is <code style="background-color:#9BE095; color:black; border-radius: 20px">Green-Light for data collection</code>
+:::

@@ -7,11 +7,12 @@ This section explains the experimental method in detail. Please follow the instr
 -   @sec-procedure
 -   @sec-apparatus
 -   @sec-validation
+-   @sec-requestgreenlight
 
 <br>
 
 ::: callout-important
-# Request a "Green-Light" for testing
+# Important
 
-### Once you have completed experiment set-up and data validation, make sure you have completed the steps in @sec-prior-checklist to request a "Green-Light" from Project Leads for data collection.
+### Do not begin testing until Project Leads have given your lab a "Green-Light"!
 :::

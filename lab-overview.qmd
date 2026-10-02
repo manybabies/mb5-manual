@@ -14,9 +14,9 @@
 * **BY PARTICIPATING IN THIS PROJECT, YOU AGREE TO ABIDE BY THE TERMS OUTLINED IN THESE DOCUMENTS**
 * Complete the [**{{< var project.number >}} Sign-Up Form**]({{< var url.signup >}}){target="_blank"}
 
-(@) ### PREPARE study materials: 
+(@) ### PREPARE study materials ([Getting Started](#sec-gettingstarted), [Setting up the Experiment](#sec-setup)) 
 * Submit the versions of the **demographics questionnaire** (see @sec-demographics) and **object experience questionnaire **(see @sec-objects) your lab will be using, your lab's **ethics approval** (see @sec-ethics), and any other relevant documentation/materials
-* **Set up the experiment** in consultation with this lab manual (see [Setting up the Experiment](#sec-setup)) 
+* **Set up the experiment** in consultation with this lab manual 
 * Create and submit your **walkthrough video** (see @sec-walkthrough)
 * Run **pilot data** through the {{< var link.validator >}} and submit (see @sec-validation)
 
