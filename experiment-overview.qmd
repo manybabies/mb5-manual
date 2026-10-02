@@ -10,9 +10,3 @@ This section explains the experimental method in detail. Please follow the instr
 -   @sec-requestgreenlight
 
 <br>
-
-::: callout-important
-# Important
-
-### Do not begin testing until Project Leads have given your lab a "Green-Light"!
-:::
