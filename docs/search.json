@@ -797,45 +797,45 @@
   {
     "objectID": "general-lab-practices.html",
     "href": "general-lab-practices.html",
-    "title": "17  General Lab Practices",
+    "title": "17  General lab practices",
     "section": "",
     "text": "17.1 Training research assistants\nYou are responsible for implementing rigorous training practices. Research assistants should be held to the same high standards for a ManyBabies project as they would be for your own lab’s studies. You are free to have any number of research assistants conduct the test sessions, but please aim for as much coding consistency as possible and document which research assistant tested and/or coded a given baby (using code names such as RA1, RA2, etc. if you wish). You will be asked to report about your standard training practices (e.g., how/when do you determine it’s okay for a research assistant to test real babies).",
     "crumbs": [
       "Running the experiment",
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>General Lab Practices</span>"
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>General lab practices</span>"
     ]
   },
   {
     "objectID": "general-lab-practices.html#training-research-assistants",
     "href": "general-lab-practices.html#training-research-assistants",
-    "title": "17  General Lab Practices",
+    "title": "17  General lab practices",
     "section": "",
     "text": "Online Coding\nIf you are using a central screen to gather accumulated looking data for infant-controlled familiarization, then research assistants will need to be properly trained in coding online looking behaviors.\n\n\nOffline Coding\nIf you are not using an eyetracker to gather data, then you will need to code the test trials offline.",
     "crumbs": [
       "Running the experiment",
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>General Lab Practices</span>"
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>General lab practices</span>"
     ]
   },
   {
     "objectID": "general-lab-practices.html#greeting-families",
     "href": "general-lab-practices.html#greeting-families",
-    "title": "17  General Lab Practices",
+    "title": "17  General lab practices",
     "section": "17.2 Greeting families",
     "text": "17.2 Greeting families\nYou can greet families, briefly explain the study’s purpose and goals in terms understandable to families (avoid technical jargon), obtain informed consent, and conduct the appointment as you normally would. Acknowledge their decision to consider participating and express appreciation for their time. Address potential concerns families might have and answer their questions openly and honestly.",
     "crumbs": [
       "Running the experiment",
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>General Lab Practices</span>"
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>General lab practices</span>"
     ]
   },
   {
     "objectID": "general-lab-practices.html#compensating-families",
     "href": "general-lab-practices.html#compensating-families",
-    "title": "17  General Lab Practices",
+    "title": "17  General lab practices",
     "section": "17.3 Compensating families",
     "text": "17.3 Compensating families\nYou can use your lab’s standard, IRB-approved method for compensating families. This can include providing small gifts, cash, travel reimbursement, taxi rides, or other incentives for participation as you normally would. Participating labs are responsible for compensating their own participants.",
     "crumbs": [
       "Running the experiment",
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>General Lab Practices</span>"
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>General lab practices</span>"
     ]
   },
   {
@@ -898,7 +898,7 @@
     "href": "after-data-collection.html",
     "title": "After data collection",
     "section": "",
-    "text": "This section provides information for data formatting, validation, and submission. Please follow the instructions as closely as possible, and report any deviations from the protocol using the MB5 Issue Tracking and Support Request Form.\n\n20  Data Reporting Guidelines\n21  Data Dictionary and Templates\n22  Data Validation and Submission",
+    "text": "This section provides information for data formatting, validation, and submission. Please follow the instructions as closely as possible, and report any deviations from the protocol using the MB5 Issue Tracking and Support Request Form.\n\n20  Data reporting guidelines\n21  Data dictionary and templates\n22  Data validation and submission",
     "crumbs": [
       "After data collection"
     ]
@@ -906,89 +906,89 @@
   {
     "objectID": "data-reporting.html",
     "href": "data-reporting.html",
-    "title": "20  Data Reporting Guidelines",
+    "title": "20  Data reporting guidelines",
     "section": "",
     "text": "Participant data from all infants entering the lab needs to be reported. Even if the infant fusses out prior to entering the testing room/booth, the data for that infant should be submitted. In the case of fuss-out prior to entering the testing room, only participant data needs to be provided. In all other cases, trial level data also needs to be reported (In some cases it may be the case that all trial data will be missing as indicated by ‘NA’). This provides valuable information for, e.g., secondary analyses regarding fuss-out rates and the timing of fuss-out in the experiment. Data collected after the study has been terminated (e.g. fussy babies who are brought back in for a “second run”) should not be reported; any data collected prior to the complete fuss-out needs to be reported in the usual manner. If you report pilot data, make sure this is indicated as such in the ‘Pilot’ column of the data table. Below instructions are designed to help you share data with the MB5 project team in a format that will minimize analysis errors and maximize the ease of merging datasets from many different labs.",
     "crumbs": [
       "After data collection",
-      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Data Reporting Guidelines</span>"
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Data reporting guidelines</span>"
     ]
   },
   {
     "objectID": "data-templates.html",
     "href": "data-templates.html",
-    "title": "21  Data Dictionary and Templates",
+    "title": "21  Data dictionary and templates",
     "section": "",
     "text": "21.1 Data overview\nThe primary deliverables for the project are two data files:\nIn addition, labs are asked to submit DE-IDENTIFIED raw data. For labs using eye trackers, this is raw gaze data (either as a single file or 1 file/participant), and for labs not using eye trackers, this is the output file generated by PsychoPy or another software program with stimulus and key press timing information.",
     "crumbs": [
       "After data collection",
-      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Data Dictionary and Templates</span>"
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Data dictionary and templates</span>"
     ]
   },
   {
     "objectID": "data-templates.html#data-overview",
     "href": "data-templates.html#data-overview",
-    "title": "21  Data Dictionary and Templates",
+    "title": "21  Data dictionary and templates",
     "section": "",
     "text": "Participant data: 1 row per participant\nTrial data: 3 rows per trial (familiarization, test1, and test2) per participant (36 rows/participant)",
     "crumbs": [
       "After data collection",
-      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Data Dictionary and Templates</span>"
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Data dictionary and templates</span>"
     ]
   },
   {
     "objectID": "data-templates.html#mb5-data-dictionary",
     "href": "data-templates.html#mb5-data-dictionary",
-    "title": "21  Data Dictionary and Templates",
+    "title": "21  Data dictionary and templates",
     "section": "21.2 MB5 Data Dictionary",
     "text": "21.2 MB5 Data Dictionary\nThe MB5 Data Dictionary lists all of the variables that should be included in the Participant Data and Trial Data files. Each row contains a variable and that variable’s specified format (e.g., string, integer), set of example values, and description. It is important that your lab’s data follows these specifications exactly in order to allow for data harmonization with the full dataset.\n\n\n\n\n\n\nImportant\n\n\n\nThe MB5 Data Dictionary is under development.",
     "crumbs": [
       "After data collection",
-      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Data Dictionary and Templates</span>"
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Data dictionary and templates</span>"
     ]
   },
   {
     "objectID": "data-templates.html#mb5-data-templates",
     "href": "data-templates.html#mb5-data-templates",
-    "title": "21  Data Dictionary and Templates",
+    "title": "21  Data dictionary and templates",
     "section": "21.3 MB5 Data templates",
     "text": "21.3 MB5 Data templates\n\n\n\n\n\n\nIMPORTANT NOTE #1\n\n\n\nThese two files must use identical, anonymous subject identifiers (participant_id). We must be able to link participant- and trial-level data across files! You can use your lab’s normal participant numbering convention (e.g., 001, 002, 003, etc.), as long as participant_ID DOES NOT include any private information (e.g., initials, birth date).\n\n\n\n\n\n\n\n\nIMPORTANT NOTE #2\n\n\n\nThese files must contain de-identified data ONLY. All potentially identifying information should be stripped from your data file before submission. For example, you SHOULD NOT include birth date and test date in your Participant Data file. Instead, use an age calculating tool (e.g., https://www.calculator.net/age-calculator.html) to calculate each participant’s age in days, and report that value in the age_days variable. In addition, participant_id numbers SHOULD NOT contain any personal information (e.g., name, birthdate, initials) and should instead be completely de-identified (e.g., mb5_01, mb5_02, etc.). If you have any questions about ensuring your data is de-identified, email us.\n\n\n\n\n\n\n\n\nIMPORTANT NOTE #3\n\n\n\nIt’s really important to remember that these files are designed to be read by a computer program, not a person. So anything that violates the template (e.g., variables that aren’t of the specified type, formatting, comments, etc.) will not work. For example, cells in the column lang1_exposure in the participant data file should contain numbers. If you write “80 to 90” this will cause errors because it contains characters in addition to numbers (note: please check questionnaire responses before participants leave the lab to avoid NA responses). If you have questions, comments, or calculations, please communicate directly with the analysis team, rather than embedding them in the data.\n\n\n\n\n\n\n\n\nIMPORTANT NOTE #4\n\n\n\nPlease do not leave any fields blank. If something does not logically have an answer, or if you did not collect this information, please mark it as “NA”.\n\n\nPlease download a copy of each template and use them as guides for formatting your lab’s data.\nFiles must be in CSV (comma separated values) format. PLEASE NOTE that saving in this format will remove any formulas or other non-plain-text features of your spreadsheet (e.g,. color fills, formatting); all information should be captured in the text within each cell.\n\nParticipant Data\nA .csv file with one row for each participant, and with columns showing participant-level variables (e.g., participant_id, age, demographic information, notes on the session, etc.)\n\n\n\n\n\n\nImportant\n\n\n\nParticipant Data template is under development.\n\n\n\n\nTrial Data\nA .csv file with three rows for each trial, and with columns showing participant_id, and trial and trial-phase level variables (e.g., trial number, trial type (simple, complex), trial phase (familiarization, test1, test2) looking time, etc.)\n\n\n\n\n\n\nImportant\n\n\n\nTrial Data template is under development.",
     "crumbs": [
       "After data collection",
-      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Data Dictionary and Templates</span>"
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Data dictionary and templates</span>"
     ]
   },
   {
     "objectID": "data-submission.html",
     "href": "data-submission.html",
-    "title": "22  Data Validation and Submission",
+    "title": "22  Data validation and submission",
     "section": "",
     "text": "22.1 Data Validation\nAfter preparing your Participant Data and Trial Data files, please use the ManyBabies Data Validator to ensure your lab’s data is in the correct format.\nCommon issues: If the validator is rejecting your CSV file, it may be due to different country standards around the use of commas as decimal points, etc. in your numeric format. Please use periods (‘.’) and not commas (‘,’) as decimal points. Make sure that there are no stray marks in cells outside of your data range. For example, a space entered in a cell in an otherwise empty row or column will cause an error. If you encounter any unexpected issues please email us. Your data files MUST pass validation before submission.",
     "crumbs": [
       "After data collection",
-      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Data Validation and Submission</span>"
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Data validation and submission</span>"
     ]
   },
   {
     "objectID": "data-submission.html#data-submission",
     "href": "data-submission.html#data-submission",
-    "title": "22  Data Validation and Submission",
+    "title": "22  Data validation and submission",
     "section": "22.2 Data submission",
     "text": "22.2 Data submission\nOnce your data files have passed validation, please upload both the Participant Dataand Trial Data files using the MB5 Data Upload form. Please take note of the following: It is essential that both file names include your ManyBabies LabID. Refer to the LabID list here to find your lab’s unique LabID. Use the following naming convention for your Participant and Trial Data files: yourLabID_participant_data.csv (e.g., babylabPrinceton_participant_data.csv) yourLabID_trial_data.csv (e.g., babylabPrinceton_trial_data.csv)\n\nSharing ‘raw’ data\nFor most labs, the “raw” data generated by the software that runs the study will be in a different format from the one we are asking labs to submit as their machine-readable, de-identified data. This creates a problem for reproducibility of the data pipeline. In addition to potential error-checking, the raw data may be useful for secondary analysis. Secondary analyses can be used to map variability between labs. Ideally, we would ask all labs to share both their actual raw data (immediately generated when the study is run) together with any code they use to convert it to the submission format. However, doing so would likely raise concerns about the sharing of de-identified data as these raw data outputs may contain birthdates or other participant-identifying information. A related concern is that many labs may be converting the raw data into the submission formatted files by hand, which may be prone to human error. We strongly encourage labs to develop processes for making these conversions in an automated way (e.g., in an R script). In the coming months we will be soliciting suggestions and reviewing the practicality of helping labs develop these practices, as well as making a decision about whether and how to collect raw data from labs that do not use eyetrackers. We welcome comments and suggestions from contributors on this issue!\n\nSubmitting raw eye-tracking data\nThere are additional considerations for labs submitting eye-tracking data. First, the raw data is useful for studying variability between labs in the extraction of looking times. Second, the pupil size data provides interesting additional information about cognitive processing that can be used in follow-up or spin-off studies. We are therefore asking all laboratories submitting eye-tracking data to provide these raw data. For the data to be most useful and accessible for secondary analyses, the preferred format is to submit 1) CSV or TSV files (or any other plain text format); please select the export options so that the file remains as unchanged as possible (select all possible variables, no fixation filters, etc.) and 2) annotated R-code (or other script) that transforms these CSV or TSV files into the trial-level format that needs to be submitted. Please upload these files using the MB5 Data Upload form in addition to the Participant Data and Trial Data files (see above for details). For purposes of transparency and replicability, using a standardized format for the eye-tracking data is preferable (e.g., the Peekbank format). Please take care that the raw eye-tracking data does not contain any identifying information such as birth dates, zip codes, etc.! If you have any concerns regarding the sharing of your raw data (e.g. with respect to participant consent/ethics approval), please contact the project leaders. In the Lab Questionnaire, report which method you used to compute the looking times In your upload, please also include the (annotated!) script that was used to compute the looking times from the raw data",
     "crumbs": [
       "After data collection",
-      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Data Validation and Submission</span>"
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Data validation and submission</span>"
     ]
   },
   {
     "objectID": "data-submission.html#video-records-of-data-collection-optional",
     "href": "data-submission.html#video-records-of-data-collection-optional",
-    "title": "22  Data Validation and Submission",
+    "title": "22  Data validation and submission",
     "section": "22.3 Video records of data collection (optional)",
     "text": "22.3 Video records of data collection (optional)\nIf you are sharing videos of your data collection (and this is strongly encouraged, if it’s at all possible given your ethics approval), you can store them in Databrary if you are a member. The naming convention for Databrary volumes is “ManyBabies5: yourLabID” (e.g. “ManyBabies5: babylabPrinceton”). We ask that you use this naming convention so people can easily search for all the ManyBabies-related volumes.",
     "crumbs": [
       "After data collection",
-      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Data Validation and Submission</span>"
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Data validation and submission</span>"
     ]
   },
   {

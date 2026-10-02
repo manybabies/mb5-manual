@@ -8,5 +8,3 @@ This section explains the experimental method in detail. Please follow the instr
 -   @sec-apparatus
 -   @sec-validation
 -   @sec-requestgreenlight
-
-<br>

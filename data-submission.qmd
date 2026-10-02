@@ -1,4 +1,4 @@
-# Data Validation and Submission {#sec-datasubmission}
+# Data validation and submission {#sec-datasubmission}
 
 ## Data Validation
 

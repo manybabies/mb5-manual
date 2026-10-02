@@ -1,4 +1,4 @@
-# Data Dictionary and Templates {#sec-datatemplates}
+# Data dictionary and templates {#sec-datatemplates}
 
 ## Data overview
 
