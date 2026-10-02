@@ -34,7 +34,7 @@
     "href": "general-info.html",
     "title": "General information",
     "section": "",
-    "text": "This section includes contact info, important links, data collection start and end dates, and the list of steps each lab must take to succcessfully collect and contribute data for MB5.\n\n1  MB5 Collaboration Agreement\n2  MB5 Project Tracker\n3  Contact info and important links\n4  Data collection period\n5  Lab participation overview",
+    "text": "This section includes contact info, important links, data collection start and end dates, and the list of steps each lab must take to succcessfully collect and contribute data for MB5.\n\n5  Lab participation overview\n1  MB5 Collaboration Agreement\n2  Contact info and important links\n3  MB5 Project Tracker\n4  Data collection period",
     "crumbs": [
       "General information"
     ]
@@ -62,69 +62,69 @@
     ]
   },
   {
-    "objectID": "project-tracker.html",
-    "href": "project-tracker.html",
-    "title": "2  MB5 Project Tracker",
-    "section": "",
-    "text": "MB5 PROJECT TRACKER\nVIEW THE MB5 PROJECT TRACKER ON THE MB5 WEBSITE or FULL SCREEN\nNote: Default view is alphabetical by “LabID”. You can filter, sort, or search records using the icons in the toolbar. Scroll to the right to view all columns.",
-    "crumbs": [
-      "General information",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>MB5 Project Tracker</span>"
-    ]
-  },
-  {
-    "objectID": "project-tracker.html#mb5-project-tracker",
-    "href": "project-tracker.html#mb5-project-tracker",
-    "title": "2  MB5 Project Tracker",
-    "section": "",
-    "text": "MB5 Lab Sign-Up form: Sign up for MB5 data collection or update planned testing info\nMB5 Green-Lighting form: Upload study materials (e.g., ethics approval, walkthrough video)\nMB5 Data Upload form: Upload data\n\n\nNote: Responses to these forms are moderated, so updates might not appear on the tracker immediately. Thank you for your patience!",
-    "crumbs": [
-      "General information",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>MB5 Project Tracker</span>"
-    ]
-  },
-  {
     "objectID": "contact-info.html",
     "href": "contact-info.html",
-    "title": "3  Contact info and important links",
+    "title": "2  Contact info and important links",
     "section": "",
-    "text": "3.1 Contact Info",
+    "text": "2.1 Contact Info",
     "crumbs": [
       "General information",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Contact info and important links</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Contact info and important links</span>"
     ]
   },
   {
     "objectID": "contact-info.html#contact-info",
     "href": "contact-info.html#contact-info",
-    "title": "3  Contact info and important links",
+    "title": "2  Contact info and important links",
     "section": "",
     "text": "General inquiries: mb5@manybabies.org\n Jessica Kosie (MB5 Project Lead): jkosie@asu.edu\n Martin Zettersten (MB5 Project Lead): mzettersten@ucsd.edu\n Casey Lew-Williams (MB5 Project Lead): caseylw@princeton.edu\n Heidi Baumgartner (MB Exec. Director & MB5 Coordinator): heidib@manybabies.org",
     "crumbs": [
       "General information",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Contact info and important links</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Contact info and important links</span>"
     ]
   },
   {
     "objectID": "contact-info.html#group-communication",
     "href": "contact-info.html#group-communication",
-    "title": "3  Contact info and important links",
-    "section": "3.2 Group Communication",
-    "text": "3.2 Group Communication\n\nMB5 Project Listserv: mb5-list@manybabies.org\n\nCAUTION: sending an email to this address will send it to everyone subscribed to the MB5 list; please use judiciously!\nSUBSCRIBE to the MB5 listserv (click on Join group using a google-linked account, or fill out the MB listserv form to request to join)\n\nManyBabies Slack workspace: Join the MB Slack Workspace\n\nJoin #mb5-general, #mb5-data-collection, and any other relevant channels (Click on Add channels in the left-hand menu).",
+    "title": "2  Contact info and important links",
+    "section": "2.2 Group Communication",
+    "text": "2.2 Group Communication\n\nMB5 Project Listserv: mb5-list@manybabies.org\n\nCAUTION: sending an email to this address will send it to everyone subscribed to the MB5 list; please use judiciously!\nSUBSCRIBE to the MB5 listserv (click on Join group using a google-linked account, or fill out the MB listserv form to request to join)\n\nManyBabies Slack workspace: Join the MB Slack Workspace\n\nJoin #mb5-general, #mb5-data-collection, and any other relevant channels (Click on Add channels in the left-hand menu).",
     "crumbs": [
       "General information",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Contact info and important links</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Contact info and important links</span>"
     ]
   },
   {
     "objectID": "contact-info.html#important-links",
     "href": "contact-info.html#important-links",
-    "title": "3  Contact info and important links",
-    "section": "3.3 Important Links",
-    "text": "3.3 Important Links\n\nMB5 WEBSITE: manybabies.org/MB5\n[MB5 PROJECT TRACKER: Information about the status of data-collecting labs\nMB5 Stage 1 Registered Report: Peer-reviewed manuscript of study justification and planned procedure/analysis plan (given In Principle Acceptance by Nature Human Behaviour in March 2024)\nMB5 Lab Manual: This document\nCollaboration Agreement: Outlines roles/responsibilities, authorship info, and other info all contributors agree to abide by (can also be found in Chapter 1)\nMB5 Issue Tracking and Support Request Form: To report issues (e.g., with data collection, deviations from protocol, etc.) or to request support\nMB5 Green-Lighting Form: To upload materials required to get a “green light” for data collection (e.g., ethics approval, questionnaire, pilot data)\nMB5 Pre-Test Form: To provide information about your lab’s testing setup and to request final approval to begin data collection\nMB5 Data Upload Form: To upload experimental data",
+    "title": "2  Contact info and important links",
+    "section": "2.3 Important Links",
+    "text": "2.3 Important Links\n\nMB5 WEBSITE: manybabies.org/MB5\n[MB5 PROJECT TRACKER: Information about the status of data-collecting labs\nMB5 Stage 1 Registered Report: Peer-reviewed manuscript of study justification and planned procedure/analysis plan (given In Principle Acceptance by Nature Human Behaviour in March 2024)\nMB5 Lab Manual: This document\nCollaboration Agreement: Outlines roles/responsibilities, authorship info, and other info all contributors agree to abide by (can also be found in Chapter 1)\nMB5 Issue Tracking and Support Request Form: To report issues (e.g., with data collection, deviations from protocol, etc.) or to request support\nMB5 Green-Lighting Form: To upload materials required to get a “green light” for data collection (e.g., ethics approval, questionnaire, pilot data)\nMB5 Pre-Test Form: To provide information about your lab’s testing setup and to request final approval to begin data collection\nMB5 Data Upload Form: To upload experimental data",
     "crumbs": [
       "General information",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Contact info and important links</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Contact info and important links</span>"
+    ]
+  },
+  {
+    "objectID": "project-tracker.html",
+    "href": "project-tracker.html",
+    "title": "3  MB5 Project Tracker",
+    "section": "",
+    "text": "MB5 PROJECT TRACKER\nVIEW THE MB5 PROJECT TRACKER ON THE MB5 WEBSITE or FULL SCREEN\nNote: Default view is alphabetical by “LabID”. You can filter, sort, or search records using the icons in the toolbar. Scroll to the right to view all columns.",
+    "crumbs": [
+      "General information",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>MB5 Project Tracker</span>"
+    ]
+  },
+  {
+    "objectID": "project-tracker.html#mb5-project-tracker",
+    "href": "project-tracker.html#mb5-project-tracker",
+    "title": "3  MB5 Project Tracker",
+    "section": "",
+    "text": "MB5 Lab Sign-Up form: Sign up for MB5 data collection or update planned testing info\nMB5 Green-Lighting form: Upload study materials (e.g., ethics approval, walkthrough video)\nMB5 Data Upload form: Upload data\n\n\nNote: Responses to these forms are moderated, so updates might not appear on the tracker immediately. Thank you for your patience!",
+    "crumbs": [
+      "General information",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>MB5 Project Tracker</span>"
     ]
   },
   {
@@ -139,11 +139,11 @@
     ]
   },
   {
-    "objectID": "lab-overview.html",
-    "href": "lab-overview.html",
+    "objectID": "lab-overview.html#do-not-begin-data-collection-other-than-piloting-until-your-lab-has-been-explicitly-given-the-green-light-to-do-so-by-the-project-leads.",
+    "href": "lab-overview.html#do-not-begin-data-collection-other-than-piloting-until-your-lab-has-been-explicitly-given-the-green-light-to-do-so-by-the-project-leads.",
     "title": "5  Lab participation overview",
-    "section": "",
-    "text": "These are the steps that every data-collecting lab must follow to participate in MB5. This is just an overview of the process. More detail for each numbered item is available in the linked sections.\n\n\n\n\n\n\n\nBEFORE you do ANYTHING else:\n\nRead this manual start to finish\nRead the ManyBabies Code of Conduct\nRead the MB5 Collaboration Agreement. By participating in this project, you agree to abide by the terms outlined in this agreement.\nReview the information in the ManyBabies General Manual regarding ethical research, authorship, data sharing, and data use\nComplete the MB5 Sign-Up Form\n\n\n\nBEFORE you begin data collection:\n\nSubmit the version of the demographics questionnaire your lab will be using (see Chapter 7), your lab’s ethics approval (see Chapter 9), and any other documentation/materials using the MB5 Green-Lighting Form\nSet up the experiment in consultation with this lab manual (see Setting up the Experiment)\n\nCarefully record any needed deviations from the protocol using the MB5 Issue Tracking and Support Request Form\n\nCreate and submit your walkthrough video (see Chapter 10)\nRun pilot data through the ManyBabies Data Validator (see Chapter 15)\nFill out the MB5 Pre-Test Form to provide final testing information and let Project Leads know that you are ready for “Green-Lighting”\nWAIT for your official “Green-Light” from the leadership team to begin data collection\n\n\n\n\n\n\n\nDO NOT BEGIN DATA COLLECTION (other than piloting) until your lab has been explicitly given the “Green-Light” to do so by the Project Leads.\n\n\n\n\n\n\n\n\nData collection:\n\nONLY AFTER YOUR LAB HAS BEEN GIVEN A “GREEN-LIGHT”: Collect your data following the guidelines in the Running the experiment section!\n\n\n\nAFTER you finish data collection:\n\nCompile your participant and trial data files in consultation with data reporting guidelines (see Chapter 20)\nVerify your data files using the ManyBabies Data Validator (see Chapter 15)\nSubmit your data using the MB5 Data Upload Form\nReport individual contributions using the MB Contribution Reporting Form",
+    "section": "DO NOT BEGIN DATA COLLECTION (other than piloting) until your lab has been explicitly given the “Green-Light” to do so by the Project Leads.",
+    "text": "DO NOT BEGIN DATA COLLECTION (other than piloting) until your lab has been explicitly given the “Green-Light” to do so by the Project Leads.\nData collected prior to “Green-Lighting” WILL NOT be included in analyses.",
     "crumbs": [
       "General information",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Lab participation overview</span>"

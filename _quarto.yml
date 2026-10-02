@@ -41,8 +41,8 @@ book:
     - part: general-info.qmd
       chapters:
         - collab-agreement.qmd
-        - project-tracker.qmd
         - contact-info.qmd
+        - project-tracker.qmd
         - test-dates.qmd
         - lab-overview.qmd
     - part: getting-started.qmd

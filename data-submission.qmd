@@ -2,7 +2,7 @@
 
 ## Data Validation
 
-After preparing your Participant Data and Trial Data files, please use the {{< var link.validator >}} to ensure your lab’s data is in the correct format. 
+After preparing your Participant Data and Trial Data files, please use the {{< var link.validator >}} to ensure your lab’s data is in the correct format.
 
 Common issues: If the validator is rejecting your CSV file, it may be due to different country standards around the use of commas as decimal points, etc. in your numeric format. Please use periods (‘.’) and not commas (‘,’) as decimal points. Make sure that there are no stray marks in cells outside of your data range. For example, a space entered in a cell in an otherwise empty row or column will cause an error. If you encounter any unexpected issues please {{< var email.emailus >}}. Your data files MUST pass validation before submission.
 
