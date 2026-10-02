@@ -11,7 +11,7 @@
 
 * Read this manual start to finish, including the [**{{< var project.number >}} Collaboration Agreement**]({{< var url.collaboration >}}){target="_blank"} 
 * Review the [**ManyBabies General Manual**]({{< var link.generalmanual >}}){target="_blank"}, especially the {{< var link.codeofconduct >}} and information regarding <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.22i70rxou3ha" target="_blank">ethical research</a>, <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.9ty2g48mpe0t" target="_blank">authorship</a>, <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.aunbjkpwxhf3" target="_blank">data sharing</a>, and <a href="https://docs.google.com/document/d/1dZ3sF2UcxvpkfOfKSKFeObTMZRbpUYloMUiPYtZy0ng/edit#heading=h.6h67zsyeiveg" target="_blank">data use</a>
-* **By participating in this project, you agree to abide by the terms outlined in these documents.**
+* **BY PARTICIPATING IN THIS PROJECT, YOU AGREE TO ABIDE BY THE TERMS OUTLINED IN THESE DOCUMENTS**
 * Complete the [**{{< var project.number >}} Sign-Up Form**]({{< var url.signup >}}){target="_blank"}
 
 (@) ### PREPARE study materials: 
