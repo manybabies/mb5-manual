@@ -26,17 +26,15 @@
 
 ## Important Links
 
--   {{< var link.mbwebsite >}}: ManyBabies website
+-   **{{< var project.number >}} WEBSITE:** {{< var link.projecturl >}} 
 
--   {{< var link.projecturl >}}: {{< var project.number >}} project website
+-   **[{{< var project.number >}} PROJECT TRACKER:** Information about the status of data-collecting labs
 
 -   {{< var link.stage1rr >}}: Peer-reviewed manuscript of study justification and planned procedure/analysis plan (given *In Principle Acceptance* by *Nature Human Behaviour* in March 2024)
 
 -   {{< var link.projectmanual >}}: This document
 
 -   {{< var link.collaboration >}}: Outlines roles/responsibilities, authorship info, and other info all contributors agree to abide by *(can also be found in @sec-collaboration)*
-
--   {{< var link.tracker >}}: Information about the status of data-collecting labs
 
 -   {{< var link.issue >}}: To report issues (e.g., with data collection, deviations from protocol, etc.) or to request support
 

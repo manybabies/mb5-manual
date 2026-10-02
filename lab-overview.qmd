@@ -18,7 +18,7 @@
     i) Carefully record any needed deviations from the protocol using the {{< var link.issue >}}
 (@)  Create and submit your **walkthrough video** (see @sec-walkthrough)
 (@)  Run pilot data through the {{< var link.validator >}} (see @sec-validation)
-(@)  Email the {{< var project.number >}} Project Leads ({{< var email.support >}}) to let them know that you are ready for “Green-Lighting” [`Subject: "MB5 GREEN-LIGHT REQUEST"`]
+(@)  Fill out the {{< var link.pretest >}} to provide final testing information and let Project Leads know that you are ready for “Green-Lighting”
 (@) **WAIT for your official “Green-Light”** from the leadership team to begin data collection
 
 :::{.callout-important}
