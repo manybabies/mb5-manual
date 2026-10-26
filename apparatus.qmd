@@ -41,12 +41,14 @@ PUT IN GRAPHIC SHOWING APPARATUS/SET-UP
 To maximize accuracy, we encourage labs to use one of the following supported hardware/software options to run the experiment:
 
 ::: {.callout-note title="resource"}
-##### **Eyetracking (Eyelink):** Experiment Builder 
-*\[IN DEVELOPMENT, est. release date: October 2026\]*
+##### **Eyetracking (Eyelink):** Experiment Builder
+
+*\[IN DEVELOPMENT, est. release date: November 2026\]*
 :::
 
 ::: {.callout-note title="resource"}
-##### **Eyetracking (Tobii):** PsychoPy 
+##### **Eyetracking (Tobii):** PsychoPy
+
 *\[IN DEVELOPMENT, est. release date: November 2026\]*
 :::
 
@@ -58,7 +60,7 @@ Click on the software option you would like to use to access experiment and set-
 
 ### Order files
 
-Each experiment package linked above includes one SET-UP ONLY trial list that your lab should use to set up the experiment and collect pilot/dummy data for green-lighting purposes. As discussed in @sec-orders, each lab will be provided with a custom set of trial orders to use for testing actual participants when that lab has been given a "Green-Light" for tetsing.
+Each experiment package linked above includes one SET-UP ONLY trial list that your lab should use to set up the experiment and collect pilot/dummy data for green-lighting purposes. As discussed in @sec-orders, each lab will be provided with a custom set of trial orders to use for testing actual participants when that lab has been given a "Green-Light" for testing.
 
 ## Set-up support
 

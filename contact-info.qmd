@@ -6,45 +6,35 @@
 ::: {layout="[ [1,4] ]"}
 <img src="https://manybabies.org/assets/img/mb5-logo.png" width="100px"/>
 
-<br>
-<b>GENERAL INQUIRIES:</b> {{< var email.support >}}
+<br> <b>GENERAL INQUIRIES:</b> {{< var email.support >}}
 :::
 ::::
 
-
-:::: {.callout-note title="email"}
+::::::: {.callout-note title="email"}
 ::: {layout="[ [1,4] ]"}
 <img src="/images/kosie.png" style="border-radius:50%;width:100px;"/>
 
-<br>
-**MB5 PROJECT LEAD**<br> 
-**Jessica Kosie**: {{< var email.jessica >}}
+<br> **MB5 PROJECT LEAD**<br> **Jessica Kosie**: {{< var email.jessica >}}
 :::
 
 ::: {layout="[ [1,4] ]"}
 <img src="/images/zettersten.jpeg" style="border-radius:50%;width:100px;"/>
 
-<br>
-**MB5 PROJECT LEAD**<br> 
-**Martin Zettersten**: {{< var email.martin >}}
+<br> **MB5 PROJECT LEAD**<br> **Martin Zettersten**: {{< var email.martin >}}
 :::
 
 ::: {layout="[ [1,4] ]"}
 <img src="/images/lew-williams.jpeg" style="border-radius:50%;width:100px;"/>
 
-<br>
-**MB5 PROJECT LEAD**<br> 
-**Casey Lew-Williams**: {{< var email.casey >}}
+<br> **MB5 PROJECT LEAD**<br> **Casey Lew-Williams**: {{< var email.casey >}}
 :::
 
 ::: {layout="[ [1,4] ]"}
 <img src="/images/baumgartner.png" style="border-radius:50%;width:100px;"/>
 
-<br>
-**MB5 COORDINATOR & MB EXEC. DIR.**<br> 
-**Heidi Baumgartner**: {{< var email.heidi >}}
+<br> **MB5 COORDINATOR & MB EXEC. DIR.**<br> **Heidi Baumgartner**: {{< var email.heidi >}}
 :::
-::::
+:::::::
 
 ## Important Links
 
@@ -89,38 +79,26 @@ Outlines roles/responsibilities, authorship info, and other info all contributor
 
 ## Group Communication
 
-:::::: {.callout-note title="email"}
-::::: row
-::: col-md-3
+:::: {.callout-note title="email"}
+::: {layout="[ [1,4] ]"}
 <img src="/images/email.png" style="width:100px;"/>
+
+<b>MB5 PROJECT LISTSERV</b><br> 
+- [**SUBSCRIBE**]({{< var url.listserv >}}){target="_blank"}[^contact-info-1] <br> 
+- **POST TO THE LISTSERV:**[^contact-info-2] {{< var email.listserv >}}<br> *CAUTION: sending an email to this address will send it to everyone subscribed to the listserv; please use judiciously! To contact Project Leads, use the "General Inquiries" address above.*
 :::
+::::
 
-::: col-md-9
-### ManyBabies project listserv
+[^contact-info-1]: *(click on `Join group` using a google-linked account, or* {{< var email.emailus >}} *to request to join)*
 
-[**SUBSCRIBE**]({{< var url.listserv >}}){target="_blank"} *(click on `Join group` using a google-linked account, or* {{< var email.emailus >}} *to request to join)*
+[^contact-info-2]: **Must be subscribed to the listserv to post; posts are moderated**
 
-**POST TO THE LISTSERV:** {{< var email.listserv >}}[^contact-info-1] [^contact-info-2]
-:::
-:::::
-::::::
-
-[^contact-info-1]: *CAUTION*: sending an email to this address will send it to everyone subscribed to the listserv; please use judiciously! To contact Project Leads, use the "General Inquiries" address above
-
-[^contact-info-2]: Must be subscribed to the listserv to post; posts are moderated
-
-:::::: {.callout-note title="resource"}
-::::: row
-::: col-md-3
+:::: {.callout-note title="resource"}
+::: {layout="[ [1,4] ]"}
 <img src="/images/mb-slack.png" style="width:100px;"/>
+
+<b>MANYBABIES SLACK WORKSPACE</b><br>
+- <b>{{< var link.slack >}}</b><br>
+- *Join [*`#mb5-general`*](https://manybabies.slack.com/archives/C03U2J2GZ2A), [*`#mb5-data-collection`*](https://manybabies.slack.com/archives/C0AUKJ27YQG), and any other relevant channels (Click on `Add channels` in the left-hand menu)*
 :::
-
-::: col-md-9
-### ManyBabies Slack workspace
-
-{{< var link.slack >}}
-:::
-:::::
-
-Join [*`#mb5-general`*](https://manybabies.slack.com/archives/C03U2J2GZ2A), [*`#mb5-data-collection`*](https://manybabies.slack.com/archives/C0AUKJ27YQG), and any other relevant channels (Click on `Add channels` in the left-hand menu)
-::::::
+::::
