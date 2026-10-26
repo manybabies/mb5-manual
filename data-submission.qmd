@@ -2,13 +2,38 @@
 
 ## Data Validation
 
-After preparing your Participant Data and Trial Data files, please use the {{< var link.validator >}} to ensure your lab’s data is in the correct format.
+Please follow the same procedure outlined in @sec-validation and @sec-datatemplates to format your participant and trial data according to the specifications in the MB5 Data Dictionary. 
 
-Common issues: If the validator is rejecting your CSV file, it may be due to different country standards around the use of commas as decimal points, etc. in your numeric format. Please use periods (‘.’) and not commas (‘,’) as decimal points. Make sure that there are no stray marks in cells outside of your data range. For example, a space entered in a cell in an otherwise empty row or column will cause an error. If you encounter any unexpected issues please {{< var email.emailus >}}. Your data files MUST pass validation before submission.
+::: {.callout-note title="resource"}
+{{< var link.dictionary >}}
+:::
+
+::: {.callout-note title="resource"}
+[**Participant Data template**](https://drive.google.com/file/d/1qGRYyzkJ1Vla4kwDEpClFCu4Opw9dcRB/view?usp=sharing){target="_blank"}<br>
+
+[**Trial Data template**](https://drive.google.com/file/d/135BqqPR9EsK62wo1D5RqvmMPeKu4kcKn/view?usp=drive_link){target="_blank"}
+:::
+
+After preparing your Participant Data and Trial Data files, please use the MB Data Validator to ensure your lab’s data is formatted correctly.
+
+::: {.callout-note title="resource"}
+{{< var link.validator >}}
+:::
+
+***Common issues***: If the validator is rejecting your CSV file, it may be due to different country standards around the use of commas as decimal points, etc. in your numeric format. Please use periods (‘.’) and not commas (‘,’) as decimal points. Make sure that there are no stray marks in cells outside of your data range. For example, a space entered in a cell in an otherwise empty row or column will cause an error. If you encounter any unexpected issues please {{< var email.emailus >}}. Your data files MUST pass validation before submission.
 
 ## Data submission
 
-Once your data files have passed validation, please upload both the Participant Dataand Trial Data files using the MB5 Data Upload form. Please take note of the following: It is essential that both file names include your ManyBabies LabID. Refer to the LabID list here to find your lab’s unique LabID. Use the following naming convention for your Participant and Trial Data files: yourLabID_participant_data.csv (e.g., babylabPrinceton_participant_data.csv) yourLabID_trial_data.csv (e.g., babylabPrinceton_trial_data.csv)
+<p>Once your data files have passed validation, please upload both the Participant Data and Trial Data files using the MB5 Data Upload form.</p> 
+<p>**It is essential that both file names include your ManyBabies LabID.** Refer to the {{< var link.tracker >}} to find your lab’s unique LabID. </p>
+Use the following naming convention for your Participant and Trial Data files: 
+
+- `mb5_yourLabID_participant-data.csv` 
+- `mb5_yourLabID_trial-data.csv` 
+
+::: {.callout-note title="resource"}
+{{< var link.upload >}}
+:::
 
 ### Sharing ‘raw’ data
 
@@ -20,6 +45,6 @@ There are additional considerations for labs submitting eye-tracking data. First
 
 ## Video records of data collection (optional)
 
-If you are sharing videos of your data collection (and this is strongly encouraged, if it’s at all possible given your ethics approval), you can store them in Databrary if you are a member. The naming convention for Databrary volumes is “ManyBabies5: yourLabID” (e.g. “ManyBabies5: babylabPrinceton”). We ask that you use this naming convention so people can easily search for all the ManyBabies-related volumes.
+If you are sharing videos of your data collection (and this is strongly encouraged, if it’s at all possible given your ethics approval), you can store them in Databrary if you are a member. The naming convention for Databrary volumes is `ManyBabies5: yourLabID` (e.g. `ManyBabies5: babylabPrinceton`). We ask that you use this naming convention so people can easily search for all the ManyBabies-related volumes.
 
 # Thank you for being part of ManyBabies 5! {.unnumbered}

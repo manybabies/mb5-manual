@@ -1,8 +1,9 @@
 # Lab participation overview {#sec-laboverview}
 
-::: callout-important
-# These are the steps that every data-collecting lab must follow to participate in {{< var project.number >}}. This is just an OVERVIEW of the process. More detail for each step is available in the linked sections.
+::: {.callout-note title="note"}
+These are the steps that every data-collecting lab must follow to participate in {{< var project.number >}}. This is just an OVERVIEW of the process. More detail for each step is available in the linked sections.
 :::
+
 
 ![MB5 Data Collection map](images/mb5-map.png){#fig-map}
 
@@ -23,9 +24,9 @@
 (@) ### SIGNAL to Project Leads that you are ready to begin testing
 * Fill out the {{< var link.pretest >}} to provide final testing information and let Project Leads know that you are ready for “Green-Lighting”
 
-:::{.callout-important}
-# WAIT! 
-## DO NOT BEGIN DATA COLLECTION (other than piloting) until your lab has been explicitly given the “Green-Light” to do so by the Project Leads. {.mark .unnumbered}
+::: {.callout-note title="important"}
+# WAIT! {.unnumbered}
+### DO NOT BEGIN DATA COLLECTION (other than piloting) until your lab has been explicitly given the “Green-Light” to do so by the Project Leads. 
 
 **Data collected prior to "Green-Lighting" WILL NOT be included in analyses.**
 :::

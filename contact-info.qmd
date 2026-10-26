@@ -2,44 +2,149 @@
 
 ## Contact Info
 
--   <img src="https://manybabies.org/assets/img/mb5-logo.png" width="100px"/> **General inquiries**: {{< var email.support >}}
+::::: {.callout-note title="email"}
+:::: {.columns}
+::: {.column width="3"}
+<img src="https://manybabies.org/assets/img/mb5-logo.png" width="100px">
+:::
+::: {.column width="8"}
+<br>
+<b>General inquiries</b>: {{< var email.support >}}
+:::
+::::
+:::::
 
--   <img src="/images/kosie.png" width="100px" style="border-radius:50%;"/> **Jessica Kosie** (MB5 Project Lead): {{< var email.jessica >}}
 
--   <img src="/images/zettersten.jpeg" width="100px" style="border-radius:50%;"/> **Martin Zettersten** (MB5 Project Lead): {{< var email.martin >}}
+:::: {.callout-note title="email"}
 
--   <img src="/images/lew-williams.jpeg" width="100px" style="border-radius:50%;"/> **Casey Lew-Williams** (MB5 Project Lead): {{< var email.casey >}}
+<div class="row">
+<div class="col-md-3">
+<img src="/images/kosie.png" style="border-radius:50%;width:100px;">
+</div>
+<div class="col-md-9">
 
--   <img src="/images/baumgartner.png" width="100px" style="border-radius:50%;"/> **Heidi Baumgartner** (MB Exec. Director & MB5 Coordinator): {{< var email.heidi >}}
+**MB5 PROJECT LEAD**<br>
+**Jessica Kosie**: {{< var email.jessica >}}
 
-## Group Communication
+</div>
+</div>
 
--   {{< var project.number >}} **Project Listserv**: {{< var email.listserv >}}
+<div class="row">
+<div class="col-md-3">
+<img src="/images/zettersten.jpeg" style="border-radius:50%;width:100px;">
+</div>
+<div class="col-md-9">
 
-    -   ***CAUTION**: sending an email to this address will send it to everyone subscribed to the* {{< var project.number >}} *list; please use judiciously!*
+**MB5 PROJECT LEAD**<br>
+**Martin Zettersten**: {{< var email.martin >}}
 
-    -   **SUBSCRIBE** to the {{< var link.listserv >}} *(click on `Join group` using a google-linked account, or fill out the* <a href="https://docs.google.com/forms/d/e/1FAIpQLSewvzsv3YAwPKCAJmut_X6eVlu7P7TxbGe6vAWwG0CInI4YqA/viewform" target="_blank">MB listserv form</a> *to request to join)*
+</div>
+</div>
 
--   **ManyBabies Slack workspace**: {{< var link.slack >}}
+<div class="row">
+<div class="col-md-3">
+<img src="/images/lew-williams.jpeg" style="border-radius:50%;width:100px;">
+</div>
+<div class="col-md-9">
 
-    -   Join [*`#mb5-general`*](https://manybabies.slack.com/archives/C03U2J2GZ2A), [*`#mb5-data-collection`*](https://manybabies.slack.com/archives/C0AUKJ27YQG), and any other relevant channels (Click on `Add channels` in the left-hand menu).
+**MB5 PROJECT LEAD**<br>
+**Casey Lew-Williams**: {{< var email.casey >}}
+
+</div>
+</div>
+
+
+<div class="row">
+<div class="col-md-3">
+<img src="/images/baumgartner.png" style="border-radius:50%;width:100px;">
+</div>
+<div class="col-md-9">
+
+**MB5 COORDINATOR & MB EXEC. DIR.**<br>
+**Heidi Baumgartner**: {{< var email.heidi >}}
+
+</div>
+</div>
+
+::::
+
 
 ## Important Links
 
--   **{{< var project.number >}} WEBSITE:** {{< var link.projecturl >}} 
+::: {.callout-note title="resource"}
+### MB5 website
 
--   **[{{< var project.number >}} PROJECT TRACKER:** Information about the status of data-collecting labs
+{{< var link.projecturl >}}
+:::
 
--   {{< var link.stage1rr >}}: Peer-reviewed manuscript of study justification and planned procedure/analysis plan (given *In Principle Acceptance* by *Nature Human Behaviour* in March 2024)
+::: {.callout-note title="resource"}
+### {{< var link.tracker >}}
 
--   {{< var link.projectmanual >}}: This document
+Information about the status of data-collecting labs
+:::
 
--   {{< var link.collaboration >}}: Outlines roles/responsibilities, authorship info, and other info all contributors agree to abide by *(can also be found in @sec-collaboration)*
+::: {.callout-note title="resource"}
+### {{< var link.stage1rr >}}
+
+Peer-reviewed manuscript of study justification and planned procedure/analysis plan (given *In Principle Acceptance* by *Nature Human Behaviour* in March 2024)
+:::
+
+::: {.callout-note title="resource"}
+### {{< var link.projectmanual >}}
+
+This document
+:::
+
+::: {.callout-note title="resource"}
+### {{< var link.collaboration >}}
+
+Outlines roles/responsibilities, authorship info, and other info all contributors agree to abide by *(can also be found in @sec-collaboration)*
+:::
+
+::: {.callout-note title="resource"}
+### MB5 Forms {.unnumbered}
 
 -   {{< var link.issue >}}: To report issues (e.g., with data collection, deviations from protocol, etc.) or to request support
-
 -   {{< var link.greenlight >}}: To upload materials required to get a "green light" for data collection (e.g., ethics approval, questionnaire, pilot data)
-
 -   {{< var link.pretest >}}: To provide information about your lab's testing setup and to request final approval to begin data collection
-
 -   {{< var link.upload >}}: To upload experimental data
+:::
+
+
+## Group Communication
+
+:::: {.callout-note title="email"}
+<div class="row">
+<div class="col-md-3">
+<img src="/images/email.png" style="width:100px;">
+</div>
+<div class="col-md-9">
+
+### ManyBabies project listserv
+
+[**SUBSCRIBE**]({{< var url.listserv >}}){target='_blank'} *(click on `Join group` using a google-linked account, or {{< var email.emailus >}} to request to join)*
+
+**POST TO THE LISTSERV:** {{< var email.listserv >}}^[*CAUTION*: sending an email to this address will send it to everyone subscribed to the listserv; please use judiciously! To contact Project Leads, use the "General Inquiries" address above] ^[Must be subscribed to the listserv to post; posts are moderated]
+
+</div>
+</div>
+
+::::
+
+:::: {.callout-note title="resource"}
+
+<div class="row">
+<div class="col-md-3">
+<img src="/images/mb-slack.png" style="width:100px;">
+</div>
+<div class="col-md-9">
+
+### ManyBabies Slack workspace
+{{< var link.slack >}}
+
+</div>
+</div>
+
+Join [*`#mb5-general`*](https://manybabies.slack.com/archives/C03U2J2GZ2A), [*`#mb5-data-collection`*](https://manybabies.slack.com/archives/C0AUKJ27YQG), and any other relevant channels (Click on `Add channels` in the left-hand menu)
+
+::::

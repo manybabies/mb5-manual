@@ -8,8 +8,8 @@ As this process can take time, it is a good idea to **get started on your ethics
 
 [Contact us]({{< var email.mailto >}}) if you need advice or help with obtaining ethics approval.
 
-::: callout-note
-## Umbrella protocols
+::: {.callout-note title="note"}
+### Umbrella protocols
 In some cases, labs will already have approval for {{< var project.number >}} under an “umbrella protocol” (i.e., a protocol that covers multiple studies in one lab). In these cases, the ethics approval should still be uploaded as described below.
 :::
 
@@ -17,10 +17,10 @@ In some cases, labs will already have approval for {{< var project.number >}} un
 
 {{< var project.number >}} (like all ManyBabies projects) asks labs to collect a number of demographic background variables (e.g., *gestational age*, *sex*, *parental education*, *community of descent*) to be shared along with the main experimental data after full de-identification is confirmed (see @sec-demographics for more information). Not all of those variables are part of the main planned analysis. Even so, it is highly relevant to collect them for describing our sample, for follow-up and secondary analyses, and for checking the representativeness of the sample.
 
-::: callout-important
-## Data sharing
+::: {.callout-note title="important"}
+### Data sharing
 
-### Please make sure you have permission to publicly share anonymized/de-identified raw data (including required demographic info), as this is a condition of participation. {.unnumbered}
+#### Please make sure you have permission to publicly share anonymized/de-identified raw data (including required demographic info), as this is a condition of participation. {.unnumbered}
 
 {{< var email.contactus >}} if your ethics board raises concerns about collecting and/or sharing these data.
 :::
@@ -33,8 +33,8 @@ We ***strongly encourage*** labs (where possible) to store and share video recor
 (@) **Ethics approval** in place to upload and/or share recordings. 
 (@) **Specific consent** for this purpose collected from your participant's parent/guardian. 
 
-::: callout-warning
-## Databrary limitations
+::: {.callout-note title="note"}
+### Databrary limitations
 
 We are aware that many laboratories, particularly those based in regions governed by GDPR, may not be allowed by their institutions to use Databrary. In these circumstances, we encourage labs to use alternative methods for sharing their videos where possible ([**email us**]({{< var email.mailto >}}) to discuss options).
 :::

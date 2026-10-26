@@ -7,9 +7,7 @@ All labs must complete a series of preparation steps, referred to by ManyBabies 
 -   successfully running pilot data through the **MB Data Validator**
 -   filling out the {{< var link.pretest >}} to provide lab-level info
 
-::: callout-important
-# IMPORTANT: {.unnumbered}
-
+::: {.callout-note title="important"}
 ## 🚫 <u>DO NOT</u> collect experimental data for {{< var project.number >}} until your lab has completed this process and received a "Green-Light" from the {{< var project.number >}} Project Leads! 🚫 {.unnumbered}
 
 ### Check the {{< var link.tracker >}} to view your lab's status

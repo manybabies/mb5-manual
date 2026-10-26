@@ -2,7 +2,9 @@
 
 ## Training research assistants
 
-You are responsible for implementing rigorous training practices. Research assistants should be held to the same high standards for a ManyBabies project as they would be for your own lab's studies. You are free to have any number of research assistants conduct the test sessions, but please aim for as much coding consistency as possible and document which research assistant tested and/or coded a given baby (using code names such as RA1, RA2, etc. if you wish). You will be asked to report about your standard training practices (e.g., how/when do you determine it’s okay for a research assistant to test real babies).
+<p>Each lab is responsible for implementing rigorous training practices. Research assistants should be held to the same high standards for a ManyBabies project as they would be for your own lab's studies.</p> 
+<p>You are free to have any number of research assistants conduct the test sessions, but please aim for as much coding consistency as possible and document which research assistant tested and/or coded a given baby (using code names such as RA1, RA2, etc. if you wish). </p>
+<p>You will be asked to report about your standard training practices (e.g., how/when do you determine it’s okay for a research assistant to test real babies).</p>
 
 ### Online Coding
 
@@ -12,10 +14,14 @@ If you are using a central screen to gather accumulated looking data for infant-
 
 If you are not using an eyetracker to gather data, then you will need to code the test trials offline.
 
+::: {.callout-note title="resource"}
+MB5 Offline Coding Manual *(coming soon)*
+:::
+
 ## Greeting families
 
 You can greet families, briefly explain the study's purpose and goals in terms understandable to families (avoid technical jargon), obtain informed consent, and conduct the appointment as you normally would. Acknowledge their decision to consider participating and express appreciation for their time. Address potential concerns families might have and answer their questions openly and honestly.
 
 ## Compensating families
 
-You can use your lab’s standard, IRB-approved method for compensating families. This can include providing small gifts, cash, travel reimbursement, taxi rides, or other incentives for participation as you normally would. Participating labs are responsible for compensating their own participants.
+You can use your lab’s standard, IRB-approved method for compensating families. This can include providing small gifts, cash, travel reimbursement, taxi rides, or other incentives for participation as you normally would. **Participating labs are responsible for compensating their own participants.**

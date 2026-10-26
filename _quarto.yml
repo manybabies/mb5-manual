@@ -20,7 +20,9 @@ language:
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: [flatly, resources/scss/global.scss]
+      dark: [darkly, resources/scss/global.scss]
     
   pdf:
     documentclass: scrreprt

@@ -2,10 +2,8 @@
 
 This section covers some basic aspects of the project and steps that your lab will need to complete **BEFORE you set up and run the experiment**.
 
-::: callout-important
-# Green-Lighting
-
-### All labs (regardless of experience) must complete the green-lighting process outlined in the following sections and be given EXPLICIT approval by project leads to begin official data collection.[^getting-started-1]
+::: {.callout-note title="important"}
+#### All labs (regardless of experience) must complete the Green-Lighting process outlined in the following sections and be given EXPLICIT approval by project leads to begin official data collection.[^getting-started-1]
 :::
 
 [^getting-started-1]: Labs are welcome and encouraged to collect pilot data as part of the set-up process before completing the "green-lighting" process, but this data will not be included in the main analyses.

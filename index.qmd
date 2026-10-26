@@ -1,12 +1,3 @@
-<br>
-
-::: callout-important
-# IMPORTANT! {.mark .unnumbered}
-
-# This lab manual is still UNDER DEVELOPMENT! {.unnumbered}
-
-Bear with us as we finalize this document with all of the information your lab will need to successfully collect data for {{< var project.number >}}. In the meantime, feel free to poke around and email us at {{< var email.support >}} if you have any questions or need help.
-:::
 
 ------------------------------------------------------------------------
 
@@ -20,18 +11,20 @@ Bear with us as we finalize this document with all of the information your lab w
 
 # Preface {#sec-preface .unnumbered}
 
-### Thank you for contributing to {{< var link.projectwebsite >}}, a project of {{< var link.mbdotorg >}}!
+**Thank you for contributing to {{< var link.projectwebsite >}}, a project of {{< var link.mbdotorg >}}!**
 
-::: callout-warning
-# PLEASE REVIEW ALL OF THE MATERIAL IN THIS MANUAL CAREFULLY BEFORE DOING ANYTHING ELSE! {.unnumbered}
+::: {.callout-note title="important"}
+### This lab manual is a living document
+
+Please refer to this online version of the manual (rather than printing or saving a PDF) to get the most up-to-date information about the project. You can see when the manual was last updated via the "Published" date above.
+
+**PLEASE REVIEW ALL OF THE MATERIAL IN THIS MANUAL CAREFULLY BEFORE DOING ANYTHING ELSE!**
+
+**🚫 DO NOT BEGIN DATA COLLECTION FOR {{< var project.number >}} UNTIL YOU HAVE COMPLETED THE SET-UP STEPS OUTLINED IN THIS MANUAL AND PROJECT LEADS HAVE GIVEN YOUR LAB A "GREEN-LIGHT"!! 🚫**
 :::
 
-::: callout-important
-# DO NOT BEGIN DATA COLLECTION FOR {{< var project.number >}} UNTIL PROJECT LEADS GIVE YOUR LAB A "GREEN-LIGHT"!! {.unnumbered}
-:::
-
-::: callout-caution
-# TO REPORT AN ISSUE AND/OR SUBMIT A HELP REQUEST, use the {{< var link.issue >}}
+::: {.callout-note title="resource"}
+**TO REPORT AN ISSUE AND/OR SUBMIT A HELP REQUEST, use the {{< var link.issue >}}**
 :::
 
 <br>
@@ -40,13 +33,13 @@ Bear with us as we finalize this document with all of the information your lab w
 
 This manual provides the information needed to participate in {{< var project.name >}}. The manual is divided into five sections ([General information](#sec-generalinfo), [Getting Started](#sec-gettingstarted), [Setting up the experiment](#sec-setup), [Running the experiment](#sec-running) & [After data collection](#sec-aftercollection)). Each section is divided into chapters, which you can jump to using the navigation panel on the left of the screen.
 
-::: callout-caution
+::: {.callout-note title="note"}
 #### Help us improve the manual!
 
 If you find any errors (big or small!) or would like to suggest edits/improvements, we want to hear about it! You can let us know by creating an issue via the {{< var link.manualgithub >}} <i>(click on `Issues` then `New issue`)</i>.
 :::
 
-<br> <br>
+<br>
 
 ## {{< var project.name >}} Overview
 
@@ -54,11 +47,11 @@ If you find any errors (big or small!) or would like to suggest edits/improvemen
 
 ![Hunter and Ames model of infant attention (adapted from Bergmann and Cristia, 2016)](images/HunterAmesFig.png){#fig-hunterames}
 
-<br> <br>
+------------------------------------------------------------------------
 
 ### Acknowledgments
 
-Much of this manual was adapted from the lab manuals created by the MB1, MB2, MB3, and MB4 teams.
+Much of this manual was adapted from the lab manuals created by the MB1, MB2, MB3, and MB4 teams. Some of the style elements have been borrowed/adapted from Experimentology^[Special thanks to Mika Braginsky] [@experimentology2025].
 
 ------------------------------------------------------------------------
 

@@ -33,10 +33,11 @@ You can use an online tool such as this <a href="https://www.calculator.net/age-
 -   **Age**: the infant's age falls within the 3.0- to 15.0-month age range
 -   **No known visual processing impairment**: the infant has no known issues that would directly impede their ability to process visual stimuli
 
-::: callout-tip
-# **Infants with other characteristics that are commonly used as exclusion criteria in developmental studies (e.g., hearing impairment, premature birth, bilingual, etc.) can be included in the sample.**
+::: {.callout-note title="note"}
+### MB5 is inclusive by default
+Infants with other characteristics that are commonly used as exclusion criteria in developmental studies (e.g., hearing impairment, premature birth, bilingual, etc.) can be included in the sample.
 
-Note that the inclusion criteria for MB5 are much more inclusive than previous ManyBabies projects and typical in-lab studies.
+> Note that the inclusion criteria for MB5 are much more inclusive than previous ManyBabies projects and typical in-lab studies.
 :::
 
 Please determine participants’ eligibility on the phone prior to scheduling them in the ManyBabies study to avoid testing ineligible participants. Babies who participate in the study but are subsequently determined to be ineligible based on the criteria above should still be reported in the sample but clearly marked as 'ineligible' based on age or visual processing impairment (see @sec-datareporting for more info).
@@ -56,8 +57,8 @@ Some laboratories have the practice of testing babies in more than one study dur
 
 We will ask you to document your lab's recruitment practices, initial plan regarding how many babies you will run, and stopping rule (e.g., stop when we reach the specified *N*, stop when the study data collection period ends) via the Pre-Test Form. It is important to document any changes to your recruitment/stopping rule with a submission of the {{< var link.issue >}}.
 
-::: callout-important
-# It is critical for the integrity of the data analysis that you NOT make any decisions about how many babies to test based on:
+::: {.callout-note title="important"}
+#### It is critical for the integrity of the data analysis that you DO NOT make any decisions about how many babies to test based on:
 
 -   **the data being generated in your lab, or**
 -   **the number of participant exclusions**

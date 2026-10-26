@@ -10,10 +10,6 @@ For labs unaccustomed to testing infants in a procedure like this, you can use a
 
 [^apparatus-2]: Please {{< var email.emailus >}} if you need guidance.
 
-::: callout-caution
-ADD IN VISUAL ANGLE CALCULATOR INSTRUCTIONS
-:::
-
 We encourage labs to follow their normal procedure for ensuring that parents do not influence their infant's behavior during the experiment. This can include asking parents to wear blacked-out sunglasses, close their eyes, or look down at the infant (and not at the screen).
 
 Stimlui will be presented on the screen according to the specifications in @sec-procedure.
@@ -44,9 +40,19 @@ PUT IN GRAPHIC SHOWING APPARATUS/SET-UP
 
 To maximize accuracy, we encourage labs to use one of the following supported hardware/software options to run the experiment:
 
--   **Eyetracking (Eyelink):** Experiment Builder *\[IN DEVELOPMENT, est. release date: early August 2026\]*
--   **Eyetracking (Tobii):** PsychoPy *\[IN DEVELOPMENT, est. release date: early August 2026\]*
--   **Offline coding:** <a href="https://drive.google.com/drive/folders/18MByu_o8v1WKOEly_snZJlt8-Ip8xtYG?usp=drive_link" target="_blank">PsychoPy Coder</a> <i>(<a href="https://docs.google.com/document/d/1nxaWc40bQQCJFkOsAn3B-46irecrmignpF-HhiVqKWM/edit?usp=drive_link" target="_blank">manual</a>)</i>
+::: {.callout-note title="resource"}
+##### **Eyetracking (Eyelink):** Experiment Builder 
+*\[IN DEVELOPMENT, est. release date: October 2026\]*
+:::
+
+::: {.callout-note title="resource"}
+##### **Eyetracking (Tobii):** PsychoPy 
+*\[IN DEVELOPMENT, est. release date: November 2026\]*
+:::
+
+::: {.callout-note title="resource"}
+##### **Offline coding:** <a href="https://drive.google.com/drive/folders/18MByu_o8v1WKOEly_snZJlt8-Ip8xtYG?usp=drive_link" target="_blank">PsychoPy Coder</a> <i>(<a href="https://docs.google.com/document/d/1nxaWc40bQQCJFkOsAn3B-46irecrmignpF-HhiVqKWM/edit?usp=drive_link" target="_blank">manual</a>)</i>
+:::
 
 Click on the software option you would like to use to access experiment and set-up order files. Let us know as soon as possible if you plan to use an alternative experiment program version not listed above.
 
@@ -54,14 +60,18 @@ Click on the software option you would like to use to access experiment and set-
 
 Each experiment package linked above includes one SET-UP ONLY trial list that your lab should use to set up the experiment and collect pilot/dummy data for green-lighting purposes. As discussed in @sec-orders, each lab will be provided with a custom set of trial orders to use for testing actual participants when that lab has been given a "Green-Light" for tetsing.
 
-::: callout-important
-# TECH SUPPORT
+## Set-up support
 
-#### We encourage you to check the <a href="https://airtable.com/appRoqMKzcK3NsXt4/shr1IgPxsHgYfuyIJ/tbl8ERsO85K9HEgrb" target="_blank">MB5 Issue Tracker table</a> and the {{< var link.slack-data >}} channel in the [MB Slack workspace](https://join.slack.com/t/manybabies/shared_invite/zt-3hv85sl5d-JWzJYourJw8kCttK46l~kw){target="_blank"} to see if other labs have experienced the same issue and if there is a solution provided.
+::: {.callout-note title="important"}
+**TECH SUPPORT**
 
-## \> To get help with experiment set-up issues or to report technical issues to Project Leads, please use the {{< var link.issue >}} {.unnumbered}
+We encourage you to check the <a href="https://airtable.com/appRoqMKzcK3NsXt4/shr1IgPxsHgYfuyIJ/tbl8ERsO85K9HEgrb" target="_blank">MB5 Issue Tracker table</a> and the {{< var link.slack-data >}} channel in the [MB Slack workspace](https://join.slack.com/t/manybabies/shared_invite/zt-3hv85sl5d-JWzJYourJw8kCttK46l~kw){target="_blank"} to see if other labs have experienced the same issue and if there is a solution provided. **When requesting support, please be as detailed as possible in your request so that we can help you solve your issue!**
+:::
 
-## \> To discuss issues and crowdsource support from fellow data-collecting labs, post about your issue in the {{< var link.slack-data >}} Slack channel {.unnumbered}
+::: {.callout-note title="resource"}
+### To get help with experiment set-up issues or to report technical issues to Project Leads, please use the {{< var link.issue >}} {.unnumbered}
+:::
 
-#### Please be as detailed as possible in your request so that we can help you solve your issue!
+::: {.callout-note title="resource"}
+### To discuss issues and crowdsource support from fellow data-collecting labs, post about your issue in the {{< var link.slack-data >}} Slack channel {.unnumbered}
 :::

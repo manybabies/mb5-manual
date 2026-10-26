@@ -4,9 +4,9 @@
     "href": "index.html",
     "title": "Lab Manual for ManyBabies 5: Hunter & Ames Model of Infant Looking Preference",
     "section": "",
-    "text": "Preface",
+    "text": "Preface\nThank you for contributing to ManyBabies 5, a project of ManyBabies!",
     "crumbs": [
-      "IMPORTANT!"
+      "Preface"
     ]
   },
   {
@@ -14,9 +14,9 @@
     "href": "index.html#manual-overview",
     "title": "Lab Manual for ManyBabies 5: Hunter & Ames Model of Infant Looking Preference",
     "section": "Manual Overview",
-    "text": "Manual Overview\nThis manual provides the information needed to participate in ManyBabies 5. The manual is divided into five sections (General information, Getting Started, Setting up the experiment, Running the experiment & After data collection). Each section is divided into chapters, which you can jump to using the navigation panel on the left of the screen.\n\n\n\n\n\n\nHelp us improve the manual!\n\n\n\nIf you find any errors (big or small!) or would like to suggest edits/improvements, we want to hear about it! You can let us know by creating an issue via the MB5 manual github (click on Issues then New issue).",
+    "text": "Manual Overview\nThis manual provides the information needed to participate in ManyBabies 5. The manual is divided into five sections (General information, Getting Started, Setting up the experiment, Running the experiment & After data collection). Each section is divided into chapters, which you can jump to using the navigation panel on the left of the screen.\n\n\n\n\n\n\nnote\n\n\n\nHelp us improve the manual!\nIf you find any errors (big or small!) or would like to suggest edits/improvements, we want to hear about it! You can let us know by creating an issue via the mb5-manual Github repository (click on Issues then New issue).",
     "crumbs": [
-      "IMPORTANT!"
+      "Preface"
     ]
   },
   {
@@ -24,9 +24,9 @@
     "href": "index.html#overview",
     "title": "Lab Manual for ManyBabies 5: Hunter & Ames Model of Infant Looking Preference",
     "section": "ManyBabies 5 Overview",
-    "text": "ManyBabies 5 Overview\nMB5 is a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs. novelty preference through a collaboratively-designed “best test” of a popular model of infants’ visual preference for familiar and novel stimuli (Hunter & Ames, 1988). More details about the background, design and hypotheses can be found in the MB5 Stage 1 Registered Report (Kosie et al., n.d.). In the following sections, we provide instructions for getting ready to run the experiment, implementing the experiment in your lab, and reporting data back to the project as a whole. Thanks for joining us!\n\n\n\n\n\n\nFigure 1: Hunter and Ames model of infant attention (adapted from Bergmann and Cristia, 2016)\n\n\n\n \n\nAcknowledgments\nMuch of this manual was adapted from the lab manuals created by the MB1, MB2, MB3, and MB4 teams.\n\nThis is a  book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n\n\nLicense\nThis work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.\n\n\n\n\n\nHunter, M. A., & Ames, E. W. (1988). A multifactor model of infant preferences for novel and familiar stimuli (pp. 69–95). Ablex Publishing.\n\n\nKosie, J., Zettersten, M., Abu-Zhaya, R., Amso, D., Babineau, M., Baumgartner, H., Bazhydai, M., Belia, M., Benavides, S., Bergmann, C., Berteletti, I., Black, A. K., Borges, P., Borovsky, A., Byers-Heinlein, K., Cabrera, L., Calignano, G., Cao, A., Cox, C. M. M., … Lew-Williams, C. (n.d.). ManyBabies 5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time. https://doi.org/10.31234/osf.io/ck3vd",
+    "text": "ManyBabies 5 Overview\nMB5 is a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs. novelty preference through a collaboratively-designed “best test” of a popular model of infants’ visual preference for familiar and novel stimuli (Hunter & Ames, 1988). More details about the background, design and hypotheses can be found in the MB5 Stage 1 Registered Report (Kosie et al., n.d.). In the following sections, we provide instructions for getting ready to run the experiment, implementing the experiment in your lab, and reporting data back to the project as a whole. Thanks for joining us!\n\n\n\n\n\n\nFigure 1: Hunter and Ames model of infant attention (adapted from Bergmann and Cristia, 2016)\n\n\n\n\n\nAcknowledgments\nMuch of this manual was adapted from the lab manuals created by the MB1, MB2, MB3, and MB4 teams. Some of the style elements have been borrowed/adapted from Experimentology1 (Frank et al., 2025).\n1 Special thanks to Mika Braginsky\nThis is a  book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n\n\nLicense\nThis work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.\n\n\n\n\n\nFrank, M. C., Braginsky, M., Cachia, J., Coles, N. A., Hardwicke, T. E., Hawkins, R. D., Mathur, M. B., & Williams, R. (2025). Experimentology: An Open Science Approach to Experimental Psychology Methods. Stanford University. https://doi.org/10.25936/3JP6-5M50\n\n\nHunter, M. A., & Ames, E. W. (1988). A multifactor model of infant preferences for novel and familiar stimuli (pp. 69–95). Ablex Publishing.\n\n\nKosie, J., Zettersten, M., Abu-Zhaya, R., Amso, D., Babineau, M., Baumgartner, H., Bazhydai, M., Belia, M., Benavides, S., Bergmann, C., Berteletti, I., Black, A. K., Borges, P., Borovsky, A., Byers-Heinlein, K., Cabrera, L., Calignano, G., Cao, A., Cox, C. M. M., … Lew-Williams, C. (n.d.). ManyBabies 5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time. https://doi.org/10.31234/osf.io/ck3vd",
     "crumbs": [
-      "IMPORTANT!"
+      "Preface"
     ]
   },
   {
@@ -40,11 +40,11 @@
     ]
   },
   {
-    "objectID": "lab-overview.html#do-not-begin-data-collection-other-than-piloting-until-your-lab-has-been-explicitly-given-the-green-light-to-do-so-by-the-project-leads.",
-    "href": "lab-overview.html#do-not-begin-data-collection-other-than-piloting-until-your-lab-has-been-explicitly-given-the-green-light-to-do-so-by-the-project-leads.",
+    "objectID": "lab-overview.html",
+    "href": "lab-overview.html",
     "title": "1  Lab participation overview",
-    "section": "DO NOT BEGIN DATA COLLECTION (other than piloting) until your lab has been explicitly given the “Green-Light” to do so by the Project Leads.",
-    "text": "DO NOT BEGIN DATA COLLECTION (other than piloting) until your lab has been explicitly given the “Green-Light” to do so by the Project Leads.\nData collected prior to “Green-Lighting” WILL NOT be included in analyses.",
+    "section": "",
+    "text": "note\n\n\n\nThese are the steps that every data-collecting lab must follow to participate in MB5. This is just an OVERVIEW of the process. More detail for each step is available in the linked sections.\n\n\n\n\n\n\n\n\nFigure 1.1: MB5 Data Collection map\n\n\n\n\nBEFORE you do ANYTHING else:\n\n\nRead this manual start to finish, including the MB5 Collaboration Agreement\nReview the ManyBabies General Manual, especially the ManyBabies Code of Conduct and information regarding ethical research, authorship, data sharing, and data use\nBY PARTICIPATING IN THIS PROJECT, YOU AGREE TO ABIDE BY THE TERMS OUTLINED IN THESE DOCUMENTS\nComplete the MB5 Sign-Up Form\n\n\nPREPARE study materials (Getting Started, Setting up the Experiment)\n\n\nSubmit the versions of the demographics questionnaire (see Chapter 7) and object experience questionnaire (see Chapter 8) your lab will be using, your lab’s ethics approval (see Chapter 9), and any other relevant documentation/materials\nSet up the experiment in consultation with this lab manual\nCreate and submit your walkthrough video (see Chapter 10)\nRun pilot data through the ManyBabies Data Validator and submit (see Chapter 15)\n\n\nSIGNAL to Project Leads that you are ready to begin testing\n\n\nFill out the MB5 Pre-Test Form to provide final testing information and let Project Leads know that you are ready for “Green-Lighting”\n\n\n\n\n\n\n\nimportant\n\n\n\nWAIT!\n\nDO NOT BEGIN DATA COLLECTION (other than piloting) until your lab has been explicitly given the “Green-Light” to do so by the Project Leads.\nData collected prior to “Green-Lighting” WILL NOT be included in analyses.\n\n\n\n\nCOLLECT DATA:\n\n\nONLY AFTER YOUR LAB HAS BEEN GIVEN A “GREEN-LIGHT”: Collect your data following the guidelines in the Running the experiment section\n\n\nSUBMIT DATA:\n\n\nCompile your participant and trial data files in consultation with data reporting guidelines (see Chapter 20 and Chapter 21)\nVerify your data files using the ManyBabies Data Validator (see Chapter 15)\nSubmit your data using the MB5 Data Upload Form (see Chapter 22)\nReport individual contributions using the MB Contribution Reporting Form",
     "crumbs": [
       "General information",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Lab participation overview</span>"
@@ -55,18 +55,7 @@
     "href": "collab-agreement.html",
     "title": "2  MB5 Collaboration Agreement",
     "section": "",
-    "text": "Changes to this Collaboration Agreement\nAll ManyBabies projects have a Collaboration Agreement, which is a document that outlines the anticipated products, roles and responsibilities, and planned authorship model for publications. This agreement is intended to provide clarity and transparency for all contributors. If you have questions about this agreement or would like to suggest an amendment, please contact the Project Leads.\nAs the project evolves, changes may be made to this collaboration agreement. In those instances, all collaborators will be notified of the change via project listserv and a list of recent changes will be listed at the top of the document. Contributors will have one week from the time of notice to object to changes, and all reasonable efforts will be made by Project Leads to address any concerns/objections. If such concerns cannot be resolved through discussion and/or mediation, the MB Governing Board will have final discretion.",
-    "crumbs": [
-      "General information",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>MB5 Collaboration Agreement</span>"
-    ]
-  },
-  {
-    "objectID": "collab-agreement.html#by-participating-in-you-agree-to-abide-by-the-collaboration-agreement.",
-    "href": "collab-agreement.html#by-participating-in-you-agree-to-abide-by-the-collaboration-agreement.",
-    "title": "2  MB5 Collaboration Agreement",
-    "section": "By participating in ManyBabies 5, you agree to abide by the MB5 Collaboration Agreement.",
-    "text": "By participating in ManyBabies 5, you agree to abide by the MB5 Collaboration Agreement.",
+    "text": "important\n\n\n\nBY PARTICIPATING IN MB5, YOU AGREE TO ABIDE BY THIS MB5 COLLABORATION AGREEMENT\n\n\nAll ManyBabies projects have a Collaboration Agreement, which is a document that outlines the anticipated products, roles and responsibilities, and planned authorship model for publications. This agreement is intended to provide clarity and transparency for all contributors. If you have questions about this agreement or would like to suggest an amendment, please contact the Project Leads.\n\n\n\n\n\n\n\nresource\n\n\n\nMB5 Collaboration Agreement",
     "crumbs": [
       "General information",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>MB5 Collaboration Agreement</span>"
@@ -88,18 +77,7 @@
     "href": "contact-info.html#contact-info",
     "title": "3  Contact info and important links",
     "section": "",
-    "text": "General inquiries: mb5@manybabies.org\n Jessica Kosie (MB5 Project Lead): jkosie@asu.edu\n Martin Zettersten (MB5 Project Lead): mzettersten@ucsd.edu\n Casey Lew-Williams (MB5 Project Lead): caseylw@princeton.edu\n Heidi Baumgartner (MB Exec. Director & MB5 Coordinator): heidib@manybabies.org",
-    "crumbs": [
-      "General information",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Contact info and important links</span>"
-    ]
-  },
-  {
-    "objectID": "contact-info.html#group-communication",
-    "href": "contact-info.html#group-communication",
-    "title": "3  Contact info and important links",
-    "section": "3.2 Group Communication",
-    "text": "3.2 Group Communication\n\nMB5 Project Listserv: mb5-list@manybabies.org\n\nCAUTION: sending an email to this address will send it to everyone subscribed to the MB5 list; please use judiciously!\nSUBSCRIBE to the MB5 listserv (click on Join group using a google-linked account, or fill out the MB listserv form to request to join)\n\nManyBabies Slack workspace: Join the MB Slack Workspace\n\nJoin #mb5-general, #mb5-data-collection, and any other relevant channels (Click on Add channels in the left-hand menu).",
+    "text": "email\n\n\n\n\n\n\n\n General inquiries: mb5@manybabies.org\n\n\n\n\n\n\n\n\n\n\nemail\n\n\n\n\n\n\n\n\nMB5 PROJECT LEAD Jessica Kosie: jkosie@asu.edu\n\n\n\n\n\n\n\nMB5 PROJECT LEAD Martin Zettersten: mzettersten@ucsd.edu\n\n\n\n\n\n\n\nMB5 PROJECT LEAD Casey Lew-Williams: caseylw@princeton.edu\n\n\n\n\n\n\n\nMB5 COORDINATOR & MB EXEC. DIR. Heidi Baumgartner: heidib@manybabies.org",
     "crumbs": [
       "General information",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Contact info and important links</span>"
@@ -109,8 +87,19 @@
     "objectID": "contact-info.html#important-links",
     "href": "contact-info.html#important-links",
     "title": "3  Contact info and important links",
-    "section": "3.3 Important Links",
-    "text": "3.3 Important Links\n\nMB5 WEBSITE: manybabies.org/MB5\n[MB5 PROJECT TRACKER: Information about the status of data-collecting labs\nMB5 Stage 1 Registered Report: Peer-reviewed manuscript of study justification and planned procedure/analysis plan (given In Principle Acceptance by Nature Human Behaviour in March 2024)\nMB5 Lab Manual: This document\nCollaboration Agreement: Outlines roles/responsibilities, authorship info, and other info all contributors agree to abide by (can also be found in Chapter 2)\nMB5 Issue Tracking and Support Request Form: To report issues (e.g., with data collection, deviations from protocol, etc.) or to request support\nMB5 Green-Lighting Form: To upload materials required to get a “green light” for data collection (e.g., ethics approval, questionnaire, pilot data)\nMB5 Pre-Test Form: To provide information about your lab’s testing setup and to request final approval to begin data collection\nMB5 Data Upload Form: To upload experimental data",
+    "section": "3.2 Important Links",
+    "text": "3.2 Important Links\n\n\n\n\n\n\nresource\n\n\n\nMB5 website\nmanybabies.org/MB5\n\n\n\n\n\n\n\n\nresource\n\n\n\nMB5 Project Tracker\nInformation about the status of data-collecting labs\n\n\n\n\n\n\n\n\nresource\n\n\n\nMB5 Stage 1 Registered Report\nPeer-reviewed manuscript of study justification and planned procedure/analysis plan (given In Principle Acceptance by Nature Human Behaviour in March 2024)\n\n\n\n\n\n\n\n\nresource\n\n\n\nMB5 Lab Manual\nThis document\n\n\n\n\n\n\n\n\nresource\n\n\n\nMB5 Collaboration Agreement\nOutlines roles/responsibilities, authorship info, and other info all contributors agree to abide by (can also be found in Chapter 2)\n\n\n\n\n\n\n\n\nresource\n\n\n\nMB5 Forms\n\nMB5 Issue Tracking and Support Request Form: To report issues (e.g., with data collection, deviations from protocol, etc.) or to request support\nMB5 Green-Lighting Form: To upload materials required to get a “green light” for data collection (e.g., ethics approval, questionnaire, pilot data)\nMB5 Pre-Test Form: To provide information about your lab’s testing setup and to request final approval to begin data collection\nMB5 Data Upload Form: To upload experimental data",
+    "crumbs": [
+      "General information",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Contact info and important links</span>"
+    ]
+  },
+  {
+    "objectID": "contact-info.html#group-communication",
+    "href": "contact-info.html#group-communication",
+    "title": "3  Contact info and important links",
+    "section": "3.3 Group Communication",
+    "text": "3.3 Group Communication\n\n\n\n\n\n\nemail\n\n\n\n\n\n\n\n\nManyBabies project listserv\nSUBSCRIBE (click on Join group using a google-linked account, or email us to request to join)\nPOST TO THE LISTSERV: mb5-list@manybabies.org1 2\n\n\n\n\n2 Must be subscribed to the listserv to post; posts are moderated1 CAUTION: sending an email to this address will send it to everyone subscribed to the listserv; please use judiciously! To contact Project Leads, use the “General Inquiries” address above\n\n\n\n\n\nresource\n\n\n\n\n\n\n\n\nManyBabies Slack workspace\nJoin the MB Slack Workspace\n\n\nJoin #mb5-general, #mb5-data-collection, and any other relevant channels (Click on Add channels in the left-hand menu)",
     "crumbs": [
       "General information",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Contact info and important links</span>"
@@ -121,18 +110,7 @@
     "href": "project-tracker.html",
     "title": "4  MB5 Project Tracker",
     "section": "",
-    "text": "MB5 PROJECT TRACKER\nVIEW THE MB5 PROJECT TRACKER ON THE MB5 WEBSITE or FULL SCREEN\nNote: Default view is alphabetical by “LabID”. You can filter, sort, or search records using the icons in the toolbar. Scroll to the right to view all columns.",
-    "crumbs": [
-      "General information",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>MB5 Project Tracker</span>"
-    ]
-  },
-  {
-    "objectID": "project-tracker.html#mb5-project-tracker",
-    "href": "project-tracker.html#mb5-project-tracker",
-    "title": "4  MB5 Project Tracker",
-    "section": "",
-    "text": "MB5 Lab Sign-Up form: Sign up for MB5 data collection or update planned testing info\nMB5 Green-Lighting form: Upload study materials (e.g., ethics approval, walkthrough video)\nMB5 Data Upload form: Upload data\n\n\nNote: Responses to these forms are moderated, so updates might not appear on the tracker immediately. Thank you for your patience!",
+    "text": "resource\n\n\n\nView the MB5 Project Tracker on the MB5 website or full screen\n\n\n\nNote: Default view is alphabetical by “LabID”. You can filter, sort, or search records using the icons in the toolbar. Scroll to the right to view all columns.\n\n\n\n\nMB5 Sign-Up Form: Sign up for MB5 data collection or update planned testing info\nMB5 Green-Lighting Form: Upload study materials (e.g., ethics approval, walkthrough video)\nMB5 Pre-Test Form: Share lab testing information and request a Green-Light for testing\nMB5 Data Upload Form: Upload data\n\n\nNote: Responses to these forms are moderated, so updates might not appear on the tracker immediately. If you think your lab’s information is incorrect, please email us.",
     "crumbs": [
       "General information",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>MB5 Project Tracker</span>"
@@ -143,7 +121,18 @@
     "href": "test-dates.html",
     "title": "5  Data collection period",
     "section": "",
-    "text": "DO NOT BEGIN DATA COLLECTION FOR MB5 UNTIL PROJECT LEADS GIVE YOUR LAB A “GREEN-LIGHT”!!\n\n\n\n\n\n\nMB5 data collection is scheduled to run between the following dates:\n\nStart Date: 2026-06-01 (Approx.)\n\n\nEnd Date: 2027-06-31 (Approx.)\n\nIt is essential that all participating labs do their best to collect data prior to the end date. However, we understand that there may be disruptions to data collection for various reasons.\nIf you are having trouble meeting this deadline, please alert the Project Leads (mb5@manybabies.org) as soon as possible to discuss options.\n\nLabs may join MB5 data collection any time during the data collection period, provided they:\n\ncommit to completing data collection by the specified end date, AND\nobtain a formal “Green Light” for testing from the Project Leads (see Chapter 6)",
+    "text": "Start Date: 2026-10-15 (Approx.)\nMB5 data collection is scheduled to run between the following dates:",
+    "crumbs": [
+      "General information",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Data collection period</span>"
+    ]
+  },
+  {
+    "objectID": "test-dates.html#do-not-begin-data-collection-for-until-project-leads-give-your-lab-a-green-light",
+    "href": "test-dates.html#do-not-begin-data-collection-for-until-project-leads-give-your-lab-a-green-light",
+    "title": "5  Data collection period",
+    "section": "DO NOT BEGIN DATA COLLECTION FOR MB5 UNTIL PROJECT LEADS GIVE YOUR LAB A “GREEN-LIGHT”!!",
+    "text": "DO NOT BEGIN DATA COLLECTION FOR MB5 UNTIL PROJECT LEADS GIVE YOUR LAB A “GREEN-LIGHT”!!",
     "crumbs": [
       "General information",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Data collection period</span>"
@@ -154,7 +143,7 @@
     "href": "getting-started.html",
     "title": "Getting started",
     "section": "",
-    "text": "This section covers some basic aspects of the project and steps that your lab will need to complete BEFORE you set up and run the experiment.\n\n\n\n\n\n\nGreen-Lighting\n\n\n\nAll labs (regardless of experience) must complete the green-lighting process outlined in the following sections and be given EXPLICIT approval by project leads to begin official data collection.1\n\n\n1 Labs are welcome and encouraged to collect pilot data as part of the set-up process before completing the “green-lighting” process, but this data will not be included in the main analyses.Use the arrows to continue through the sections, or jump to a section using the links below.\n\n6  Green-Lighting process overview\n7  Demographics questionnaire\n8  Object Experience questionnaire\n9  Ethics approval\n10  Walkthrough videos",
+    "text": "This section covers some basic aspects of the project and steps that your lab will need to complete BEFORE you set up and run the experiment.\n\n\n\n\n\n\nimportant\n\n\n\nAll labs (regardless of experience) must complete the Green-Lighting process outlined in the following sections and be given EXPLICIT approval by project leads to begin official data collection.1\n\n\n1 Labs are welcome and encouraged to collect pilot data as part of the set-up process before completing the “green-lighting” process, but this data will not be included in the main analyses.Use the arrows to continue through the sections, or jump to a section using the links below.\n\n6  Green-Lighting process overview\n7  Demographics questionnaire\n8  Object Experience questionnaire\n9  Ethics approval\n10  Walkthrough videos",
     "crumbs": [
       "Getting started"
     ]
@@ -197,7 +186,7 @@
     "href": "demographics.html#collecting-participant-information",
     "title": "7  Demographics questionnaire",
     "section": "",
-    "text": "1 See below for more information on adapting/translating the template2 See Singh et al. (2024) for more information on the development of the template\n\n\n\n\n\n\nCHECK FOR MISSING DATA\n\n\n\nWhile parents/guardians can choose to not respond to individual questions, please CHECK THE FORM BEFORE THE RESPONDANT LEAVES YOUR LAB to avoid accidental blank responses/missing data.3\n\n\n3 In other words, please confirm that blank items are intentional non-responses rather than mistakes (e.g., respondent didn’t understand what the question was asking, didn’t know the questionnaire form continued on the next page, etc.).",
+    "text": "1 See below for more information on adapting/translating the template2 See Singh et al. (2024) for more information on the development of the template\n\n\n\n\n\n\ncaution\n\n\n\nCHECK FOR MISSING DATA\nWhile parents/guardians can choose to not respond to individual questions, please CHECK THE FORM BEFORE THE RESPONDANT LEAVES YOUR LAB to avoid accidental blank responses/missing data.3\n\n\n3 In other words, please confirm that blank items are intentional non-responses rather than mistakes (e.g., respondent didn’t understand what the question was asking, didn’t know the questionnaire form continued on the next page, etc.).",
     "crumbs": [
       "Getting started",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Demographics questionnaire</span>"
@@ -208,18 +197,29 @@
     "href": "demographics.html#translations-and-adaptations",
     "title": "7  Demographics questionnaire",
     "section": "7.2 Translations and adaptations",
-    "text": "7.2 Translations and adaptations\nWe have created an English-language version template that is suited for a United States context (mb5_demographics-questionnaire_english-US-template). We recognize that the specific questions/response options in this template are not appropriate for all contexts.\nWe encourage labs to translate and/or adapt the questionnaire template as needed, while keeping in mind the goal of querying the same constructs included in the original template to ensure consistency in reporting. For example, the question on race/ethnicity can be adapted to meet the norms of your region. If possible, please use racial/ethnic categories taken from local census categories. For countries where it is not considered socially or legally acceptable to inquire about ethnic background, please adapt to a more appropriate question (e.g., parent and child place of birth), if possible.\nThere is much more information and guidance regarding adapting the questionnaire in the MB Demographics paper4. If you have any questions about adapting the questionnaire, please email us to discuss your concerns. Let us know if any of the questions are unclear to you—it is important that you are able to answer any questions parents/guardians may have.\n4 Singh et al. (2024)\n\n\n\n\n\nNote about translations/adaptations\n\n\n\nTranslations/adaptations of the MB5 Demographics Questionnaire will be available in the Demographics Questionnaire Directory (below) as they become available.5\n\nWe are unable to centrally verify the accuracy of all translations/adaptations. Labs are responsible for reviewing adaptations to ensure that items are appropriate for their context and query the constructs in the original template. Labs are encouraged to work with others in their geographic region to create context-appropriate versions of the questionnaire.\n\n\n\n5 Existing translations/adaptations of the original MB-Demographics template are available via the MB-Demographics OSF repository.",
+    "text": "7.2 Translations and adaptations\nWe have created an English-language version template that is suited for a United States context (mb5_demographics-questionnaire_english-US-template). We recognize that the specific questions/response options in this template are not appropriate for all contexts.\nWe encourage labs to translate and/or adapt the questionnaire template as needed, while keeping in mind the goal of querying the same constructs included in the original template to ensure consistency in reporting. For example, the question on race/ethnicity can be adapted to meet the norms of your region. If possible, please use racial/ethnic categories taken from local census categories. For countries where it is not considered socially or legally acceptable to inquire about ethnic background, please adapt to a more appropriate question (e.g., parent and child place of birth), if possible.\nThere is much more information and guidance regarding adapting the questionnaire in the MB Demographics paper4. If you have any questions about adapting the questionnaire, please email us to discuss your concerns. Let us know if any of the questions are unclear to you—it is important that you are able to answer any questions parents/guardians may have.\n4 Singh et al. (2024)\n\n\n\n\n\nnote\n\n\n\nNote about translations/adaptations\nTranslations/adaptations of the MB5 Demographics Questionnaire will be available in the Demographics Questionnaire Directory (below) as they become available.5\n\nWe are unable to centrally verify the accuracy of all translations/adaptations. Labs are responsible for reviewing adaptations to ensure that items are appropriate for their context and query the constructs in the original template. Labs are encouraged to work with others in their geographic region to create context-appropriate versions of the questionnaire. If you have questions about translations/adaptations, please email us.\n\n\n\n5 Existing translations/adaptations of the original MB-Demographics template are available via the MB-Demographics OSF repository.",
     "crumbs": [
       "Getting started",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Demographics questionnaire</span>"
     ]
   },
   {
-    "objectID": "demographics.html#demographics-questionnaire-directory",
-    "href": "demographics.html#demographics-questionnaire-directory",
+    "objectID": "demographics.html#note-about-translationsadaptations",
+    "href": "demographics.html#note-about-translationsadaptations",
+    "title": "7  Demographics questionnaire",
+    "section": "Note about translations/adaptations",
+    "text": "Note about translations/adaptations\nTranslations/adaptations of the MB5 Demographics Questionnaire will be available in the Demographics Questionnaire Directory (below) as they become available.5\n\nWe are unable to centrally verify the accuracy of all translations/adaptations. Labs are responsible for reviewing adaptations to ensure that items are appropriate for their context and query the constructs in the original template. Labs are encouraged to work with others in their geographic region to create context-appropriate versions of the questionnaire. If you have questions about translations/adaptations, please email us.",
+    "crumbs": [
+      "Getting started",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Demographics questionnaire</span>"
+    ]
+  },
+  {
+    "objectID": "demographics.html#mb5-demographics-questionnaire-directory",
+    "href": "demographics.html#mb5-demographics-questionnaire-directory",
     "title": "7  Demographics questionnaire",
     "section": "7.3 MB5 Demographics Questionnaire Directory",
-    "text": "7.3 MB5 Demographics Questionnaire Directory\n\nPlease refer to the “README” file in this directory for more information on using/translating/adapting templates.",
+    "text": "7.3 MB5 Demographics Questionnaire Directory\n\n\n\n\n\n\nresource\n\n\n\nMB5 Demographics Questionnaire Directory\n\nPlease refer to the “README” file in this directory for more information on using/translating/adapting templates.",
     "crumbs": [
       "Getting started",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Demographics questionnaire</span>"
@@ -230,7 +230,7 @@
     "href": "demographics.html#uploading-the-demographics-questionnaire",
     "title": "7  Demographics questionnaire",
     "section": "7.4 Uploading the demographics questionnaire",
-    "text": "7.4 Uploading the demographics questionnaire\nAll labs must upload a blank copy of the Demographics Questionnaire they will be using for MB5 via the MB5 Green-Lighting Form (even if you are using the provided template with no modifications!).\nPlease ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g. mb5_babylabPrinceton_demographics.pdf). Check the list of LabIDs to confirm your lab’s unique LabID before uploading.\n\n\n\n\nSingh, L., Barokova, M. D., Baumgartner, H. A., Lopera-Perez, D. C., Omane, P. O., Sheskin, M., Yuen, F. L., Wu, Y., Alcock, K. J., Altmann, E. C., Bazhydai, M., Carstensen, A., Chan, K. C. J., Chuan-Peng, H., Dal Ben, R., Franchin, L., Kosie, J. E., Lew-Williams, C., Okocha, A., … Frank, M. C. (2024). A unified approach to demographic data collection for research with young children across diverse cultures. Developmental Psychology, 60. https://doi.org/10.1037/dev0001623",
+    "text": "7.4 Uploading the demographics questionnaire\nAll labs must upload a blank copy of the Demographics Questionnaire they will be using for MB5 via the MB5 Green-Lighting Form (even if you are using the provided template with no modifications!).\nPlease ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g. mb5_babylabPrinceton_demographics.pdf). Check the list of MB LabIDs to confirm your lab’s unique LabID before uploading.\n\n\n\n\nSingh, L., Barokova, M. D., Baumgartner, H. A., Lopera-Perez, D. C., Omane, P. O., Sheskin, M., Yuen, F. L., Wu, Y., Alcock, K. J., Altmann, E. C., Bazhydai, M., Carstensen, A., Chan, K. C. J., Chuan-Peng, H., Dal Ben, R., Franchin, L., Kosie, J. E., Lew-Williams, C., Okocha, A., … Frank, M. C. (2024). A unified approach to demographic data collection for research with young children across diverse cultures. Developmental Psychology, 60. https://doi.org/10.1037/dev0001623",
     "crumbs": [
       "Getting started",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Demographics questionnaire</span>"
@@ -241,7 +241,7 @@
     "href": "objects.html",
     "title": "8  Object Experience questionnaire",
     "section": "",
-    "text": "8.1 Adaptations and translations\nAlthough the visual stimuli for this study are completely novel, we would like to get a measure of if infants have any experience with objects similar to the ManyFractals and ManyFribbles used in the experiment.\nPlease use an appropriate version of the MB5 Object Experience Questionnaire to collect information about participants’ experience with objects similar to the visual stimuli used in the study.\nWe have created an English-language version of the Object Experience Questionnaire (mb5_obj-exp-questionnaire_english). If you are collecting data in a language other than English, please do your best to translate the questionnaire so that you are querying the same constructs as the template.\nIf you have any questions about translating the questionnaire, please email us to discuss your concerns. Let us know if any of the questions are unclear to you—it is important that you are able to answer any questions parents/guardians may have.",
+    "text": "8.1 Adaptations and translations\nAlthough the visual stimuli for this study are completely novel, we would like to get a measure of if infants have any experience with objects similar to the ManyFractals and ManyFribbles used in the experiment.\nPlease use an appropriate version of the MB5 Object Experience Questionnaire to collect information about participants’ experience with objects similar to the visual stimuli used in the study.\nWe have created an English-language version of the Object Experience Questionnaire (mb5_obj-exp-questionnaire_english). If you are collecting data in a language other than English, please do your best to translate the questionnaire so that you are querying the same constructs as the template.\nLet us know if any of the questions are unclear to you—it is important that you are able to answer any questions parents/guardians may have.",
     "crumbs": [
       "Getting started",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Object Experience questionnaire</span>"
@@ -251,8 +251,19 @@
     "objectID": "objects.html#adaptations-and-translations",
     "href": "objects.html#adaptations-and-translations",
     "title": "8  Object Experience questionnaire",
+    "section": "Note about translations/adaptations",
+    "text": "note\n\n\n\nNote about translations/adaptations\nTranslations/adaptations of the MB5 Object Experience Questionnaire will be available in the Object Experience Questionnaire Directory (below) as they become available.\n\nWe are unable to centrally verify the accuracy of all translations/adaptations. Labs are responsible for reviewing adaptations to ensure that they are appropriate for their context and query the constructs in the original template. Labs are encouraged to work with others in their geographic region to create a context-appropriate version of the questionnaire. If you have questions about translations/adaptations, please email us.",
+    "crumbs": [
+      "Getting started",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Object Experience questionnaire</span>"
+    ]
+  },
+  {
+    "objectID": "objects.html#note-about-translationsadaptations",
+    "href": "objects.html#note-about-translationsadaptations",
+    "title": "8  Object Experience questionnaire",
     "section": "",
-    "text": "Note about translations/adaptations\n\n\n\nTranslations/adaptations of the MB5 Object Experience Questionnaire will be available in the Object Experience Questionnaire Directory (below) as they become available.\n\nWe are unable to centrally verify the accuracy of all translations/adaptations. Labs are responsible for reviewing adaptations to ensure that they are appropriate for their context and query the constructs in the original template. Labs are encouraged to work with others in their geographic region to create a context-appropriate version of the questionnaire.",
+    "text": "Translations/adaptations of the MB5 Object Experience Questionnaire will be available in the Object Experience Questionnaire Directory (below) as they become available.\n\nWe are unable to centrally verify the accuracy of all translations/adaptations. Labs are responsible for reviewing adaptations to ensure that they are appropriate for their context and query the constructs in the original template. Labs are encouraged to work with others in their geographic region to create a context-appropriate version of the questionnaire. If you have questions about translations/adaptations, please email us.",
     "crumbs": [
       "Getting started",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Object Experience questionnaire</span>"
@@ -263,7 +274,7 @@
     "href": "objects.html#object-experience-questionnaire-directory",
     "title": "8  Object Experience questionnaire",
     "section": "8.2 MB5 Object Experience Questionnaire Directory",
-    "text": "8.2 MB5 Object Experience Questionnaire Directory\n\nWe have provided the template (mb5_obj-exp-questionnaire_english) as a document and as a Google form.",
+    "text": "8.2 MB5 Object Experience Questionnaire Directory\n\n\n\n\n\n\nresource\n\n\n\nMB5 Object Experience Questionnaire Directory\n\nWe have provided the template (mb5_obj-exp-questionnaire_english) as a document and as a Google form.",
     "crumbs": [
       "Getting started",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Object Experience questionnaire</span>"
@@ -274,7 +285,7 @@
     "href": "objects.html#uploading-the-object-experience-questionnaire",
     "title": "8  Object Experience questionnaire",
     "section": "8.3 Uploading the Object Experience Questionnaire",
-    "text": "8.3 Uploading the Object Experience Questionnaire\nIf you make ANY changes to the provided template, please upload a blank copy of the Object Experience Questionnaire your lab will be using via the MB5 Green-Lighting Form. (If you do not upload a version of the questionnaire, we will assume you are using mb5_obj-exp-questionnaire_english).\nPlease ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g. mb5_babylabPrinceton_obj-exp-questionnaire.pdf). Check the list of LabIDs to confirm your lab’s unique LabID before uploading.",
+    "text": "8.3 Uploading the Object Experience Questionnaire\nIf you make ANY changes to the provided template, please upload a blank copy of the Object Experience Questionnaire your lab will be using via the MB5 Green-Lighting Form. (If you do not upload a version of the questionnaire, we will assume you are using mb5_obj-exp-questionnaire_english).\nPlease ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g. mb5_babylabPrinceton_obj-exp-questionnaire.pdf). Check the list of MB LabIDs to confirm your lab’s unique LabID before uploading.",
     "crumbs": [
       "Getting started",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Object Experience questionnaire</span>"
@@ -296,7 +307,7 @@
     "href": "ethics.html#overview",
     "title": "9  Ethics approval",
     "section": "",
-    "text": "All data-collecting labs are required to obtain ethics approval from their local oversight board (e.g., IRB)1 to collect data for MB5.\nAs this process can take time, it is a good idea to get started on your ethics approval application as soon as possible. Approvals must be in place and a copy submitted (via the process described below) before you can obtain a Green-Light to collect data. An example ethics protocol can be viewed here.2 Additional protocols shared with us can be found in the MB5 Project Tracker.3\n2 This protocol was prepared for the ethics board at Arizona State University in the United States, and therefore some of the information might not be applicable for all contexts.3 Scroll to the right to view the “Ethics protocol” columnContact us if you need advice or help with obtaining ethics approval.\n\n\n\n\n\n\nUmbrella protocols\n\n\n\nIn some cases, labs will already have approval for MB5 under an “umbrella protocol” (i.e., a protocol that covers multiple studies in one lab). In these cases, the ethics approval should still be uploaded as described below.\n\n\n\n1 If your lab/institution does not have a formal ethics oversight board, please refer to MB’s general ethics guidance and contact the Project Leads to confirm ethics compliance.",
+    "text": "All data-collecting labs are required to obtain ethics approval from their local oversight board (e.g., IRB)1 to collect data for MB5.\nAs this process can take time, it is a good idea to get started on your ethics approval application as soon as possible. Approvals must be in place and a copy submitted (via the process described below) before you can obtain a Green-Light to collect data. An example ethics protocol can be viewed here.2 Additional protocols shared with us can be found in the MB5 Project Tracker.3\n2 This protocol was prepared for the ethics board at Arizona State University in the United States, and therefore some of the information might not be applicable for all contexts.3 Scroll to the right to view the “Ethics protocol” columnContact us if you need advice or help with obtaining ethics approval.\n\n\n\n\n\n\nnote\n\n\n\nUmbrella protocols\nIn some cases, labs will already have approval for MB5 under an “umbrella protocol” (i.e., a protocol that covers multiple studies in one lab). In these cases, the ethics approval should still be uploaded as described below.\n\n\n\n1 If your lab/institution does not have a formal ethics oversight board, please refer to MB’s general ethics guidance and contact the Project Leads to confirm ethics compliance.",
     "crumbs": [
       "Getting started",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Ethics approval</span>"
@@ -307,7 +318,7 @@
     "href": "ethics.html#permission-to-collectshare-demographic-data",
     "title": "9  Ethics approval",
     "section": "9.2 Permission to collect/share demographic data",
-    "text": "9.2 Permission to collect/share demographic data\nMB5 (like all ManyBabies projects) asks labs to collect a number of demographic background variables (e.g., gestational age, sex, parental education, community of descent) to be shared along with the main experimental data after full de-identification is confirmed (see Chapter 7 for more information). Not all of those variables are part of the main planned analysis. Even so, it is highly relevant to collect them for describing our sample, for follow-up and secondary analyses, and for checking the representativeness of the sample.\n\n\n\n\n\n\nData sharing\n\n\n\nPlease make sure you have permission to publicly share anonymized/de-identified raw data (including required demographic info), as this is a condition of participation.\nContact us if your ethics board raises concerns about collecting and/or sharing these data.",
+    "text": "9.2 Permission to collect/share demographic data\nMB5 (like all ManyBabies projects) asks labs to collect a number of demographic background variables (e.g., gestational age, sex, parental education, community of descent) to be shared along with the main experimental data after full de-identification is confirmed (see Chapter 7 for more information). Not all of those variables are part of the main planned analysis. Even so, it is highly relevant to collect them for describing our sample, for follow-up and secondary analyses, and for checking the representativeness of the sample.\n\n\n\n\n\n\nimportant\n\n\n\nData sharing\n\nPlease make sure you have permission to publicly share anonymized/de-identified raw data (including required demographic info), as this is a condition of participation.\nContact us if your ethics board raises concerns about collecting and/or sharing these data.",
     "crumbs": [
       "Getting started",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Ethics approval</span>"
@@ -318,7 +329,7 @@
     "href": "ethics.html#permission-to-share-video-recordings",
     "title": "9  Ethics approval",
     "section": "9.3 Permission to share video recordings",
-    "text": "9.3 Permission to share video recordings\nWe strongly encourage labs (where possible) to store and share video recordings of their testing sessions on Databrary, which is a secure site created for this purpose. Databrary allows for different levels of privacy: fully private (available only to the uploading research group), shared only with Databrary-approved researchers, or fully open. Storing/sharing videos via Databrary requires the following:\n\nDatabrary membership, which requires approval from your institution. It’s helpful to start this process early! You can begin the registration process for Databrary here.\nEthics approval in place to upload and/or share recordings.\nSpecific consent for this purpose collected from your participant’s parent/guardian.\n\n\n\n\n\n\n\nDatabrary limitations\n\n\n\nWe are aware that many laboratories, particularly those based in regions governed by GDPR, may not be allowed by their institutions to use Databrary. In these circumstances, we encourage labs to use alternative methods for sharing their videos where possible (email us to discuss options).",
+    "text": "9.3 Permission to share video recordings\nWe strongly encourage labs (where possible) to store and share video recordings of their testing sessions on Databrary, which is a secure site created for this purpose. Databrary allows for different levels of privacy: fully private (available only to the uploading research group), shared only with Databrary-approved researchers, or fully open. Storing/sharing videos via Databrary requires the following:\n\nDatabrary membership, which requires approval from your institution. It’s helpful to start this process early! You can begin the registration process for Databrary here.\nEthics approval in place to upload and/or share recordings.\nSpecific consent for this purpose collected from your participant’s parent/guardian.\n\n\n\n\n\n\n\nnote\n\n\n\nDatabrary limitations\nWe are aware that many laboratories, particularly those based in regions governed by GDPR, may not be allowed by their institutions to use Databrary. In these circumstances, we encourage labs to use alternative methods for sharing their videos where possible (email us to discuss options).",
     "crumbs": [
       "Getting started",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Ethics approval</span>"
@@ -329,7 +340,7 @@
     "href": "ethics.html#ethics-upload",
     "title": "9  Ethics approval",
     "section": "9.4 Uploading ethics approval documentation",
-    "text": "9.4 Uploading ethics approval documentation\nDocumentation of your lab’s ethics approval must be submitted prior to data collection via the MB5 Green-Lighting Form.\nWe also encourage labs to share ethics application materials and consent forms, but this is not a requirement of participation.\nPlease ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g. mb5_babylabPrinceton_ethics.pdf). Check the list of LabIDs to confirm your lab’s unique LabID before uploading.",
+    "text": "9.4 Uploading ethics approval documentation\nDocumentation of your lab’s ethics approval must be submitted prior to data collection via the MB5 Green-Lighting Form.\nWe also encourage labs to share ethics application materials and consent forms, but this is not a requirement of participation.\nPlease ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g. mb5_babylabPrinceton_ethics.pdf). Check the list of MB LabIDs to confirm your lab’s unique LabID before uploading.",
     "crumbs": [
       "Getting started",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Ethics approval</span>"
@@ -384,7 +395,7 @@
     "href": "walkthrough.html#sequence",
     "title": "10  Walkthrough videos",
     "section": "10.4 Sequence",
-    "text": "10.4 Sequence\nMake sure your video covers the following components. We added questions that someone watching your video should be able to answer for each step. It is not necessary to narrate your video (you can if you want); a silent observer is sufficient, but be sure to cover all details requested below. If your lab language is not English, we might add subtitles later on.\n\nGreeting\n\nWhere do you receive families? (Dedicated area, parking lot, general entrance)\nWho is there? (Parents, colleagues, assistants)\nWhat do you say and ask them? (Example: Do you check when the baby last ate/slept?)\nWhat do you do if a baby arrives asleep or fussy?\n\n\n\nConsenting, instructions\n\nWhat is your informed consenting process like? How do parents give consent? When do you typically obtain consent?\nHow detailed is your explanation of the procedure and aim of the study?\nWhat instructions do you give to the parents? Are there any specific instructions given on how to behave, sit, hold the baby, etc? What do you tell parents to do if their baby gets fussy or inattentive during the study?\n\n\n\nQuestionnaire(s)\n\nAt what point do you hand out/collect questionnaires (e.g., pre- or post-experiment)?\nDo you give any additional instructions for questionnaires other than those listed on the form(s)?\n\n\n\nExperiment\n\nWhat does your testing room/booth look like (size, lay-out, etc.)? Try to film the entrance and complete interior of the test booth or room.\nWhere is the baby sitting (e.g., parent’s lap, high chair, etc.)? Film the seating arrangement both before the baby is seating and with the baby in place.\nWhat does the stimulus display look like (e.g., size, distance to baby)? Where is the screen located?\nWhere is the experimenter located during testing (e.g., inside or outside the booth)? Show where the experimenter is sitting; if it is in the same room, capture both baby and experimenter.\nCan the baby see the experimenter during testing? How does the experimenter see the baby (e.g., a video feed on a monitor with the exerimental software or a separate monitor)?\nHow is the experimenter blinded to trial type during testing?\nHow is the parent blinded during testing (blacked-out glasses or something similar)?\nIf live-coding takes place: Show examples of what counts as a look/no look and/or videotape someone doing the coding together with the infant looks.\n\n\n\nDebrief after experiment\n\nWhat do you tell parents at the end of a study?\nAre there standard questions you ask parents after the study is complete?",
+    "text": "10.4 Sequence\nMake sure your video covers the following components. We added questions that someone watching your video should be able to answer for each step. It is not necessary to narrate your video (you can if you want); a silent observer is sufficient, but be sure to cover all details requested below. If your lab language is not English, we might add subtitles later on.\n\nGreeting\n\nWhere do you receive families? (Dedicated area, parking lot, general entrance)\nWho is there? (Parents, colleagues, assistants)\nWhat do you say and ask them? (Example: Do you check when the baby last ate/slept?)\nWhat do you do if a baby arrives asleep or fussy?\n\n\n\nConsenting, instructions\n\nWhat is your informed consenting process like? How do parents give consent? When do you typically obtain consent?\nHow detailed is your explanation of the procedure and aim of the study?\nWhat instructions do you give to the parents? Are there any specific instructions given on how to behave, sit, hold the baby, etc? What do you tell parents to do if their baby gets fussy or inattentive during the study?\n\n\n\nQuestionnaire(s)\n\nAt what point do you hand out/collect questionnaires (e.g., pre- or post-experiment)?\nDo you give any additional instructions for questionnaires other than those listed on the form(s)?\n\n\n\nExperiment\n\nWhat does your testing room/booth look like (size, lay-out, etc.)? Try to film the entrance and complete interior of the test booth or room.\nWhere is the baby sitting (e.g., parent’s lap, high chair, etc.)? Film the seating arrangement both before the baby is seating and with the baby in place.\nWhat does the stimulus display look like (e.g., size, distance to baby)? Where is the screen located?\nWhat does the experiment look like from the baby’s point of view? Please include at least one full trial (familiarization plus test)\nWhere is the experimenter located during testing (e.g., inside or outside the booth)? Show where the experimenter is sitting; if it is in the same room, capture both baby and experimenter.\nCan the baby see the experimenter during testing? How does the experimenter see the baby (e.g., a video feed on a monitor with the exerimental software or a separate monitor)?\nHow is the experimenter blinded to trial type during testing?\nHow is the parent blinded during testing (blacked-out glasses or something similar)?\nIf live-coding takes place: Show examples of what counts as a look/no look and/or videotape someone doing the coding together with the infant looks.\n\n\n\nDebrief after experiment\n\nWhat do you tell parents at the end of a study?\nAre there standard questions you ask parents after the study is complete?",
     "crumbs": [
       "Getting started",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Walkthrough videos</span>"
@@ -406,7 +417,7 @@
     "href": "walkthrough.html#uploading-walkthrough-video",
     "title": "10  Walkthrough videos",
     "section": "10.6 Uploading walkthrough video",
-    "text": "10.6 Uploading walkthrough video\nShare your walkthrough video with Project Leads using the MB5 Green-Lighting Form.\n\nNOTE: Video files are too large for us to collect via form, so you will be asked to provide a link to where we can access and download your video (e.g., google drive, dropbox, etc.). If you do not have access to cloud storage, email us and we will provide an upload location.\n\nPlease ensure that your video is clearly labeled in the file name with your LabID (e.g., mb5_babylabPrinceton_walkthrough.mpg). Check the list of LabIDs to confirm your lab’s unique LabID before uploading the link to your video.",
+    "text": "10.6 Uploading walkthrough video\nShare your walkthrough video with Project Leads using the MB5 Green-Lighting Form.\n\nNOTE: Video files are too large for us to collect via form, so you will be asked to provide a link to where we can access and download your video (e.g., google drive, dropbox, etc.). If you do not have access to cloud storage, email us and we will provide an upload location.\n\nPlease ensure that your video is clearly labeled in the file name with your LabID (e.g., mb5_babylabPrinceton_walkthrough.mpg). Check the list of MB LabIDs to confirm your lab’s unique LabID before uploading the link to your video.",
     "crumbs": [
       "Getting started",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Walkthrough videos</span>"
@@ -460,7 +471,7 @@
     "href": "participants.html#eligibility-and-exclusions",
     "title": "11  Participants and recruitment",
     "section": "11.3 Eligibility and Exclusions",
-    "text": "11.3 Eligibility and Exclusions\n\nThe only requirements for inclusion in MB5 are:\n\nAge: the infant’s age falls within the 3.0- to 15.0-month age range\nNo known visual processing impairment: the infant has no known issues that would directly impede their ability to process visual stimuli\n\n\n\n\n\n\n\nInfants with other characteristics that are commonly used as exclusion criteria in developmental studies (e.g., hearing impairment, premature birth, bilingual, etc.) can be included in the sample.\n\n\n\nNote that the inclusion criteria for MB5 are much more inclusive than previous ManyBabies projects and typical in-lab studies.\n\n\nPlease determine participants’ eligibility on the phone prior to scheduling them in the ManyBabies study to avoid testing ineligible participants. Babies who participate in the study but are subsequently determined to be ineligible based on the criteria above should still be reported in the sample but clearly marked as ‘ineligible’ based on age or visual processing impairment (see Chapter 20 for more info).",
+    "text": "11.3 Eligibility and Exclusions\n\nThe only requirements for inclusion in MB5 are:\n\nAge: the infant’s age falls within the 3.0- to 15.0-month age range\nNo known visual processing impairment: the infant has no known issues that would directly impede their ability to process visual stimuli\n\n\n\n\n\n\n\nnote\n\n\n\nMB5 is inclusive by default\nInfants with other characteristics that are commonly used as exclusion criteria in developmental studies (e.g., hearing impairment, premature birth, bilingual, etc.) can be included in the sample.\n\nNote that the inclusion criteria for MB5 are much more inclusive than previous ManyBabies projects and typical in-lab studies.\n\n\n\nPlease determine participants’ eligibility on the phone prior to scheduling them in the ManyBabies study to avoid testing ineligible participants. Babies who participate in the study but are subsequently determined to be ineligible based on the criteria above should still be reported in the sample but clearly marked as ‘ineligible’ based on age or visual processing impairment (see Chapter 20 for more info).",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Participants and recruitment</span>"
@@ -482,7 +493,7 @@
     "href": "participants.html#peeking-and-stopping-rules",
     "title": "11  Participants and recruitment",
     "section": "11.5 Peeking and stopping rules",
-    "text": "11.5 Peeking and stopping rules\nWe will ask you to document your lab’s recruitment practices, initial plan regarding how many babies you will run, and stopping rule (e.g., stop when we reach the specified N, stop when the study data collection period ends) via the Pre-Test Form. It is important to document any changes to your recruitment/stopping rule with a submission of the MB5 Issue Tracking and Support Request Form.\n\n\n\n\n\n\nIt is critical for the integrity of the data analysis that you NOT make any decisions about how many babies to test based on:\n\n\n\n\nthe data being generated in your lab, or\nthe number of participant exclusions\n\n\n\nLaboratories should stick with their original “stopping rule”—whether based on a number of participants or testing time frame. However, we recognize that this may not always be possible. In extraordinary circumstances, decisions about changes to the sample size and stopping rule must be made by someone who has NOT viewed the emerging data.\nYou can look at data (if absolutely necessary, e.g., to support a student interim report) but you MUST NOT change your recruitment goals and strategy based on your view of the data. Doing this will compromise the goals of the project! If you change your recruitment based on the data, that invalidates the statistical inferences we want to make and introduces exactly the kinds of biases into the data that this project was designed to avoid. If your lab is running pre-specified pilot participants (e.g., to practice the procedure), you may make minor procedural adjustments during that period only.",
+    "text": "11.5 Peeking and stopping rules\nWe will ask you to document your lab’s recruitment practices, initial plan regarding how many babies you will run, and stopping rule (e.g., stop when we reach the specified N, stop when the study data collection period ends) via the Pre-Test Form. It is important to document any changes to your recruitment/stopping rule with a submission of the MB5 Issue Tracking and Support Request Form.\n\n\n\n\n\n\nimportant\n\n\n\nIt is critical for the integrity of the data analysis that you DO NOT make any decisions about how many babies to test based on:\n\nthe data being generated in your lab, or\nthe number of participant exclusions\n\n\n\nLaboratories should stick with their original “stopping rule”—whether based on a number of participants or testing time frame. However, we recognize that this may not always be possible. In extraordinary circumstances, decisions about changes to the sample size and stopping rule must be made by someone who has NOT viewed the emerging data.\nYou can look at data (if absolutely necessary, e.g., to support a student interim report) but you MUST NOT change your recruitment goals and strategy based on your view of the data. Doing this will compromise the goals of the project! If you change your recruitment based on the data, that invalidates the statistical inferences we want to make and introduces exactly the kinds of biases into the data that this project was designed to avoid. If your lab is running pre-specified pilot participants (e.g., to practice the procedure), you may make minor procedural adjustments during that period only.",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Participants and recruitment</span>"
@@ -544,11 +555,11 @@
     ]
   },
   {
-    "objectID": "stimuli.html#stimulus-directory",
-    "href": "stimuli.html#stimulus-directory",
+    "objectID": "stimuli.html#mb5-stimulus-directory",
+    "href": "stimuli.html#mb5-stimulus-directory",
     "title": "12  Stimuli",
     "section": "12.5 MB5 Stimulus Directory",
-    "text": "12.5 MB5 Stimulus Directory\n\n\n\n\n\nBarry, T. J., Griffith, J. W., De Rossi, S., & Hermans, D. (2014). Meet the fribbles: Novel stimuli for use within behavioural research. Frontiers in Psychology, 5. https://doi.org/10.3389/fpsyg.2014.00103",
+    "text": "12.5 MB5 Stimulus Directory\n\n\n\n\n\n\nresource\n\n\n\nMB5 Stimulus Directory\n\n\n\n\n\n\nBarry, T. J., Griffith, J. W., De Rossi, S., & Hermans, D. (2014). Meet the fribbles: Novel stimuli for use within behavioural research. Frontiers in Psychology, 5. https://doi.org/10.3389/fpsyg.2014.00103",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Stimuli</span>"
@@ -592,7 +603,7 @@
     "href": "procedure.html#sec-orders",
     "title": "13  Procedure",
     "section": "13.3 Trial Orders",
-    "text": "13.3 Trial Orders\nEach infant will view both stimulus sets (ManyFribbles and ManyFractals), with presentation blocked by stimulus set and presentation order (ie.g., Fribbles first or Fractals first) and counterbalanced across infants. Additionally, within each stimulus set, infants will experience all combinations of complexity level (low, high) and familiarization time (5s, 10s, 15s). Table 13.1 provides an example list of the 12 trial types that an infant would see, with example stimuli for each trial type shown in the right-most columns.\nProject Leads have generated a set of XXX6 order lists which counterbalance many variables (e.g., block order, stimulus x complexity level x familiarization time combinations, novel side during test periods) both within and across labs. Labs will be provided with a “pilot order” and corresponding stimuli for the purposes of experimental set-up and pilot testing.\n6 INSERT TOTAL NUMBER WHEN READYEach lab will be assigned a set of 16 orders at the time of “Green-Lighting” to use for testing. For labs collecting sample sizes larger than 16, orders can be used more than once.\n\n\n\n\n\n\nPLEASE USE THE ORDERS ASSIGNED TO YOUR LAB!\n\n\n\nIt is VERY IMPORTANT FOR COUNTERBALANCING PURPOSES that each lab use the orders assigned to them by Project Leads. If you are having difficultly implementing assigned orders, please EMAIL US as soon as possible so that we can assist you. Thank you!\n\n\n\n\n\n\nTable 13.1: Example trial information for a participant\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrial\nFamiliarization Time (s)\nStimulus Class\nComplexity Level\nFamiliarization Stimulus\nTest Stimulus (novel)\n\n\n\n\n1  2  3\n5  10  15\n ManyFribbles\n Low\n\n\n\n\n4  5  6\n5  10  15\n ManyFribbles\n High\n\n\n\n\n7  8  9\n5  10  15\n ManyFractals\n Low\n\n\n\n\n10  11  12\n5  10  15\n ManyFractals\n High\n\n\n\n\n\n\n\n\n\nNote: The order of blocks and trials will be counterbalanced along a number of dimensions across participants and labs.",
+    "text": "13.3 Trial Orders\nEach infant will view both stimulus sets (ManyFribbles and ManyFractals), with presentation blocked by stimulus set and presentation order (ie.g., Fribbles first or Fractals first) and counterbalanced across infants. Additionally, within each stimulus set, infants will experience all combinations of complexity level (low, high) and familiarization time (5s, 10s, 15s). Table 13.1 provides an example list of the 12 trial types that an infant would see, with example stimuli for each trial type shown in the right-most columns.\nProject Leads have generated a set of XXX6 order lists which counterbalance many variables (e.g., block order, stimulus x complexity level x familiarization time combinations, novel side during test periods) both within and across labs. Labs will be provided with a “pilot order” and corresponding stimuli for the purposes of experimental set-up and pilot testing.\n6 INSERT TOTAL NUMBER WHEN READYEach lab will be assigned a set of 16 orders at the time of “Green-Lighting” to use for testing. For labs collecting sample sizes larger than 16, orders can be used more than once.\n\n\n\n\n\n\nimportant\n\n\n\nPLEASE USE THE ORDERS ASSIGNED TO YOUR LAB!\nIt is VERY IMPORTANT FOR COUNTERBALANCING PURPOSES that each lab use the orders assigned to them by Project Leads. If you are having difficultly implementing assigned orders, please EMAIL US as soon as possible so that we can assist you. Thank you!\n\n\n\n\n\n\nTable 13.1: Example trial information for a participant\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrial\nFamiliarization Time (s)\nStimulus Class\nComplexity Level\nFamiliarization Stimulus\nTest Stimulus (novel)\n\n\n\n\n1  2  3\n5  10  15\n ManyFribbles\n Low\n\n\n\n\n4  5  6\n5  10  15\n ManyFribbles\n High\n\n\n\n\n7  8  9\n5  10  15\n ManyFractals\n Low\n\n\n\n\n10  11  12\n5  10  15\n ManyFractals\n High\n\n\n\n\n\n\n\n\n\nNote: The order of blocks and trials will be counterbalanced along a number of dimensions across participants and labs.",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>Procedure</span>"
@@ -614,7 +625,7 @@
     "href": "apparatus.html#room-set-up",
     "title": "14  Apparatus",
     "section": "",
-    "text": "1 Whichever option corresponds to a lab’s standard procedure for testing infants, as reported in the pre-data-collection survey2 Please email us if you need guidance.\n\n\n\n\n\n\nCaution\n\n\n\nADD IN VISUAL ANGLE CALCULATOR INSTRUCTIONS",
+    "text": "1 Whichever option corresponds to a lab’s standard procedure for testing infants, as reported in the pre-data-collection survey2 Please email us if you need guidance.",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>Apparatus</span>"
@@ -636,29 +647,18 @@
     "href": "apparatus.html#software",
     "title": "14  Apparatus",
     "section": "14.3 Software",
-    "text": "14.3 Software\nTo maximize accuracy, we encourage labs to use one of the following supported hardware/software options to run the experiment:\n\nEyetracking (Eyelink): Experiment Builder [IN DEVELOPMENT, est. release date: early August 2026]\nEyetracking (Tobii): PsychoPy [IN DEVELOPMENT, est. release date: early August 2026]\nOffline coding: PsychoPy Coder (manual)\n\nClick on the software option you would like to use to access experiment and set-up order files. Let us know as soon as possible if you plan to use an alternative experiment program version not listed above.\n\nOrder files\nEach experiment package linked above includes one SET-UP ONLY trial list that your lab should use to set up the experiment and collect pilot/dummy data for green-lighting purposes. As discussed in Section 13.3, each lab will be provided with a custom set of trial orders to use for testing actual participants when that lab has been given a “Green-Light” for tetsing.\n\n\n\n\n\n\nTECH SUPPORT\n\n\n\n\nWe encourage you to check the MB5 Issue Tracker table and the #mb5-data-collection channel in the MB Slack workspace to see if other labs have experienced the same issue and if there is a solution provided.\n\n\n&gt; To get help with experiment set-up issues or to report technical issues to Project Leads, please use the MB5 Issue Tracking and Support Request Form\n\n\n&gt; To discuss issues and crowdsource support from fellow data-collecting labs, post about your issue in the #mb5-data-collection Slack channel\n\nPlease be as detailed as possible in your request so that we can help you solve your issue!",
+    "text": "14.3 Software\nTo maximize accuracy, we encourage labs to use one of the following supported hardware/software options to run the experiment:\n\n\n\n\n\n\nresource\n\n\n\nEyetracking (Eyelink): Experiment Builder\n[IN DEVELOPMENT, est. release date: October 2026]\n\n\n\n\n\n\n\n\nresource\n\n\n\nEyetracking (Tobii): PsychoPy\n[IN DEVELOPMENT, est. release date: November 2026]\n\n\n\n\n\n\n\n\nresource\n\n\n\nOffline coding: PsychoPy Coder (manual)\n\n\nClick on the software option you would like to use to access experiment and set-up order files. Let us know as soon as possible if you plan to use an alternative experiment program version not listed above.\n\nOrder files\nEach experiment package linked above includes one SET-UP ONLY trial list that your lab should use to set up the experiment and collect pilot/dummy data for green-lighting purposes. As discussed in Section 13.3, each lab will be provided with a custom set of trial orders to use for testing actual participants when that lab has been given a “Green-Light” for tetsing.",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>Apparatus</span>"
     ]
   },
   {
-    "objectID": "apparatus.html#to-get-help-with-experiment-set-up-issues-or-to-report-technical-issues-to-project-leads-please-use-the",
-    "href": "apparatus.html#to-get-help-with-experiment-set-up-issues-or-to-report-technical-issues-to-project-leads-please-use-the",
+    "objectID": "apparatus.html#set-up-support",
+    "href": "apparatus.html#set-up-support",
     "title": "14  Apparatus",
-    "section": "> To get help with experiment set-up issues or to report technical issues to Project Leads, please use the MB5 Issue Tracking and Support Request Form",
-    "text": "&gt; To get help with experiment set-up issues or to report technical issues to Project Leads, please use the MB5 Issue Tracking and Support Request Form",
-    "crumbs": [
-      "Setting up the experiment",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Apparatus</span>"
-    ]
-  },
-  {
-    "objectID": "apparatus.html#to-discuss-issues-and-crowdsource-support-from-fellow-data-collecting-labs-post-about-your-issue-in-the-slack-channel",
-    "href": "apparatus.html#to-discuss-issues-and-crowdsource-support-from-fellow-data-collecting-labs-post-about-your-issue-in-the-slack-channel",
-    "title": "14  Apparatus",
-    "section": "> To discuss issues and crowdsource support from fellow data-collecting labs, post about your issue in the #mb5-data-collection Slack channel",
-    "text": "&gt; To discuss issues and crowdsource support from fellow data-collecting labs, post about your issue in the #mb5-data-collection Slack channel\n\nPlease be as detailed as possible in your request so that we can help you solve your issue!",
+    "section": "14.4 Set-up support",
+    "text": "14.4 Set-up support\n\n\n\n\n\n\nimportant\n\n\n\nTECH SUPPORT\nWe encourage you to check the MB5 Issue Tracker table and the #mb5-data-collection channel in the MB Slack workspace to see if other labs have experienced the same issue and if there is a solution provided. When requesting support, please be as detailed as possible in your request so that we can help you solve your issue!\n\n\n\n\n\n\n\n\nresource\n\n\n\nTo get help with experiment set-up issues or to report technical issues to Project Leads, please use the MB5 Issue Tracking and Support Request Form\n\n\n\n\n\n\n\n\nresource\n\n\n\nTo discuss issues and crowdsource support from fellow data-collecting labs, post about your issue in the #mb5-data-collection Slack channel",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>Apparatus</span>"
@@ -669,18 +669,18 @@
     "href": "data-validation.html",
     "title": "15  Data validation",
     "section": "",
-    "text": "15.1 ALL LABS\nIn order to confirm that all labs have implemented the experiment correctly and in a way that will produce analyzable data, we ask each lab to run pilot data for one or more “participants”1 through the MB5 Data Validator. The validator checks data files against our data templates to ensure that all required variables are present and that data is in the expected format (e.g., integer, numeric, string) and response range. Examples:\nAll labs, regardless of data collection apparatus or procedure, will need to validate a participant data file (1 row per participant, with columns for each participant-level variable (e.g., participant_id, participant_age_days, participant_sex, parent1_education) and a trial data file (3 rows per trial/36 rows per participant, with columns for trial and trial-phase level data; e.g., trial condition, looking time, presentation time). See Chapter 21 for more details and instructions.",
+    "text": "15.1 ALL LABS\nIn order to confirm that all labs have implemented the experiment correctly and in a way that will produce analyzable data, we ask each lab to run pilot data for one or more “participants”1 through the MB5 Data Validator. The validator checks data files against our data templates to ensure that all required variables are present and that data is in the expected format (e.g., integer, numeric, string) and response range. Examples:\nAll labs, regardless of data collection apparatus or procedure, will need to validate the following files to ensure they are formatted according to the MB5 Data Dictionary:",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>15</span>  <span class='chapter-title'>Data validation</span>"
     ]
   },
   {
-    "objectID": "data-validation.html#the-mb5-data-dictionary-and-validation-tool-are-under-development.-thank-you-for-your-patience-as-we-finalize-these-resources",
-    "href": "data-validation.html#the-mb5-data-dictionary-and-validation-tool-are-under-development.-thank-you-for-your-patience-as-we-finalize-these-resources",
+    "objectID": "data-validation.html#all-labs",
+    "href": "data-validation.html#all-labs",
     "title": "15  Data validation",
-    "section": "The MB5 data dictionary and validation tool are under development. Thank you for your patience as we finalize these resources!",
-    "text": "The MB5 data dictionary and validation tool are under development. Thank you for your patience as we finalize these resources!",
+    "section": "",
+    "text": "Participant data file\nTrial data file\n\n\n\n\n\n\n\nresource\n\n\n\nMB5 Data Dictionary and Templates\nPlease refer to Chapter 21 for more information about about data formatting and to view/download the MB5 Data Dictionary and Templates",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>15</span>  <span class='chapter-title'>Data validation</span>"
@@ -702,18 +702,7 @@
     "href": "data-validation.html#labs-using-eye-trackers",
     "title": "15  Data validation",
     "section": "15.3 Labs using Eye Trackers",
-    "text": "15.3 Labs using Eye Trackers\nLabs using eye trackers are asked to provide raw gaze data for all participants (either as a single file or 1 file/participant). This file (or files) should consist of 1 row per sampling period, with each row marked by participant_id, trial_num, and sample-level variables including x_gaze, y_gaze, and pupil_diameter.\n\n\n\n\n\n\n\nMB5 Data Dictionaries and Templates\n\n\n\n15.4 Please refer to Chapter 21 for more information about about data formatting and to view/download the MB5 Data Dictionary and Templates",
-    "crumbs": [
-      "Setting up the experiment",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Data validation</span>"
-    ]
-  },
-  {
-    "objectID": "data-validation.html#please-refer-to-sec-datatemplates-for-more-information-about-about-data-formatting-and-to-viewdownload-the-mb5-data-dictionary-and-templates",
-    "href": "data-validation.html#please-refer-to-sec-datatemplates-for-more-information-about-about-data-formatting-and-to-viewdownload-the-mb5-data-dictionary-and-templates",
-    "title": "15  Data validation",
-    "section": "15.4 Please refer to Chapter 21 for more information about about data formatting and to view/download the MB5 Data Dictionary and Templates",
-    "text": "15.4 Please refer to Chapter 21 for more information about about data formatting and to view/download the MB5 Data Dictionary and Templates",
+    "text": "15.3 Labs using Eye Trackers\nLabs using eye trackers are asked to provide raw gaze data for all participants (either as a single file or 1 file/participant). This file (or files) should consist of 1 row per sampling period, with each row marked by participant_id, trial_num, and sample-level variables including x_gaze, y_gaze, and pupil_diameter.",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>15</span>  <span class='chapter-title'>Data validation</span>"
@@ -723,8 +712,8 @@
     "objectID": "data-validation.html#validate-your-pilot-data",
     "href": "data-validation.html#validate-your-pilot-data",
     "title": "15  Data validation",
-    "section": "15.5 Validate your pilot data",
-    "text": "15.5 Validate your pilot data\nOnce you have your participant and trial data files ready to go, run them through the ManyBabies Data Validator. (Refer to the manual linked on the validator page for complete instructions).",
+    "section": "15.4 Validate your pilot data",
+    "text": "15.4 Validate your pilot data\nOnce you have your participant and trial data files ready to go, run them through the ManyBabies Data Validator. (Refer to the manual linked on the validator page for complete instructions).\n\n\n\n\n\n\nresource\n\n\n\nManyBabies Data Validator",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>15</span>  <span class='chapter-title'>Data validation</span>"
@@ -734,8 +723,8 @@
     "objectID": "data-validation.html#pilot-upload",
     "href": "data-validation.html#pilot-upload",
     "title": "15  Data validation",
-    "section": "15.6 Uploading validated pilot data",
-    "text": "15.6 Uploading validated pilot data\nPlease submit your lab’s validated pilot data using the MB5 Green-Lighting Form.\nPlease ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g. mb5_babylabPrinceton_pilot-participant-data.csv; mb5_babylabPrinceton_pilot-trial-data.csv). Check the list of LabIDs to confirm your lab’s unique LabID before uploading.",
+    "section": "15.5 Uploading validated pilot data",
+    "text": "15.5 Uploading validated pilot data\nPlease submit your lab’s validated pilot data using the MB5 Green-Lighting Form.\nPlease ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g. mb5_babylabPrinceton_pilot-participant-data.csv; mb5_babylabPrinceton_pilot-trial-data.csv). Check the list of MB LabIDs to confirm your lab’s unique LabID before uploading.",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>15</span>  <span class='chapter-title'>Data validation</span>"
@@ -746,29 +735,18 @@
     "href": "request-greenlight.html",
     "title": "16  “Green-Light” request",
     "section": "",
-    "text": "16.1 Complete the MB5 Pre-Test Form to let us know that you are ready for “Green-Lighting”\nThe steps for getting a “Green-Light” to collect data are tracked by the MB5 Project Leads on the MB5 Project Tracker. You can check the tracker to see what steps your lab has completed. If you have any questions or think your lab’s progress is not up-to-date, email us.\nAs a reminder, TO GET A “GREEN-LIGHT” FOR DATA COLLECTION your lab needs to:\nFill out the form only when you have completed the steps above. DO NOT BEGIN TESTING UNTIL YOU HAVE BEEN GIVEN A “GREEN-LIGHT”!\nWe may have questions for you (e.g., things we noticed in your walkthrough video or pilot data). We will do our best to respond quickly, but if you don’t hear from us within a week of submitting the Pre-Test Form, please email us!",
+    "text": "16.1 Request official Green-Light\nThe steps for getting a “Green-Light” to collect data are tracked by the MB5 Project Leads on the MB5 Project Tracker. You can check the tracker to see what steps your lab has completed. If you have any questions or think your lab’s progress is not up-to-date, email us.\nAs a reminder, TO GET A “GREEN-LIGHT” FOR DATA COLLECTION your lab needs to:\nComplete the MB5 Pre-Test form to let us know that you are ready for “Green-Lighting.” Fill out the form only when you have completed the steps above.\nWe may have questions for you (e.g., things we noticed in your walkthrough video or pilot data). We will do our best to respond quickly, but if you don’t hear from us within a week of submitting the Pre-Test Form, please email us!",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>\"Green-Light\" request</span>"
     ]
   },
   {
-    "objectID": "request-greenlight.html#complete-the-to-let-us-know-that-you-are-ready-for-green-lighting",
-    "href": "request-greenlight.html#complete-the-to-let-us-know-that-you-are-ready-for-green-lighting",
-    "title": "16  “Green-Light” request",
-    "section": "🚫 DO NOT collect experimental data for MB5 until your lab has completed this process and received a “Green-Light” from the MB5 Project Leads! 🚫",
-    "text": "IMPORTANT:\n\n\n\n🚫 DO NOT collect experimental data for MB5 until your lab has completed this process and received a “Green-Light” from the MB5 Project Leads! 🚫\n\nCheck the MB5 Project Tracker to view your lab’s status\n\nDO NOT begin testing unless your lab’s status is Green-Light for data collection",
-    "crumbs": [
-      "Setting up the experiment",
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>\"Green-Light\" request</span>"
-    ]
-  },
-  {
-    "objectID": "request-greenlight.html#do-not-collect-experimental-data-for-until-your-lab-has-completed-this-process-and-received-a-green-light-from-the-project-leads",
-    "href": "request-greenlight.html#do-not-collect-experimental-data-for-until-your-lab-has-completed-this-process-and-received-a-green-light-from-the-project-leads",
+    "objectID": "request-greenlight.html#request-official-green-light",
+    "href": "request-greenlight.html#request-official-green-light",
     "title": "16  “Green-Light” request",
     "section": "",
-    "text": "Check the MB5 Project Tracker to view your lab’s status\n\nDO NOT begin testing unless your lab’s status is Green-Light for data collection",
+    "text": "resource\n\n\n\nMB5 Pre-Test Form\n\n\n\n\n\n\n\n\n\nimportant\n\n\n\n🚫 DO NOT collect experimental data for MB5 until your lab has completed this process and received a “Green-Light” from the MB5 Project Leads! 🚫\nCheck the MB5 Project Tracker to view your lab’s status.\n\nDO NOT BEGIN TESTING unless your lab’s status is Green-Light for data collection",
     "crumbs": [
       "Setting up the experiment",
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>\"Green-Light\" request</span>"
@@ -779,17 +757,7 @@
     "href": "running-experiment.html",
     "title": "Running the experiment",
     "section": "",
-    "text": "This section explains the experimental method in detail. Please follow the instructions as closely as possible, and report any deviations from the protocol using the MB5 Issue Tracking and Support Request Form.",
-    "crumbs": [
-      "Running the experiment"
-    ]
-  },
-  {
-    "objectID": "running-experiment.html#do-not-collect-experimental-data-for-until-your-lab-has-completed-this-process-and-received-a-green-light-from-the-project-leads",
-    "href": "running-experiment.html#do-not-collect-experimental-data-for-until-your-lab-has-completed-this-process-and-received-a-green-light-from-the-project-leads",
-    "title": "Running the experiment",
-    "section": "🚫 DO NOT collect experimental data for MB5 until your lab has completed this process and received a “Green-Light” from the MB5 Project Leads! 🚫",
-    "text": "🚫 DO NOT collect experimental data for MB5 until your lab has completed this process and received a “Green-Light” from the MB5 Project Leads! 🚫\n\nCheck the MB5 Project Tracker to view your lab’s status\n\nDO NOT begin testing unless your lab’s status is Green-Light for data collection",
+    "text": "This section explains the experimental method in detail. Please follow the instructions as closely as possible, and report any deviations from the protocol using the MB5 Issue Tracking and Support Request Form.\n\n17  General lab practices\n18  Testing conditions\n19  During data collection\n\n\n\n\n\n\n\n\nimportant\n\n\n\n🚫 DO NOT collect experimental data for MB5 until your lab has completed this process and received a “Green-Light” from the MB5 Project Leads! 🚫\nCheck the MB5 Project Tracker to view your lab’s status.\n\nDO NOT begin testing unless your lab’s status is Green-Light for data collection",
     "crumbs": [
       "Running the experiment"
     ]
@@ -799,7 +767,7 @@
     "href": "general-lab-practices.html",
     "title": "17  General lab practices",
     "section": "",
-    "text": "17.1 Training research assistants\nYou are responsible for implementing rigorous training practices. Research assistants should be held to the same high standards for a ManyBabies project as they would be for your own lab’s studies. You are free to have any number of research assistants conduct the test sessions, but please aim for as much coding consistency as possible and document which research assistant tested and/or coded a given baby (using code names such as RA1, RA2, etc. if you wish). You will be asked to report about your standard training practices (e.g., how/when do you determine it’s okay for a research assistant to test real babies).",
+    "text": "17.1 Training research assistants\nEach lab is responsible for implementing rigorous training practices. Research assistants should be held to the same high standards for a ManyBabies project as they would be for your own lab’s studies.\nYou are free to have any number of research assistants conduct the test sessions, but please aim for as much coding consistency as possible and document which research assistant tested and/or coded a given baby (using code names such as RA1, RA2, etc. if you wish).\nYou will be asked to report about your standard training practices (e.g., how/when do you determine it’s okay for a research assistant to test real babies).",
     "crumbs": [
       "Running the experiment",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>General lab practices</span>"
@@ -810,7 +778,7 @@
     "href": "general-lab-practices.html#training-research-assistants",
     "title": "17  General lab practices",
     "section": "",
-    "text": "Online Coding\nIf you are using a central screen to gather accumulated looking data for infant-controlled familiarization, then research assistants will need to be properly trained in coding online looking behaviors.\n\n\nOffline Coding\nIf you are not using an eyetracker to gather data, then you will need to code the test trials offline.",
+    "text": "Online Coding\nIf you are using a central screen to gather accumulated looking data for infant-controlled familiarization, then research assistants will need to be properly trained in coding online looking behaviors.\n\n\nOffline Coding\nIf you are not using an eyetracker to gather data, then you will need to code the test trials offline.\n\n\n\n\n\n\nresource\n\n\n\nMB5 Offline Coding Manual (coming soon)",
     "crumbs": [
       "Running the experiment",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>General lab practices</span>"
@@ -919,7 +887,7 @@
     "href": "data-templates.html",
     "title": "21  Data dictionary and templates",
     "section": "",
-    "text": "21.1 Data overview\nThe primary deliverables for the project are two data files:\nIn addition, labs are asked to submit DE-IDENTIFIED raw data. For labs using eye trackers, this is raw gaze data (either as a single file or 1 file/participant), and for labs not using eye trackers, this is the output file generated by PsychoPy or another software program with stimulus and key press timing information.",
+    "text": "21.1 Data overview\nThe primary deliverables for the project are two data files:\nIn addition, labs are asked to submit DE-IDENTIFIED raw data files. For labs using eye trackers, this is raw gaze data (either as a single file or 1 file/participant), and for labs not using eye trackers, this is the output file generated by PsychoPy or another software program with stimulus and key press timing information.",
     "crumbs": [
       "After data collection",
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Data dictionary and templates</span>"
@@ -930,7 +898,7 @@
     "href": "data-templates.html#data-overview",
     "title": "21  Data dictionary and templates",
     "section": "",
-    "text": "Participant data: 1 row per participant\nTrial data: 3 rows per trial (familiarization, test1, and test2) per participant (36 rows/participant)",
+    "text": "Participant Data: 1 row per participant\nTrial Data: 1 row per trial, per participant (12 rows per participant)",
     "crumbs": [
       "After data collection",
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Data dictionary and templates</span>"
@@ -941,7 +909,7 @@
     "href": "data-templates.html#mb5-data-dictionary",
     "title": "21  Data dictionary and templates",
     "section": "21.2 MB5 Data Dictionary",
-    "text": "21.2 MB5 Data Dictionary\nThe MB5 Data Dictionary lists all of the variables that should be included in the Participant Data and Trial Data files. Each row contains a variable and that variable’s specified format (e.g., string, integer), set of example values, and description. It is important that your lab’s data follows these specifications exactly in order to allow for data harmonization with the full dataset.\n\n\n\n\n\n\nImportant\n\n\n\nThe MB5 Data Dictionary is under development.",
+    "text": "21.2 MB5 Data Dictionary\nThe MB5 Data Dictionary lists all of the variables that should be included in the Participant Data and Trial Data files. Each row of the dictionary contains a variable and that variable’s specified format (e.g., string, integer), example value(s), and description. It is important that your lab’s data follows these specifications exactly in order to allow for data harmonization with the full dataset.\n\n\n\n\n\n\nresource\n\n\n\nMB5 Data Dictionary\n\nNote: The data dictionary contains two tabs (Participant Data, Trial Data)",
     "crumbs": [
       "After data collection",
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Data dictionary and templates</span>"
@@ -952,7 +920,62 @@
     "href": "data-templates.html#mb5-data-templates",
     "title": "21  Data dictionary and templates",
     "section": "21.3 MB5 Data templates",
-    "text": "21.3 MB5 Data templates\n\n\n\n\n\n\nIMPORTANT NOTE #1\n\n\n\nThese two files must use identical, anonymous subject identifiers (participant_id). We must be able to link participant- and trial-level data across files! You can use your lab’s normal participant numbering convention (e.g., 001, 002, 003, etc.), as long as participant_ID DOES NOT include any private information (e.g., initials, birth date).\n\n\n\n\n\n\n\n\nIMPORTANT NOTE #2\n\n\n\nThese files must contain de-identified data ONLY. All potentially identifying information should be stripped from your data file before submission. For example, you SHOULD NOT include birth date and test date in your Participant Data file. Instead, use an age calculating tool (e.g., https://www.calculator.net/age-calculator.html) to calculate each participant’s age in days, and report that value in the age_days variable. In addition, participant_id numbers SHOULD NOT contain any personal information (e.g., name, birthdate, initials) and should instead be completely de-identified (e.g., mb5_01, mb5_02, etc.). If you have any questions about ensuring your data is de-identified, email us.\n\n\n\n\n\n\n\n\nIMPORTANT NOTE #3\n\n\n\nIt’s really important to remember that these files are designed to be read by a computer program, not a person. So anything that violates the template (e.g., variables that aren’t of the specified type, formatting, comments, etc.) will not work. For example, cells in the column lang1_exposure in the participant data file should contain numbers. If you write “80 to 90” this will cause errors because it contains characters in addition to numbers (note: please check questionnaire responses before participants leave the lab to avoid NA responses). If you have questions, comments, or calculations, please communicate directly with the analysis team, rather than embedding them in the data.\n\n\n\n\n\n\n\n\nIMPORTANT NOTE #4\n\n\n\nPlease do not leave any fields blank. If something does not logically have an answer, or if you did not collect this information, please mark it as “NA”.\n\n\nPlease download a copy of each template and use them as guides for formatting your lab’s data.\nFiles must be in CSV (comma separated values) format. PLEASE NOTE that saving in this format will remove any formulas or other non-plain-text features of your spreadsheet (e.g,. color fills, formatting); all information should be captured in the text within each cell.\n\nParticipant Data\nA .csv file with one row for each participant, and with columns showing participant-level variables (e.g., participant_id, age, demographic information, notes on the session, etc.)\n\n\n\n\n\n\nImportant\n\n\n\nParticipant Data template is under development.\n\n\n\n\nTrial Data\nA .csv file with three rows for each trial, and with columns showing participant_id, and trial and trial-phase level variables (e.g., trial number, trial type (simple, complex), trial phase (familiarization, test1, test2) looking time, etc.)\n\n\n\n\n\n\nImportant\n\n\n\nTrial Data template is under development.",
+    "text": "21.3 MB5 Data templates\n\nParticipant Data\n\n1 row per participant\ncolumns for each participant-level variable (e.g., subject ID, age, sex, parent education)\nname your Participant Data file according to this naming convention: mb5_LabID_participant-data.csv\n\n\n\nTrial Data\n\n1 row per trial/12 rows per participant\ncolumns for trial- and trial-phase-level data (e.g., trial number, condition, looking time, presentation time).\nname your Trial Data file according to this naming convention: mb5_LabID_trial-data.csv\n\n\n\n\n\n\n\nimportant\n\n\n\nUse consistent participant identifiers across files\nThese two files must use identical, anonymous subject identifiers (participant_id). We must be able to link participant- and trial-level data across files! You can use your lab’s normal participant numbering convention (e.g., 001, 002, 003, etc.), as long as participant_ID DOES NOT include any private information (e.g., initials, birth date).\n\n\n\n\n\n\n\n\nimportant\n\n\n\nSubmit de-identified data ONLY\nThese files must contain de-identified data ONLY. All potentially identifying information should be stripped from your data files BEFORE submission. For example, you SHOULD NOT include birth date and test date in your Participant Data file. Instead, use an age calculating tool (e.g., https://www.calculator.net/age-calculator.html) to calculate each participant’s age in days, and report that value in the age_days variable. In addition, participant_id SHOULD NOT contain any personal information (e.g., name, birthdate, initials) and should instead be completely de-identified (e.g., mb5-01, mb5-02, etc.). If you have any questions about ensuring your data is de-identified, email us.\n\n\n\n\n\n\n\n\nimportant\n\n\n\nKeep computer readability in mind\nIt’s really important to remember that these files are designed to be read by a computer program, not a person. Anything that violates the templates (e.g., variables that aren’t of the specified type, missing data, comments, etc.) will not work. For example, cells in the column lang1_exposure in the participant data file should contain numbers ONLY. If you write “80 to 90” this will cause errors because it contains characters in addition to numbers. That said, we also want your files to make sense to a human. Please use the specified columns (e.g., session_exclusion_info, notes) to add information that will help others understand your data. If you have questions or comments, please communicate directly with the analysis team rather than embedding them in the data files.\n\nNote: please check questionnaire responses before participants leave the lab to avoid accidental non-responses or other issues that would make data harmonization difficult or impossible.\n\n\n\n\n\n\n\n\n\nimportant\n\n\n\nNo blank cells!\nPlease do not leave any fields blank. If something does not logically have an answer, if you did not collect this information, or if a respondant intentionally left a field blank, please mark it in your data file as “NA”.\n\n\n\n\n\n\n\n\nimportant\n\n\n\nCSV formatting\nFiles must be in CSV (comma separated values) format. PLEASE NOTE that saving in this format will remove any formulas or other non-plain-text features of your spreadsheet (e.g,. color fills, formatting); all information should be captured in the text within each cell.\n\n\nPlease download a copy of each template below and use them as guides for formatting your lab’s data.1\n1 The templates include some sample data to supplement the data dictionary. Make sure to delete this sample data from the templates before entering your own data!\n\n\n\n\n\nresource\n\n\n\nParticipant Data template\n\n\n\n\n\n\n\n\nresource\n\n\n\nTrial Data template",
+    "crumbs": [
+      "After data collection",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Data dictionary and templates</span>"
+    ]
+  },
+  {
+    "objectID": "data-templates.html#use-consistent-participant-identifiers-across-files",
+    "href": "data-templates.html#use-consistent-participant-identifiers-across-files",
+    "title": "21  Data dictionary and templates",
+    "section": "Use consistent participant identifiers across files",
+    "text": "Use consistent participant identifiers across files\nThese two files must use identical, anonymous subject identifiers (participant_id). We must be able to link participant- and trial-level data across files! You can use your lab’s normal participant numbering convention (e.g., 001, 002, 003, etc.), as long as participant_ID DOES NOT include any private information (e.g., initials, birth date).",
+    "crumbs": [
+      "After data collection",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Data dictionary and templates</span>"
+    ]
+  },
+  {
+    "objectID": "data-templates.html#submit-de-identified-data-only",
+    "href": "data-templates.html#submit-de-identified-data-only",
+    "title": "21  Data dictionary and templates",
+    "section": "Submit de-identified data ONLY",
+    "text": "Submit de-identified data ONLY\nThese files must contain de-identified data ONLY. All potentially identifying information should be stripped from your data files BEFORE submission. For example, you SHOULD NOT include birth date and test date in your Participant Data file. Instead, use an age calculating tool (e.g., https://www.calculator.net/age-calculator.html) to calculate each participant’s age in days, and report that value in the age_days variable. In addition, participant_id SHOULD NOT contain any personal information (e.g., name, birthdate, initials) and should instead be completely de-identified (e.g., mb5-01, mb5-02, etc.). If you have any questions about ensuring your data is de-identified, email us.",
+    "crumbs": [
+      "After data collection",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Data dictionary and templates</span>"
+    ]
+  },
+  {
+    "objectID": "data-templates.html#keep-computer-readability-in-mind",
+    "href": "data-templates.html#keep-computer-readability-in-mind",
+    "title": "21  Data dictionary and templates",
+    "section": "Keep computer readability in mind",
+    "text": "Keep computer readability in mind\nIt’s really important to remember that these files are designed to be read by a computer program, not a person. Anything that violates the templates (e.g., variables that aren’t of the specified type, missing data, comments, etc.) will not work. For example, cells in the column lang1_exposure in the participant data file should contain numbers ONLY. If you write “80 to 90” this will cause errors because it contains characters in addition to numbers. That said, we also want your files to make sense to a human. Please use the specified columns (e.g., session_exclusion_info, notes) to add information that will help others understand your data. If you have questions or comments, please communicate directly with the analysis team rather than embedding them in the data files.\n\nNote: please check questionnaire responses before participants leave the lab to avoid accidental non-responses or other issues that would make data harmonization difficult or impossible.",
+    "crumbs": [
+      "After data collection",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Data dictionary and templates</span>"
+    ]
+  },
+  {
+    "objectID": "data-templates.html#no-blank-cells",
+    "href": "data-templates.html#no-blank-cells",
+    "title": "21  Data dictionary and templates",
+    "section": "No blank cells!",
+    "text": "No blank cells!\nPlease do not leave any fields blank. If something does not logically have an answer, if you did not collect this information, or if a respondant intentionally left a field blank, please mark it in your data file as “NA”.",
+    "crumbs": [
+      "After data collection",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Data dictionary and templates</span>"
+    ]
+  },
+  {
+    "objectID": "data-templates.html#csv-formatting",
+    "href": "data-templates.html#csv-formatting",
+    "title": "21  Data dictionary and templates",
+    "section": "CSV formatting",
+    "text": "CSV formatting\nFiles must be in CSV (comma separated values) format. PLEASE NOTE that saving in this format will remove any formulas or other non-plain-text features of your spreadsheet (e.g,. color fills, formatting); all information should be captured in the text within each cell.",
     "crumbs": [
       "After data collection",
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Data dictionary and templates</span>"
@@ -963,7 +986,18 @@
     "href": "data-submission.html",
     "title": "22  Data validation and submission",
     "section": "",
-    "text": "22.1 Data Validation\nAfter preparing your Participant Data and Trial Data files, please use the ManyBabies Data Validator to ensure your lab’s data is in the correct format.\nCommon issues: If the validator is rejecting your CSV file, it may be due to different country standards around the use of commas as decimal points, etc. in your numeric format. Please use periods (‘.’) and not commas (‘,’) as decimal points. Make sure that there are no stray marks in cells outside of your data range. For example, a space entered in a cell in an otherwise empty row or column will cause an error. If you encounter any unexpected issues please email us. Your data files MUST pass validation before submission.",
+    "text": "22.1 Data Validation\nPlease follow the same procedure outlined in Chapter 15 and Chapter 21 to format your participant and trial data according to the specifications in the MB5 Data Dictionary.\nAfter preparing your Participant Data and Trial Data files, please use the MB Data Validator to ensure your lab’s data is formatted correctly.\nCommon issues: If the validator is rejecting your CSV file, it may be due to different country standards around the use of commas as decimal points, etc. in your numeric format. Please use periods (‘.’) and not commas (‘,’) as decimal points. Make sure that there are no stray marks in cells outside of your data range. For example, a space entered in a cell in an otherwise empty row or column will cause an error. If you encounter any unexpected issues please email us. Your data files MUST pass validation before submission.",
+    "crumbs": [
+      "After data collection",
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Data validation and submission</span>"
+    ]
+  },
+  {
+    "objectID": "data-submission.html#data-validation",
+    "href": "data-submission.html#data-validation",
+    "title": "22  Data validation and submission",
+    "section": "",
+    "text": "resource\n\n\n\nMB5 Data Dictionary\n\n\n\n\n\n\n\n\nresource\n\n\n\nParticipant Data template\nTrial Data template\n\n\n\n\n\n\n\n\n\nresource\n\n\n\nManyBabies Data Validator",
     "crumbs": [
       "After data collection",
       "<span class='chapter-number'>22</span>  <span class='chapter-title'>Data validation and submission</span>"
@@ -974,7 +1008,7 @@
     "href": "data-submission.html#data-submission",
     "title": "22  Data validation and submission",
     "section": "22.2 Data submission",
-    "text": "22.2 Data submission\nOnce your data files have passed validation, please upload both the Participant Dataand Trial Data files using the MB5 Data Upload form. Please take note of the following: It is essential that both file names include your ManyBabies LabID. Refer to the LabID list here to find your lab’s unique LabID. Use the following naming convention for your Participant and Trial Data files: yourLabID_participant_data.csv (e.g., babylabPrinceton_participant_data.csv) yourLabID_trial_data.csv (e.g., babylabPrinceton_trial_data.csv)\n\nSharing ‘raw’ data\nFor most labs, the “raw” data generated by the software that runs the study will be in a different format from the one we are asking labs to submit as their machine-readable, de-identified data. This creates a problem for reproducibility of the data pipeline. In addition to potential error-checking, the raw data may be useful for secondary analysis. Secondary analyses can be used to map variability between labs. Ideally, we would ask all labs to share both their actual raw data (immediately generated when the study is run) together with any code they use to convert it to the submission format. However, doing so would likely raise concerns about the sharing of de-identified data as these raw data outputs may contain birthdates or other participant-identifying information. A related concern is that many labs may be converting the raw data into the submission formatted files by hand, which may be prone to human error. We strongly encourage labs to develop processes for making these conversions in an automated way (e.g., in an R script). In the coming months we will be soliciting suggestions and reviewing the practicality of helping labs develop these practices, as well as making a decision about whether and how to collect raw data from labs that do not use eyetrackers. We welcome comments and suggestions from contributors on this issue!\n\nSubmitting raw eye-tracking data\nThere are additional considerations for labs submitting eye-tracking data. First, the raw data is useful for studying variability between labs in the extraction of looking times. Second, the pupil size data provides interesting additional information about cognitive processing that can be used in follow-up or spin-off studies. We are therefore asking all laboratories submitting eye-tracking data to provide these raw data. For the data to be most useful and accessible for secondary analyses, the preferred format is to submit 1) CSV or TSV files (or any other plain text format); please select the export options so that the file remains as unchanged as possible (select all possible variables, no fixation filters, etc.) and 2) annotated R-code (or other script) that transforms these CSV or TSV files into the trial-level format that needs to be submitted. Please upload these files using the MB5 Data Upload form in addition to the Participant Data and Trial Data files (see above for details). For purposes of transparency and replicability, using a standardized format for the eye-tracking data is preferable (e.g., the Peekbank format). Please take care that the raw eye-tracking data does not contain any identifying information such as birth dates, zip codes, etc.! If you have any concerns regarding the sharing of your raw data (e.g. with respect to participant consent/ethics approval), please contact the project leaders. In the Lab Questionnaire, report which method you used to compute the looking times In your upload, please also include the (annotated!) script that was used to compute the looking times from the raw data",
+    "text": "22.2 Data submission\n\nOnce your data files have passed validation, please upload both the Participant Data and Trial Data files using the MB5 Data Upload form.\n\n\nIt is essential that both file names include your ManyBabies LabID. Refer to the MB5 Project Tracker to find your lab’s unique LabID.\n\nUse the following naming convention for your Participant and Trial Data files:\n\nmb5_yourLabID_participant-data.csv\nmb5_yourLabID_trial-data.csv\n\n\n\n\n\n\n\nresource\n\n\n\nMB5 Data Upload Form\n\n\n\nSharing ‘raw’ data\nFor most labs, the “raw” data generated by the software that runs the study will be in a different format from the one we are asking labs to submit as their machine-readable, de-identified data. This creates a problem for reproducibility of the data pipeline. In addition to potential error-checking, the raw data may be useful for secondary analysis. Secondary analyses can be used to map variability between labs. Ideally, we would ask all labs to share both their actual raw data (immediately generated when the study is run) together with any code they use to convert it to the submission format. However, doing so would likely raise concerns about the sharing of de-identified data as these raw data outputs may contain birthdates or other participant-identifying information. A related concern is that many labs may be converting the raw data into the submission formatted files by hand, which may be prone to human error. We strongly encourage labs to develop processes for making these conversions in an automated way (e.g., in an R script). In the coming months we will be soliciting suggestions and reviewing the practicality of helping labs develop these practices, as well as making a decision about whether and how to collect raw data from labs that do not use eyetrackers. We welcome comments and suggestions from contributors on this issue!\n\nSubmitting raw eye-tracking data\nThere are additional considerations for labs submitting eye-tracking data. First, the raw data is useful for studying variability between labs in the extraction of looking times. Second, the pupil size data provides interesting additional information about cognitive processing that can be used in follow-up or spin-off studies. We are therefore asking all laboratories submitting eye-tracking data to provide these raw data. For the data to be most useful and accessible for secondary analyses, the preferred format is to submit 1) CSV or TSV files (or any other plain text format); please select the export options so that the file remains as unchanged as possible (select all possible variables, no fixation filters, etc.) and 2) annotated R-code (or other script) that transforms these CSV or TSV files into the trial-level format that needs to be submitted. Please upload these files using the MB5 Data Upload form in addition to the Participant Data and Trial Data files (see above for details). For purposes of transparency and replicability, using a standardized format for the eye-tracking data is preferable (e.g., the Peekbank format). Please take care that the raw eye-tracking data does not contain any identifying information such as birth dates, zip codes, etc.! If you have any concerns regarding the sharing of your raw data (e.g. with respect to participant consent/ethics approval), please contact the project leaders. In the Lab Questionnaire, report which method you used to compute the looking times In your upload, please also include the (annotated!) script that was used to compute the looking times from the raw data",
     "crumbs": [
       "After data collection",
       "<span class='chapter-number'>22</span>  <span class='chapter-title'>Data validation and submission</span>"
@@ -985,7 +1019,7 @@
     "href": "data-submission.html#video-records-of-data-collection-optional",
     "title": "22  Data validation and submission",
     "section": "22.3 Video records of data collection (optional)",
-    "text": "22.3 Video records of data collection (optional)\nIf you are sharing videos of your data collection (and this is strongly encouraged, if it’s at all possible given your ethics approval), you can store them in Databrary if you are a member. The naming convention for Databrary volumes is “ManyBabies5: yourLabID” (e.g. “ManyBabies5: babylabPrinceton”). We ask that you use this naming convention so people can easily search for all the ManyBabies-related volumes.",
+    "text": "22.3 Video records of data collection (optional)\nIf you are sharing videos of your data collection (and this is strongly encouraged, if it’s at all possible given your ethics approval), you can store them in Databrary if you are a member. The naming convention for Databrary volumes is ManyBabies5: yourLabID (e.g. ManyBabies5: babylabPrinceton). We ask that you use this naming convention so people can easily search for all the ManyBabies-related volumes.",
     "crumbs": [
       "After data collection",
       "<span class='chapter-number'>22</span>  <span class='chapter-title'>Data validation and submission</span>"
@@ -996,7 +1030,7 @@
     "href": "references.html",
     "title": "References",
     "section": "",
-    "text": "Barry, T. J., Griffith, J. W., De Rossi, S., & Hermans, D. (2014).\nMeet the fribbles: Novel stimuli for use within behavioural research.\nFrontiers in Psychology, 5. https://doi.org/10.3389/fpsyg.2014.00103\n\n\nHunter, M. A., & Ames, E. W. (1988). A multifactor model of\ninfant preferences for novel and familiar stimuli (pp. 69–95).\nAblex Publishing.\n\n\nKosie, J., Zettersten, M., Abu-Zhaya, R., Amso, D., Babineau, M.,\nBaumgartner, H., Bazhydai, M., Belia, M., Benavides, S., Bergmann, C.,\nBerteletti, I., Black, A. K., Borges, P., Borovsky, A., Byers-Heinlein,\nK., Cabrera, L., Calignano, G., Cao, A., Cox, C. M. M., … Lew-Williams,\nC. (n.d.). ManyBabies 5: A large-scale investigation of the proposed\nshift from familiarity preference to novelty preference in infant\nlooking time. https://doi.org/10.31234/osf.io/ck3vd\n\n\nSingh, L., Barokova, M. D., Baumgartner, H. A., Lopera-Perez, D. C.,\nOmane, P. O., Sheskin, M., Yuen, F. L., Wu, Y., Alcock, K. J., Altmann,\nE. C., Bazhydai, M., Carstensen, A., Chan, K. C. J., Chuan-Peng, H., Dal\nBen, R., Franchin, L., Kosie, J. E., Lew-Williams, C., Okocha, A., …\nFrank, M. C. (2024). A unified approach to demographic data collection\nfor research with young children across diverse cultures.\nDevelopmental Psychology, 60. https://doi.org/10.1037/dev0001623",
+    "text": "Barry, T. J., Griffith, J. W., De Rossi, S., & Hermans, D. (2014).\nMeet the fribbles: Novel stimuli for use within behavioural research.\nFrontiers in Psychology, 5. https://doi.org/10.3389/fpsyg.2014.00103\n\n\nFrank, M. C., Braginsky, M., Cachia, J., Coles, N. A., Hardwicke, T. E.,\nHawkins, R. D., Mathur, M. B., & Williams, R. (2025). Experimentology: An Open Science Approach to Experimental\nPsychology Methods. Stanford University. https://doi.org/10.25936/3JP6-5M50\n\n\nHunter, M. A., & Ames, E. W. (1988). A multifactor model of\ninfant preferences for novel and familiar stimuli (pp. 69–95).\nAblex Publishing.\n\n\nKosie, J., Zettersten, M., Abu-Zhaya, R., Amso, D., Babineau, M.,\nBaumgartner, H., Bazhydai, M., Belia, M., Benavides, S., Bergmann, C.,\nBerteletti, I., Black, A. K., Borges, P., Borovsky, A., Byers-Heinlein,\nK., Cabrera, L., Calignano, G., Cao, A., Cox, C. M. M., … Lew-Williams,\nC. (n.d.). ManyBabies 5: A large-scale investigation of the proposed\nshift from familiarity preference to novelty preference in infant\nlooking time. https://doi.org/10.31234/osf.io/ck3vd\n\n\nSingh, L., Barokova, M. D., Baumgartner, H. A., Lopera-Perez, D. C.,\nOmane, P. O., Sheskin, M., Yuen, F. L., Wu, Y., Alcock, K. J., Altmann,\nE. C., Bazhydai, M., Carstensen, A., Chan, K. C. J., Chuan-Peng, H., Dal\nBen, R., Franchin, L., Kosie, J. E., Lew-Williams, C., Okocha, A., …\nFrank, M. C. (2024). A unified approach to demographic data collection\nfor research with young children across diverse cultures.\nDevelopmental Psychology, 60. https://doi.org/10.1037/dev0001623",
     "crumbs": [
       "References"
     ]

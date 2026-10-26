@@ -1,0 +1,119 @@
+/*-- scss:uses --*/
+@use 'tufte-fonts';
+@use 'solarized';
+
+@import '../fonts/fontawesome/scss/fontawesome';
+@import '../fonts/fontawesome/scss/solid';
+
+/*-- scss:defaults --*/
+$grid-body-width: 900px !default;
+
+
+$font-size-base: 1rem;
+$h1-font-size: $font-size-base * calc(2.5  * 0.75) !default; /* 2.5 */
+$h2-font-size: $font-size-base * calc(2    * 0.75) !default; /* 2 */
+$h3-font-size: $font-size-base * calc(1.75 * 0.75) !default; /* 1.75 */
+
+
+/*-- scss:rules --*/
+@font-face {
+	font-family: Source Sans Pro;
+	src: url("resources/fonts/SourceSansPro-Regular.ttf") format("truetype");
+}
+
+
+ul { list-style-type: '—'; }
+h1, h2, h3, h4 { font-style: italic; }
+h1.title {
+	font-style: normal;
+	font-size: $font-size-base * 2.5;
+}
+
+.quarto-title-meta { grid-template-columns: repeat(3, 1fr) !important; }
+
+.quarto-title-citeas {
+  font-size: .9em;
+  padding: 1em;
+  border: solid 1px #dee2e6;
+  margin-bottom: 0em;
+}
+
+#quarto-appendix.default {
+  padding-top: 0em;
+  margin-top: 0em;
+  border-top: none;
+}
+
+.sidebar-footer-item {
+  font-size: .7em;
+  color: rgb(78, 79, 80);
+}
+
+$boxes: (
+	'important'              var(--red)     $fa-var-circle-exclamation,
+	'resource'               var(--blue)    $fa-var-link,
+	'information'            var(--violet)   $fa-var-circle-info,
+	'caution'                var(--orange)  $fa-var-triangle-exclamation,
+	'code'                   var(--base0)   $fa-var-code,
+	'email'                  var(--magenta)   $fa-var-envelope,
+	'note'                   var(--cyan)    $fa-var-pencil,
+	'discussion questions'   var(--yellow)  $fa-var-comments,
+	'readings'               var(--green) $fa-var-book,
+);
+
+@each $name, $color, $icon in $boxes {
+	div.callout[title="#{$name}"] {
+		border: 4px solid $color;
+		border-radius: 8px;
+
+		.callout-toggle {
+			@include fa-icon-solid($fa-var-angles-down);
+			font-size: larger;
+		}
+
+		.callout-icon {
+			@include fa-icon-solid($icon);
+			font-size: larger;
+			padding-right: 0.3em;
+
+			&::before {
+				background-image: none;
+				transition: transform .2s linear;
+			}
+		}
+
+		.callout-header {
+			background-color: $color;
+			color: white;
+			opacity: 100%;
+
+			:is(.callout-icon, .callout-toggle)::before {
+				transform: rotate(0deg);
+			}
+
+			&[aria-expanded=true] {
+				.callout-icon::before   { transform: rotate(360deg); }
+				.callout-toggle::before { transform: rotate(180deg); }
+			}
+		}
+
+		.callout-title-container {
+			font-family: Source Sans Pro;
+			font-weight: normal;
+			font-size: 1.2em;
+			font-variant-caps: small-caps;
+			&::first-letter { text-transform: uppercase; }
+		}
+
+		.callout-body {
+			h2 {
+				font-size: 1.3rem;
+				border: none;
+				margin: 0 !important;
+				padding-bottom: 1rem;
+			}
+
+			padding: 1em;
+		}
+	}
+}

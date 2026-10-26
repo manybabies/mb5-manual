@@ -48,6 +48,8 @@ ADD MORE INFO ABOUT FRACTAL GENERATION
 -   **Between Trials:** Please use the provided `laughing baby` stimulus to re-center babies between each trial (i.e., before familiarization begins). If your lab uses a different attention-getting stimulus that you feel is more appropriate for your community, please check with us.
 -   **Within Trial:** Please use the `Hoehle circle with chimes` stimulus to re-center babies within each trial (i.e., between familiarization and test and between test phases 1 and 2).
 
-## [{{< var project.number >}} **Stimulus Directory**]({{< var url.stimuli >}}){target="_blank"}
+## MB5 Stimulus Directory
 
-<br>
+::: {.callout-note title="resource"}
+[**MB5 Stimulus Directory**]({{< var url.stimuli >}}){target="_blank"}
+:::

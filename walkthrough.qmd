@@ -1,7 +1,8 @@
 # Walkthrough videos {#sec-walkthrough}
 
-::: callout-important
-## Please WAIT to finalize/submit your walkthrough video until we have shared experiment files and you have set up the experiment in your lab.
+::: {.callout-note title="important"}
+### Please WAIT to finalize/submit your walkthrough video until we have shared experiment files and you have set up the experiment in your lab.
+
 We want to see how the experiment is displayed as an infant participant would see it. Thanks for your patience!
 :::
 
@@ -63,6 +64,7 @@ Make sure your video covers the following components. We added questions that so
 -   What does your testing room/booth look like (size, lay-out, etc.)? Try to film the entrance and complete interior of the test booth or room.
 -   Where is the baby sitting (e.g., parent's lap, high chair, etc.)? Film the seating arrangement both before the baby is seating and with the baby in place.
 -   What does the stimulus display look like (e.g., size, distance to baby)? Where is the screen located?
+-   What does the experiment look like from the baby's point of view? Please include at least one full trial (familiarization plus test)
 -   Where is the experimenter located during testing (e.g., inside or outside the booth)? Show where the experimenter is sitting; if it is in the same room, capture both baby and experimenter.
 -   Can the baby see the experimenter during testing? How does the experimenter see the baby (e.g., a video feed on a monitor with the exerimental software or a separate monitor)?
 -   How is the experimenter blinded to trial type during testing?

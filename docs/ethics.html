@@ -38,10 +38,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-8ef56b68f8fa1e9d2ba328e99e439f80.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-1ba4f5830de1b2e7b8cf0f0ffee6cc6d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-f20d986c0a451f2ccc8593ba23946548.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-14d8efe03e30633b7e02e88d67c93241.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-f20d986c0a451f2ccc8593ba23946548.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -73,7 +77,169 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-sidebar docked slimcontent quarto-light">
+<body class="nav-sidebar docked slimcontent quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -100,6 +266,7 @@ ul.task-list li input[type="checkbox"] {
       <a href="./">Lab Manual for ManyBabies 5: Hunter &amp; Ames Model of Infant Looking Preference</a> 
         <div class="sidebar-tools-main">
     <a href="https://github.com/manybabies/mb5-manual" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
     </div>
       </div>
@@ -113,7 +280,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">IMPORTANT!</span></a>
+ <span class="menu-text">Preface</span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
@@ -334,6 +501,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content page-columns page-full" id="quarto-document-content">
 
+
 <header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./getting-started.html">Getting started</a></li><li class="breadcrumb-item"><a href="./ethics.html"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Ethics approval</span></a></li></ol></nav>
 <div class="quarto-title">
 <h1 class="title"><span id="sec-ethics" class="quarto-section-identifier"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Ethics approval</span></span></h1>
@@ -359,36 +527,40 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="all-data-collecting-labs-are-required-to-obtain-ethics-approval-from-their-local-oversight-board-e.g.-irb-to-collect-data-for-.">All data-collecting labs are required to obtain ethics approval from their local oversight board (e.g., IRB)<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> to collect data for <strong>MB5</strong>.</h3>
 <p>As this process can take time, it is a good idea to <strong>get started on your ethics approval application as soon as possible</strong>. Approvals must be in place and a copy submitted (via the process described below) before you can obtain a Green-Light to collect data. An <strong>example ethics protocol</strong> can be viewed <a href="https://docs.google.com/document/d/e/2PACX-1vRA7WJbMr-NCoqQ7eFfE9nthZPsLFlTw9_mTAX1PY2nAqLfec77MJn-Phq1zwGX4w/pub">here</a>.<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> Additional protocols shared with us can be found in the <a href="https://manybabies.org/mb5-tracker" target="_blank"><strong>MB5 Project Tracker</strong></a>.<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a></p>
 <div class="no-row-height column-margin column-container"><div id="fn2"><p><sup>2</sup>&nbsp;This protocol was prepared for the ethics board at Arizona State University in the United States, and therefore some of the information might not be applicable for all contexts.</p></div><div id="fn3"><p><sup>3</sup>&nbsp;Scroll to the right to view the “Ethics protocol” column</p></div></div><p><a href="mailto:mb5@manybabies.org">Contact us</a> if you need advice or help with obtaining ethics approval.</p>
-<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout callout-style-default callout-note callout-titled" title="note">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Umbrella protocols
+note
 </div>
 </div>
-<div class="callout-body-container callout-body">
+<section id="umbrella-protocols" class="level3 callout-body-container callout-body">
+<h3 class="anchored" data-anchor-id="umbrella-protocols">Umbrella protocols</h3>
 <p>In some cases, labs will already have approval for <strong>MB5</strong> under an “umbrella protocol” (i.e., a protocol that covers multiple studies in one lab). In these cases, the ethics approval should still be uploaded as described below.</p>
-</div>
+</section>
 </div>
 </section>
 <div class="no-row-height column-margin column-container"><div id="fn1"><p><sup>1</sup>&nbsp;If your lab/institution does not have a formal ethics oversight board, please refer to <a href="https://docs.google.com/document/d/e/2PACX-1vR2nv4Wy1soDS4cBBNy9QZOyewvvjP1ka1reBRhAIzcrNi0reJxgHuhGS7f7i2wE0ScQuppek8Al_21/pub" target="_blank">MB’s general ethics guidance</a> and contact the Project Leads to confirm ethics compliance.</p></div></div></section>
 <section id="permission-to-collectshare-demographic-data" class="level2" data-number="9.2">
 <h2 data-number="9.2" class="anchored" data-anchor-id="permission-to-collectshare-demographic-data"><span class="header-section-number">9.2</span> Permission to collect/share demographic data</h2>
 <p><strong>MB5</strong> (like all ManyBabies projects) asks labs to collect a number of demographic background variables (e.g., <em>gestational age</em>, <em>sex</em>, <em>parental education</em>, <em>community of descent</em>) to be shared along with the main experimental data after full de-identification is confirmed (see <a href="demographics.html" class="quarto-xref"><span>Chapter 7</span></a> for more information). Not all of those variables are part of the main planned analysis. Even so, it is highly relevant to collect them for describing our sample, for follow-up and secondary analyses, and for checking the representativeness of the sample.</p>
-<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout callout-style-default callout-note callout-titled" title="important">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Data sharing
+important
 </div>
 </div>
-<section id="please-make-sure-you-have-permission-to-publicly-share-anonymizedde-identified-raw-data-including-required-demographic-info-as-this-is-a-condition-of-participation." class="level3 unnumbered callout-body-container callout-body">
-<h3 class="unnumbered anchored" data-anchor-id="please-make-sure-you-have-permission-to-publicly-share-anonymizedde-identified-raw-data-including-required-demographic-info-as-this-is-a-condition-of-participation.">Please make sure you have permission to publicly share anonymized/de-identified raw data (including required demographic info), as this is a condition of participation.</h3>
+<section id="data-sharing" class="level3 callout-body-container callout-body">
+<h3 class="anchored" data-anchor-id="data-sharing">Data sharing</h3>
+<section id="please-make-sure-you-have-permission-to-publicly-share-anonymizedde-identified-raw-data-including-required-demographic-info-as-this-is-a-condition-of-participation." class="level4 unnumbered">
+<h4 class="unnumbered anchored" data-anchor-id="please-make-sure-you-have-permission-to-publicly-share-anonymizedde-identified-raw-data-including-required-demographic-info-as-this-is-a-condition-of-participation.">Please make sure you have permission to publicly share anonymized/de-identified raw data (including required demographic info), as this is a condition of participation.</h4>
 <p><a href="mailto:mb5@manybabies.org"><strong>Contact us</strong></a> if your ethics board raises concerns about collecting and/or sharing these data.</p>
+</section>
 </section>
 </div>
 </section>
@@ -400,25 +572,26 @@ Data sharing
 <li><strong>Ethics approval</strong> in place to upload and/or share recordings.</li>
 <li><strong>Specific consent</strong> for this purpose collected from your participant’s parent/guardian.</li>
 </ol>
-<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout callout-style-default callout-note callout-titled" title="note">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Databrary limitations
+note
 </div>
 </div>
-<div class="callout-body-container callout-body">
+<section id="databrary-limitations" class="level3 callout-body-container callout-body">
+<h3 class="anchored" data-anchor-id="databrary-limitations">Databrary limitations</h3>
 <p>We are aware that many laboratories, particularly those based in regions governed by GDPR, may not be allowed by their institutions to use Databrary. In these circumstances, we encourage labs to use alternative methods for sharing their videos where possible (<a href="mailto:mb5@manybabies.org"><strong>email us</strong></a> to discuss options).</p>
-</div>
+</section>
 </div>
 </section>
 <section id="ethics-upload" class="level2" data-number="9.4">
 <h2 data-number="9.4" class="anchored" data-anchor-id="ethics-upload"><span class="header-section-number">9.4</span> Uploading ethics approval documentation</h2>
 <p><strong>Documentation of your lab’s ethics approval must be submitted prior to data collection via the <a href="https://airtable.com/appRoqMKzcK3NsXt4/pagPm3MXnFExsz1Ti/form" target="_blank"><strong>MB5 Green-Lighting Form</strong></a>.</strong></p>
 <p>We also encourage labs to share <strong>ethics application materials</strong> and <strong>consent forms</strong>, but this is not a requirement of participation.</p>
-<p>Please ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g.&nbsp;<code>mb5_babylabPrinceton_ethics.pdf</code>). Check the list of <a href="https://manybabies.org/labids/" target="_blank">LabIDs</a> to confirm your lab’s unique LabID before uploading.</p>
+<p>Please ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g.&nbsp;<code>mb5_babylabPrinceton_ethics.pdf</code>). Check the list of <a href="https://manybabies.org/labids/" target="_blank">MB LabIDs</a> to confirm your lab’s unique LabID before uploading.</p>
 
 
 </section>
@@ -427,6 +600,19 @@ Databrary limitations
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
     const icon = "";
     const anchorJS = new window.AnchorJS();
     anchorJS.options = {

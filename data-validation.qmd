@@ -1,11 +1,5 @@
 # Data validation {#sec-validation}
 
-::: callout-important
-# IMPORTANT
-
-## The MB5 data dictionary and validation tool are under development. Thank you for your patience as we finalize these resources! {.unnumbered}
-:::
-
 In order to confirm that all labs have implemented the experiment correctly and in a way that will produce analyzable data, we ask each lab to run **pilot data** for one or more "participants"[^data-validation-1] through the MB5 Data Validator. The validator checks data files against our data templates to ensure that all required variables are present and that data is in the expected format (e.g., integer, numeric, string) and response range. Examples:
 
 [^data-validation-1]: This data can be generated in any way you'd like: the "participant(s)" can be a real (consented) baby, a research assistant, the lab PI, a local celebrity, etc. It just can't be data that will be included in the final analysis!
@@ -17,7 +11,16 @@ In order to confirm that all labs have implemented the experiment correctly and 
 
 ## ALL LABS
 
-All labs, regardless of data collection apparatus or procedure, will need to validate a **participant data file** (1 row per participant, with columns for each participant-level variable (e.g., `participant_id`, `participant_age_days`, `participant_sex`, `parent1_education`) and a **trial data file** (3 rows per trial/36 rows per participant, with columns for trial and trial-phase level data; e.g., trial condition, looking time, presentation time). See @sec-datatemplates for more details and instructions.
+All labs, regardless of data collection apparatus or procedure, will need to validate the following files to ensure they are formatted according to the MB5 Data Dictionary:
+
+-   **Participant data file**
+-   **Trial data file**
+
+::: {.callout-note title="resource"}
+### MB5 Data Dictionary and Templates
+
+Please refer to @sec-datatemplates for more information about about data formatting and to view/download the MB5 Data Dictionary and Templates
+:::
 
 ## Labs NOT using Eye Trackers
 
@@ -29,15 +32,13 @@ Labs using eye trackers are asked to provide **raw gaze data** for all participa
 
 ------------------------------------------------------------------------
 
-::: callout-important
-# MB5 Data Dictionaries and Templates
-
-## Please refer to @sec-datatemplates for more information about about data formatting and to view/download the MB5 Data Dictionary and Templates
-:::
-
 ## Validate your pilot data
 
-Once you have your participant and trial data files ready to go, run them through the {{< var link.validator >}}. (Refer to the manual linked on the validator page for complete instructions).
+Once you have your participant and trial data files ready to go, run them through the **ManyBabies Data Validator**. (Refer to the manual linked on the validator page for complete instructions).
+
+::: {.callout-note title="resource"}
+{{< var link.validator >}}
+:::
 
 ## Uploading validated pilot data {#pilot-upload}
 

@@ -1,0 +1,133 @@
+<!--
+  CALLOUT BOXES — drop-in snippet
+  Recreates the box style from experimentology.io (source: langcog/experimentology,
+  resources/scss/global.scss). Three parts below: CSS, HTML markup, JS.
+  Copy each part into wherever your site keeps styles/markup/scripts.
+
+  HOW IT WORKS
+  Each box sets one CSS variable, --callout-color, which drives the border and
+  header background. The icon comes from a Font Awesome class you put in the
+  markup. To add a new box "type", you don't need new CSS — just pick a color
+  and an icon when you write the HTML (see the TYPES reference below).
+
+  REQUIRES: Font Awesome (for the icons). Add this once in your <head>:
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  (Swap in your own icon set if you prefer — just change the <i> classes.)
+-->
+
+
+<!-- ======================= 1. CSS ======================= -->
+<style>
+  .callout {
+    --callout-color: #268bd2; /* default: blue */
+    border: 4px solid var(--callout-color);
+    border-radius: 8px;
+    margin: 1.75em 0;
+    overflow: hidden;
+    background: #fff;
+  }
+
+  .callout-header {
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+    background-color: var(--callout-color);
+    color: #fff;
+    padding: 0.65em 1em;
+    cursor: pointer;
+    user-select: none;
+  }
+
+  .callout-icon,
+  .callout-toggle {
+    font-size: larger;
+    display: inline-flex;
+    flex: 0 0 auto;
+  }
+
+  .callout-icon i,
+  .callout-toggle i {
+    transition: transform 0.2s linear;
+  }
+
+  /* icon does a little spin, toggle chevron flips, when opened */
+  .callout-header[aria-expanded="true"] .callout-icon i {
+    transform: rotate(360deg);
+  }
+  .callout-header[aria-expanded="true"] .callout-toggle i {
+    transform: rotate(180deg);
+  }
+
+  .callout-title {
+    font-family: "Source Sans Pro", Arial, sans-serif;
+    font-weight: 600;
+    font-size: 1.2em;
+    font-variant-caps: small-caps;
+    flex: 1;
+  }
+  .callout-title::first-letter { text-transform: uppercase; }
+
+  .callout-body {
+    padding: 1em 1.2em;
+  }
+  .callout-body.is-collapsed {
+    display: none;
+  }
+  .callout-body p:first-child { margin-top: 0; }
+  .callout-body p:last-child { margin-bottom: 0; }
+</style>
+
+
+<!-- ======================= 2. HTML ======================= -->
+<!-- One box. Set --callout-color inline (or via a utility class — see TYPES below). -->
+
+<div class="callout" style="--callout-color: #268bd2;">
+  <div class="callout-header" aria-expanded="true" role="button" tabindex="0">
+    <span class="callout-icon"><i class="fa-solid fa-microscope"></i></span>
+    <span class="callout-title">case study</span>
+    <span class="callout-toggle"><i class="fa-solid fa-angles-down"></i></span>
+  </div>
+  <div class="callout-body">
+    <p>Replace this with your content. Any HTML works here — paragraphs, lists, code, images.</p>
+  </div>
+</div>
+
+
+<!-- ======================= 3. JS ======================= -->
+<script>
+  // Attach once, anywhere after the DOM has loaded. Works for any number of
+  // .callout elements, including ones added to the page later.
+  document.addEventListener('click', function (e) {
+    var header = e.target.closest('.callout-header');
+    if (!header) return;
+    var expanded = header.getAttribute('aria-expanded') === 'true';
+    header.setAttribute('aria-expanded', String(!expanded));
+    header.parentElement.querySelector('.callout-body').classList.toggle('is-collapsed', expanded);
+  });
+
+  document.addEventListener('keydown', function (e) {
+    if (e.key !== 'Enter' && e.key !== ' ') return;
+    var header = e.target.closest('.callout-header');
+    if (!header) return;
+    e.preventDefault();
+    header.click();
+  });
+</script>
+
+
+<!-- =================================================================
+     TYPES REFERENCE — the original site's color + icon pairing per box
+     type. Pick one and use its color as --callout-color and its icon
+     class on the <i> inside .callout-icon.
+     ================================================================= -->
+<!--
+  learning goals          #dc322f (red)      fa-solid fa-apple-whole
+  case study              #268bd2 (blue)     fa-solid fa-microscope
+  ethical considerations  #859900 (green)    fa-solid fa-leaf
+  accident report         #cb4b16 (orange)   fa-solid fa-person-falling-burst
+  code                    #839496 (gray)     fa-solid fa-code
+  depth                   #6c71c4 (violet)   fa-solid fa-magnifying-glass-plus
+  exercises               #b58900 (yellow)   fa-solid fa-pen-ruler
+  discussion questions    #2aa198 (cyan)     fa-solid fa-comments
+  readings                #d33682 (magenta)  fa-solid fa-book
+-->

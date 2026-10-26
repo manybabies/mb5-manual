@@ -1,14 +1,14 @@
 # Data collection period {#sec-testdates}
 
-::: callout-important
-# DO NOT BEGIN DATA COLLECTION FOR {{< var project.number >}} UNTIL PROJECT LEADS GIVE YOUR LAB A "GREEN-LIGHT"!! {.unnumbered}
+::: {.callout-note title="important"}
+## DO NOT BEGIN DATA COLLECTION FOR {{< var project.number >}} UNTIL PROJECT LEADS GIVE YOUR LAB A "GREEN-LIGHT"!! {.unnumbered}
 :::
 
 {{< var project.number >}} data collection is scheduled to run between the following dates:
 
-#### *Start Date:* **2026-06-01** *(Approx.)* {.unnumbered}
+#### *Start Date:* **2026-10-15** *(Approx.)* {.unnumbered}
 
-#### *End Date:* **2027-06-31** *(Approx.)* {.unnumbered}
+#### *End Date:* **2027-10-15** *(Approx.)* {.unnumbered}
 
 ------------------------------------------------------------------------
 

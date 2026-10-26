@@ -58,10 +58,14 @@ div.csl-indent {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-8ef56b68f8fa1e9d2ba328e99e439f80.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-1ba4f5830de1b2e7b8cf0f0ffee6cc6d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-f20d986c0a451f2ccc8593ba23946548.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-14d8efe03e30633b7e02e88d67c93241.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-f20d986c0a451f2ccc8593ba23946548.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -93,7 +97,169 @@ div.csl-indent {
 
 </head>
 
-<body class="nav-sidebar docked slimcontent quarto-light">
+<body class="nav-sidebar docked slimcontent quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -120,6 +286,7 @@ div.csl-indent {
       <a href="./">Lab Manual for ManyBabies 5: Hunter &amp; Ames Model of Infant Looking Preference</a> 
         <div class="sidebar-tools-main">
     <a href="https://github.com/manybabies/mb5-manual" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
     </div>
       </div>
@@ -133,7 +300,7 @@ div.csl-indent {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">IMPORTANT!</span></a>
+ <span class="menu-text">Preface</span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
@@ -343,13 +510,14 @@ div.csl-indent {
   <ul>
   <li><a href="#collecting-participant-information" id="toc-collecting-participant-information" class="nav-link active" data-scroll-target="#collecting-participant-information"><span class="header-section-number">7.1</span> Collecting participant information</a></li>
   <li><a href="#translations-and-adaptations" id="toc-translations-and-adaptations" class="nav-link" data-scroll-target="#translations-and-adaptations"><span class="header-section-number">7.2</span> Translations and adaptations</a></li>
-  <li><a href="#demographics-questionnaire-directory" id="toc-demographics-questionnaire-directory" class="nav-link" data-scroll-target="#demographics-questionnaire-directory"><span class="header-section-number">7.3</span> <strong><strong>MB5</strong> Demographics Questionnaire Directory</strong></a></li>
+  <li><a href="#mb5-demographics-questionnaire-directory" id="toc-mb5-demographics-questionnaire-directory" class="nav-link" data-scroll-target="#mb5-demographics-questionnaire-directory"><span class="header-section-number">7.3</span> MB5 Demographics Questionnaire Directory</a></li>
   <li><a href="#uploading-the-demographics-questionnaire" id="toc-uploading-the-demographics-questionnaire" class="nav-link" data-scroll-target="#uploading-the-demographics-questionnaire"><span class="header-section-number">7.4</span> Uploading the demographics questionnaire</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content page-columns page-full" id="quarto-document-content">
+
 
 <header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./getting-started.html">Getting started</a></li><li class="breadcrumb-item"><a href="./demographics.html"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Demographics questionnaire</span></a></li></ol></nav>
 <div class="quarto-title">
@@ -374,18 +542,19 @@ div.csl-indent {
 <h2 data-number="7.1" class="anchored" data-anchor-id="collecting-participant-information"><span class="header-section-number">7.1</span> Collecting participant information</h2>
 <p><strong>Please use an appropriate version of the</strong> <strong>MB5</strong> <strong>Demographics Questionnaire</strong><a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> to collect information about participants and their families/caregivers.</p>
 <div class="no-row-height column-margin column-container"><div id="fn1"><p><sup>1</sup>&nbsp;See below for more information on adapting/translating the template</p></div><div id="fn2"><p><sup>2</sup>&nbsp;See <span class="citation" data-cites="Singh2024">Singh et al. (<a href="references.html#ref-Singh2024" role="doc-biblioref">2024</a>)</span> for more information on the development of the template</p></div></div><p>This questionnaire has been adapted from the template(s) created by the <a href="https://manybabies.org/MB-Demographics/" target="_blank">MB-Demographics</a> group.<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> As noted in <span class="citation" data-cites="Singh2024">Singh et al. (<a href="references.html#ref-Singh2024" role="doc-biblioref">2024</a>)</span>, the MB Demographics Questionnaire template was developed to <strong>query information pertaining to six constructs</strong> (<em>biographical information</em>, <em>gestational status</em>, <em>health status</em>, <em>community of descent</em>, <em>caregiving environment</em>, and <em>socioeconomic status</em>). We have added a few additional questions that are of particular interest to MB5 (e.g., family history of colorblindness) to create the <strong>MB5</strong> Demographics Questionnaire template.</p>
-<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout callout-style-default callout-note callout-titled" title="caution">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-CHECK FOR MISSING DATA
+caution
 </div>
 </div>
-<div class="callout-body-container callout-body">
+<section id="check-for-missing-data" class="level3 callout-body-container callout-body">
+<h3 class="anchored" data-anchor-id="check-for-missing-data">CHECK FOR MISSING DATA</h3>
 <p>While parents/guardians can choose to not respond to individual questions, please <strong>CHECK THE FORM BEFORE THE RESPONDANT LEAVES YOUR LAB</strong> to avoid accidental blank responses/missing data.<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a></p>
-</div>
+</section>
 </div>
 <div class="no-row-height column-margin column-container"><div id="fn3"><p><sup>3</sup>&nbsp;In other words, please confirm that blank items are <strong>intentional non-responses</strong> rather than mistakes (e.g., respondent didn’t understand what the question was asking, didn’t know the questionnaire form continued on the next page, etc.).</p></div></div></section>
 <section id="translations-and-adaptations" class="level2 page-columns page-full" data-number="7.2">
@@ -393,33 +562,47 @@ CHECK FOR MISSING DATA
 <p>We have created an English-language version template that is suited for a United States context (<code>mb5_demographics-questionnaire_english-US-template</code>). <strong>We recognize that the specific questions/response options in this template are not appropriate for all contexts</strong>.</p>
 <p>We encourage labs to translate and/or adapt the questionnaire template as needed, while keeping in mind the <strong>goal of querying the same constructs included in the original template to ensure consistency in reporting</strong>. For example, the question on race/ethnicity can be adapted to meet the norms of your region. If possible, please use racial/ethnic categories taken from local census categories. For countries where it is not considered socially or legally acceptable to inquire about ethnic background, please adapt to a more appropriate question (e.g., parent and child place of birth), if possible.</p>
 <p><strong>There is much more information and guidance regarding adapting the questionnaire in the <a href="https://doi.org/10.1037/dev0001623">MB Demographics paper</a></strong><a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a>. If you have any questions about adapting the questionnaire, please <a href="mailto:mb5@manybabies.org"><strong>email us</strong></a> to discuss your concerns. Let us know if any of the questions are unclear to you—it is important that you are able to answer any questions parents/guardians may have.</p>
-<div class="no-row-height column-margin column-container"><div id="fn4"><p><sup>4</sup>&nbsp;<span class="citation" data-cites="Singh2024">Singh et al. (<a href="references.html#ref-Singh2024" role="doc-biblioref">2024</a>)</span></p></div></div><div class="callout callout-style-default callout-note callout-titled">
+<div class="no-row-height column-margin column-container"><div id="fn4"><p><sup>4</sup>&nbsp;<span class="citation" data-cites="Singh2024">Singh et al. (<a href="references.html#ref-Singh2024" role="doc-biblioref">2024</a>)</span></p></div></div><div class="callout callout-style-default callout-note callout-titled" title="note">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Note about translations/adaptations
+note
+</div>
+</div>
+<section id="note-about-translationsadaptations" class="level2 unnumbered callout-body-container callout-body">
+<h2 class="unnumbered anchored" data-anchor-id="note-about-translationsadaptations">Note about translations/adaptations</h2>
+<p>Translations/adaptations of the MB5 Demographics Questionnaire will be available in the Demographics Questionnaire Directory (below) as they become available.<a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a></p>
+<blockquote class="blockquote">
+<p>We are unable to centrally verify the accuracy of all translations/adaptations. Labs are responsible for reviewing adaptations to ensure that items are appropriate for their context and query the constructs in the original template. Labs are encouraged to work with others in their geographic region to create context-appropriate versions of the questionnaire. If you have questions about translations/adaptations, please <a href="mailto:mb5@manybabies.org"><strong>email us</strong></a>.</p>
+</blockquote>
+</section>
+</div>
+<div class="no-row-height column-margin column-container"><div id="fn5"><p><sup>5</sup>&nbsp;Existing translations/adaptations of the original MB-Demographics template are available via the <a href="https://osf.io/nqc92/files/osfstorage" target="_blank">MB-Demographics OSF repository</a>.</p></div></div></section>
+<section id="mb5-demographics-questionnaire-directory" class="level2" data-number="7.3">
+<h2 data-number="7.3" class="anchored" data-anchor-id="mb5-demographics-questionnaire-directory"><span class="header-section-number">7.3</span> MB5 Demographics Questionnaire Directory</h2>
+<div class="callout callout-style-default callout-note callout-titled" title="resource">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+resource
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Translations/adaptations of the MB5 Demographics Questionnaire will be available in the Demographics Questionnaire Directory (below) as they become available.<a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a></p>
-<blockquote class="blockquote">
-<p>We are unable to centrally verify the accuracy of all translations/adaptations. Labs are responsible for reviewing adaptations to ensure that items are appropriate for their context and query the constructs in the original template. Labs are encouraged to work with others in their geographic region to create context-appropriate versions of the questionnaire.</p>
-</blockquote>
-</div>
-</div>
-<div class="no-row-height column-margin column-container"><div id="fn5"><p><sup>5</sup>&nbsp;Existing translations/adaptations of the original MB-Demographics template are available via the <a href="https://osf.io/nqc92/files/osfstorage" target="_blank">MB-Demographics OSF repository</a>.</p></div></div></section>
-<section id="demographics-questionnaire-directory" class="level2" data-number="7.3">
-<h2 data-number="7.3" class="anchored" data-anchor-id="demographics-questionnaire-directory"><span class="header-section-number">7.3</span> <a href="https://drive.google.com/drive/folders/13ehUECKUy2BVtIlbTfMYIDbrVXxmSqR4?usp=drive_link" target="_blank"><strong><strong>MB5</strong> Demographics Questionnaire Directory</strong></a></h2>
+<p><a href="https://drive.google.com/drive/folders/13ehUECKUy2BVtIlbTfMYIDbrVXxmSqR4?usp=drive_link" target="_blank"><strong>MB5 Demographics Questionnaire Directory</strong></a></p>
 <blockquote class="blockquote">
 <p>Please refer to the “README” file in this directory for more information on using/translating/adapting templates.</p>
 </blockquote>
+</div>
+</div>
 </section>
 <section id="uploading-the-demographics-questionnaire" class="level2" data-number="7.4">
 <h2 data-number="7.4" class="anchored" data-anchor-id="uploading-the-demographics-questionnaire"><span class="header-section-number">7.4</span> Uploading the demographics questionnaire</h2>
 <p><strong>All labs must upload a blank copy of the Demographics Questionnaire they will be using for MB5</strong> via the <a href="https://airtable.com/appRoqMKzcK3NsXt4/pagPm3MXnFExsz1Ti/form" target="_blank"><strong>MB5 Green-Lighting Form</strong></a> <em>(even if you are using the provided template with no modifications!)</em>.</p>
-<p>Please ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g.&nbsp;<code>mb5_babylabPrinceton_demographics.pdf</code>). Check the list of <a href="https://manybabies.org/labids/" target="_blank">LabIDs</a> to confirm your lab’s unique LabID before uploading.</p>
+<p>Please ensure that all uploaded materials are clearly labeled in the filename with your LabID (e.g.&nbsp;<code>mb5_babylabPrinceton_demographics.pdf</code>). Check the list of <a href="https://manybabies.org/labids/" target="_blank">MB LabIDs</a> to confirm your lab’s unique LabID before uploading.</p>
 
 
 <div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list" style="display: none">
@@ -433,6 +616,19 @@ Singh, L., Barokova, M. D., Baumgartner, H. A., Lopera-Perez, D. C., Omane, P. O
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
     const icon = "";
     const anchorJS = new window.AnchorJS();
     anchorJS.options = {

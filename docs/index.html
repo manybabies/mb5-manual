@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="MB5 Leads">
-<meta name="dcterms.date" content="2026-10-02">
+<meta name="dcterms.date" content="2026-10-22">
 
 <title>Lab Manual for ManyBabies 5: Hunter &amp; Ames Model of Infant Looking Preference</title>
 <style>
@@ -59,10 +59,14 @@ div.csl-indent {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-8ef56b68f8fa1e9d2ba328e99e439f80.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-1ba4f5830de1b2e7b8cf0f0ffee6cc6d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-f20d986c0a451f2ccc8593ba23946548.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-14d8efe03e30633b7e02e88d67c93241.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-f20d986c0a451f2ccc8593ba23946548.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -94,7 +98,169 @@ div.csl-indent {
 
 </head>
 
-<body class="nav-sidebar docked quarto-light">
+<body class="nav-sidebar docked slimcontent quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -103,7 +269,7 @@ div.csl-indent {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">IMPORTANT!</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Preface</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -121,6 +287,7 @@ div.csl-indent {
       <a href="./">Lab Manual for ManyBabies 5: Hunter &amp; Ames Model of Infant Looking Preference</a> 
         <div class="sidebar-tools-main">
     <a href="https://github.com/manybabies/mb5-manual" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
     </div>
       </div>
@@ -134,7 +301,7 @@ div.csl-indent {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./index.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">IMPORTANT!</span></a>
+ <span class="menu-text">Preface</span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
@@ -344,7 +511,6 @@ div.csl-indent {
   <ul>
   <li><a href="#sec-preface" id="toc-sec-preface" class="nav-link active" data-scroll-target="#sec-preface">Preface</a>
   <ul class="collapse">
-  <li><a href="#thank-you-for-contributing-to-a-project-of" id="toc-thank-you-for-contributing-to-a-project-of" class="nav-link" data-scroll-target="#thank-you-for-contributing-to-a-project-of">Thank you for contributing to ManyBabies 5, a project of ManyBabies!</a></li>
   <li><a href="#manual-overview" id="toc-manual-overview" class="nav-link" data-scroll-target="#manual-overview">Manual Overview</a></li>
   <li><a href="#overview" id="toc-overview" class="nav-link" data-scroll-target="#overview">ManyBabies 5 Overview</a>
   <ul class="collapse">
@@ -356,7 +522,8 @@ div.csl-indent {
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
+
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -377,7 +544,7 @@ div.csl-indent {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">October 2, 2026</p>
+      <p class="date">October 22, 2026</p>
     </div>
   </div>
   
@@ -389,21 +556,6 @@ div.csl-indent {
 </header>
 
 
-<p><br></p>
-<div class="callout callout-style-default callout-important callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-IMPORTANT!
-</div>
-</div>
-<section id="this-lab-manual-is-still-under-development" class="level1 unnumbered callout-body-container callout-body">
-<h1 class="unnumbered">This lab manual is still UNDER DEVELOPMENT!</h1>
-<p>Bear with us as we finalize this document with all of the information your lab will need to successfully collect data for <strong>MB5</strong>. In the meantime, feel free to poke around and email us at <a href="mailto:mb5@manybabies.org"><strong>mb5@manybabies.org</strong></a> if you have any questions or need help.</p>
-</section>
-</div>
 <hr>
 <div class="quarto-layout-panel" data-layout-ncol="2">
 <div class="quarto-layout-row">
@@ -424,70 +576,59 @@ IMPORTANT!
 </div>
 </div>
 <hr>
-<section id="sec-preface" class="level1 unnumbered">
+<section id="sec-preface" class="level1 unnumbered page-columns page-full">
 <h1 class="unnumbered">Preface</h1>
-<section id="thank-you-for-contributing-to-a-project-of" class="level3">
-<h3 class="anchored" data-anchor-id="thank-you-for-contributing-to-a-project-of">Thank you for contributing to <a href="https://manybabies.org/MB5/" target="_blank">ManyBabies 5</a>, a project of <a href="https://manybabies.org/" target="_blank">ManyBabies</a>!</h3>
-<div class="callout callout-style-default callout-warning callout-titled">
+<p><strong>Thank you for contributing to <a href="https://manybabies.org/MB5/" target="_blank">ManyBabies 5</a>, a project of <a href="https://manybabies.org/" target="_blank">ManyBabies</a>!</strong></p>
+<div class="callout callout-style-default callout-note callout-titled" title="important">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-PLEASE REVIEW ALL OF THE MATERIAL IN THIS MANUAL CAREFULLY BEFORE DOING ANYTHING ELSE!
+important
 </div>
 </div>
-<div class="callout-body-container callout-body">
-
+<section id="this-lab-manual-is-a-living-document" class="level3 callout-body-container callout-body">
+<h3 class="anchored" data-anchor-id="this-lab-manual-is-a-living-document">This lab manual is a living document</h3>
+<p>Please refer to this online version of the manual (rather than printing or saving a PDF) to get the most up-to-date information about the project. You can see when the manual was last updated via the “Published” date above.</p>
+<p><strong>PLEASE REVIEW ALL OF THE MATERIAL IN THIS MANUAL CAREFULLY BEFORE DOING ANYTHING ELSE!</strong></p>
+<p><strong>🚫 DO NOT BEGIN DATA COLLECTION FOR <strong>MB5</strong> UNTIL YOU HAVE COMPLETED THE SET-UP STEPS OUTLINED IN THIS MANUAL AND PROJECT LEADS HAVE GIVEN YOUR LAB A “GREEN-LIGHT”!! 🚫</strong></p>
+</section>
 </div>
-</div>
-<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout callout-style-default callout-note callout-titled" title="resource">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-DO NOT BEGIN DATA COLLECTION FOR <strong>MB5</strong> UNTIL PROJECT LEADS GIVE YOUR LAB A “GREEN-LIGHT”!!
+resource
 </div>
 </div>
 <div class="callout-body-container callout-body">
-
-</div>
-</div>
-<div class="callout callout-style-default callout-caution callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-TO REPORT AN ISSUE AND/OR SUBMIT A HELP REQUEST, use the <a href="https://airtable.com/appRoqMKzcK3NsXt4/pagGafhoHcuVMs7ZV/form" target="_blank">MB5 Issue Tracking and Support Request Form</a>
-</div>
-</div>
-<div class="callout-body-container callout-body">
-
+<p><strong>TO REPORT AN ISSUE AND/OR SUBMIT A HELP REQUEST, use the <a href="https://airtable.com/appRoqMKzcK3NsXt4/pagGafhoHcuVMs7ZV/form" target="_blank"><strong>MB5 Issue Tracking and Support Request Form</strong></a></strong></p>
 </div>
 </div>
 <p><br></p>
-</section>
 <section id="manual-overview" class="level2">
 <h2 class="anchored" data-anchor-id="manual-overview">Manual Overview</h2>
 <p>This manual provides the information needed to participate in ManyBabies 5. The manual is divided into five sections (<a href="general-info.html">General information</a>, <a href="getting-started.html">Getting Started</a>, <a href="experiment-overview.html">Setting up the experiment</a>, <a href="running-experiment.html">Running the experiment</a> &amp; <a href="after-data-collection.html">After data collection</a>). Each section is divided into chapters, which you can jump to using the navigation panel on the left of the screen.</p>
-<div class="callout callout-style-default callout-caution callout-titled">
+<div class="callout callout-style-default callout-note callout-titled" title="note">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Help us improve the manual!
+note
 </div>
 </div>
-<div class="callout-body-container callout-body">
-<p>If you find any errors (big or small!) or would like to suggest edits/improvements, we want to hear about it! You can let us know by creating an issue via the <a href="https://github.com/manybabies/mb5-manual" target="_blank">MB5 manual github</a> <i>(click on <code>Issues</code> then <code>New issue</code>)</i>.</p>
-</div>
-</div>
-<p><br> <br></p>
+<section id="help-us-improve-the-manual" class="level4 callout-body-container callout-body">
+<h4 class="anchored" data-anchor-id="help-us-improve-the-manual">Help us improve the manual!</h4>
+<p>If you find any errors (big or small!) or would like to suggest edits/improvements, we want to hear about it! You can let us know by creating an issue via the <a href="https://github.com/manybabies/mb5-manual" target="_blank">mb5-manual Github repository</a> <i>(click on <code>Issues</code> then <code>New issue</code>)</i>.</p>
 </section>
-<section id="overview" class="level2">
+</div>
+<p><br></p>
+</section>
+<section id="overview" class="level2 page-columns page-full">
 <h2 class="anchored" data-anchor-id="overview">ManyBabies 5 Overview</h2>
 <p><strong>MB5</strong> is a cross-lab effort to provide an empirical basis for discussions of replicability as well as cultural, developmental, and methodological variability in infant perception/cognition research. In this project, we are examining drivers of infants’ familiarity vs.&nbsp;novelty preference through a collaboratively-designed “best test” of a popular model of infants’ visual preference for familiar and novel stimuli <span class="citation" data-cites="hunter1988">(<a href="references.html#ref-hunter1988" role="doc-biblioref">Hunter &amp; Ames, 1988</a>)</span>. More details about the background, design and hypotheses can be found in the <a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">MB5 Stage 1 Registered Report</a> <span class="citation" data-cites="kosie">(<a href="references.html#ref-kosie" role="doc-biblioref">Kosie et al., n.d.</a>)</span>. In the following sections, we provide instructions for getting ready to run the experiment, implementing the experiment in your lab, and reporting data back to the project as a whole. Thanks for joining us!</p>
 <div id="fig-hunterames" class="quarto-float quarto-figure quarto-figure-center anchored">
@@ -500,11 +641,11 @@ Figure&nbsp;1: Hunter and Ames model of infant attention (adapted from Bergmann 
 </figcaption>
 </figure>
 </div>
-<p><br> <br></p>
-<section id="acknowledgments" class="level3">
-<h3 class="anchored" data-anchor-id="acknowledgments">Acknowledgments</h3>
-<p>Much of this manual was adapted from the lab manuals created by the MB1, MB2, MB3, and MB4 teams.</p>
 <hr>
+<section id="acknowledgments" class="level3 page-columns page-full">
+<h3 class="anchored" data-anchor-id="acknowledgments">Acknowledgments</h3>
+<p>Much of this manual was adapted from the lab manuals created by the MB1, MB2, MB3, and MB4 teams. Some of the style elements have been borrowed/adapted from Experimentology<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> <span class="citation" data-cites="experimentology2025">(<a href="references.html#ref-experimentology2025" role="doc-biblioref">Frank et al., 2025</a>)</span>.</p>
+<div class="no-row-height column-margin column-container"><div id="fn1"><p><sup>1</sup>&nbsp;Special thanks to Mika Braginsky</p></div></div><hr>
 <p>This is a <a href="https://quarto.org/docs/books"><img src="https://quarto.org/quarto.png" class="img-fluid" style="width:20.0%"></a> book.</p>
 <p>To learn more about Quarto books visit <a href="https://quarto.org/docs/books" class="uri">https://quarto.org/docs/books</a>.</p>
 <hr>
@@ -516,6 +657,9 @@ Figure&nbsp;1: Hunter and Ames model of infant attention (adapted from Bergmann 
 
 
 <div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list" style="display: none">
+<div id="ref-experimentology2025" class="csl-entry" role="listitem">
+Frank, M. C., Braginsky, M., Cachia, J., Coles, N. A., Hardwicke, T. E., Hawkins, R. D., Mathur, M. B., &amp; Williams, R. (2025). <em><span class="nocase">Experimentology: An Open Science Approach to Experimental Psychology Methods</span></em>. Stanford University. <a href="https://doi.org/10.25936/3JP6-5M50">https://doi.org/10.25936/3JP6-5M50</a>
+</div>
 <div id="ref-hunter1988" class="csl-entry" role="listitem">
 Hunter, M. A., &amp; Ames, E. W. (1988). <em>A multifactor model of infant preferences for novel and familiar stimuli</em> (pp. 69–95). Ablex Publishing.
 </div>
@@ -527,9 +671,23 @@ Kosie, J., Zettersten, M., Abu-Zhaya, R., Amso, D., Babineau, M., Baumgartner, H
 </section>
 </section>
 
+
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
     const icon = "";
     const anchorJS = new window.AnchorJS();
     anchorJS.options = {

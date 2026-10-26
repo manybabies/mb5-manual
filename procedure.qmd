@@ -1,7 +1,7 @@
 # Procedure {#sec-procedure}
 
-::: callout-important
-## LABS SHOULD ADHERE TO THESE SPECIFICATIONS AS CLOSELY AS POSSIBLE
+::: {.callout-note title="important"}
+### LABS SHOULD ADHERE TO THESE SPECIFICATIONS AS CLOSELY AS POSSIBLE
 
 We will do our best to support labs' efforts to set up the experiment. **If any of the following technical specifications are not possible for your lab**, please contact the MB5 leadership team ({{< var email.support >}}) as soon as possible and **BEFORE BEGINNING DATA COLLECTION** to inform us of your planned deviation and the reason for it.
 :::
@@ -55,7 +55,6 @@ The familiar stimulus remains on the screen until the familarization criterion[^
 
 Once the familiarization criterion has been reached (either via fixed-length presentation, accumulated looking, or maximum trial duration), the infant is presented with a central-fixation stimulus (`looming circle`). An experimenter initiates the test phase via key press when the infant fixates the screen (or a maximum of 5s has elapsed).
 
-
 ### Test Phase {#sec-testphase}
 
 The **test phase** is made up of **two test periods**. Each test period lasts for a fixed duration of 5s (regardless of design[^procedure-5] or infant looking).
@@ -65,7 +64,6 @@ The **test phase** is made up of **two test periods**. Each test period lasts fo
 In the **first test period**, the stimulus seen during familiarization (the *familiar* stimulus) is presented side-by-side with a previously-unseen *novel* stimulus. The *novel* stimulus will be from the same stimulus class (*Fribbles* or *Fractals*) and complexity level (*low* or *high*) as the *familiar* stimulus.
 
 Following the first test period, the fixation stimulus (\`looking circle') is again presented in the center of the screen for a **fixed duration of 750ms**. This attention-getter is followed by the second test period.
-
 
 The **second test period** is identical to the first with the exception that the *familiar* and *novel* stimuli switch sides. For example, if the *familiar* stimulus appeared on the left side of the screen in the first test period, it will appear on the right side of the screen in the second test period.
 
@@ -83,8 +81,8 @@ Project Leads have generated a set of **XXX**[^procedure-6] order lists which co
 
 **Each lab will be assigned a set of 16 orders at the time of "Green-Lighting" to use for testing.** For labs collecting sample sizes larger than 16, orders can be used more than once.
 
-::: callout-important
-## PLEASE USE THE ORDERS ASSIGNED TO YOUR LAB!
+::: {.callout-note title="important"}
+### PLEASE USE THE ORDERS ASSIGNED TO YOUR LAB!
 
 It is **VERY IMPORTANT FOR COUNTERBALANCING PURPOSES** that each lab use the orders assigned to them by Project Leads. If you are having difficultly implementing assigned orders, please [**EMAIL US**]({{< var email.mailto >}}) as soon as possible so that we can assist you. Thank you!
 :::
