@@ -14,7 +14,7 @@
     "href": "index.html#manual-overview",
     "title": "Lab Manual for ManyBabies 5: Hunter & Ames Model of Infant Looking Preference",
     "section": "Manual Overview",
-    "text": "Manual Overview\nThis manual provides the information needed to participate in ManyBabies 5. The manual is divided into five sections (General information, Getting Started, Setting up the experiment, Running the experiment & After data collection). Each section is divided into chapters, which you can jump to using the navigation panel on the left of the screen.\n\n\n\n\n\n\nnote\n\n\n\nHelp us improve the manual!\nIf you find any errors (big or small!) or would like to suggest edits/improvements, we want to hear about it! You can let us know by creating an issue via the mb5-manual Github repository (click on Issues then New issue).",
+    "text": "Manual Overview\nThis manual provides the information needed to participate in ManyBabies 5. The manual is divided into five sections (General information, Getting Started, Setting up the experiment, Running the experiment & After data collection). Each section is divided into chapters, which you can jump to using the navigation panel on the left of the screen.",
     "crumbs": [
       "Preface"
     ]
@@ -77,7 +77,7 @@
     "href": "contact-info.html#contact-info",
     "title": "3  Contact info and important links",
     "section": "",
-    "text": "email\n\n\n\n\n\n\n\n General inquiries: mb5@manybabies.org\n\n\n\n\n\n\n\n\n\n\nemail\n\n\n\n\n\n\n\n\nMB5 PROJECT LEAD Jessica Kosie: jkosie@asu.edu\n\n\n\n\n\n\n\nMB5 PROJECT LEAD Martin Zettersten: mzettersten@ucsd.edu\n\n\n\n\n\n\n\nMB5 PROJECT LEAD Casey Lew-Williams: caseylw@princeton.edu\n\n\n\n\n\n\n\nMB5 COORDINATOR & MB EXEC. DIR. Heidi Baumgartner: heidib@manybabies.org",
+    "text": "email\n\n\n\n\n\n\n\n\n\n GENERAL INQUIRIES: mb5@manybabies.org\n\n\n\n\n\n\n\n\n\n\n\nemail\n\n\n\n\n\n\n\n\n\n MB5 PROJECT LEAD Jessica Kosie: jkosie@asu.edu\n\n\n\n\n\n\n\n\n\n MB5 PROJECT LEAD Martin Zettersten: mzettersten@ucsd.edu\n\n\n\n\n\n\n\n\n\n MB5 PROJECT LEAD Casey Lew-Williams: caseylw@princeton.edu\n\n\n\n\n\n\n\n\n\n MB5 COORDINATOR & MB EXEC. DIR. Heidi Baumgartner: heidib@manybabies.org",
     "crumbs": [
       "General information",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Contact info and important links</span>"

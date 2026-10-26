@@ -2,72 +2,49 @@
 
 ## Contact Info
 
-::::: {.callout-note title="email"}
-:::: {.columns}
-::: {.column width="3"}
-<img src="https://manybabies.org/assets/img/mb5-logo.png" width="100px">
-:::
-::: {.column width="8"}
+:::: {.callout-note title="email"}
+::: {layout="[ [1,4] ]"}
+<img src="https://manybabies.org/assets/img/mb5-logo.png" width="100px"/>
+
 <br>
-<b>General inquiries</b>: {{< var email.support >}}
+<b>GENERAL INQUIRIES:</b> {{< var email.support >}}
 :::
 ::::
-:::::
 
 
 :::: {.callout-note title="email"}
+::: {layout="[ [1,4] ]"}
+<img src="/images/kosie.png" style="border-radius:50%;width:100px;"/>
 
-<div class="row">
-<div class="col-md-3">
-<img src="/images/kosie.png" style="border-radius:50%;width:100px;">
-</div>
-<div class="col-md-9">
-
-**MB5 PROJECT LEAD**<br>
+<br>
+**MB5 PROJECT LEAD**<br> 
 **Jessica Kosie**: {{< var email.jessica >}}
+:::
 
-</div>
-</div>
+::: {layout="[ [1,4] ]"}
+<img src="/images/zettersten.jpeg" style="border-radius:50%;width:100px;"/>
 
-<div class="row">
-<div class="col-md-3">
-<img src="/images/zettersten.jpeg" style="border-radius:50%;width:100px;">
-</div>
-<div class="col-md-9">
-
-**MB5 PROJECT LEAD**<br>
+<br>
+**MB5 PROJECT LEAD**<br> 
 **Martin Zettersten**: {{< var email.martin >}}
+:::
 
-</div>
-</div>
+::: {layout="[ [1,4] ]"}
+<img src="/images/lew-williams.jpeg" style="border-radius:50%;width:100px;"/>
 
-<div class="row">
-<div class="col-md-3">
-<img src="/images/lew-williams.jpeg" style="border-radius:50%;width:100px;">
-</div>
-<div class="col-md-9">
-
-**MB5 PROJECT LEAD**<br>
+<br>
+**MB5 PROJECT LEAD**<br> 
 **Casey Lew-Williams**: {{< var email.casey >}}
+:::
 
-</div>
-</div>
+::: {layout="[ [1,4] ]"}
+<img src="/images/baumgartner.png" style="border-radius:50%;width:100px;"/>
 
-
-<div class="row">
-<div class="col-md-3">
-<img src="/images/baumgartner.png" style="border-radius:50%;width:100px;">
-</div>
-<div class="col-md-9">
-
-**MB5 COORDINATOR & MB EXEC. DIR.**<br>
+<br>
+**MB5 COORDINATOR & MB EXEC. DIR.**<br> 
 **Heidi Baumgartner**: {{< var email.heidi >}}
-
-</div>
-</div>
-
+:::
 ::::
-
 
 ## Important Links
 
@@ -110,41 +87,40 @@ Outlines roles/responsibilities, authorship info, and other info all contributor
 -   {{< var link.upload >}}: To upload experimental data
 :::
 
-
 ## Group Communication
 
-:::: {.callout-note title="email"}
-<div class="row">
-<div class="col-md-3">
-<img src="/images/email.png" style="width:100px;">
-</div>
-<div class="col-md-9">
+:::::: {.callout-note title="email"}
+::::: row
+::: col-md-3
+<img src="/images/email.png" style="width:100px;"/>
+:::
 
+::: col-md-9
 ### ManyBabies project listserv
 
-[**SUBSCRIBE**]({{< var url.listserv >}}){target='_blank'} *(click on `Join group` using a google-linked account, or {{< var email.emailus >}} to request to join)*
+[**SUBSCRIBE**]({{< var url.listserv >}}){target="_blank"} *(click on `Join group` using a google-linked account, or* {{< var email.emailus >}} *to request to join)*
 
-**POST TO THE LISTSERV:** {{< var email.listserv >}}^[*CAUTION*: sending an email to this address will send it to everyone subscribed to the listserv; please use judiciously! To contact Project Leads, use the "General Inquiries" address above] ^[Must be subscribed to the listserv to post; posts are moderated]
+**POST TO THE LISTSERV:** {{< var email.listserv >}}[^contact-info-1] [^contact-info-2]
+:::
+:::::
+::::::
 
-</div>
-</div>
+[^contact-info-1]: *CAUTION*: sending an email to this address will send it to everyone subscribed to the listserv; please use judiciously! To contact Project Leads, use the "General Inquiries" address above
 
-::::
+[^contact-info-2]: Must be subscribed to the listserv to post; posts are moderated
 
-:::: {.callout-note title="resource"}
+:::::: {.callout-note title="resource"}
+::::: row
+::: col-md-3
+<img src="/images/mb-slack.png" style="width:100px;"/>
+:::
 
-<div class="row">
-<div class="col-md-3">
-<img src="/images/mb-slack.png" style="width:100px;">
-</div>
-<div class="col-md-9">
-
+::: col-md-9
 ### ManyBabies Slack workspace
-{{< var link.slack >}}
 
-</div>
-</div>
+{{< var link.slack >}}
+:::
+:::::
 
 Join [*`#mb5-general`*](https://manybabies.slack.com/archives/C03U2J2GZ2A), [*`#mb5-data-collection`*](https://manybabies.slack.com/archives/C0AUKJ27YQG), and any other relevant channels (Click on `Add channels` in the left-hand menu)
-
-::::
+::::::

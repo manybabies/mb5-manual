@@ -1,17 +1,12 @@
+::: {layout="[ [1,1] ]"}
+<a href="https://manybabies.org/" target="_blank"><img src="https://manybabies.org/assets/img/avatar-icon-2022.png" width="260px"></a>
 
-------------------------------------------------------------------------
-
-::: {layout-ncol="2"}
-[![](https://manybabies.org/assets/img/avatar-icon-2022.png){width="260px" fig-align="center"}](https://manybabies.org)
-
-[![](https://manybabies.org/assets/img/mb5-logo.png){width="250px" fig-align="center"}](https://manybabies.org/MB5)
+<a href="https://manybabies.org/MB5" target="_blank"><img src="https://manybabies.org/assets/img/mb5-logo.png" width="260px"></a>
 :::
-
-------------------------------------------------------------------------
 
 # Preface {#sec-preface .unnumbered}
 
-**Thank you for contributing to {{< var link.projectwebsite >}}, a project of {{< var link.mbdotorg >}}!**
+Thank you for contributing to {{< var link.projectwebsite >}}, a project of {{< var link.mbdotorg >}}!
 
 ::: {.callout-note title="important"}
 ### This lab manual is a living document
@@ -20,11 +15,13 @@ Please refer to this online version of the manual (rather than printing or savin
 
 **PLEASE REVIEW ALL OF THE MATERIAL IN THIS MANUAL CAREFULLY BEFORE DOING ANYTHING ELSE!**
 
-**🚫 DO NOT BEGIN DATA COLLECTION FOR {{< var project.number >}} UNTIL YOU HAVE COMPLETED THE SET-UP STEPS OUTLINED IN THIS MANUAL AND PROJECT LEADS HAVE GIVEN YOUR LAB A "GREEN-LIGHT"!! 🚫**
+**🚫 DO NOT BEGIN DATA COLLECTION FOR** {{< var project.number >}} **UNTIL YOU HAVE COMPLETED THE SET-UP STEPS OUTLINED IN THIS MANUAL AND PROJECT LEADS HAVE GIVEN YOUR LAB A "GREEN-LIGHT"!! 🚫**
 :::
 
-::: {.callout-note title="resource"}
-**TO REPORT AN ISSUE AND/OR SUBMIT A HELP REQUEST, use the {{< var link.issue >}}**
+::: {.callout-note title="note"}
+#### Help us improve the manual!
+
+If you find any errors (big or small!) or would like to suggest edits/improvements, we want to hear about it! You can let us know by creating an issue via the {{< var link.manualgithub >}} <i>(click on `Issues` then `New issue`)</i>.
 :::
 
 <br>
@@ -32,12 +29,6 @@ Please refer to this online version of the manual (rather than printing or savin
 ## Manual Overview
 
 This manual provides the information needed to participate in {{< var project.name >}}. The manual is divided into five sections ([General information](#sec-generalinfo), [Getting Started](#sec-gettingstarted), [Setting up the experiment](#sec-setup), [Running the experiment](#sec-running) & [After data collection](#sec-aftercollection)). Each section is divided into chapters, which you can jump to using the navigation panel on the left of the screen.
-
-::: {.callout-note title="note"}
-#### Help us improve the manual!
-
-If you find any errors (big or small!) or would like to suggest edits/improvements, we want to hear about it! You can let us know by creating an issue via the {{< var link.manualgithub >}} <i>(click on `Issues` then `New issue`)</i>.
-:::
 
 <br>
 
@@ -51,7 +42,9 @@ If you find any errors (big or small!) or would like to suggest edits/improvemen
 
 ### Acknowledgments
 
-Much of this manual was adapted from the lab manuals created by the MB1, MB2, MB3, and MB4 teams. Some of the style elements have been borrowed/adapted from Experimentology^[Special thanks to Mika Braginsky] [@experimentology2025].
+Much of this manual was adapted from the lab manuals created by the MB1, MB2, MB3, and MB4 teams. Some of the style elements have been borrowed/adapted from Experimentology[^index-1] [@experimentology2025].
+
+[^index-1]: Special thanks to Mika Braginsky
 
 ------------------------------------------------------------------------
 
