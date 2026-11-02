@@ -521,10 +521,10 @@ ul.task-list li input[type="checkbox"] {
 
 <p>In order to confirm that all labs have implemented the experiment correctly and in a way that will produce analyzable data, we ask each lab to run <strong>pilot data</strong> for one or more “participants”<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> through the MB5 Data Validator. The validator checks data files against our data templates to ensure that all required variables are present and that data is in the expected format (e.g., integer, numeric, string) and response range. Examples:</p>
 <div class="no-row-height column-margin column-container"><div id="fn1"><p><sup>1</sup>&nbsp;This data can be generated in any way you’d like: the “participant(s)” can be a real (consented) baby, a research assistant, the lab PI, a local celebrity, etc. It just can’t be data that will be included in the final analysis!</p></div></div><ul>
-<li><code>participant_age_days</code> should contain an integer between 90 and 455</li>
 <li><code>lab_id</code> should be a string that matches an entry in the <a href="https://manybabies.org/mb5-tracker" target="_blank"><strong>MB5 Project Tracker</strong></a></li>
-<li><code>preterm</code> should be one of the options in the set {‘preterm’, ‘not_preterm’}</li>
-<li><code>test_looking_time_novel</code> should be an integer between 0 and 10000 (looking time in ms)</li>
+<li><code>participant_age_days</code> should contain an integer between 90 and 455</li>
+<li><code>preterm</code> should match one of the options in the set {‘preterm’, ‘not_preterm’}</li>
+<li><code>test_1_looking_time_novel</code> should be an integer between 0 and 5000 (looking time in ms)</li>
 </ul>
 <section id="all-labs" class="level2" data-number="15.1">
 <h2 data-number="15.1" class="anchored" data-anchor-id="all-labs"><span class="header-section-number">15.1</span> ALL LABS</h2>

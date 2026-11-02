@@ -4,10 +4,10 @@ In order to confirm that all labs have implemented the experiment correctly and 
 
 [^data-validation-1]: This data can be generated in any way you'd like: the "participant(s)" can be a real (consented) baby, a research assistant, the lab PI, a local celebrity, etc. It just can't be data that will be included in the final analysis!
 
--   `participant_age_days` should contain an integer between 90 and 455
 -   `lab_id` should be a string that matches an entry in the {{< var link.tracker >}}
--   `preterm` should be one of the options in the set {'preterm', 'not_preterm'}
--   `test_looking_time_novel` should be an integer between 0 and 10000 (looking time in ms)
+-   `participant_age_days` should contain an integer between 90 and 455
+-   `preterm` should match one of the options in the set {'preterm', 'not_preterm'}
+-   `test_1_looking_time_novel` should be an integer between 0 and 5000 (looking time in ms)
 
 ## ALL LABS
 
