@@ -25,7 +25,7 @@ The MB5 Data Dictionary lists all of the variables that should be included in th
 ### Participant Data
 
   -   1 row per participant
-  -   columns for each participant-level variable (e.g., *subject ID, age, sex, parent education*)
+  -   columns for each participant-level variable (e.g., *subject ID, age, sex, parent education*, data from the Demographics and Object Experience Questionnaires) 
   -   name your Participant Data file according to this naming convention: `mb5_LabID_participant-data.csv`
   
 ### Trial Data
