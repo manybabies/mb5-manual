@@ -14,26 +14,25 @@ In addition, labs are asked to submit DE-IDENTIFIED raw data files. For labs usi
 The MB5 Data Dictionary lists all of the variables that should be included in the Participant Data and Trial Data files. Each row of the dictionary contains a variable and that variable’s specified format (e.g., string, integer), example value(s), and description. It is important that your lab’s data follows these specifications **exactly** in order to allow for data harmonization with the full dataset.
 
 ::: {.callout-note title="resource"}
-{{< var link.dictionary >}} 
+{{< var link.dictionary >}}
 
->Note: The data dictionary contains two tabs (*Participant Data*, *Trial Data*) 
+> Note: The data dictionary contains two tabs (*Participant Data*, *Trial Data*)
 :::
-
 
 ## MB5 Data templates
 
 ### Participant Data
 
-  -   1 row per participant
-  -   columns for each participant-level variable (e.g., *subject ID, age, sex, parent education*, data from the Demographics and Object Experience Questionnaires) 
-  -   name your Participant Data file according to this naming convention: `mb5_LabID_participant-data.csv`
-  
+-   1 row per participant
+-   columns for each participant-level variable (e.g., *subject ID, age, sex, parent education*, data from the Demographics and Object Experience Questionnaires)
+-   name your Participant Data file according to this naming convention: `mb5_LabID_participant-data.csv`
+
 ### Trial Data
 
-  -   1 row per trial/12 rows per participant
-  -   columns for trial- and trial-phase-level data (e.g., *trial number, condition, looking time, presentation time*). 
-  -   name your Trial Data file according to this naming convention: `mb5_LabID_trial-data.csv`
-  
+-   1 row per trial/12 rows per participant
+-   columns for trial- and trial-phase-level data (e.g., *trial number, condition, looking time, presentation time*).
+-   name your Trial Data file according to this naming convention: `mb5_LabID_trial-data.csv`
+
 ::: {.callout-note title="important"}
 ## Use consistent participant identifiers across files {.unnumbered}
 
@@ -43,7 +42,7 @@ These two files must use **identical, anonymous subject identifiers (`participan
 ::: {.callout-note title="important"}
 ## Submit de-identified data ONLY {.unnumbered}
 
-These files must contain **de-identified data ONLY**. All potentially identifying information should be stripped from your data files BEFORE submission. For example, you SHOULD NOT include birth date and test date in your Participant Data file. Instead, use an age calculating tool (e.g., [https://www.calculator.net/age-calculator.html](https://www.calculator.net/age-calculator.html)) to calculate each participant’s age in days, and report that value in the `age_days` variable. In addition, `participant_id` SHOULD NOT contain any personal information (e.g., name, birthdate, initials) and should instead be completely de-identified (e.g., mb5-01, mb5-02, etc.). If you have any questions about ensuring your data is de-identified, {{< var email.emailus >}}.
+These files must contain **de-identified data ONLY**. All potentially identifying information should be stripped from your data files BEFORE submission. For example, you SHOULD NOT include birth date and test date in your Participant Data file. Instead, use an age calculating tool (e.g., <https://www.calculator.net/age-calculator.html>) to calculate each participant’s age in days, and report that value in the `age_days` variable. In addition, `participant_id` SHOULD NOT contain any personal information (e.g., name, birthdate, initials) and should instead be completely de-identified (e.g., mb5-01, mb5-02, etc.). If you have any questions about ensuring your data is de-identified, {{< var email.emailus >}}.
 :::
 
 ::: {.callout-note title="important"}
@@ -51,7 +50,7 @@ These files must contain **de-identified data ONLY**. All potentially identifyin
 
 It’s really important to remember that these files are designed to be read by a computer program, not a person. Anything that violates the templates (e.g., variables that aren’t of the specified type, missing data, comments, etc.) will not work. For example, cells in the column `lang1_exposure` in the participant data file should contain numbers ONLY. If you write "80 to 90" this will cause errors because it contains characters in addition to numbers. That said, we also want your files to make sense to a human. Please use the specified columns (e.g., `session_exclusion_info`, `notes`) to add information that will help others understand your data. If you have questions or comments, please communicate directly with the analysis team rather than embedding them in the data files.
 
-> Note: please check questionnaire responses before participants leave the lab to avoid accidental non-responses or other issues that would make data harmonization difficult or impossible. 
+> Note: please check questionnaire responses before participants leave the lab to avoid accidental non-responses or other issues that would make data harmonization difficult or impossible.
 :::
 
 ::: {.callout-note title="important"}
@@ -66,18 +65,14 @@ Please **do not leave any fields blank**. If something does not logically have a
 Files must be in CSV (comma separated values) format. PLEASE NOTE that saving in this format will remove any formulas or other non-plain-text features of your spreadsheet (e.g,. color fills, formatting); all information should be captured in the text within each cell.
 :::
 
+Please download a copy of each template below and use them as guides for formatting your lab’s data.[^data-templates-1]
 
-
-Please download a copy of each template below and use them as guides for formatting your lab’s data.^[The templates include some sample data to supplement the data dictionary. Make sure to delete this sample data from the templates before entering your own data!]
-
-::: {.callout-note title="resource"}
-[Participant Data template](https://drive.google.com/file/d/1qGRYyzkJ1Vla4kwDEpClFCu4Opw9dcRB/view?usp=sharing){target='_blank'}
-:::
-
-
+[^data-templates-1]: The templates include some sample data to supplement the data dictionary. Make sure to delete this sample data from the templates before entering your own data!
 
 ::: {.callout-note title="resource"}
-[Trial Data template](https://drive.google.com/file/d/135BqqPR9EsK62wo1D5RqvmMPeKu4kcKn/view?usp=drive_link){target='_blank'}
+[Participant Data template](https://drive.google.com/file/d/11W4pPAzSuseQxlVs-c1pATjg1GTnTPAe/view?usp=sharing){target="_blank"}
 :::
 
-
+::: {.callout-note title="resource"}
+[Trial Data template](https://drive.google.com/file/d/135BqqPR9EsK62wo1D5RqvmMPeKu4kcKn/view?usp=sharing){target="_blank"}
+:::
