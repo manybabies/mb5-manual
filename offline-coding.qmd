@@ -1,0 +1,15 @@
+# Offline coding {#sec-offlinecoding}
+
+
+
+::: {.callout-note title="caution"}
+## More information coming soon! {.unnumbered}
+
+:::
+
+## Offline coding of Familiarization phase
+Labs not using an eye tracker and/or running a fixed-length design will need to code infant looking time during the familiarization phase. 
+
+
+## Offline coding of Test phases
+ALL labs, regardless of aparatus or design, will need to code infant looking time during the two test phases of each trial. 

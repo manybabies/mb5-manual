@@ -1,7 +1,7 @@
 ::: {layout="[ [1,1] ]"}
-<a href="https://manybabies.org/" target="_blank"><img src="https://manybabies.org/assets/img/avatar-icon-2022.png" width="260px"></a>
+<a href="https://manybabies.org/" target="_blank"><img src="https://manybabies.org/assets/img/avatar-icon-2022.png" width="260px"/></a>
 
-<a href="https://manybabies.org/MB5" target="_blank"><img src="https://manybabies.org/assets/img/mb5-logo.png" width="260px"></a>
+<a href="https://manybabies.org/MB5" target="_blank"><img src="https://manybabies.org/assets/img/mb5-logo.png" width="260px"/></a>
 :::
 
 # Preface {#sec-preface .unnumbered}

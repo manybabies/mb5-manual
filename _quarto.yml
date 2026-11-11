@@ -69,6 +69,7 @@ book:
         - during-data-collection.qmd
     - part: after-data-collection.qmd
       chapters:
+        - offline-coding.qmd
         - data-reporting.qmd
         - data-templates.qmd
         - data-submission.qmd
