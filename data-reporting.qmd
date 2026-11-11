@@ -11,3 +11,6 @@ In the case of **fuss-out prior to entering the testing room**, only participant
 
 Data collected after the study has been terminated (e.g. fussy babies who are brought back in for a “second run”) should not be reported. 
 
+
+### Missing data
+Enter "NA" in all cells with missing data (e.g., trials with no error to report, questions intentionally left blank or not included on the questionnaire).
