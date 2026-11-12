@@ -21,6 +21,6 @@ Regardless of design (*infant-controlled* or *fixed-length*), labs not using an 
 Please refer to the resources in the directory linked below for more information on how to complete offline coding. 
 
 :::  {.callout-note title="resource"}
-[Offline Coding Resources](https://drive.google.com/drive/folders/1E1rPF1yGbqKLnlqFoq7w2AQOemS5FO4H?usp=sharing){target="_blank"} <br>
+### [Offline Coding Resources](https://drive.google.com/drive/folders/1E1rPF1yGbqKLnlqFoq7w2AQOemS5FO4H?usp=sharing){target="_blank"}
 *(manual, ELAN template, example video)*
 :::
