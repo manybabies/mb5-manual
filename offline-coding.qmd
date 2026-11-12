@@ -1,15 +1,26 @@
 # Offline coding {#sec-offlinecoding}
 
-
-
-::: {.callout-note title="caution"}
-## More information coming soon! {.unnumbered}
-
+:::  {.callout-note title="important"}
+## This section is relevant for labs NOT using an eye tracker. {.unnumbered}
 :::
 
-## Offline coding of Familiarization phase
-Labs not using an eye tracker and/or running a fixed-length design will need to code infant looking time during the familiarization phase. 
+In the MB5 procedure, infants are first familiarized to an image for 5, 10, or 15 seconds. Then, they receive two test phases, each lasting 5 seconds. 
 
+Any labs NOT using an eye tracker will be using the videos recorded from the experiment (depicting the infant’s face and the trial phase information) to complete OFFLINE CODING to measure infant looking time. 
+
+
+## Offline coding of Familiarization phase
+Labs using an *infant-controlled* design will code infant looking during familiarization "online" (i.e., in real time during the experiment). 
+
+Labs using a *fixed-length* design are **strongly encouraged** to code infant looking time to the familiarization stiumlus offline if they have the capacity to do so. 
 
 ## Offline coding of Test phases
-ALL labs, regardless of aparatus or design, will need to code infant looking time during the two test phases of each trial. 
+Regardless of design (*infant-controlled* or *fixed-length*), labs not using an eye tracker will **need to code infant gaze to the left or right stimulus during the two test phases** for each trial offline (i.e., after the experiment). In other words, there is NO online coding of test trials.
+
+## Offline coding resources
+Please refer to the resources in the directory linked below for more information on how to complete offline coding. 
+
+:::  {.callout-note title="resource"}
+[Offline Coding Resources](https://drive.google.com/drive/folders/1E1rPF1yGbqKLnlqFoq7w2AQOemS5FO4H?usp=sharing){target="_blank"} <br>
+*(manual, ELAN template, example video)*
+:::
