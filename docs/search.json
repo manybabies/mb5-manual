@@ -876,7 +876,7 @@
     "href": "offline-coding.html",
     "title": "20  Offline coding",
     "section": "",
-    "text": "20.1 Offline coding of Familiarization phase\nIn the MB5 procedure, infants are first familiarized to an image for 5, 10, or 15 seconds. Then, they receive two test phases, each lasting 5 seconds.\nAny labs NOT using an eye tracker will be using the videos recorded from the experiment (depicting the infant’s face and the trial phase information) to complete OFFLINE CODING to measure infant looking time.\nLabs using an infant-controlled design will code infant looking during familiarization “online” (i.e., in real time during the experiment).\nLabs using a fixed-length design are strongly encouraged to code infant looking time to the familiarization stiumlus offline if they have the capacity to do so.",
+    "text": "20.1 Offline coding of Familiarization phase\nIn the MB5 procedure, infants are first familiarized to an image for 5, 10, or 15 seconds. Then, they receive two test phases, each lasting 5 seconds.\nAny labs NOT using an eye tracker to automatically detect gaze coordinates will use the videos recorded from the experiment (depicting the infant’s face and the trial phase information) to complete OFFLINE CODING to measure infant looking time.\nLabs using an infant-controlled design will code infant looking during familiarization “online” (i.e., in real time during the experiment). Offline coding of familliarization in this case is preferred but optional.\nLabs using a fixed-length design are very strongly encouraged to code infant looking time to the familiarization stiumlus offline. Please email us if coding familiarization phases would be a hardship for your lab.",
     "crumbs": [
       "After data collection",
       "<span class='chapter-number'>20</span>  <span class='chapter-title'>Offline coding</span>"
@@ -887,7 +887,7 @@
     "href": "offline-coding.html#this-section-is-relevant-for-labs-not-using-an-eye-tracker.",
     "title": "20  Offline coding",
     "section": "This section is relevant for labs NOT using an eye tracker.",
-    "text": "This section is relevant for labs NOT using an eye tracker.",
+    "text": "This section is relevant for labs NOT using an eye tracker.\n\nIf your lab is using an eye tracker to automatically detect gaze coordinates, you can skip this section.",
     "crumbs": [
       "After data collection",
       "<span class='chapter-number'>20</span>  <span class='chapter-title'>Offline coding</span>"
@@ -898,7 +898,7 @@
     "href": "offline-coding.html#offline-coding-of-test-phases",
     "title": "20  Offline coding",
     "section": "20.2 Offline coding of Test phases",
-    "text": "20.2 Offline coding of Test phases\nRegardless of design (infant-controlled or fixed-length), labs not using an eye tracker will need to code infant gaze to the left or right stimulus during the two test phases for each trial offline (i.e., after the experiment). In other words, there is NO online coding of test trials.",
+    "text": "20.2 Offline coding of Test phases\nRegardless of design (infant-controlled or fixed-length), labs not using an eye tracker will need to code infant gaze to the left or right stimulus during the two test phases for each trial offline (i.e., after the experiment). In other words, there is NO online coding of test trials even if you are doing online coding during familiarization.",
     "crumbs": [
       "After data collection",
       "<span class='chapter-number'>20</span>  <span class='chapter-title'>Offline coding</span>"

@@ -2,20 +2,22 @@
 
 :::  {.callout-note title="important"}
 ## This section is relevant for labs NOT using an eye tracker. {.unnumbered}
+
+>If your lab is using an eye tracker to automatically detect gaze coordinates, you can skip this section.
 :::
 
 In the MB5 procedure, infants are first familiarized to an image for 5, 10, or 15 seconds. Then, they receive two test phases, each lasting 5 seconds. 
 
-Any labs NOT using an eye tracker will be using the videos recorded from the experiment (depicting the infant’s face and the trial phase information) to complete OFFLINE CODING to measure infant looking time. 
+Any labs NOT using an eye tracker to automatically detect gaze coordinates will use the videos recorded from the experiment (depicting the infant’s face and the trial phase information) to complete OFFLINE CODING to measure infant looking time. 
 
 
 ## Offline coding of Familiarization phase
-Labs using an *infant-controlled* design will code infant looking during familiarization "online" (i.e., in real time during the experiment). 
+Labs using an *infant-controlled* design will code infant looking during familiarization "online" (i.e., in real time during the experiment). Offline coding of familliarization in this case is **preferred but optional**. 
 
-Labs using a *fixed-length* design are **strongly encouraged** to code infant looking time to the familiarization stiumlus offline if they have the capacity to do so. 
+Labs using a *fixed-length* design are **very strongly encouraged** to code infant looking time to the familiarization stiumlus offline. Please {{< var email.emailus >}} if coding familiarization phases would be a hardship for your lab. 
 
 ## Offline coding of Test phases
-Regardless of design (*infant-controlled* or *fixed-length*), labs not using an eye tracker will **need to code infant gaze to the left or right stimulus during the two test phases** for each trial offline (i.e., after the experiment). In other words, there is NO online coding of test trials.
+Regardless of design (*infant-controlled* or *fixed-length*), labs not using an eye tracker will **need to code infant gaze to the left or right stimulus during the two test phases** for each trial offline (i.e., after the experiment). In other words, there is NO online coding of test trials even if you are doing online coding during familiarization.
 
 ## Offline coding resources
 Please refer to the resources in the directory linked below for more information on how to complete offline coding. 
