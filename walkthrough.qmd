@@ -45,6 +45,12 @@ Please verify that your walkthrough video shows the relevant parts of the appoin
 
 > Note: It is not necessary to narrate your video (you can if you want); a silent observer is sufficient, but be sure to cover all details requested below. If your lab language is not English, we might add subtitles later on.
 
+::: {.callout-note title="resource"}
+### [MB5 Walkthrough Checklist](https://drive.google.com/file/d/1xu_6jjDyJdKkkfYNzbpjNnfflvX76YFU/view?usp=sharing){target="_blank"} {.unnumbered}
+
+> Download the checklist as a PDF
+:::
+
 ### Greeting
 *The walkthrough video shows…*
 
@@ -71,7 +77,7 @@ Please verify that your walkthrough video shows the relevant parts of the appoin
 *The walkthrough video shows…*
 
 - [ ] What the experiment looks like from the baby’s point of view. Please include at least one full trial (familiarization plus test) from each stimulus set (fribbles and fractals).
-- [ ] What the experiment looks like from the experimenter’s point of view. How is the experimenter blinded to trial type during testing (e.g., PsychoPy view with colored squares for trial phase; post-it over screen blocking stimulus)?
+- [ ] What the experiment looks like from the experimenter’s point of view. How is the experimenter "masked" to trial type during testing (e.g., PsychoPy view with colored squares for trial phase; post-it over screen blocking stimulus)?
 - [ ] How the experimenter sees the baby during the experiment (e.g., a video feed on a monitor with the experimental software or a separate monitor).
 - [ ] *If live-coding takes place:* examples of what counts as a look/no look and/or videotape someone doing the coding together with the infant looks.
 - [ ] *If eye tracking:* the calibration process.
@@ -79,7 +85,7 @@ Please verify that your walkthrough video shows the relevant parts of the appoin
 ### Questionnaires
 *The walkthrough video shows…*
 
-- [ ] At what point do you hand out/collect the Demographics and Object Experience Questionnaires (e.g., pre- or post-experiment).
+- [ ] At what point you hand out/collect the Demographics and Object Experience Questionnaires (e.g., pre- or post-experiment^[We recommend administering questionnaires post-experiment, if possible.]).
 - [ ] Any additional instructions for questionnaires other than those listed on the form(s) 
 
 ### Debrief after experiment
@@ -90,11 +96,7 @@ Please verify that your walkthrough video shows the relevant parts of the appoin
 - [ ] What compensation you give babies/caregivers for participating.
 
 
-::: {.callout-note title="resource"}
-### [MB5 Walkthrough Checklist](https://drive.google.com/file/d/1xu_6jjDyJdKkkfYNzbpjNnfflvX76YFU/view?usp=sharing){target="_blank"} {.unnumbered}
 
-> Download the checklist as a PDF
-:::
 
 ***
 ## Example walkthrough videos
