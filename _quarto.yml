@@ -61,7 +61,7 @@ book:
         - procedure.qmd
         - apparatus.qmd
         - data-validation.qmd
-        - request-greenlight.qmd
+        - greenlight-request.qmd
     - part: running-experiment.qmd
       chapters:
         - general-lab-practices.qmd
