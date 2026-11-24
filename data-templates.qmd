@@ -14,7 +14,7 @@ In addition, labs are asked to submit DE-IDENTIFIED raw data files. For labs usi
 The MB5 Data Dictionary lists all of the variables that should be included in the Participant Data and Trial Data files. Each row of the dictionary contains a variable and that variable’s specified format (e.g., string, integer), example value(s), and description. It is important that your lab’s data follows these specifications **exactly** in order to allow for data harmonization with the full dataset.
 
 ::: {.callout-note title="resource"}
-{{< var link.dictionary >}}
+### {{< var link.dictionary >}}
 
 > Note: The data dictionary contains two tabs (*Participant Data*, *Trial Data*)
 :::
@@ -70,9 +70,9 @@ Please download a copy of each template below and use them as guides for formatt
 [^data-templates-1]: The templates include some sample data to supplement the data dictionary. Make sure to delete this sample data from the templates before entering your own data!
 
 ::: {.callout-note title="resource"}
-[Participant Data template](https://drive.google.com/file/d/11W4pPAzSuseQxlVs-c1pATjg1GTnTPAe/view?usp=sharing){target="_blank"}
+### [Participant Data template](https://drive.google.com/file/d/11W4pPAzSuseQxlVs-c1pATjg1GTnTPAe/view?usp=sharing){target="_blank"}
 :::
 
 ::: {.callout-note title="resource"}
-[Trial Data template](https://drive.google.com/file/d/135BqqPR9EsK62wo1D5RqvmMPeKu4kcKn/view?usp=sharing){target="_blank"}
+### [Trial Data template](https://drive.google.com/file/d/135BqqPR9EsK62wo1D5RqvmMPeKu4kcKn/view?usp=sharing){target="_blank"}
 :::

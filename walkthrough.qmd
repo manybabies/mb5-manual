@@ -48,10 +48,10 @@ Please verify that your walkthrough video shows the relevant parts of the appoin
 ### Greeting
 *The walkthrough video shows…*
 
--   [ ] Where you receive families (e.g., dedicated area, parking lot, general entrance)
--   [ ] Who is there (parents, colleagues, assistants)
+-   [ ] Where you receive families (e.g., dedicated area, parking lot, general entrance).
+-   [ ] Who is there (parents, colleagues, assistants).
 
-### Consenting, instructions
+### Consenting & instructions
 *The walkthrough video shows…*
 
 -   [ ] Your informed consenting process, how parents give consent, when consent is typically obtained.
@@ -63,7 +63,7 @@ Please verify that your walkthrough video shows the relevant parts of the appoin
 
 -   [ ] What your testing room/booth looks like (size, lay-out, etc.). Try to film the entrance and complete interior of the test booth or room.
 -   [ ] Where the experimenter is located during testing (e.g., inside or outside the booth). Show where the experimenter is sitting; if it is in the same room, capture both baby and experimenter.
--   [ ] Where the baby is sitting (e.g., parent’s lap, high chair, etc.)? Film the seating arrangement both before the baby is seated and with the baby in place. Can the baby see the experimenter during testing?
+-   [ ] Where the baby is sitting (e.g., parent’s lap, high chair, etc.). Film the seating arrangement both before the baby is seated and with the baby in place. Can the baby see the experimenter during testing?
 -   [ ] What the stimulus display looks like (e.g., size, distance to baby) and where the screen is located.
 -   [ ] How the parent is “masked” during testing (blacked-out glasses or something similar).
 
@@ -71,7 +71,7 @@ Please verify that your walkthrough video shows the relevant parts of the appoin
 *The walkthrough video shows…*
 
 - [ ] What the experiment looks like from the baby’s point of view. Please include at least one full trial (familiarization plus test) from each stimulus set (fribbles and fractals).
-- [ ] What the experiment looks like from the experimenter’s point of view. How is the experimenter blinded to trial type during testing?
+- [ ] What the experiment looks like from the experimenter’s point of view. How is the experimenter blinded to trial type during testing (e.g., PsychoPy view with colored squares for trial phase; post-it over screen blocking stimulus)?
 - [ ] How the experimenter sees the baby during the experiment (e.g., a video feed on a monitor with the experimental software or a separate monitor).
 - [ ] *If live-coding takes place:* examples of what counts as a look/no look and/or videotape someone doing the coding together with the infant looks.
 - [ ] *If eye tracking:* the calibration process.
@@ -89,8 +89,14 @@ Please verify that your walkthrough video shows the relevant parts of the appoin
 - [ ] Any standard questions you ask parents after the study is complete.
 - [ ] What compensation you give babies/caregivers for participating.
 
-***
 
+::: {.callout-note title="resource"}
+### [MB5 Walkthrough Checklist](https://drive.google.com/file/d/1xu_6jjDyJdKkkfYNzbpjNnfflvX76YFU/view?usp=sharing){target="_blank"} {.unnumbered}
+
+> Download the checklist as a PDF
+:::
+
+***
 ## Example walkthrough videos
 
 -   You are welcome to view videos that have already been uploaded by other labs for {{< var project.number >}} <a href="https://drive.google.com/drive/folders/1mIQ2hWt9tI7AFDvnbcwfmtNhilH8AriD?usp=sharing" target="_blank">HERE</a>[^walkthrough-4] or via the links available in the {{< var link.tracker >}}[^walkthrough-5].
@@ -107,3 +113,5 @@ Share your walkthrough video with Project Leads using the {{< var link.greenligh
 > *NOTE:* Video files are too large for us to collect via form, so **you will be asked to provide a link to where we can access and download your video** (e.g., *google drive*, *dropbox*, etc.). If you do not have access to cloud storage, {{< var email.emailus >}} and we will provide an upload location.
 
 **Please ensure that your video is clearly labeled in the file name with your LabID** (e.g., `mb5_babylabPrinceton_walkthrough.mpg`). Check the list of {{< var link.labids >}} to confirm your lab's unique LabID before uploading the link to your video.
+
+***
