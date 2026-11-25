@@ -46,9 +46,12 @@ Translations/adaptations of the MB5 Demographics Questionnaire will be available
 ## MB5 Demographics Questionnaire Directory
 
 ::: {.callout-note title="resource"}
-[**MB5 Demographics Questionnaire Directory**]({{< var url.demographics >}}){target="_blank"}
+### [**MB5 Demographics Questionnaire Directory**]({{< var url.demographics >}}){target="_blank"}
 
 > Please refer to the "README" file in this directory for more information on using/translating/adapting templates.
+
+-   [English (USA) Google Doc template](https://docs.google.com/document/d/1OlZrs-5ZoR0nrKCcwXUf3OWB5PVh1uRwUARWMVhWRy0/template/preview){target="_blank"}
+-   [English (USA) Google Form template](){target="_blank"}
 :::
 
 ## Uploading the demographics questionnaire
