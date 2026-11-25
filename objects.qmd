@@ -1,8 +1,14 @@
 # Object Experience questionnaire {#sec-objects}
 
-<br> Although the visual stimuli for this study are completely novel, we would like to get a measure of if infants have any experience with objects similar to the *ManyFractals* and *ManyFribbles* used in the experiment.
+<br> Although the visual stimuli for this study are completely novel, we would like to get a measure of if infants have any experience with objects similar to the *ManyFractals* and *ManyFribbles* used in the experiment. 
 
-**Please use an appropriate version of the** {{< var project.number >}} **Object Experience Questionnaire** to collect information about participants' experience with objects similar to the visual stimuli used in the study.
+**Please use an appropriate version of the** {{< var project.number >}} **Object Experience Questionnaire** to collect information about participants' experience with objects similar to the visual stimuli used in the study. Let us know if any of the questions are unclear to you---it is important that you are able to answer any questions parents/guardians may have.
+
+## Administering the questionnaire
+
+We recommend administering the questionnaire AFTER baby participates in the experimental study (unless you are combining administration with the consenting process, which must take place before the study is run). 
+
+You can administer the questionnaire in whatever format you choose (e.g., paper form, Qualtrics/Google form) that is in compliance with your lab's ethics approval and standard practice. 
 
 ::: {.callout-note title="caution"}
 ### CHECK FOR MISSING DATA
@@ -12,7 +18,7 @@ Just like the Demographics Questionnaire, please **CHECK THE FORM BEFORE THE RES
 
 ## Adaptations and translations
 
-We have created an English-language version of the Object Experience Questionnaire (`mb5_obj-exp-questionnaire_english`). If you are collecting data in a language other than English, please do your best to translate the questionnaire so that you are querying the same *constructs* as the template.
+We have created an English-language version of the Object Experience Questionnaire (`mb5_obj-exp-questionnaire_english`). If you are collecting data in a language other than English, please do your best to translate the questionnaire so that you giving the same instructions as the template.
 
 ::: {.callout-note title="note"}
 ## Note about translations/adaptations {.unnumbered}
@@ -22,14 +28,15 @@ Translations/adaptations of the MB5 Object Experience Questionnaire will be avai
 > We are unable to centrally verify the accuracy of all translations/adaptations. Labs are responsible for reviewing adaptations to ensure that they are appropriate for their context and query the constructs in the original template. Labs are encouraged to work with others in their geographic region to create a context-appropriate version of the questionnaire. If you have questions about translations/adaptations, please {{< var email.emailus >}}.
 :::
 
-Let us know if any of the questions are unclear to you---it is important that you are able to answer any questions parents/guardians may have.
+
 
 ## {{< var project.number >}} Object Experience Questionnaire Directory
 
 ::: {.callout-note title="resource"}
-[**MB5 Object Experience Questionnaire Directory**]({{< var url.obj-exp >}}){target="_blank"}
+### [**MB5 Object Experience Questionnaire Directory**]({{< var url.obj-exp >}}){target="_blank"}
 
-> We have provided the template (`mb5_obj-exp-questionnaire_english`) as a document and as a Google form.
+- [English Google Doc template](https://docs.google.com/document/d/1dj59Vlkpl6tp0z3dMMF97fHG2arl02joTFaO9Al5iBM/template/preview){target="_blank"}
+- [English Google Form template](https://docs.google.com/forms/d/1UXLa5lBtQh4SeRvMsWsC0ffOiqKajn7wigo4DE1CNUo/template/preview){target="_blank"}
 :::
 
 ## Uploading the Object Experience Questionnaire
