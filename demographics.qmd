@@ -1,7 +1,6 @@
 # Demographics questionnaire {#sec-demographics}
 
-## Collecting participant information
-
+<br>
 **Please use an appropriate version of the** {{< var project.number >}} **Demographics Questionnaire**[^demographics-1] to collect information about participants and their families/caregivers.
 
 [^demographics-1]: See below for more information on adapting/translating the template
@@ -12,9 +11,9 @@ This questionnaire has been adapted from the template(s) created by the <a href=
 
 ## Administering the questionnaire
 
-We recommend administering the questionnaire AFTER baby participates in the experimental study (unless you are combining administration with the consenting process, which must take place before the study is run). 
+We recommend administering the questionnaire AFTER baby participates in the experimental study (unless you are combining administration with the consenting process, which must take place before the study is run).
 
-You can administer the questionnaire in whatever format you choose (e.g., paper form, Qualtrics/Google form) that is in compliance with your lab's ethics approval and standard practice. 
+You can administer the questionnaire in whatever format you choose (e.g., paper form, Qualtrics/Google form) that is in compliance with your lab's ethics approval and standard practice.
 
 ::: {.callout-note title="caution"}
 ### CHECK FOR MISSING DATA
